@@ -23,9 +23,9 @@ TODO:
 - MSRA_NER
 
 # Lexicon
-
-TODO:
-- [baiduDisk link]
+-  [百度网盘提取码: jmoq ](https://pan.baidu.com/s/1jw9ZVfceJEgnRkftUE0i7A?pwd=jmoq) 
+    - 300dim
+    - 100dim
 - [googleCloude link]
 
 
