@@ -1,0 +1,10000 @@
+航空、航天推进系统
+aerospace propulsion system
+固体推进剂火箭发动机
+失重模拟
+weightlessness simulation
+Liquid propellant rocket engine
+航空发动机
+液体推进剂火箭发动机
+Solid propellant rocket engine
+aeroengine
+液体火箭发动机
+型号研制
+航天标准化
+Launch vehicle
+航天器
+固体火箭发动机
+飞行控制
+有效载荷
+运载火箭
+涡扇发动机
+Aircraft engine
+航天员
+solid propellant rocket engine
+flight control
+航天工艺
+Spacecraft
+航空运输业
+航空标准
+航空公司
+气膜冷却
+Solid propellant
+helicopter
+航天企业
+空管局
+普惠公司
+压气机
+Supersonic combustion
+欧空局
+固体推进剂
+航空电子
+国际空间站
+航空工业
+旋翼
+中国民航
+加力燃烧室
+阿里安
+航天工业行业标准
+film cooling
+飞行控制系统
+波音公司
+飞行试验
+端羟基聚丁二烯推进剂
+复合推进剂
+aerospace propulsion
+航天型号
+姿态控制
+气动特性
+航空电子系统
+轴流压气机
+航天飞机
+涡轮叶片
+飞行品质
+空中客车工业公司
+组合导航
+大迎角
+公务机
+塞式喷管
+Attitude control
+和平号空间站
+数值仿真
+空中交通管制
+涡轴发动机
+火箭发动机
+Rocket engine
+火箭发射
+spacecraft
+合成孔径雷达
+喷管气流
+Propellant combustion
+无人机
+推力室
+巴西航空工业公司
+Solid rocket engine
+空中客车公司
+进气道
+航空学
+Turbofan engine
+solid rocket motor
+航天产品
+复合材料
+飞行力学
+SINS
+捷联惯导系统
+民用飞机
+涡轮泵
+轨道器
+avionics
+初始对准
+空间站计划
+flight control system
+遥感器
+MJ螺纹
+Flow distribution
+管制员
+通信卫星
+型号标准化
+推力矢量
+卡尔曼滤波
+转包生产
+真空热试验
+tail suspension
+固体火箭推进剂
+推进剂药柱
+航天飞机飞行
+中国航天科技集团公司
+支线飞机
+流动分布
+再入飞行器
+高超声速
+numerical simulation
+燃烧室
+直升机
+aero-engine
+实践四号卫星
+flight test
+turbofan engine
+喷管
+Turbojet engine
+空空导弹
+航空工艺
+wind tunnel test
+超燃冲压发动机
+卧床实验
+航天科技集团公司
+激光陀螺
+钛合金
+Ramjet engine
+尾吊
+航空维修业
+空管系统
+战斗机
+脉冲爆震发动机
+scramjet
+Nozzle flow
+航天工业管理
+航空科学技术
+飞行安全
+光纤陀螺
+涡桨飞机
+宇航学
+燃速
+推进剂燃烧
+正加速度
+中国航空工业
+integrated navigation
+传递对准
+涡轮叶栅
+航空产品
+冲压发动机
+故障诊断
+航天工业
+Numerical simulation
+机载设备
+Solid rocket propellant
+支线喷气机
+航空安全
+高超声速飞行器
+涡轮风扇发动机
+flight dynamics
+空间站
+空间碎片
+推进剂燃速
+数值模拟
+Kalman filter
+positive acceleration
+Supersonic combustion ramjet engine
+Axial flow compressor
+UAV
+aerodynamic characteristics
+适航管理
+火箭发动机喷管
+编队飞行
+惯性导航
+Film cooling
+航天飞机主发动机
+支线航空
+超音速燃烧
+fault diagnosis
+武装直升机
+民机
+航天科技
+航空科技
+涡轮喷气发动机
+遥感卫星
+飞机设计
+液氧/煤油发动机
+飞行仿真
+航路规划
+aircraft engine
+Structural reliability
+民航总局
+载人航天
+风洞试验
+synthetic aperture radar
+轨道控制
+三化
+末制导
+小卫星
+民航企业
+通用航空飞机
+超音速冲压喷气发动机
+姿态控制系统
+直升机设计
+推力矢量控制
+月球探测器
+导弹
+结构可靠性
+星敏感器
+叶栅
+国际空间站计划
+推进系统
+作战效能
+hypersonic flow
+airfoil
+航空电子设备
+high angle of attack
+姿态确定
+高能推进剂
+Ballistic missile
+气动设计
+flow visualization
+民品标准化
+rotor
+Satellite
+导引头
+可重复使用运载器
+空中交通管理
+TDRSS
+公务机市场
+冲压喷气发动机
+教练机
+flight simulation
+热真空试验
+attitude control
+飞机结构
+涡轮盘
+helicopters
+部标准
+solid propellant
+高空台
+飞行器测控
+弹道导弹
+Hydroxy terminated polybutadiene propellant
+制导律
+国防科技工业
+initial alignment
+反舰导弹
+C/C复合材料
+重复使用运载火箭
+Laser propulsion
+Missile
+transfer alignment
+空间实验室
+turbine blade
+国际民航组织
+过失速机动
+Liquid rocket engine
+hydroxy terminated polybutadiene propellant
+Rendezvous
+温度畸变
+航空运输市场
+多目标攻击
+飞行动力学
+航天科技工业
+流动显示
+气动弹性
+分离流
+支线客机
+高空模拟试车台
+烧蚀
+微小卫星
+航天制造技术
+Propellant grain
+战术导弹
+矢量喷管
+推力测量
+固体火箭冲压发动机
+热平衡试验
+hypersonic
+missile
+超声速燃烧
+head down tilt
+航天飞机轨道器
+翼型
+liquid rocket engine
+INS
+航展
+组合导航系统
+火箭推进
+环形燃烧室
+立位耐力
+运载器
+氢氧发动机
+北京飞机维修工程有限公司
+薄膜冷却
+delta wing
+舱外活动
+载人航天器
+航迹规划
+工艺工作
+制导
+气象卫星
+桂林航专
+Plug nozzle
+民用发动机
+飞机型号
+卫星系统
+复合制导
+anti-ship missile
+flying qualities
+航空运输
+卫星星座
+整体叶盘
+雷达导引头
+air combat
+军用飞机
+起落架
+unsteady aerodynamics
+航空运输企业
+航空工业标准
+Composite propellant
+航空制造技术
+Pulse detonation engine
+小型卫星
+液体推进剂
+aero engine
+地面试验
+卫星平台
+转移轨道
+低空突防
+Autonomous navigation
+Turbine blade
+商业卫星
+unsteady flow
+航空公司联盟
+bed rest（tests）
+afterburner
+姿控火箭发动机
+rocket engine
+交会对接
+自主导航
+飞行员
+有限元法
+民用直升机
+试车台
+损伤容限
+哥伦比亚号航天飞机
+航天计划
+直升机工业
+国际通信卫星
+航空企业
+民用航空
+空间环境模拟器
+数值计算
+国防计量
+贮箱
+可靠性增长
+美国军用标准
+发动机试验
+女航天员
+硝胺推进剂
+ramjet
+模拟失重
+新机研制
+FPGA
+流动控制
+铝锂合金
+合格审定
+下体负压
+二元喷管
+支线航空运输
+非定常流
+liquid propellant rocket engine
+压气机叶栅
+疲劳寿命
+太空行走
+vacuum thermal test
+模态振动试验
+脱靶量
+动态逆
+高温合金
+原子氧
+Solid rocket motor
+Liquid sloshing
+aircraft design
+地球同步轨道
+高超声速进气道
+Euler方程
+美国空军
+自动驾驶仪
+卫星发射
+Kalman filtering
+中国民航学院
+transonic flow
+火星探测器
+振动试验
+雷达管制
+捷联惯导
+中国民航总局
+航空器
+民机工业
+航空机载设备
+Hypersonic
+separated flow
+燃气涡轮
+运载能力
+系列飞机
+航天科工集团公司
+PIV
+aircraft
+雷达散射截面
+飞机研制
+火焰筒
+单级入轨
+航空电子技术
+Formation flying
+高超声速流
+电磁散射
+航天发射
+头盔显示器
+火焰稳定器
+月球探测
+涡轮
+侦察卫星
+aerospike nozzle
+航天器结构
+一次性使用运载火箭
+型号合格证
+solid propellant rocket motor
+guidance law
+飞机维修
+液体晃动
+航空联盟
+固体燃料冲压发动机
+飞控系统
+航天材料
+航空材料
+air traffic control
+机动飞行
+燃气涡轮发动机
+激波
+航天控制
+Reusable launch vehicle
+喷流干扰
+orthostatic tolerance
+第四代战斗机
+地球静止轨道
+气动稳定性
+超声速进气道
+姿控发动机
+军用通信卫星
+普通螺纹
+空间望远镜
+高空模拟
+Burning rate
+坐标测量机
+中国航天
+combustor
+惯导系统
+火星表面
+比例导引
+发动机研制
+国际通信卫星组织
+Combustion catalyst
+精密加工
+飞行表演
+CCSDS
+military aircraft
+低温发动机
+飞机工程
+Thrust chamber
+hypersonic vehicle
+试验卫星
+旋转失速
+composite propellant
+民航
+中国空间技术研究院
+空中交通管制系统
+aircraft engines
+国际航空运输协会
+服务舱
+FOG
+气动布局
+航天技术
+驾驶员诱发振荡
+地面共振
+航空机轮
+微重力试验
+越肩发射
++Gz
+老龄飞机
+Supersonic inlet
+lower body negative pressure
+数控加工
+电推进
+机匣处理
+UKF
+环境试验
+不明飞行物
+惯性平台
+运动病
+发射
+校准
+landing gear
+国家军用标准
+涡喷发动机
+航天事业
+惯性导航系统
+飞行任务
+Liquid propellant
+低温推进剂
+Reentry vehicle
+NEPE推进剂
+推进剂粘合剂
+头低位倾斜
+涡桨发动机
+seeker
+核心机
+非定常气动力
+三角翼
+天线罩
+半实物仿真
+海防导弹
+流场畸变
+turbine cascade
+火箭发动机壳体
+推力器
+转子叶片
+国际航展
+飞行计划
+弹射座椅
+企业标准化
+航空事业
+适航
+激光推进
+inlet
+机载电子设备
+supersonic combustion
+旋翼空气动力学
+Propellant burning rate
+Hydrogen oxygen engine
+平台推进剂
+turboshaft engine
+中国海洋一号卫星
+推力控制
+静止气象卫星
+integrated navigation system
+深空探测
+inertial navigation system
+飞行模拟器
+非定常流动
+美国航空公司
+火工装置
+远地点发动机
+低压涡轮
+ARINC
+复合材料构件
+terminal guidance
+空间环境模拟
+跨音速流
+发射失败
+Inlet
+失重环境
+空间交会
+改性双基推进剂
+纳维尔-斯托克斯方程
+广播卫星
+target tracking
+发射场
+operational effectiveness
+结构动力学
+鲁棒控制
+电火花加工
+环境应力筛选
+军用直升机
+固体发动机
+防空导弹
+inertial navigation
+Euler equations
+火星探测
+CCD相机
+飞行器
+卫星导航
+隐身技术
+国军标
+无人作战飞机
+机动目标
+宇航员
+低循环疲劳
+航天医学
+飞行物
+片梭织机
+地面设备
+CAPP
+RCS
+压力畸变
+Solid propellant rocket motor
+再生冷却
+Three dimensional flow
+Aerodynamic stability
+圆锥误差
+空间飞行器
+前掠翼
+航天行业标准
+卫星应用
+结构动力分析
+和平号
+企业标准化工作
+共轴式直升机
+适航证
+地方航空公司
+Guidance law
+NEPE propellant
+航空动力学
+航空货运业
+low altitude penetration
+照相侦察卫星
+表面张力贮箱
+涵道比
+pulse detonation engine(PDE)
+遗传算法
+fatigue life
+巡航导弹
+麦道公司
+宇宙开发
+波音
+捷联惯性导航系统
+中国航空公司
+aeroelasticity
+公差与配合
+目标跟踪
+航空货运
+推进剂
+燃气发生器
+新航行系统
+Propulsion system
+Navier-Stokes equations
+变结构控制
+颤振
+热控制
+出舱活动
+捷联式惯性导航
+轨道机动
+导弹武器系统
+半物理仿真
+民用航空器
+军用卫星
+加速度计
+民用航空发动机
+收益管理系统
+贫氧富燃料推进剂
+磁力矩器
+民用运输机
+航空发动机技术
+airplanes
+Turbine cascade
+Nitramine propellant
+上面级
+Gz
+Hypersonic inlet
+火控系统
+propellant grain
+dynamic inversion
+军民两用技术
+复合材料工艺
+四川航空公司
+载人飞船
+genetic algorithm
+航空航天推进系统
+Structural dynamics
+航线网络
+对抗措施
+新一代运载火箭
+rotors
+燃气轮机
+coaxial helicopter
+high angles of attack
+Weightless environment
+喷气支线飞机
+纳维尔斯托克斯方程
+气动干扰
+飞航导弹
+燃烧催化剂
+radar cross section
+大型运载火箭
+Combustion performance
+边界层转捩
+惯性测量装置
+自动着陆
+空管中心
+电子束焊接
+微型飞行器
+ballistic missile
+Scramjet
+精密制造技术
+旋翼系统
+推进剂储箱
+欧洲通信卫星组织
+航天测控
+反辐射导弹
+舰载飞机
+探空火箭
+Combustion chamber
+国内通信卫星
+月球着陆器
+推进剂性能
+High energy propellant
+rocket engines
+神舟飞船
+密闭生态系统
+Nozzle
+maneuvering target
+飞行人员
+Attitude determination
+Reliability growth
+两航起义
+动导数
+金属基复合材料
+四元数
+复合材料结构
+民航业
+搅拌摩擦焊
+航天公司
+返回式
+atomic oxygen
+导弹制导
+惯性器件
+风洞实验
+着陆器
+控制律
+激波管
+shock tube
+strapdown inertial navigation system
+电子侦察卫星
+motion sickness
+TT&C
+控制力矩陀螺
+旋翼桨叶
+control allocation
+发射服务
+aerodynamic configuration
+中巴地球资源卫星
+多学科设计优化
+Fault diagnosis
+商用飞机
+并行工程
+气动性能
+气动力
+Attitude control system
+Turbopump
+遗传算法+
+航空信息
+Thermal vacuum test
+军用航天
+《宇航学报》
+推进剂添加剂
+增升装置
+飞机大修
+compressor
+自适应控制
+航天服
+范堡罗
+尾桨
+compressor cascade
+有限推力
+联盟号飞船
+壳体稳定性
+solid rocket ramjet
+火星飞行
+大迎角空气动力学
+axial flow compressor
+起飞重量
+改进改型
+升阻比
+雷达成像
+批生产
+陆地卫星
+空天飞机
+声疲劳
+气动伺服弹性
+ground test
+西北工业大学
+气动加热
+火力控制
+航空维修
+中航一集团
+铝合金
+热障涂层
+flutter
+推进技术
+附面层
+coning error
+Flight control system
+分子污染
+民机市场
+公务飞行
+航天运输系统
+卫星有效载荷
+通信卫星公司
+突防
+验证机
+英国航空公司
+民航运输
+空中交通管制员
+裂纹扩展
+N-S方程
+gyro
+Fault detection
+热防护系统
+再入制导
+地球静止轨道卫星
+国泰航空公司
+hypersonic inlet
+航天运载器
+西飞公司
+heat transfer
+旋翼机
+宇宙神
+Space debris
+分离流动
+pulse detonation engine
+发动机制造商
+热控涂层
+离心压气机
+非结构网格
+仿真
+头盔瞄准具
+涡破裂
+carrier-based aircraft
+卡尔曼滤波器
+航空航天工业
+accelerometer
+route planning
+航天系统
+羽流
+枢纽机场
+超精密加工
+生命保障系统
+卫星组织
+设计局
+UCAV
+axial compressor
+波音飞机
+flight control systems
+成飞
+helicopter rotor
+柔性航天器
+推力矢量喷管
+Trajectory optimization
+喷注器
+扩展卡尔曼滤波
+高压涡轮
+finite element method
+宇航
+陀螺漂移
+unmanned aerial vehicle
+歼击机
+陶瓷基复合材料
+飞行训练
+雷达截面
+电传操纵系统
+通用航空
+陀螺加速度表
+处理机匣
+Afterburner
+Thruster
+rotor aerodynamics
+Modified double base propellant
+航行情报
+机翼设计
+红外加热笼
+通用航空业
+天空实验室
+涡轮导向叶片
+着陆冲击
+高压压气机
+Secondary flow
+液体火箭推进剂
+科学卫星
+鸭式布局
+飞行事故
+通用规范
+ISO/TC
+联邦快递公司
+aerodynamic interaction
+快达航空公司
+光滑工件
+头倒位倾斜
+RBCC
+飞行冲突
+固体推进剂火箭
+航空火控系统
+支线机
+喷管效率
+刀量具
+载荷谱
+驾驶舱
+空战
+动态校准
+航空制造业
+太阳电池阵
+效能评估
+返回舱
+飞机装配
+民用航天
+有限体积法
+Numerical calculation
+长征火箭
+洞壁干扰
+Hypersonic vehicle
+数值分析
+直升机旋翼
+aerodynamic design
+返回式卫星
+对地观测卫星
+攻击直升机
+型号产品
+导航卫星
+风切变
+电解加工
+目标识别
+推进剂贮箱
+进气畸变
+Combustion test
+MMOG
+航空宇航
+山东航空公司
+常旅客计划
+防热材料
+商用运载火箭
+flying wing
+低地轨道
+air-to-air missile
+美国西南航空公司
+dynamic stall
+path planning
+地面效应
+适航性
+换热
+实验舱
+控制分配
+航空航天技术
+太阳同步轨道
+无人驾驶直升机
+空间相机
+机载雷达
+thrust vector control
+high energy propellant
+航天推进
+翼伞
+飞机制造
+国际航
+GPS
+Ablation
+涡轮发动机
+cruise missile
+排故
+Hypervelocity impact
+航天器动力学
+弹道仿真
+直升机市场
+中径公差
+非线性动态逆
+工艺文件
+重复使用运载器
+Aeroengine
+比目鱼肌
+地球观测卫星
+Integrated navigation
+西航集团公司
+卫星研制
+欧拉方程
+紧固件
+火箭
+直升机产业
+maneuvering flight
+应用范例
+航天民品
+Combustion stability
+Engine failure
+航空航天医学
+Propellant tank
+Turbine pump
+管制室
+转发器
+转台
+挤压油膜阻尼器
+电子束焊
+扰流柱
+气动载荷
+aerodynamic characteristic
+burning rate
+gas turbine
+小突片
+膨胀循环
+推力燃烧室
+进近管制
+板金成形
+Modal vibration test
+航空预研
+Propellant binder
+antenna directional patterns
+三元推进剂
+CFMI公司
+transonic wind tunnel
+推进剂控制
+民航安全
+trajectory optimization
+多用途战斗机
+轨道确定
+机翼
+风扇叶片
+attitude determination
+target recognition
+无线电引信
+rotating stall
+直接力控制
+应变天平
+民用产业
+人工重力
+制导误差
+飞机租赁
+非对称涡
+Ground test
+水平尾翼
+尾旋
+超音速巡航
+贫油熄火
+测具
+超塑性
+航空装备
+倾转
+自由尾迹
+旅客吞吐量
+supersonic inlet
+wings
+铝基复合材料
+动稳定性
+electromagnetic scattering
+微重力环境
+工艺管理
+航空
+级间分离
+slender body
+飞行程序
+miss distance
+跨声速流
+总压畸变
+级发动机
+最佳结构设计
+空中发射
+载人空间站
+冲击冷却
+哈勃空间望远镜
+太阳翼
+降落伞
+复合固体推进剂
+应答机
+manned spacecraft
+航天器发射
+传热
+无源定位
+美空军
+引信
+动态失速
+star sensor
+空间科学
+综合标准化
+卫星导航系统
+民航飞行员
+火星探路者
+Two phase flow
+航班
+维修性
+工程索引
+新国标
+supersonic flow
+heart rate variability
+飞行模拟
+空间探测
+民品生产
+单片机
+multi-target attacking
+勘测者
+火箭排气
+受控生态生保系统
+液氮系统
+升力体
+声振试验
+支线飞机市场
+astronauts
+中型运载火箭
+Liquid rocket propellant
+涡流器
+航天集团公司
+aviators
+测绘相机
+extravehicular activity
+卫星发射市场
+碳刹车
+POGO
+Gas turbine engine
+Solar array
+Flexible spacecraft
+satellite
+武器系统
+陀螺仪
+无人直升机
+目标分配
+无人驾驶飞机
+载波相位
+航天局
+卫星通信
+整周模糊度
+公差带
+free wake
+fan/compressor
+低循环疲劳寿命
+altitude simulation
+空间公司
+数据中继卫星
+thrust chamber
+航空行业
+ground resonance
+composite materials
+德国汉莎航空公司
+laser gyro
+推重比
+vortex breakdown
+爆震波
+航空服务
+轴流式压气机
+登月舱
+电子束物理气相沉积
+苏霍伊设计局
+烧蚀性能
+商业发射服务
+Random load
+星载计算机
+地面模拟试验
+对转涡轮
+鲁棒性
+非定常空气动力学
+Aerodynamic characteristic
+海上发射
+卫星设计
+冷却叶片
+弹道计算
+组合式导航
+光学遥感器
+低空风切变
+cooling effectiveness
+aerodynamic optimization
+载人航天工程
+纤维增强复合材料
+combustion chamber
+燃烧稳定性
+无人战斗机
+unstructured grid
+turbine disk
+GPS/INS
+fighter
+点火试验
+aircraft structure
+非定常
+Composites
+碳纤维复合材料
+空间计划
+synthetic jet
+轨迹优化
+core engine
+Inertial platform
+航天器交会
+喷油杆
+航天工艺工作
+Transonic compressor
+Engine nozzle
+飞行验证
+喷管喉部
+飞机外形
+喷射混合流
+Manned spacecraft
+Rocket engine nozzle
+Space rendezvous
+Tripropellant
+航天器热控制
+航天器推进
+Casing treatment
+Attitude control rocket engine
+Flame holder
+畸变指数
+Thrust control
+新支线飞机
+表面粗糙度
+radar
+舱外航天服
+冷却效率
+空间技术
+轻型直升机
+航空市场
+fire control system
+平视显示器
+风扇
+电子战
+国防科工委
+应力强度因子
+湍流模型
+试验设备
+比冲
+超声速
+模态分析
+中国空军
+误差分析
+engine
+宇宙探索
+fuze
+fiber optic gyroscope
+轨道设计
+Space environment
+导弹控制
+Synthetic aperture radar
+三维流
+隔离段
+预先研究
+计量保证
+舰载机
+gas turbine engine
+Jet flow
+新加坡航空公司
+轨道摄动
+药柱
+挠性航天器
+广州飞机维修工程有限公司
+卫星工程
+预浸料
+机动目标跟踪
+高动态
+对地攻击
+误差补偿
+转子
+发动机故障
+总压恢复系数
+“三大规范”
+轨道转移
+Cruise missile
+军用航空
+干扰力矩
+事故征候
+精密定轨
+航空科研
+半人马座
+航天站
+Flow field simulation
+技术状态管理
+大攻角
+候机楼
+螺桩
+固液火箭发动机
+航空货运市场
+Dynamic structural analysis
+空间环境效应
+温控涂层
+turbofan
+Specific impulse
+冲压火箭发动机
+artificial gravity
+喷气机
+carrier landing
+可控扩散叶型
+空中停车
+模线
+飞行
+遥测
+“阵风”
+ESG
+国内航线
+支线运输
+lateral jet
+导引律
+卫星结构
+静气动弹性
+地月转移轨道
+工艺定型
+飞机系统
+自锁螺母
+移动通信卫星
+radar seeker
+民航发展
+soleus
+风扇/压气机
+Composite
+最大起飞重量
+impingement cooling
+侧向喷流
+飞机公司
+高燃速推进剂
+total pressure distortion
+飞行事故征候
+内弹道计算
+高空缺氧
+铰链力矩
+Tactical missile
+翼身组合体
+综合航空电子系统
+Supersonic flow
+LQG/LTR
+航天项目
+自主式导航
+卫星轨道
+绝热层
+multidisciplinary design optimization
+飞机发动机
+Euler equation
+wind tunnel
+DSP
+fuzzy control
+CFD
+流场
+西南航空公司
+flight simulator
+launch vehicle
+战术弹道导弹
+高氯酸铵
+无人机系统
+lunar rover
+货机
+Turbulence model
+aerodynamics
+燃油系统
+Composite material
+可靠性试验
+传感器管理
+细长体
+中国航空工业第二集团公司
+中继卫星
+敏感器
+小推力
+火星大气
+C/C composites
+预警机
+隐身飞机
+数据链
+战斗部
+中国国际航空公司
+地面站
+航空制造
+双基推进剂
+卫星运载火箭
+ground effect
+美国西北航空公司
+军用标准
+标准化审查
+天文学家
+工艺参数
+turbine
+ablation
+粒子滤波
+模态响应
+flight mechanics
+航天部
+旅客运输量
+航天测控网
+惯性仪表
+gyroscopes
+高超声速流动
+多段翼型
+Micro-satellite
+多目标跟踪
+民航局
+composites
+故障检测
+动态特性
+推进剂管理装置
+公务航空市场
+电传操纵
+航空CIMS
+天地往返运输系统
+有效载荷能力
+阿里安运载火箭
+inertial navigation systems
+飞机选型
+Thrust measurement
+Space simulator
+tail rotor
+主动间隙控制
+radio wave scattering
+Microgravity test
+型号合格审定
+liquid rocket engines
+飞行试验台
+火箭发动机绝热层
+洲际弹道导弹
+空间活动
+标准文献
+超视距空战
+迎角
+跟踪与数据中继卫星
+air to air missile
+航天型号研制
+altitude hypoxia
+中程空空导弹
+仪表着陆系统
+low speed wind tunnel
+首次飞行
+BTT导弹
+solid rocket propellant
+尾喷管
+无烟推进剂
+噪声试验
+烧蚀材料
+压气机叶片
+天线方向图
+太空旅游
+自动测试设备
+原型机
+作战飞机
+综合技术研究
+航班延误
+转捩
+航空学院
+故障分析
+椭圆轨道
+视景系统
+自旋稳定卫星
+propellant combustion
+区域计量
+boundary layer transition
+发动机喷管
+Hydrocarbon fuel
+艾利逊
+低压压气机
+Flight control
+wall interference
+airfoils
+Orbit determination
+副油箱
+粉末高温合金
+rotation vector
+低雷诺数
+mechanical properties
+热沉
+target detection
+boundary layer
+吸波材料
+航空发动机维修
+加速度耐力
+Grid generation
+Flow distortion
+飞行机组
+机场经营
+急性高空缺氧
+轨道力学
+采用国际标准工作会议
+卧床试验
+ramjet engine
+多孔层板
+推拉动作
+代码共享协议
+航天员训练
+陀螺
+标准化工作
+疲劳试验
+life prediction
+钢丝螺套
+热试车
+湾流
+wind tunnel testing
+弹道导弹防御系统
+地磁导航
+预警卫星
+thrust measurement
+机务维修
+vibration
+信息融合
+Nonlinear system
+先进复合材料
+航天飞行
+adaptive control
+联邦航空局
+low Reynolds number
+空间飞行
+惯性技术
+流动分离
+combustion efficiency
+热塑性复合材料
+超高速碰撞
+laminates
+radome
+研制阶段
+滑模控制
+Kalman滤波
+可观测性
+强标准化
+rats
+材料工艺
+Titanium alloy
+制导系统
+机载武器
+首飞
+civil aircraft
+calibration
+电视直播卫星
+casing treatment
+静电陀螺仪
+反战术弹道导弹
+零备件
+finite volume method
+robust control
+探测器
+titanium alloy
+blade
+涡轮转子
+民品发展
+超高速撞击
+工作图
+滑油系统
+医学工程
+火星车
+平流层飞艇
+Finite element method
+两相流
+CAD/CAM
+Calibration
+月球车
+现场可编程门阵列
+TDICCD
+自主定轨
+飞机制造公司
+太阳帆板
+碳/环氧复合材料
+aeroelastic
+非线性系统
+航材管理
+超音速进气道
+行星探测器
+区域管制中心
+中国民航飞行学院
+国内航空运输
+Ka频段
+高空模拟试验
+Mars exploration
+驻涡燃烧室
+Gurney襟翼
+末制导雷达
+月面巡视探测器
+细长旋成体
+自动相关监视
+嫦娥一号卫星
+军用发动机
+导航系统
+有限元分析
+DSMC
+东方航空公司
+雷达网
+可靠性增长试验
+军用运输机
+aerodynamic performance
+整流罩
+精确制导武器
+组合夹具
+超高强度钢
+装药
+低速风洞
+Radar
+难加工材料
+飞行性能
+扩压器
+姿态测量
+发动机试车
+卫星侦察
+EB-PVD
+涡轮轴发动机
+航空客运
+飞机结冰
+飞行器设计
+航天医学工程
+美军标
+space station
+整体叶轮
+振动环境
+小型无人机
+航空发展
+难加工材料切削
+空中交通流量
+水冲压发动机
+激波串
+军用航空工业
+过失速
+空运业
+案件报告
+航天推进系统
+thermal vacuum test
+同步转移轨道
+凝胶推进剂
+中制导
+指令长
+战斗机发展
+旋转盘腔
+程序管制
+transonic compressor
+Variable structure control
+隐身
+剩余强度
+Polyether propellant
+力限控制
+民机发展
+combinated navigation
+载人太空实验室
+Polyurethane propellant
+直接升力控制
+斜置喷管
+数值法和计算方案
+High burning rate propellant
+飞行任务剖面
+小展弦比
+卫星环境
+模糊规划论
+新一代火箭
+composite case
+Station-keeping
+Launch vehicles
+orbital transfer
+乘员组
+直接使用成本
+新机试飞
+areoengine
+Numerical method and procedure
+聚氨酯推进剂
+双发飞机
+Mesa-burning propellant
+wind tunnel design
+IATA
+low-altitude penetration
+推进剂压力指数
+非开普勒轨道
+液氧煤油发动机
+通信转发器
+Guidance error
+Jet mixing flow
+型号规范
+三坐标测量机
+多普勒频率
+卫星编队飞行
+自主控制
+座舱盖
+气动优化
+超声速流
+燃烧性能
+计算流体力学
+成形工艺
+模糊控制
+失速
+质量审核
+助推火箭
+碳碳复合材料
+标准化检查
+栾恩杰
+Halo orbit
+管制区
+美国联邦航空局
+圆锥运动
+飞行载荷
+航空工业公司
+forward-swept wing
+轴发动机
+asymmetric vortices
+VAPS
+发动机试车台
+lobed nozzle
+Deep space communication
+Combustion product
+防滑刹车
+运七飞机
+weightlessness simulations
+hinge moment
+中枢辐射航线
+冻结轨道
+图波列夫
+nonequilibrium flow
+thrust vectoring
+航天运输
+电弧加热器
+regenerative cooling
+热端部件
+燃气发生器推进剂
+冲击耐力
+下身负压
+道格拉斯飞机公司
+lunar lander
+inlet distortion
+wing-body combination
+航天遥感
+地空导弹
+导弹系统
+中国标准化协会
+随机振动
+飞机座舱
+气动阀
+国外标准
+攻击机
+相位噪声
+悬停
+南航
+CATIA
+可靠性预计
+雷达卫星
+红外制导
+静止轨道
+Navier Stokes equations
+lunar exploration
+NASTRAN
+terrain following
+地面分辨率
+Lunar rover
+space flight
+地形跟随
+标度因数
+卫星编队
+层压板
+空管
+太空飞行
+燃烧效率
+有限元
+发动机控制
+机载计算机
+超塑成形
+潜射导弹
+误差模型
+航天工程
+数据处理
+最优控制
+形位公差
+nozzle
+自适应滤波
+测控系统
+robustness
+fault detection
+中国航天科工集团
+turbomachinery
+NASA
+月球软着陆
+一体化设计
+跨音速压气机
+三大规范
+实验流体力学
+航天器回收
+汉莎航空公司
+倾转旋翼
+大陆航空公司
+飞机液压系统
+Gurney flap
+组合发动机
+发动机系列
+维修基地
+云南航空公司
+引战配合
+机场业
+发动机短舱
+栅格翼
+商业通信卫星
+残余应力
+工艺装备
+力学性能
+寿命预测
+资源一号卫星
+地形跟踪
+深空通信
+MSC/NASTRAN
+陀螺稳定平台
+thrust vector
+compound guidance
+法国航空公司
+单晶高温合金
+航空动力
+radar cross section(RCS)
+Rendezvous and docking
+相对导航
+数据融合
+热设计
+separation flow
+卫星测控
+联邦滤波
+现代小卫星
+卫星姿态
+compressors
+压力测量
+模具设计
+大涡模拟
+随机载荷
+座舱
+聚合物基复合材料
+GLONASS
+turbulence
+发动机性能
+GE公司
+洪都
+centrifugal compressor
+data fusion
+超轻型飞机
+西安航空发动机公司
+weightlessness
+运动补偿
+心率变异性
+卫星通信系统
+新机场
+神经网络
+小子样
+联合航空公司
+会合
+外螺纹
+N-S equations
+航空技术
+载人航天飞行
+试飞
+国际航空运输市场
+座舱显示器
+电波散射
+环境谱
+弹道靶
+新西兰航空公司
+Reliability calculation
+绕飞
+vortex control
+中径当量
+增升
+科研试飞
+借力飞行
+轨道寿命
+推进剂燃烧性能
+民航体制改革
+SIMU
+液体喷射
+重型运载火箭
+Strapdown inertial navigation system
++Gx
+落震试验
+semi-physical simulation
+精密离心机
+全球星
+轴流式压缩机
+高超音速飞行器
+maneuvering target tracking
+卫星转发器
+验前分布
+紧固件标准
+深空探测器
+叶轮机
+unmanned helicopter
+非平衡流
+国际航空运输
+Space station
+地形回避
+aeroacoustics
+Initial alignment
+直升机研制
+Meteorological satellite
+shock tunnel
+Detonation wave
+代码共享
+跨声速
+bird impact
+尾迹
+弹道
+环氧树脂
+航材
+空中力量
+东航
+姿态估计
+近地轨道
+蜂窝夹层结构
+蒙特卡罗法
+航空业
+喘振
+Mechanical property
+太阳帆
+雷达罩
+雷达吸波材料
+显微组织
+单粒子效应
+RTM
+标准化人员
+胶接
+再入
+飞碟
+马赫数
+工效学
+VXI总线
+computational fluid dynamics
+定位精度
+遥测系统
+quaternion
+极轨气象卫星
+金属橡胶
+定向凝固
+等温锻造
+展开机构
+升力风扇
+外形图
+航空发动机制造
+低地球轨道
+Laminate
+VLBI
+支线机场
+ceramic matrix composite
+inertial measurement unit
+登陆火星
+弯叶片
+铱星公司
+环形激光陀螺
+多余物
+自动测试系统
+neural network
+computation fluid mechanics
+自修复飞控系统
+distribution computers
+推力向量控制
+单级入轨火箭
+acceleration tolerance
+航空发动机试验
+矢量推力
+变循环发动机
+Solar sail
+brushless electric machines
+尾悬
+旋翼流场
+Engine control
+工程模拟器
+closed ecological system
+fighter aircraft
+Compressor cascade
+绝热温比
+aeroengines
+技术验证
+molecular contamination
+航空维修企业
+离心喷嘴
+气流吹袭
+飞机油箱
+正激波
+infrared suppressor
+靶场安全
+推进剂流变学
+FADEC
+multi target attacking
+high angle of attack aerodynamics
+加速度应激（生理）
+姿控
+民用飞机产业
+thrust vectoring control
+航空研究院
+flameholder
+film cooling effectiveness
+月球表面
+收益管理
+轰炸机
+signal processing
+挠性结构
+pilots
+航天机
+发动机设计
+飞机结构件
+spacecrafts
+航天飞机计划
+cascades
+formation flight
+Deep space exploration
+叶尖间隙
+红外抑制器
+nonlinear dynamic inversion
+加拿大航空公司
+turbojet engine
+侵蚀燃烧
+世界空间
+航油
+压气机转子
+Filament winding
+航空电源
+回收舱
+波瓣喷管
+民航运输企业
+转子动力学
+wind tunnel experiment
+电子对抗
+error compensation
+加力燃烧
+脉冲爆震发动机(PDE)
+微波等离子推力器
+pilotless helicopters
+joined-wing
+lobed mixer
+太阳同步轨道卫星
+矩形喷管
+Squeeze film bearing
+航天器结构材料
+引射模态
+放气活门
+Dump combustion chamber
+Endothermic fuel
+系绳卫星
+推进剂浇注
+航天运载技术
+飞机附件
+Cryogenic propellant
+空中共振
+Propellant pressure exponent
+Waverider
+亚燃冲压发动机
+propellant burning rate
+适航条例
+Nozzle efficiency
+Hypersonic flow
+Manned launch vehicle
+补燃循环
+可重复使用飞行器
+X-cor
+Liquid propellant rocket engines
+后掠机翼
+干线飞机项目
+潜入式喷管
+微下冲气流
+低温贮箱
+收扩喷管
+横航向飞行品质
+单组元
+Transfer orbit
+原子氧效应
+microwave plasma thruster
+gelled propellant
+Aerodynamic design
+飞行自动控制
+finite thrust
+涵道尾桨
+水平安定面
+Aerospike nozzle
+electrodischarge machining
+延伸喷管
+单级入轨飞行器
+切削加工
+composite
+飞机
+霍尼韦尔公司
+坐标测量
+加速寿命试验
+flow separation
+空间系统
+space debris
+去毛刺
+空中加油
+热处理
+振动
+flow control
+自由飞行
+活塞式发动机
+南京航空航天大学
+反卫星武器
+stall
+航空工程
+湍流度
+作动器
+plume
+逆合成孔径雷达
+成像卫星
+航空仪表
+星间链路
+circadian rhythm
+作动筒
+detection probability
+wind tunnel tests
+嵌套网格
+tip clearance
+平面叶栅
+发射窗口
+寻的制导
+区域管制
+rotor blade
+Extended Kalman filter
+机匣
+manned space flight
+涡结构
+engine test
+空地导弹
+地效飞行器
+专用测试设备
+中国民用航空总局
+空空导弹研究院
+固体火箭助推器
+边界层
+质量体系
+测试设备
+工装设计
+太阳模拟器
+旋转矢量
+机场管理
+联合攻击战斗机
+操纵系统
+辐射定标
+非线性控制
+毫米波
+微观组织
+unsteady
+外星人
+捷联惯组
+飞行模拟机
+支板
+armed helicopter
+sensor management
+近日节律
+电磁铆接
+Halo轨道
+用户星
+编队卫星
+中航第二集团公司
+操纵面
+终端区
+attitude control system
+倾转旋翼机
+振动试验设备
+位置保持
+超精密加工技术
+外挂物
+新飞机
+Orbit design
+索公司
+信号处理
+数控机床
+二相流
+dynamic response
+垂直发射
+红外抑制
+气动声学
+螺纹标准
+动基座
+合成射流
+Life prediction
+维修市场
+gas turbines
+着舰
+风云二号
+微机械陀螺
+NS方程
+流量系数
+数控系统
+总装
+涡控制
+Telemetry system
+陆军航空队
+测力试验
+Orbit maneuver
+muscular atrophy
+滑跃起飞
+头低位卧床
+shock train
+Structural vibration
+国际航线
+民用飞机工业
+轨道交会
+导弹引信
+聚醚推进剂
+洛克韦尔
+风洞设计
+再入体
+型号科研生产
+飞机构件
+飞行包线
+BTT missile
+强化混合
+前庭刺激
+tiltrotor
+末端机动
+线性摩擦焊
+航空集团
+可重复使用
+flame tube
+复飞
+虚拟仪器
+液氧
+扩散连接
+气动噪声
+陆军航空兵
+民用机场
+湍流边界层
+particle filter
+飞机制造厂
+校准装置
+发射中心
+红外图像
+多光谱扫描仪
+航天系统工程
+销售代理人
+NND格式
+日历寿命
+复合材料壳体
+跨声速风洞
+通信卫星系统
+航天产业
+姿态跟踪
+喷气式战斗机
+适航标准
+气动热
+点火延迟
+干线飞机
+宇宙飞行器
+C/SiC
+矩形板
+wavelet transform
+军民结合
+微带天线
+航空航天局
+先驱体
+高强度铝合金
+技术制图
+大型运输机
+主发动机
+热试验
+空间目标
+Fatigue life
+机组人员
+年刊
+军工企业
+numerical calculation
+mechanical property
+路径规划
+ignition
+聚碳硅烷
+三轴转台
+发射台
+冥王星
+飞机工业
+飞机起落架
+大力神
+turbulence model
+重返月球
+成组工艺
+雷达装备
+新疆航空公司
+parameter estimations
+单脉冲雷达
+Small satellite
+飞机蒙皮
+飞行参数
+Higher Vocational Colleges
+轨道飞行器
+雷达目标识别
+军用规范
+thermal balance test
+机载火控系统
+联邦快递
+预研
+radio fuze
+federated filter
+成飞公司
+非线性滤波
+gyroscope
+液冷服
+流体回路
+积冰
+多电飞机
+航班频率
+载人运载火箭
+燃烧室设计
+双三角翼
+西航公司
+组合制导
+硝胺
+cerebral blood flow
+飞机燃油
+镀合金
+气膜孔
+多级轴流压气机
+wing rock
+多用途飞机
+肌梭
+防热结构
+振动控制
+真空钎焊
+微分对策
+GNSS
+试验与研究
+复合材料层合板
+low cycle fatigue
+卫星
+喷流
+飞船返回舱
+PDM
+制导炸弹
+舰空导弹
+磨削
+温度测量
+失效分析
+民航机场
+turntable
+维修企业
+年系列
+导弹防御
+compressor characteristics
+飞行程序设计
+Aerodynamic heating
+Engine test
+脉冲风洞
+加压呼吸
+进气道设计
+含硼富燃料推进剂
+多电发动机
+Missile defense
+bed rest
+RLV
+叶栅流
+双推力火箭发动机
+Aerospace propulsion system
+飞行试验任务
+航空火控
+liquid cooling garments
+发散冷却
+液膜冷却
+integrated guidance
+燃速调节剂
+Glonass
+单元推进剂
+water ramjet
+可回收卫星
+跨声速压气机
+航天器技术
+变速控制力矩陀螺
+post stall maneuver
+滚转力矩
+侧压式进气道
+Satellite formation flying
+自动铺带
+超塑成形/扩散连接
+内绝热层
+高空试验
+国防支援计划
+座舱显示
+航线结构
+rocket nozzle
+复合材料技术
+动能拦截器
+挑战者号
+air traffic management
+在轨测试
+天基雷达
+micro air vehicle
+固体火箭
+航迹关联
+空军
+整体油箱
+Polycarbosilane
+标准化经济效果
+coning motion
+flight performance
+GPS/SINS
+宇航科学
+跟踪与数据中继卫星系统
+single crystal superalloy
+空间发射
+键合剂
+missile weapon system
+环氧塑料
+乘波体
+flame holder
+化学非平衡
+攻击区
+中国空间
+Metal matrix composite
+标准化工作系统
+尾流
+secondary flow
+航天
+湍流
+夹层结构
+钎焊
+C/C composite
+稳定裕度
+海洋卫星
+雷达信号
+研制计划
+aerodynamic heating
+战略轰炸机
+discharge coefficient
+遥测遥控
+舰载直升机
+网络中心战
+propellant
+reliability growth
+Unsteady flow
+试飞员
+放松管制
+热控系统
+dead reckoning
+测试性
+发射时间
+协同空战
+星载合成孔径雷达
+主动控制技术
+Superplasticity
+transpiration cooling
+冲压式喷气发动机
+航空修理
+可靠性鉴定试验
+热驱动
+航天科技集团
+民航运输业
+双旋翼
+铰削
+粉末合金
+NND scheme
+火箭助推器
+Radar cross section
+aerodynamic force
+碰摩
+brazing
+解耦
+crack propagation
+GPS接收机
+Bayes方法
+variable structure control
+产品数据管理
+质量载荷效应
+发动机地面试验
+运载火箭制造商
+Spacecraft propulsion
+液氧/煤油
+产品数字化定义
+aerovalve
+备用发动机
+TB飞机
+操稳特性
+直升机飞行力学
+不起动
+缠绕结构工艺
+spacecraft rendezvous
+喷流模拟
+static aeroelasticity
+涡轮静子
+infrared heating cage
+数据中继
+超燃发动机
+solid fueled ramjet
+强度规范
+推进剂防老剂
+气动力测量
+激波干扰
+气动参数辨识
+直播电视卫星
+气动稳定
+Separated flow
+rocket engine case
+Solid fueled ramjet
+Impulse rocket engine
+detonative combustion
+landing gears
+外套螺母
+推进剂雾化
+力学量计量
+机翼前缘
+航空周刊
+Eigenvector derivative
+carrier-based airplane
+Liquid injection
+柔性喷管
+fuzzy programming theory
+自由涡轮
+lift enhancement
+Geomagnetic navigation
+孔探技术
+Blade airfoil
+防喘系统
+非精密进近
+运十二飞机
+卫星总体设计
+智能发动机
+燃料最优
+swirl cup
+unstart
+Manned spaceflight
+亚轨道飞行
+后缘襟翼
+Aerodynamic missile
+unsteady free stream
+空中优势战斗机
+适航要求
+FADEC系统
+弯曲混合管
+收敛喷管
+喷管烧蚀计算
+空中停车率
+三组元发动机
+牙底
+精密孔径仪
+搭载科学试验
+尾喷流
+火箭基组合循环
+tilt rotor
+aero-valve
+失速/尾旋
+Orbit Determination
+stall/spin
+流体管理
+Vibration environment
+空管设施
+Propellant control
+Turborotor
+适航性条例
+航空螺旋桨
+Plasma engine
+气动实验
++不确定度
+parachutes
+空间加工
+飞行操纵系统
+Thermal balance test
+Turning spindle axis
+temperature field
+extended Kalman filter
+国家标准局
+全向攻击
+涡运动
+极高频
+JAST
+北京空间机电研究所
+航空导航
+高超音速流
+内弹道性能
+电传飞行控制系统
+中介机匣
+复合材料修理
+航空培训
+亚轨道飞行器
+扰流器
+空间模拟器
+埋入式进气道
+chronobiology
+Higher Professional Education
+航天器带电
+Soft landing
+飞行校验
+脉冲等离子体推力器
+喷丸成形
+离港系统
+标准化大纲
+空间运输系统
+吸热燃料
+回转轴线
+空间基地
+着陆系统
+aeroservoelasticity
+粗对准
+航天器可靠性
+晶体滤波器
+三轴稳定卫星
+起飞性能
+飞行管理计算机
+飞行管理系统
+双马树脂
+航空电机
+弹射救生
+凹腔
+Multidisciplinary design optimization
+Docking
+正三轮摩托车
+发汗冷却
+target assignment
+轨道动力学
+月球基
+C/SiC复合材料
+火力控制系统
+太空站
+液体火箭
+fiber optic gyro
+Propellant
+遥测数据
+新航站楼
+客舱
+Integrated design
+缠绕结构
+对接机构
+临近空间
+热控
+轮盘
+compressible flow
+火箭技术
+motion compensation
+information fusion
+热分解
+蠕变
+脑电图
+试验技术
+Optimum design
+矩量法
+turbulent boundary layer
+机场建设
+corrosion fatigue
+structural reliability
+叶型
+纤维缠绕
+状态监控
+树脂基复合材料
+Reliability
+空气动力学
+OFDM
+精确制导
+TVD格式
+表演队
+激光武器
+数学仿真
+可靠性工程
+动态响应
+flow field
+pressure measurement
+军转民
+维修成本
+肌萎缩
+vortex structure
+驾驶员模型
+航天活动
+南方航空公司
+航空工业企业
+数字样机
+飞机部件
+温度场
+damage tolerance
+试验器
+directional solidification
+自校准技术
+碟形飞行器
+骨丢失
+航空承运人
+能量性能
+graphical electromagnetic computing
+压气机性能
+canard configuration
+Lunar probe
+电波折射
+激波/边界层干扰
+部件特性
+制导精度
+ballistic range
+飞行特性
+前缘涡
+大展弦比
+英国宇航公司
+加工精度
+superalloy
+调制传递函数
+Galileo
+二次流
+高强度钢
+喷嘴
+设计文件
+小行星
+恒星
+sliding mode control
+锁相环
+Flow coefficient
+一般公差
+校准技术
+Radome
+低轨道
+命中精度
+制导雷达
+卫星姿态控制
+Allan方差
+国际空间
+发动机公司
+小波变换
+检定
+长征
+可靠性评价
+数字地图
+wake
+VHDL
+总线
+导引规律
+radar equipment
+桥函数
+total pressure recovery
+flight data
+彗星探测器
+重叠网格
+cooperative air combat
+航空系统
+发展航天
+反作用飞轮
+lunar probe
+地磁匹配
+空间扫描
+Flight test
+导弹预警
+hover
+电子抗干扰
+INS/GPS
+长征运载火箭
+空间通信
+面空导弹
+补燃室
+惯性制导系统
+卫星寿命
+数字信号处理器
+virtual instrument
+导弹防御系统
+电子干扰
+静力试验
+钣金
+自适应卡尔曼滤波
+鉴定试验
+磁强计
+航天发射场
+热防护
+着陆
+全球定位系统
+事件相关电位
+模态试验
+地形匹配
+日本航空
+可靠性工作
+shock waves
+hypervelocity impact
+Allan variance
+冲击响应谱
+deep space exploration
+侧滑角
+喷气客机
+satellites
+滚压螺纹
+遥科学
+航空学校
+美国国家安全
+民航机
+非合作目标
+ejection seat
+旋成体
+missiles
+激光引信
+真空热处理炉
+气动优化设计
+燃气流
+整机振动
+流向涡
+飞行小时
+整体壁板
+置信界限
+突扩燃烧室
+皮卫星
+Gyroscope
+可观测度
+autonomous navigation
+高速铣削
+碳/碳复合材料
+贝尔公司
+data association
+Modal analysis
+结构振动
+软件可靠性
+国际机场
+CIMS
+热电偶
+finite element analysis
+旅客
+国外先进标准
+国防科技
+不确定度
+日本航空公司
+radar imaging
+空中交通流量管理
+非定常流场
+动力调谐陀螺
+航天信息
+月球卫星
+气动力特性
+大气紊流
+Combustion efficiency
+襟翼
+Simulation technique
+软件无线电
+流动特性
+喷气发动机
+EKF
+微波辐射计
+飞行轨迹
+飞翼
+空气动力
+Libration point
+操纵律
+碳/环氧
+飞翼布局
+结构动态响应
+acute altitude hypoxia
+单相流体回路
+高速风洞
+icing wind tunnel
+机载电源
+自转旋翼机
+备降机场
+空间工业
+细节疲劳额定值
+detail fatigue rating
+民用航空法
+total pressure recovery coefficient
+Space shuttle
+航空计量
+太阳阵
+workloads
+近距空空导弹
+cabins
+micro-PIV
+overset grids
+AECMA
+弧高值
+航空维修工程
+Fault diagnosis expert system
+纵列式直升机
+飞机维修工程
+助推火箭发动机
+pilot model
+Stage separation
+冷流试验
+Ramjet
+规划维修
+放宽静稳定性
+空管人员
+pilot induced oscillation
+strain gauge balance
+CPDLC
+航空货物运输
+空运企业
+视景数据库
+发动机性能参数
+吸气位置
+动态姿态平衡测试
+民品企业
+轨道维持
+asymmetric vortex
+印度航空公司
+manned space vehicles
+初级教练机
+航天工业企业
+排气喷管
+推力矢量技术
+多机协同
+燃烧化学动力学
+adiabatic effectiveness
+航空科研院所
+推进剂利用系统
+吸气式高超声速飞行器
+弹射损伤
+CCSDS标准
+Optimum structural design
+飞行品质规范
+lamilloy
+滑动模态
+Accelerometer
+参数最优化
+液氢
+表面完整性
+multi-target tracking
+sea clutter
+myocardium
+FEM
+可靠性设计
+ANSYS
+微机电系统
+质量工作
+自动测试
+测量不确定度
+航路
+Unscented卡尔曼滤波
+紧缩场
+solar simulator
+Detonation
+aerodynamic interference
+transonic
+MIMU
+直播卫星
+航空武器
+stealth technique
+轨道根数
+drag
+多传感器
+光学系统
+飞船
+VXI
+光纤通道
+轻型飞机
+射流
+镁合金
+雷达
+VxWorks
+observability
+柔性制造系统
+空军基地
+计量测试
+作战能力
+无人飞行器
+卫星数据
+非线性控制系统
+防空系统
+Al-Li alloy
+安全飞行
+Unscented Kalman filter
+发动机大修
+态势评估
+Kerosene
+超视距
+单粒子翻转
+试射
+numerical computation
+vibration control
+误差分离
+特征结构配置
+control law
+点火器
+层合板
+低周疲劳
+空间平台
+mixing enhancement
+航天保险
+acoustic test
+space environments
+超临界机翼
+Proportional navigation
+表面充电
+商业航天
+电控旋翼
+碳-碳复合材料
+风洞试验技术
+airworthiness
+轨迹线性化控制
+缓进磨削
+Avionics
+波导器件
+制导工具误差
+飞行仪表
+悬挂物管理系统
+Measurement equipment
+非线性气动力
+飞机总体设计
+轨道测量
+hybrid rocket motor
+角度公差
+中枢航线网络
+互换协调
+多操纵面
+非破坏性检验
+sounding rocket
+辅助动力装置
+战斗飞行
+发射日
+微惯性测量单元
+plug nozzle
+直角网格
+单位矢量法
+含铝推进剂
+压力探针
+控制律重构
+Space vehicle
+航天器控制
+抗坠毁
+载人机动装置
+两级维修
+伴随卫星
+流体剪切应力
+卫星通信业务
+拦截器
+specific impulse
+地地导弹
+硬度计
+技术文件
+微重力
+实时仿真
+可靠性计算
+metal rubber
+飞行学员
+rotor system
+S-N曲线
+标准资料
+世界标准日
+Thermal decomposition
+飞马座
+研制程序
+航天遥感器
+套办
+Flexible structure
+雷达引信
+吹风比
+飞机维护
+tip clearance flow
+导弹控制系统
+月球探索
+耐烧蚀
+航天行业
+proportional navigation
+工艺评审
+发动机可靠性
+在轨服务
+压气机特性
+壁板颤振
+动部件
+Thrust vector control
+航空医学
+空管自动化系统
+静电陀螺
+Lunar exploration
+航班时刻
+双凸极电机
+aircraft maintenance
+Landing gear
+防雹火箭
+turbopump
+猎兔犬
+订座系统
+助推段
+nacelle
+参数估计
+反坦克导弹
+EEG
+干涉仪
+铆钉
+柯林斯
+Temperature distribution
+buckling
+neural networks
+机械加工
+系统辨识
+海杂波
+型号工程
+orbit control
+飞行环境
+航空涡轮发动机
+durability design
+总压损失
+Integrated navigation system
+红外导引头
+Rectangular plate
+空对地攻击
+封严
+主起落架
+高强铝合金
+数字化设计与制造
+航空枢纽
+C/SiC composites
+stall margin
+PCM/FM
+轴马力
+模型火箭
+绝压
+SAR图像
+error model
+人-机系统
+空间机器人
+导弹发射
+虹桥机场
+多目标优化
+LabVIEW
+CPLD
+Microstructure
+性能分析
+压力分布
+疲劳强度
+EDM
+attitude algorithm
+active flow control
+航空器材
+航电系统
+北方航空公司
+airlines
+Plume
+FLIR
+地球观测
+机轮
+瞄准吊舱
+惠更斯
+胶接结构
+毁伤概率
+承制方
+大角度机动
+LXI
+平动点
+国家航天局
+区间估计
+交会
+粉末冶金
+SAR
+线性矩阵不等式
+three dimensional flow
+挠性卫星
+aircraft icing
+惯导
+航天精神
+主承包商
+航空发动机研制
+空间合作
+伽利略卫星
+观测卫星
+红外成像制导
+导弹预警卫星
+unmanned air vehicle
+fibre channel
+振动阻尼
+aerodynamic stability
+水洞实验
+工艺攻关
+导航台
+fatigue
+点火
+测量机
+endothelial cells
+Quaternion
+辐射计
+thermal control
+抛物面天线
+combat effectiveness
+airplane
+任务规划
+威胁评估
+微动疲劳
+Polyimide
+TVD scheme
+electrochemical machining
+combustion performance
+维修保障
+最小二乘方法
+地球轨道
+optimization design
+相对运动
+北京航空航天大学
+Navier-Stokes方程
+aerodynamic measurement
+大运载火箭
+Nonequilibrium flow
+Ceramic matrix composite
+非定常相互作用
+turbine shaft engine
+空间项目管理
+气氦制冷系统
+推进剂污染
+空间环境仿真
+experimental aerodynamics
+Method of characteristic curve
+电火箭
+推进剂管理
+rate bias
+Cold flow test
+BACTM
+数字式飞行控制系统
+gelled propellants
+glaze ice
+飞行标准
+Pulsejet engine
+Propellant transfer
+旋涡脱落频率
+温度畸变发生器
+大气层外拦截弹
+旋翼桨毂
+Micro satellite
+aircraft performance
+IRMSS数据
+流线追踪
+Propellant additive
+摇摆基座
+可控飞行撞地事故
+空战对策
+航行情报服务
+Orbital maneuver
+磁铆接设备
+Ariane火箭
+排气火焰
+Boron compound propellant
+桨尖形状
+submerged inlet
+Insert nozzle
+afterburners
+宽弦空心风扇叶片
+垂直安定面
+弹簧拉压试验机
+民航维修企业
+附面层修正
+疲劳定寿
+Sequential quadratic programming
+Model integrated law
+地面支援设备
+RQL
+Orbital debris model
+composite wing
+锯齿冠
+contra-rotating turbine
+逆仿真
+航空电源系统
+shock/boundary layer interaction
+Propellant spray
+模型自由飞
+oxygen poor fuel rich propellant
+自动油门
+Single\|chip computer
+acoustic fatigue
+broadband antennas
+机动飞行控制
+Ducted rocket engine
+Regenerative cooling
+Satellite application
+宇航结构复合材料
+~+不确定度
+航天器控制系统
+双立尾
+轨道碎片模型
+Motor performance parameter
+EGT裕度
+液压材料试验机
+Titan火箭
+无毒推进剂
+高超音速冲压发动机
+发动机服务公司
+六自由度弹道仿真
+force test
+turbofan engines
+物伞系统
+航空电子结构
+战术通信卫星
+管制指令
+aircraft engineering
+误指令概率
+翻修寿命
+Orbital control
+Temperature calculation
+民航企业文化
+空空导弹发射
+波瓣混合器
+二元进气道
+extendible nozzle
+Cold flow
+国际民用航空公约
+加强柱形壳
+数字式仿真
+军用涡扇发动机
+多导弹
+标准循环
+发动机滑油系统
+光学遥感卫星
+装货机
+发动机整流罩
+卫星的运载火箭
+Annular plates
+烧蚀试验
+燃烧抑制剂
+Lunar lander
+Genetic algorithm+
+原型发动机
+支线航空运输业
+抗坠毁座椅
+伴随轨道
+Char yield
+EMBET
+数字式测试
+签署规定
+Aluminized propellant
+ducted tail rotor
+Rocket ramjet
+航天电源
+~+物元分析
+热校准风洞
+内流空气动力学
+空军卫星控制网
+Heat flow calculation
+air resonance
+发射需求
+半物理模拟试验
+Rotating stall
+Hypersonic ramjet engine
+合作产品定义过程
+航天标准文献
+电弧喷射发动机
+supercritical wing
+Propellant management
+腐蚀疲劳
+random vibration
+检测性能
+空间机械臂
+Rocket
+注法
+扫描辐射计
+DSMC方法
+加拿大公司
+ammonium perchlorate
+雷达组网
+飞机性能
+near space
+第三代战斗机
+机内测试
+反辐射无人机
+Doppler frequency
+jet impingement
+气动导数
+储存寿命
+战术数据链
+轨道倾角
+挠性接头
+rendezvous
+空间环境
+武器装备
+首都机场
+数字仿真
+快速凝固
+冗余技术
+结构完整性
+攻角
+杨利伟
+Compressor
+image registration
+双星计划
+诱导轮
+MAV
+混合网格
+拉削
+四氧化二氮
+fretting fatigue
+伪卫星
+层间剪切强度
+复合材料层板
+阻尼器
+结构强度
+模拟器
+天文望远镜
+卫星图像
+引射器
+产品研制
+flow fields
+load spectrum
+structural dynamics
+鸟撞
+Air compressor
+流场显示
+电连接器
+圆柱壳体
+Mechanical performance
+Blade
+超光滑表面
+阴模
+高超音速
+活塞发动机
+Starting
+可压缩流
+军事卫星
+CBN砂轮
+Finite volume method
+satellite navigation
+间谍卫星
+软件测试
+解耦控制
+换热系数
+检定规程
+国防工业
+美国国防部
+shock wave
+combustion
+对流换热
+时间同步
+助推器
+algorithms
+数字控制
+表面处理
+信噪比
+流量管理
+对地观测
+动态再结晶
+惯性系统
+直升机飞行
+fuel system
+碳化硅纤维
+星座
+叶片
+工作负荷
+离心叶轮
+residual strength
+弹簧垫圈
+喷丸强化
+海军航空
+伺服机构
+工艺规范
+数控
+FFT
+Error analysis
+电磁兼容
+系统仿真
+参数辨识
+CCD
+风洞
+convective heat transfer
+ECG
+finite element
+太阳系
+PLC
+人造卫星
+Higher Vocational Education
+高速加工
+激励器
+军机
+红外系统
+Damper
+carrier phase
+伽利略计划
+Data processing
+温度补偿
+实时系统
+虚拟样机
+传输型
+有限差分理论
+grain design
+AMRAAM
+post education
+支线航空发展
+Microgravity environment
+航天后勤
+boron-based fuel-rich propellant
+陀螺马达
+高超声速风洞
+navigation systems
+thermal protection system
+固体火箭推进
+blood pressure variability
+固冲发动机
+导弹推进
+spacecraft charging
+bed rest （tests）
+aircraft wheel
+减摆器
+CNS/ATM系统
+航天市场
+发动机吊架
+直接力
+solid propellant rocket engines
+气动力干扰
+rotating cavity
+Thermal protection system
+双组元发动机
+三化设计
+发动机推力
+月球着陆
+SPIV
+镀前尺寸
+combustion chambers
+直接广播卫星
+宇航工业协会
+极地航路
+high AOA
+high temperature environments
+high speed dynamic balance
+战斗机空战
+ferromagnetic flow
+皇家航空公司
+Secondary injection
+地形匹配制导
+空地数据链
+空中起动
+直升机发动机
+direct lift control
+soleus muscle
+推力调节
+后掠角
+可重复使用航天器
+压气机转子叶片
+小展弦比机翼
+发动机稳定性
+卫星控制系统
+solid propellant rocket
+pulmonary circulation
+空中对准
+muscle spindles
+controlled ecological life support system
+flying wing configuration
+欧洲通信卫星公司
+脉动式喷气发动机
+航空公司管理
+Satellite structure
+中段制导
+需要速度
+加速度生理影响
+Gauss pseudospectral method
+再入弹道
+木星探测器
+厂标
+INSAT
+Transfer alignment
+Reentry trajectory
+前庭功能实验
+试飞技术
+进近着陆
+固液混合火箭发动机
+静态校准
+flying saucer
+工艺师系统
+Finite thrust
+特情处置
+仪表飞行规则
+长峰集团
+Inlet distortion
+红外天文卫星
+acceleration protection
+“三化”设计
+飞行学生
+空间垃圾
+航站楼
+numerical analysis
+数字信号处理
+正交频分复用
+环境模拟
+目击者
+composite material
+流固耦合
+叶轮机械
+LDV
+刹车盘
+Digital simulation
+原子钟
+模拟机
+金牛座
+Mach number
+脉冲压缩
+阳极化
+Injector
+cardiovascular system
+空对空导弹
+Data acquisition system
+冰风洞
+forward flight
+飞机生存力
+范登堡
+flapping-wing
+更改单
+bone loss
+末制导律
+燃烧流场
+high incidence
+承制厂
+leading-edge vortex
+自旋卫星
+航天器环境
+再入轨迹
+装药设计
+Route planning
+试验件
+reentry vehicles
+附面层抽吸
+弹道优化
+trajectory linearization control
+空投试验
+jet nozzles
+轴对称矢量喷管
+机场设备
+机体结构
+小型火箭
+金星探测器
+综合火控系统
+固液混合发动机
+Inertial measurement unit
+导弹预警系统
+螺旋机动
+总装工艺
+高度特性
+末端能量管理
+ACARS
+sonic fatigue
+极曲线
+综合后勤保障
+MIMU/GPS
+协调加载
+陆空通话
+飞马座火箭
+infrared suppression
+推进剂输送
+挤压油膜轴承
+精密车削
+凯芙拉纤维
+意大利航空公司
+微推进
+大小叶片
+《西北工业大学学报》
+stage separation
+动态逆控制
+无线电规则
+Transonic flow
+human performance
+最低可接受值
+拉形
+混合坐标法
+成田机场
+astronaut
+跨大气层飞行器
+长期考察
+reentry trajectory
+姿控系统
+Acceleration life test
+回归轨道
+民机产业
+不明飞行物体
+液浮陀螺仪
+轨道保持
+烃类燃料
+太空军事化
+太阳吸收率
+国际电联
+SINS/GPS
+空间科学技术
+Igniter
+后掠翼
+高空长航时无人机
+Electric propulsion
+飞机制造商
+惯性测量组合
+航空局
+antiship missile
+抗辐射加固
+耐久性设计
+姿态算法
+发动机控制系统
+Reliability prediction
+airborne radar
+超音速战斗机
+冲量耦合系数
+失重状态
+Hardware-in-the-loop simulation
+救生系统
+化学气相渗透
+联邦卡尔曼滤波
+直升机驾驶员
+实验卫星
+Flow characteristic
+扩口
+推拉效应
+Star sensor
+Thermal control
+星座设计
+Nonlinear vibration
+propulsion system
+机场道面
+ice accretion
+维修能力
+fiber reinforced composites
+隐身性能
+弹载计算机
+mission planning
+环控生保系统
+field programmable gate arrays
+CFD/CSD
+总压恢复
+澳门机场
+计算空气动力学
+弹性飞行器
+机载系统
+reusable launch vehicle
+化学铣切
+地效飞机
+Reynolds number effect
+fuselage
+技术基础工作
+HTPB propellant
+垂直尾翼
+RLG
+深空网
+gyro drift
+composite solid propellant
+区域导航
+定向结晶
+初始轨道
+威胁回避
+airborne fire control system
+土星探测器
+进近
+气动模型
+喉衬
+飞机电源系统
+lift-drag ratio
+超大型客机
+航天器设计
+雷达散射截面积
+炉温均匀性
+制导控制
+飞机生产
+复合材料机翼
+裂纹
+试验飞行
+total pressure loss
+居住舱
+Attitude maneuver
+tip leakage vortex
+新闻报告
+flying quality
+引射喷管
+超音速客机
+reentry vehicle
+重要件
+现代战斗机
+血管反应性
+通信导航
+羽流污染
+大展弦比机翼
+自动着舰
+Miss distance
+multi-element airfoil
+空间物体
+初轨计算
+发动机进气道
+Satellite constellation
+弹射起飞
+Orbit control
+环境卫星
+lift-to-drag ratio
+空战决策
+边界层控制
+振荡叶栅
+空中交通管制中心
+工艺性审查
+导弹研制
+翼型设计
+boundary layers
+Shock load
+海洋水色卫星
+丁羟推进剂
+激波结构
+航天环境
+reentry guidance
+天文卫星
+pressure distortion
+叶尖泄漏涡
+SPF/DB
+研制管理
+遥测数据处理
+waverider
+篦齿封严
+acoustic excitation
+空射
+流场仿真
+姿态机动
+脑血流
+Gas generator
+电磁波散射
+舰载战斗机
+等效系统
+航空武器装备
+布雷顿循环
+叶片振动
+载人航天技术
+动量轮
+航空反潜
+Cylindrical shell
+空间遥感
+成都飞机工业公司
+产品保证
+spaceflight
+可复用
+复合材料部件
+trajectory simulation
+计量工作会议
+thermal decomposition
+USB
+pressure distribution
+位置误差
+示值误差
+数据关联
+fire control
+微弧氧化
+首都国际机场
+一维距离像
+多学科优化
+太空城
+AOS
+TiAl
+小卫星星座
+军用标准化
+Reliability assessment
+SiC纤维
+减压病
+星图识别
+环境工程
+发射装置
+层板
+系统公司
+Performance analysis
+计量工作
+infrared radiation
+vortex
+热分析
+试验机
+三维编织复合材料
+改进计划
+System reliability
+紧致格式
+防冰
+专业信息网
+成像光谱仪
+模锻件
+electron beam welding
+质量文化建设
+脉冲多普勒雷达
+autopilot
+天文导航
+毫米波雷达
+三维编织
+中国载人航天
+软着陆
+回火
+容错技术
+scale factor
+Reliability design
+碳纤维增强复合材料
+阻尼
+optimal control
+空间实验
+光学遥感
+自动目标识别
+incompressible flow
+反设计
+内弹道
+检测概率
+《工程索引》
+IMU
+Thrust
+GDOP
+Vibration test
+最优设计
+成组技术
+可靠性评估
+Heat transfer
+mathematical model
+电磁兼容性
+stress intensity factor
+navigation
+ergonomics
+伽利略
+通用化
+测向
+data link
+blades
+发动机制造
+航空港
+边界扫描
+铰刀
+环境控制系统
+性能计算
+空间应用
+量块
+测试技术
+PID控制
+探月工程
+Fault analysis
+Turbulent flow
+流场测量
+backstepping
+天线
+digital map
+robots
+设计规范
+设计寿命
+无人侦察机
+H∞滤波
+三坐标
+天线阵
+金刚石刀具
+野值
+Dynamic characteristic
+thrust
+并联机构
+Robust control
+aluminum alloy
+MEMS
+CMM
+反馈线性化
+仿真技术
+等离子体
+tracking
+网格生成
+jet
+最小二乘法
+HLA
+Carbon fiber
+gas generator
+紊流
+数控编程
+电子元器件
+快速成形
+global positioning system
+Reynolds number
+Crack propagation
+直接数值模拟
+unstructured mesh
+卡箍
+内流场
+空中交通
+接收机
+雾化
+模态
+two-phase flow
+并行处理
+H∞控制
+公用平台
+formation flying
+喷气飞机
+地球资源卫星
+隐身战斗机
+Structural strength
+目标运动分析
+Sliding mode
+景象匹配
+固定翼飞机
+constellation
+ATE
+manned spaceflight
+续航时间
+A* algorithm
+柔性转子
+资源卫星
+研制试验
+燃烧试验
+抖振
+Flow field
+火控雷达
+静止轨道卫星
+飞行状态
+微型卫星
+rendezvous and docking
+高速碰撞
+空时自适应处理
+三轴稳定
+二次雷达
+detection performance
+形状和位置公差
+振荡燃烧
+Relative motion
+scene matching
+双基地雷达
+单晶合金
+静电悬浮
+自对准
+主尺
+track correlation
+发动机部件
+交互式多模型
+复杂产品
+Telemetry
+伽利略系统
+焊接标准
+校准规范
+圆极化
+质量与可靠性
+故障注入
+分布式计算机
+航天飞行器
+涡流发生器
+crack initiation
+航空航天
+爆震
+不确定系统
+应力分析
+标准宣贯
+large eddy simulation
+基准要素
+Circular plate
+太阳能帆板
+X射线脉冲星
+Storage life
+飞机起降
+湿热老化
+Electromagnetic scattering
+ISAR
+模拟微重力
+turbine engine
+国际航空公司
+PBO纤维
+不稳定燃烧
+拦截弹
+金属镀覆
+监视雷达
+auditory
+flight vehicle
+非结构动网格
+失速裕度
+机床设备
+attitude estimation
+超光谱成像仪
+速率陀螺
+离子发动机
+军事航天
+干涉配合
+environmental test
+冲击损伤
+民品开发
+飞行学
+首飞成功
+微动磨损
+应用卫星
+uncertainty of measurement
+敏捷制造
+微处理机
+涂层
+无损检测
+空间机构
+刹车系统
+氩弧焊
+增强系统
+小卫星技术
+故障树形图分析
+hyperbolic conservation laws
+悬挂物
+军用无人机
+前起落架
+热压罐
+薄壁壳体
+流阻特性
+主燃烧室
+热色液晶
+第一集团
+Confidence limit
+激光陀螺仪
+镍基单晶合金
+radar net
+近炸引信
+轨道计算
+dipping sonar
+苏联空军
+Bending moment
+autonomic nervous system
+飞行管理
+ship-to-air missile
+质量整顿
+calendar life
+航空航天企业
+刷式密封
+形状记忆合金
+nonlinear system
+振动抑制
+有限时间热力学
+模态综合法
+相控阵天线
+航空产业
+公司标准
+蒙皮
+经纬仪
+digital control
+wing
+滤波
+螺旋桨
+优化设计
+data acquisition
+机组资源管理
+航空航天材料
+德国空军
+机动弹头
+moving base
+annular combustor
+Autopilot
+鸭翼
+Real time simulation
+航天型号产品
+科研生产任务
+真空电子束焊
+地球扁率
+太阳同步卫星
+降落伞系统
+强击机
+空天飞行器
+无陀螺捷联惯导系统
+不可压缩流
+金属热防护系统
+航空工业集团
+容错计算机
+微波着陆系统
+自适应机翼
+复合材料结构件
+sleep deprivation
+雷达高度计
+逃逸系统
+超声速流动
+设计载荷
+走刀量
+wind-tunnel test
+航天器对接
+流星体
+石膏型
+pin-fin
+Statistical energy analysis
+航空业务
+故障隔离
+差分GPS
+navigation system
+导航设备
+杂波
+力学性质
+金属膜片贮箱
+压延模
+Precise orbit determination
+负过载
+图像运动补偿
+降落伞织物
+空间通信公司
+尾流间隔
+飞机燃油箱
+双垂尾
+防冰系统
+宇航工程
+ground attack
+太阳定标器
+混合推进剂火箭发动机
+构型管理
+激盘
+航空转包生产
+航空销售代理
+spanwise blowing
+合成射流+
+硼化物推进剂
+航天器结构设计
+民机制造业
+propellant property
+Vector operational
+S弯进气道
+inlet design
+pre-swirl
+飞行控制与管理
+商业航天运输
+非对称背涡
+fighter engine
+Moment of method
+heat flux simulation
+滤波消隐
+air seals
+Kinetic interceptor
+微型驱动电机
+膜冷却
+自燃燃料
+Non-cooperative target
+滑油散热器
+叶片力亏损
+Ignition test
+卫星部件
+锻模燕尾
+CW雷达
+可动喷管
+民机研制
+冲压翼伞
+脉动式火箭发动机
+flight vehicles
+展向吹气
+航空运输协定
+axiomatic set theory
+飞行振动
+flight paths
+化学推进
+空间外热流
+流动非对称性
+外场使用
+Exhaust flame
+Strap-on launch vehicle
+film hole
+atomic oxygen effects
+air-to-ship
+Geosynchronous satellite
+Normal shock wave
+aero power
+低重力环境
+火箭探空
+Near space vehicle
+远程型
+压强指数+
+振荡天平
+低温推进剂火箭发动机
+通用航空飞行器
+加速任务试验
+航线网
+jet simulation
+Ejector ramjet engine
+Rocket nozzle
+翼肋
+大涵道比
+downwash flow
+Propellant property
+two-phase reacting flow
+small tabs
+全电飞机
+重复使用航天器
+技术试验卫星
+Combustion property of propellant
+漏指令概率
+LOX/kerosene engine
+空空作战
+variable cycle engine
+control response
+force limited
+连续顺序
+power turbine rotor
+Remote sensor
+blade-vortex interaction
+火箭发动机点火器
+型号试飞
+涡的稳定性
+thermal mixing efficiency
+高锁螺栓
+引射式冲压发动机
+水冲压发动机+
+泰国国际航空公司
+滚转运动
+航空维修市场
+Liquid propellant rocket
+履历本
+radio guidance
+过载飞行
+使用限制条件
+吞水试验
+Missile-borne computer
+rotor-stator cavity
+星箭对接
+integrated aerodynamic stealth design
+直圆管
+RTR技术~+
+机身段
+Jet interference
+当量加速关系
+Internal aerodynamics
+NASA标准
+aircraft fuel
+高空羽流
+static aeroelastics
+旋翼模型
+“眼镜蛇”机动
+适航审定
+Lissajous轨道
+细长机翼
+wheel-soil interaction
+余度控制系统
+声载荷
+新型桨尖
+航天器返回技术
+自由飞行计划
+机载机电系统
+shock wave heating
+Combustion chemical kinetics
+活塞式飞机
+火控算法
+low Reynolds number flow
+导航星全球定位系统
+wake distortion
+Shrouded nozzle
+ramjet engines
+航空情报
+寻的段
+Spaceship
+Magnetorquer
+队形重构
+初始瞄准
+大涡模拟+
+可贮存推进剂
+铝合金贮箱
+姿态角误差
+直接侧力控制
+Euler motion equations
+双旋流器
+农林飞机
+BACKSTEPPING
+载荷包线
+root bending moment
+rocket engine insulation
+disturbed board
+shock wave/turbulent boundary layer interaction
+Supersonic jet flow
+飞行实测
+Spacecraft.
+主火箭发动机
+确定订货
+helicopter design
+亚音速燃烧
+micro turbine engine
+blade force defect
+Burning rate modifier
+自适应壁风洞
+空间站轨道
+wind tunnel test technique
+实践五号卫星
+机队管理
+抖振边界
+gas turbine starter
+起落架减摆器
+Space transportation system
+特殊凸轮轴
+Single-stage-to-orbit
+烧蚀外形
+激波加热
+红外灯阵
+servo loop
+转静干涉
+Missile propulsion
+簸箕形孔
+Non-Keplerian orbit
+滑翔降落伞
++测量不确定度
+Subsonic combustion
+试飞管理
+ground simulation test
+胶凝推进剂
+flight qualities
+操纵响应
+动力涡轮转子
+handling qualities
+航天器制导
+高空试验台
+标准化评审
+hypersonic speed
+飞机电网
+Invariant manifolds
+特征导数
+翼型伞
+flight mission profile
+unsteady separated flow
++GPS应用
+近地警告系统
+电磁相容性
+收敛扩散喷管
+MAPO
+加速任务试车
+Surface tension tank
+力限
+Turbine engine
+空对舰
+intelligent engine
+油门杆
+领队长机
+man machine systems
+afterburning
+卫星分离
+非结构重叠网格
+模线样板
+Caret
+颤振激励系统
+bump inlet
+航空航天标准化
+微库伦
+wing design
+全流量补燃循环
+Numerical analysis
+目标检测
+国防部
+印制板
+温度分布
+curved blade
+燃油调节器
+维修单
+可靠性预计模型
+截获概率
+low cycle fatigue life
+supercritical airfoil
+国际航空货运
+货运业务
+carrier aircraft
+日本火箭
+空战仿真
+CSDB
+reconfigurable control
+inverse simulation
+电弧加热发动机
+胶接剂
+超临界翼型
+航天标准
+激波边界层干扰
+space shuttle
+高空长航时
+simulated weightlessness
+气动力计算
+body temperature regulation
+carbon fiber reinforced composite
+旋翼飞机
+液体动力学
+喷气战斗机
+air combat simulation
+拖靶
+single event effects
+速率偏频
+航天制造
+bearingless
+等离子体发动机
+micro air vehicles
+temperature distortion
+μ分析
+机动决策
+阵列雷达
+heat receiver
+空间控制
+Vortex flow
+clinostat
+行波振动
+两用技术
+热固性复合材料
+篦齿
+可靠性大纲
+environmental testing
+scramjet engine
+Satellite antenna
+工作叶片
+terrain avoidance
+捷联式惯导系统
+二硝酰胺铵
+反作用控制系统
+延伸公差带
+联合研制
+起动
+higher vocational education
+设计定型
+地球同步卫星
+detonation wave
+无刷电机
+壁温
+校准实验室
+Attitude
+设计评审
+thermal design
+动网格
+FMS
+Aluminum alloy
+仿真试验
+容错控制
+Guidance
+epoxy resin
+modal analysis
+铣削
+标准实施
+drag reduction
+驾驶舱资源管理
+cryogenic propellant
+超机动
+lean blowout
+ground tests
+训练飞行
+锁紧力矩
+正弦振动试验
+型号研制工作
+军事计量
+active control technology
+深失速
+变质心
+惯性基准系统
+Dynamic inversion
+空间环境试验
+飞机市场
+Lunar soft landing
+直升机事业
+Reliability growth test
+ablation property
+扩张室消声器
+微流星体
+航空自由化
+翼身融合体
+飞行高度层
+海航集团
+波瓣
+维修许可证
+预研计划
+虚拟目标
+direct force control
+计算机订座系统
+微重力实验
+拜科努尔航天中心
+垂直起落
+声衬
+突片
+火卫一
+航空研究所
+电子飞行仪表系统
+高能材料
+Flame stability
+航天元器件
+机翼摇滚
+低空防空导弹
+地球同步
+Jet nozzle
+副翼
+气闸
+平视仪
+验后分布
+precursor infiltration and pyrolysis
+surge margin
+民品质量
+军用卫星通信
+螺纹牙型
+热流计算
+吸力面
+空域规划
+blowing ratio
+cooling blades
+涡扇
+Ground equipment
+民用航空业
+双组元
+GOES
+cooling blade
+counter-rotating turbine
+旋翼技术
+维修大纲
+轨道飞行
+辐照试验
+星载遥感器
+试验技术研究
+自耦合射流
+stitched laminates
+低温疲劳
+lunar surface
+Vibration suppression
+空间辐射效应
+加工孔
+ultraprecision
+TT&C system
+共轴式双旋翼
+直播卫星系统
+近空间飞行器
+Space environment simulator
+军用航空发动机
+轨道位置
+航空电信网
+通信有效载荷
+空中客车飞机
+墨西哥航空公司
+最优航迹
+中国航空技术进出口公司
+红外多光谱扫描仪
+solid motor
+核心发动机
+粘弹性
+温度控制
+corrosion
+small sample
+生存力
+边条翼
+选用目录
+引气系统
+aileron
+通信卫星有限公司
+tail suspended
+推进剂组分
+心血管功能失调
+飞机结构设计
+hot streak
+event related potentials （ERPs）
+三角翼飞机
+aerodynamics characteristic
+flight envelope
+航炮吊舱
+Deployable structure
+Vibration test equipment
+逃逸飞行器
+可重配制造系统
+over the shoulder
+科学试验卫星
+变轨控制
+节律基因
+航天火工装置
+Centrifugal injector
+研制费
+单组元推进剂
+SCI/RT
+外包维修
+滑窗检测器
+姿态敏感器
+TCAS
+飞机故障
+spiral antenna
+轨迹安全
+head down bed rest
+Structural integrity
+Solid rocket
+卫星动力学
+推进剂氧化剂
+flow asymmetry
+integral estimate
+误差控制技术
+dynamic derivative
+bridge function
+推进剂燃烧催化剂
+Fiber reinforced composite
+GPS/IMU
+flow field measurements
+头低位
+circadian gene
+法国航空航天工业
+沙特阿拉伯航空公司
+监视卫星
+decompression sickness
+中途修正
+往返飞行
+航材供应
+carbon carbon composite
+中小航空公司
+任务操作
+impulse wind tunnel
+引信天线
+随机校准
+陀螺加速度计
+二次监视雷达
+导弹舱
+Submarine launched missile
+热混合效率
+Turbine wheel
+Manned space
+工程试验卫星
+再入航天器
+tail-suspension
+Legendre pseudospectral method
+对数法
+suction flow rate
+Flight vehicle
+aerodynamics characteristics
+统计能量分析（SEA）
+显式制导
+aeroservoelastic
+Formation keeping
+double delta wing
+Lithium fluoride detector
+anti G equipment
+thrust control
+event related potentials（ERPs）
+端壁附面层
+Low earth orbit
+space suits
+推进剂配方
+Aerospace material
+bank-to-turn
+midcourse guidance
+空面导弹
+pressure drag
+机场容量
+捷联式系统
+thermoluminescent efficiency
+Communication satellite
+space rendezvous
+旋流杯
+TT&C System
+误差四元数
+Space environment simulation
+主飞行显示器
+closed ecological systems
+金刚石车刀
+unsteady interaction
+dynamic derivatives
+windblast
+空间数据系统
+飞行手册
+冲压进气燃烧室
+行星际探测器
+network softwares
+人的工效
+reusable launch vehicle(RLV)
+Squeeze casting
+机上娱乐系统
+全息平视显示器
+机载火控
+relaxed static stability
+控制增稳系统
+jet interference
+回转通道
+Radar clutter
+无线电测控
+QAR
+electronic beam welding
+Teaching Renovation
+Transfer trajectory
+杠杆千分尺
+通流设计
+助推发动机
+西班牙航空公司
+liquid propellant rocket engines
+闭路制导
+热释光效率
+射流推力矢量
+ignition test
+confidence levels
+射流控制
+反射镜基片
+伽利略木星探测器
+航材成本
+low-pressure turbine
+大型火箭
+stall inception
+排气引射器
+空间微小碎片
+aerodynamic modeling
+翼梢
+Stratospheric airship
+push pull maneuver
+contour evolution
+发动机失效
+性能趋势监控
+历次测试数据
+先进地球观测卫星
+航天继电器
+磨粒流加工
+Erosive burning
+航天舱
+氟化锂探测器
+导管连接件
+轨道分子屏
+航空运价
+Impulse coupling coefficient
+空间环境模拟设备
+计算机辅助零件工艺过程设计（CAPP）
+自动着陆系统
+IHPTET计划
+航天飞机起飞
+实验空气动力学
+G LOC
+磁控制
+主燃油泵
+Docking mechanism
+软油箱
+激光焊
+铸造铝合金
+北航
+Ignition
+光学设计
+疲劳裂纹
+标准件
+参数识别
+机床
+红外辐射
+image processing
+聚酰亚胺
+交付
+摄动
+红外成像
+测量设备
+伺服系统
+Monte Carlo method
+姿态角
+空中加油机
+激波风洞
+航空兵
+空间开发
+composite laminates
+波达方向
+频率选择表面
+微波暗室
+电加工
+探测概率
+flow and heat transfer
+猎户座
+small satellite
+有源干扰
+压力加工
+五孔探针
+Aerodynamics
+underwater vehicle
+numerical investigation
+故障仿真
+科斯
+Navier-Stokes equation
+切削力
+crack growth
+标准装置
+操纵性
+战略导弹
+Transfer function
+大型客机
+testability
+近地小行星
+direct numerical simulation
+COMPASS
+passive location
+modal test
+载人飞行
+扩散焊
+空军装备
+无人攻击机
+中客车
+指挥控制
+dynamic calibration
+高度表
+Brayton cycle
+converters
+electric propulsion
+安全寿命
+payload
+parachute
+武器装备研制
+adaptive Kalman filter
+压力振荡
+Navier Stokes equation
+维修性设计
+余度
+DSMC method
+轨道舱
+混响室
+swirler
+中国卫星
+螺纹中径
+编制与实施
+雷达目标
+心血管系统
+vibration test
+Robustness
+图像配准
+承运人
+hypoxia
+雷神
+experimental investigation
+residual stress
+机械臂
+自动测量
+多变量控制
+高温材料
+发动机技术
+CVI
+thermal barrier coatings
+strapdown inertial navigation
+遥感仪器
+随机漂移
+太阳敏感器
+载人登月
+IETM
+微型飞机
+测控中心
+计划协调
+抗荷服
+木卫二
+MDO
+mixing layer
+剪切层
+天文爱好者
+惯性制导
+声激励
+Helicopter
+地面控制中心
+弹翼
+吊放声纳
+conjugate heat transfer
+axial-flow compressor
+fiber reinforced composite
+测量精度
+载荷
+复合控制
+conceptual design
+机载
+公差值
+cavity
+高速切削
+fatigue test
+刀具磨损
+不确定度分析
+上海航空公司
+月球探测计划
+低轨卫星
+低轨道卫星
+地形辅助导航
+捷联惯性导航
+ignition delay
+空间作战
+双曲型守恒律
+扫描镜
+Target tracking
+Flutter
+天波超视距雷达
+Coupling coefficient
+自主水下航行器
+产品质量审核
+计算机与网络
+ring laser gyro
+reentry
+联邦滤波器
+零重力
+combustion instability
+外差干涉
+heat transfer rate
+多裂纹
+飞行数据
+electronic countermeasure
+cockpit
+高级教练机
+预腐蚀
+成都飞机设计研究所
+综合环境试验
+管理与组织
+卫星移动通信系统
+地球观测系统
+薄壁结构
+reliability assessment
+rotating
+software radio
+三维流动
+推力
+PID
+PID control
+滚动轴承
+螺栓
+blood pressure
+工业标准化
+Turbine
+探测距离
+Control system
+adaptive filtering
+图像匹配
+测控技术
+蜂窝结构
+客机
+GPIB
+数控铣床
+无汞化
+性能衰退
+强跟踪滤波
+雨流计数
+惯导平台
+自主飞行
+Autonomous control
+几何绕射理论
+军用卫星系统
+技术状态控制
+Reliability evaluation
+Heat sink
+白矮星
+侦察直升机
+gravimeter
+自适应阵
+使用可用度
+空射巡航导弹
+阿尔卡特公司
+空间生命科学
+“铱”系统
+比例导引律
+机场旅客吞吐量
+七孔探针
+动力传输
+零质量射流
+Combustor
+Microstrip antenna
+纯镍
+雷诺数效应
+超售
+截击机
+发射成功率
+金属蜂窝
+laser fuze
+radar network
+总体设计部
+空间电源
+inertial platform
+复合因素
+动力学试验
+计量保障
+过载控制
+无陀螺
+计算气动声学
+SiC
+铸件
+nonlinear systems
+复合材
+校准方法
+激光雷达
+Optimal control
+image fusion
+发射率
+减阻
+红外探测器
+system identification
+gene expression
+零件
+高精度
+Turbo码
+airport
+干摩擦
+爆轰
+三元乙丙橡胶
+脉动压力
+寿命估算
+信道编码
+科研生产
+软件工程
+仿真系统
+非线性振动
+试验台
+高职教育
+超精密切削
+燃烧室压力
+高加速寿命试验
+万工显
+大型军工企业
+tip leakage flow
+西北航空公司
+Point estimation
+电视制导
+超塑成形技术
+测试转台
+贵航集团
+国外标准化
+TDICCD相机
+无轴承
+unmanned aerial vehicles
+计量技术法规
+再入大气层
+板金冲压
+研制周期
+二维流
+志愿军空军
+端齿盘
+弹性流体动力学
+小孔加工
+Parametric analysis
+Thermal protection
+雷达散射截面(RCS)
+通用飞机
+双星探测计划
+深空
+通道涡
+旋合长度
+编写规定
+航行通告
+损伤容限设计
+avionics system
+抛物线飞行
+力矩值
+联邦通信委员会
+成立标准
+弯曲叶片
+unsteady flows
+国际海事卫星
+homing guidance
+试验设施
+航天任务
+测控网
+姿态动力学
+老化筛选
+中国三江航天集团
+TDRS
+Passive location
+惯性测量系统
+ship formation
+“沙漠之狐”行动
+燃油雾化
+Infrared radiation
+热等静压
+TiAl合金
+unscented Kalman filter
+地图匹配
+stealth
+lift coefficient
+组合化
+组织与性能
+训练模拟器
+eigenstructure assignment
+灌封
+狮子座流星雨
+电子客票
+VXI bus
+礼炮
+加工变形
+自主神经系统
+flap
+旋转盘
+航位推算
+COTS
+crashworthiness
+PXI总线
+耗油率
+光纤陀螺仪
+光电对抗
+环境试验设备
+腐蚀损伤
+氰酸酯树脂
+Global positioning system
+Transient response
+喷气式
+公务
+空间探测器
+MUSIC algorithm
+密封舱
+Pressure vessel
+卫星技术
+rapid solidification
+稳定平台
+跟踪算法
+millimeter wave
+质量否决权
+遥测技术
+电磁轴承
+敏捷性
+genetic algorithms
+动力装置
+等离子喷涂
+功率谱密度
+计量管理
+有限元方法
+研制生产
+数控技术
+码分多址
+integrated design
+故障模式
+detonation
+situation assessment
+跨音速
+计量测试技术
+磨削液
+超精加工
+试验规范
+振动应力
+尾涡
+电子束固化
+卫星搭载
+Interval estimation
+环路热管
+map matching
+地对空导弹
+Flow control
+总设计师
+数据总线
+流体控制
+太空环境
+非球面
+升力系数
+配平
+薄壁零件
+active magnetic bearing
+人造地球卫星
+控制系统
+仿真模型
+太空
+infrared image
+卫星天线
+系统可靠性
+图像融合
+材料性能
+拓扑优化
+电路设计
+黎明公司
+校准系统
+装备现状
+蜂窝芯
+wall temperature
+空间研究
+静止卫星
+电子战飞机
+rotating disk
+钣金零件
+哈勃望远镜
+Wind tunnel test
+environment simulation
+shock response spectrum
+企业标准体系表
+胀形
+红外相机
+超塑性成形
+Nonlinear control
+夜视镜
+缩比模型
+automatic target recognition
+扑翼
+Metrology
+质子辐照
+气体轴承
+工业计量
+统计能量分析
+加筋板
+国家导弹防御系统
+激光干涉仪
+飞行高度
+升空
+复合加工
+大型飞机
+viscous flow
+多重网格
+目标探测
+制造技术
+横向喷流
+canard
+radar targets
+卫星工业
+导管接头
+中断起飞
+free vortex
+low thrust
+气动损失
+转捩模型
+Ammonium perchlorate
+极高真空
+定额员
+可靠性综合
+作者论
+颤振速度
+pulse detonation engine（PDE）
+示值超差
+变比热
+空中管制
+部件试验
+制导规律
+Integer ambiguity
+惯性测量组件
+地面等待策略
+星系中心
+osteocalcin
+资料部门
+偏流角
+环形叶栅
+倾斜转弯
+model buildings
+发动机结构
+推力偏心
+高超声速巡航飞行器
+小型航空发动机
+GLONASS系统
+检定炉
+卫星系
+自由飞行空间机器人
+航空电器
+总压损失系数
+鸟撞击
+航空结构
+Coordinate measurement
+整体涡轮
+Autonomous orbit determination
+Control law
+飞控计算机
+民航工作
+肺循环
+视频内窥镜
+真实气体效应
+诱导阻力
+定寿
+战斧巡航导弹
+Chattering
+PIO
+升力面
+阳极化膜
+数字化定义
+瑞士航空公司
+热流测量
+胶接修补
+terminal guidance radar
+代理业
+飞机零件
+飞行控制软件
+多次切割
+panel flutter
+试验剖面
+面对空导弹
+气浮台
+非定常分离流
+cascade flow
+抛物化稳定性方程
+戈尔丁
+turbine vane
+燃烧室试验
+predictive filter
+Trajectory design
+环境试验标准
+trapped vortex combustor
+空速管
+复合疲劳
+微型涡轮发动机
+压强指数
+空气喷气发动机
+Near space
+防滑刹车系统
+姿态更新
+thermal control coating
+approximate function
+Silicon carbide fiber
+壁面冷却
+联合技术公司
+自主天文导航
+智能旋翼
+钝锥
+效费比
+aerospace vehicle
+太阳电池翼
+creep
+cooling
+浦东国际机场
+合作研制
+转子系统
+流场计算
+主动控制
+装配
+Simulation
+简谐激励
+多学科优化设计
+carbon/carbon composites
+高压软管
+无迹卡尔曼滤波
+高速撞击
+惯性测量单元
+ceramic matrix composites
+欠驱动
+纺织复合材料
+空间探索
+机票价格
+振动攻丝
+流动机理
+Thermal radiation
+超音速流
+通用动力公司
+推广卡尔曼滤波
+标准贯彻
+environmental simulation
+防喘
+槽液
+旋涡流动
+fluctuating pressure
+dynamic characteristics
+近场
+振动主动控制
+减压器
+冲击射流
+metrology
+柔性铰链
+洪堡
+N-S equation
+相控阵雷达
+元器件
+金属间化合物
+测控
+Mechanical properties
+数据采集系统
+成形
+建立模型
+turbulent flow
+Calculation method
+采用国际标准
+性能预测
+Genetic algorithm
+传递函数
+疲劳性能
+计算流体动力学
+液压系统
+LMI
+STEP
+模型修正
+寿命试验
+Parameter identification
+test technique
+流阻
+数字示波器
+小波分析
+热应力
+isolator
+机身
+可靠性管理
+保障性
+振动台
+述评
+微推力器
+前机身
+车载试验
+H∞回路成形
+运载技术
+solid fuel ramjet
+图形电磁计算（GRECO）
+热镦
+俯仰阻尼导数
+anti-radiation UAV
+基本牙型
+gyroscope-free
+圆锥筒形零件
+turbo-shaft engine
+air refueling
+光电显微镜
+定向有机玻璃
+空战态势
+以色列航空公司
+optimal guidance law
+通端
+空中相撞
+摄动制导
+飞机供电
+天基测控
+失速特性
+flight load
+unsteady aerodynamic force
+oscillating cascade
+flight parameter
+火箭发动机燃烧室
+Air defense missile
+oscillating airfoil
+分度台
+跑道容量
+升降舵
+水下点火
+tabs
+太阳峰年
+单框架控制力矩陀螺
+型号设计
+Celestial navigation
+防热系统
+多级压气机
+综合电子调节器
+关节臂
+S频段
+适坠性
+军民品分线
+飞行轨道
+航空生产
+涡轮工作叶片
+对接系统
+六自由度仿真
+DELMIA
+设计员
+fly-by-wire
+塔台管制
+空间成像
+飞机腐蚀
+PI总线
+osteosarcoma cells
+喷管流动
+翼尖涡
+线性摩擦焊接
+甚高频数据链
+心血管反应
+计算机辅助断层成像
+多星测控
+油膜阻尼器
+防热涂层
+modified double base propellant
+impinging cooling
+多星共位
+Intelligent material
+整体结构工艺
+综合辐照
+驻涡
+型号生产
+运八飞机
+微下击暴流
+大气数据
+谐振板
+高能固体推进剂
+先进飞机
+Contactless measurement
++FPGA
+点波束
+机动突防
+民用型
+复合材料设计
+space environment simulator
+buffet
+attitude updating
+coarse alignment
+milling cutters
+维护手册
+脉冲推力器
+气体喷射
+民航维修
+扩压叶栅
+inlets
+special test equipment
+燃气涡轮起动机
+弹射加速度
+orbit transfer
+型面设计
+轨道测定
+圆锥补偿算法
+静子叶片
+展开试验
+航天遥感技术
+多参数系统
+flexible wing
+动力模拟
+中航第二集团
+安加
+Spalart-Allmaras turbulence model
+Air to air missile
+terminal maneuver
+卫星回收
+重复热处理
+mission analysis
+航天动力
+Antiaircraft missile
+飞行控制律
+Compressor blade
+螺桨
+作动系统
+计算辅助设计
+transcranial Doppler
+美国联邦快递公司
+fuzzy operators
+静不稳定
+冷气掺混
+飞机发射
+Cyanate ester
+Arcjet
+军事通信卫星
+Liquid-propellant rocket engine
+地面试车台
+中枢机场
+attitude control engine
+运输机设计
+Attitude estimation
+方向舵
+航站区
+发射平台
+二次喷射
+作战效能评估
+geostationary satellite
+太空计划
+Observability
+舰载导弹
+运动模拟器
+high dynamic
+姿态误差
+粘接结构
+物理光学法
+月球基地
+静稳定性
+电子战设备
+星载SAR
+稳定回路
+遥测设备
+胶接接头
+时统
+工艺信息
+隔热涂层
+test facility
+飞行测试
+real time systems
+brain function
+衬层
+先进战斗机
+integral impeller
+cardiac function
+non-minimum phase
+被测要素
+半球谐振陀螺
+tip vortex
+标准化
+先进制造技术
+测量系统
+信息战
+decoupling
+空间分辨率
+Fuzzy control
+实时处理
+壳体
+起动过程
+人为差错
+模态参数识别
+滑移率
+参考图
+地球站
+拧紧力矩
+模具
+水声通信
+激光跟踪仪
+标准化水平
+虚警概率
+Aircraft
+分散系数
+智能材料与结构
+spiral bevel gear
+pulse compression
+超声电机
+离子镀
+测量头
+Isolator
+射电望远镜
+北京航空学院
+高压气瓶
+物理仿真
+粘性流
+地球人
+结构响应
+Measurement
+粘接工艺
+feedback linearization
+wavelet transforms
+检定方法
+Shock wave
+心肌
+运动估计
+燃油箱
+粘性流动
+反潜直升机
+aluminum alloys
+Backstepping
+二次流动
+Error compensation
+流体网络
+预燃室
+自动检定
+标准化知识
+三坐标测量
+全球导航卫星系统
+TiAl基合金
+环形山
+砂型铸造
+螺纹紧固件
+自抗扰控制
+parallel mechanism
+航迹
+弹头
+电磁干扰
+effectiveness evaluation
+断裂韧性
+工艺过程
+心电图
+威布尔分布
+超声检测
+wavelet
+蚁群算法
+步进电机
+参数化设计
+微陀螺
+中国周边国家
+Vibration damping
+Constellation
+运载系统
+容错滤波
+冷流
+空防安全
+Hill方程
+试验舱
+火焰稳定
+Roundness
+静子
+antenna arrays
+大气数据系统
+格网法
+MEMS gyroscope
+高级在轨系统
+环境模拟试验
+燃烧不稳定性
+机载激光器
+jet interaction
+折叠翼
+turbine disc
+detection range
+clutter suppression
+航天发射中心
+air traffic flow management
+标准化系统工程
+航天科学
+飞行者
+柴尔德
+主动流动控制
+像移补偿
+Approximate solution
+有源箝位
+球状星团
+热喷涂涂层
+摩托车产品
+air traffic
+涂覆工艺
+相对姿态
+型号命名
+滑动模态控制
+颤振分析
+LCF
+轨道优化
+高速动平衡
+伪码测距
+拦截导弹
+dampers
+共振转速
+抗氧化涂层
+目标截获
+指数值
+碎片云
+Radiometer
+干扰机
+组合加工
+高加速度
+ELID grinding
+高阶精度
+electrostatic levitation
+流线曲率法
+piston engine
+blade vibration
+对流传热
+介电性能
+尺寸公差
+三维流场
+快速傅里叶变换
+cascade
+signal detection
+快速传递对准
+垂尾
+施韦策
+非定常欧拉方程
+侧喷流
+整体估计
+Gauge block
+硅微机械陀螺仪
+铆接装配
+vibrational temperature
+过渡飞行
+航天国家
+镍基单晶
+Thermal control coating
+空气涡轮火箭发动机
+牙型半角误差
+粉末盘
+Relative navigation
+strapdown attitude heading reference system
+bladed disk
+thermal barrier coatings（TBCs）
+卫星业务
+复合材料桨叶
+层板结构
+油车
+单级火箭
+DSMC numerical simulation
+喷气支线客机
+Concurrent
+plasma aerodynamic actuation
+可调叶片
+飞行控制中心
+圆锥公差
+external store
+卫星轨道参数
+超机动性
+撞地概率
+computational aerodynamics
++小波变换
+Stalling
+Computational grid
+直九直升机
+自主交会对接
+clocking effect
+combustors
+飞行试验技术
+屏蔽暗室
+多层隔热结构
+埃及航空公司
+航天器姿态
+carrier based aircraft
+反弹道导弹
+快卸卡箍
+静电陀螺监控器
+总工艺师
+engineering computation
+变速恒频电源
+combined factors
+工艺总方案
+侧壁干扰
+vestibular stimuli
+Relative attitude
+超音速飞行器
+行为规范体系
+民用机场建设
+基元级
+Rate gyroscope
+gust response
+着陆性能
+attack helicopter
+结构随机跳变系统
+solid ducted rocket
+转速摆动
+退移速率
+急性低压缺氧
+综合航电系统
+着陆费
+Reacting flow
+Flexible satellite
+层流附面层
+integrated flight/fire control
+星载软件
+airbreathing hypersonic vehicle
+高空减压病
+开伞过程
+相对轨道确定
+acceleration stress（physiology）
+空地通信
+回收着陆
+内冷通道
+飞行剖面
+变循环
+台架试车
+Composite solid propellant
+导管扩口
+机载火控设备
+Control accuracy
+Low earth orbit satellite
+Orbit dynamics
+头高位倾斜
+aerospace plane
+安全活门
+技术利用
+non-stationary random processes
+预警卫星系统
+human centrifuges
+pressure breathing
+liquid-propellant rocket engine
+直线尺寸
+捷联惯性航姿系统
+操作控制中心
+气膜冷却效率
+签派员
+超声速射流
+aerothermal
+飞机设备
+vertical wind tunnel
+环月轨道
+密集度评定
+涡轮冷却器
+航天动力装置
+马来西亚航空公司
+vasoreactivity
+环氧粘接剂
+自然数系统
+结冰风洞
+宽体飞机
+热流模拟
+导弹电液伺服机构
+Aerodynamic interference
+异方差回归分析
+航天器防护
+起动/发电机
+眼镜蛇机动
+aeroheating
+DSMC数值模拟
+加速度应激
+滑油监控
+型号计量师系统
+propellant binder
+遥感遥控
+航管雷达模拟机
+燃速测试
+绳系卫星系统
+propulsion technology
+bus monitor
+机动飞行器
+发动机推重比
+精对准
+Launch vehicle.
+acceleration stress
+微分修正
+可变推力
+satellite design
+机场发展
+军用手册
+有效载荷重量
+smart rotor
+ECLSS
+机载数据总线
+Inter-satellite link
+化学非平衡流
+fuze warhead matching
+支架干扰
+head-down bed rest
+船号
+空间任务
+平均推力
+射流喷管
+强骨抗萎方
+propulsion control
+气动中心
+大角度姿态机动
+Formation flying satellites
+孔测量
+TBCC
+飞机天线
+energy property
+航天政策
+落塔试验
+照相侦察
+orbital element
+边条涡
+gas generator propellant
+激波损失
+派生发展
+gust alleviation
+座舱显示技术
+液体推进剂火箭
+航天飞机轨道
+Cascade flow
+箱式发射
+data communication systems
+Modal analysis.
+aircraft deicing vehicle
+lower body negative pressure（LBNP）
+管制人员
+lunar orbiter
+大机动
+轨道转移飞行器
+氧化膜处理
+Boundary layer separation
+双时间方法
+桨尖涡
+固体推进剂点火
+卫星出口
+日本宇航员
+航天飞机助推器
+air inlets
+annular cascade
+rocket plume
+无线电制导
+遥测地面站
+飞行签派员
+Interior ballistic performance
+高压补燃火箭发动机
+归零管理
+两栖飞机
+高焓激波风洞
+离散射流
+座舱显示系统
+水滴撞击特性
+碳刹车盘
+运载火箭控制系统
+小卫星编队飞行
+外贸转包生产
+高压涡轮盘
+radar troops
+平行跑道
+底部压强
+rotor wings
+波海航空复合材料部件有限责任公司
+螺纹公差
+固液混合火箭
+空速表
+轴用
+长安航空公司
+disturbing torque
+Ground experiment
+空乘专业
+城市对航线
+Unsteady aerodynamics
+corrosion fracture
+光传飞行控制系统
+波束同步
+实时操作系统
+化学镀
+实时性
+Adaptive control
+OPNET
+读书会
+内螺纹
+薄壁件
+太空望远镜
+运输机
+Phenolic resin
+网络分析仪
+作用距离
+研制费用
+刹车材料
+齿面
+threat assessment
+corrosion damage
+风压分布
+剖视图
+compact scheme
+CFAR
+疲劳曲线
+导弹武器
+energetic material
+跟踪微分器
+承制单位
+自适应结构
+涂复
+feature extraction
+减振
+可靠性分析
+OpenGL
+高职高专
+智能材料
+model building
+临界转速
+误码率
+质量管理小组
+Measuring method
+五角大楼
+军工产品
+target identification
+Station keeping
+Inertial guidance system
+整体叶片
+出口温度分布
+非线性飞行力学
+curved mixing duct
+翼尖加速度
+Proposal study
+传递函数估计
+response control
+开缝衬套
+角速度波动率
+Subsonic inlet
+rocket propulsion
+B/Al composites
+C-SiC coating
+Relative orbit
+Projectile weaving machine
+Oxygen poor fuel rich propellant
+Ir/Re 燃烧室
+antiaircraft missiles
+凝胶模拟液
+dynamic bending moment factor
+火箭发动机试车台
+火箭壳体
+机载光-电火控系统
+Range-Free
+性能试飞
+飞行院校
+ADAMS/Aircraft
+Setting-to-work test
+Ablation property
+仿效创新
+多用途卫星
+Controlled Diffusion Airfoils
+Recursive query
+驾驶舱自动化
+金航网
+Midcourse correction
+warship-based helicopter
+太阳定标
+应力波铆接
+Arc heater
+space environmental effects
+ZSRG
+thrust-vectoring nozzle
+小推力推进
+旋翼试验
+减缩RCS
+飞行员座椅
+高循环疲劳
+飞航型号
+Nascom
+serrated shroud
+回收片盒壳体
+国外地空导弹
+控制舵
+急放
+TT&C Station
++ Environment factor
+fatigue at low temperatures
+系统工程标准
+飞机型号合格审定
+直升机动力学
+畸变发生器
+失速/喘振
+Ablation resistance
+综合航电
+靶场标准
+固体动能拦截器
+Resistance voltage divider
+旋转固体火箭发动机
+风云四号
+Neal-Smith准则
+国外航空发动机
+二维频谱分析
+目视飞行规则
+风洞自由飞实验
+航空发动机转子
+后向攻击
+RTR technique~+
+试车间
+high-frequency combustion instability
+LEX vortex
+航班运行
+空管体制
+双斜切双压缩面
+航天器会合
+冲压空气
+高频燃烧不稳定性
+裂纹初始
+High pressure staged combustion rocket engine
+收敛段
+近场目标特性
+多冲量
+rotating shells
+石墨/环氧复合材料
+液氧/甲烷
+火星观测
+Mobile missile
+约瑟夫森电压标准
+突扩扩压器
+~+表面安装技术
+Explicit guidance
+不稳定飞机
+轴向压缩载荷
+吸力面翼刀
+aerodynamics model
+跨音
+Autonomous rendezvous and docking
+schedule slippage
+turbo shaft engine
+电传飞控
+surface tension tank
+Dual-thrust rocket engine
+光学配准
+大气层外拦截器
+数控制造技术
+火焰筒头部
+动力学环境试验
+绝对辐射校正系数
+爆炸冲击环境
+组合压气机
+粘性/无粘流匹配模型
+推进剂供应系统
+引进标准
+Slide-window detector
+液浮轴承
+controller reconfiguration
+拆换率
+轻型攻击机
+照像侦察卫星
+Mesa burning propellant
+Boost phase
+宇航标准
+low aspect ratio flying wing
+spiral viscoseals
+星-星跟踪
+main fuel pump
+吞鸟试验
+Automated tape-laying
+Real time algorithm
+卫星管理
+Military truck
+scatter factors
+磁泡存贮器
+水上迫降
+小展弦比飞翼
+Water ramjet+
+internal ballistic
+structural life time
+multi element airfoil
+MTD-WVD
+Rubber seal
+Environment forecasting
+Gauss伪谱法
+安全自毁系统
+aircraft systems
+推力级
+ACSEP
+最低设备清单
+试车数据
+辅助驾驶员操纵系统
+液体远地点发动机
+swept back wings
+主被动复合
+Numerically controlled machining
+uninhabited aerial vehicle
+pendulous integrating gyro accelerometer
+高压涡轮间隙
+Propellant pollution
+Trajectory safety
+装调工艺
+封头型面
+地外智慧生物
+起飞助推器
+Distribution load
+油面角
+英国海外航空公司
+Space launch
+航天交会
+进场着陆
+飞行流量
+飞机工厂
+aircraft pilot coupling
+Precise Orbit Determination
+microgravity test
+近距耦合
+S-shaped inlet
+aerodynamic experiment
+回收伞
+自动零件表
+高超音速流动
+~+Matter element analysis
+aerodynamics at high angle of attack
+填空规范
+propellant formulation
+metal diaphragm tank
+solid rocket motor liner
+液体火箭发动机试验
+飞机方向舵
+层板喷注器
+total-pressure recovery coefficient
+区域安全性分析
+performance flight test
+氦系统
+High energy fuel
+维修人员执照
+风洞缩比模型
+Composite propellent
+Gun pod
+gas-gas injector
+层流翼型
+Sun synchronous satellite
+nozzle gas flow
+dump combustor
+星上定标系统
+尾迹面积分
+Orbital transfer
+自主交会
+多目标优化+
+综合飞行/推进控制
+诸元计算
+策划与调整
+Outgassing contamination
+叶轮造型
+oxygen atoms
+机动指令生成器
+Laser-Doppler
+Lift-to-drag ratio
+Propellant management device
+长曲棍球
+综合火力／飞行控制
+Varying specific heat
+微小碎片
+进气道总压恢复系数
+Propellant rheology
+直属航空运输企业
+大气阻力摄动
+周向非均匀
+出气污染
+涡升力
+载人
+Spacecraft power supply
+最优协调性合成
+Rotor speed
+双转子涡喷发动机
+PIGA
+端壁流
+基地维修
+共轴式旋翼
+低排放燃烧室
+ski-jump takeoff
+turbine blade trailing edge
+Composite engine
+EPDM insulator
+containment capability
+复合式直升机
+可控硅效应
+极轨平台
+飞行员模型
+搭接电阻
+primary flight control system
+可变弯尾飞行器
+摆振试验
+加速度因子
+Shenzhou spaceship
+弯扭掠叶片
+阴模型腔
+在轨监测
+低地球轨道环境
+Vehicle performance.
+顺序函数法
+single expansion ramp nozzle
++虚拟仪器
+小型组合夹具
+全飞行模拟机
+Analog system
+lateral and directional flying qualities
+transient liquid crystal
+Molecular contamination
+蠕变/疲劳
+~+摆振
+力学量测量
+wind tunnel scale model
+全局稳定性分析
+Busemann进气道+
+空情想定
+trapped vortex
+热喷流
+Air breathing engine
+推进剂剩余量
+Attitude tracking control
+Test launch and control system
+微量进给装置
+航向操纵
+固态金属相变
+脉冲爆震发动机（PDE）
+Experimental Specialty
+端壁区
+遥测软件
+电磁信号法
+欧洲通信卫星
+非定常风洞
+联盟号宇宙飞船
+Friction drag
+military academy cadets
+低温火箭发动机
+机轮刹车
+真空羽流
+富氧预燃室
+空中交通管制工作
+vortex stability
+印刷电路板工艺
+Finite difference theory
+航空运输集团
+固体推进剂吸气式涡轮火箭发动机
+Midcourse guidance
+LOX/MMH
+结构热试验
+航天器环境试验
+自由飞模型
+Mixed compression inlet
+导航能力
+双环形燃烧室
+地区航线
+Tip leakage vortex+
+空间碎片环境
+涡轮锯齿冠
+自主相对导航
+Error control technique
+非定常自由流
+航空科研人员
+脉冲爆震发动机+
+helicopter dynamics
+引导误差
+fly by light control system
+进气道试验
+工艺专家
+转子出口
+凯芙拉复合材料
+聚晶金钢石
+突扩型燃烧室
+Hill制导
+固体火箭发动机衬层
+model free flight
+起飞推力
+发动机喷流
+弹射筒
+AUSM+-up
+nonlinear flight dynamics
+固体火箭推进剂粘合剂
+Rotary sealing
+rotor wing
+综合航空电子设备
+核心压气机
+multiple control effectors
+Synthetic jet~+
+Cu/Ti/Cu
+natural number system
+钢刹车
+软着陆机构
+平衡卡箍
+nozzle throat
+大气水平不均匀性
+Powdered aluminium
+Micrometeoroid
+Post stall maneuver
+飞机维修业
+recursive Fourier transform
+航空运输局
+Single stage to orbit vehicle
+Starting test
+跨声速翼型
+vectoring control
+飞行性能可靠性
+XML/XSL
+低温上面级
+langfang
+MINS/GPS
+箔轴承
+在经测量
+Afterburning
+turbine wheels
+turbine pumps
+天平设计
+Suborbital launch vehicle
+engine development
+频分制遥测系统
+光谱响应标准
+战斗机发动机
+Propellant antioxidant
+安全性风险评估
+轻合金结构材料
+Space TT&C Network
+Steering law
+航空合成润滑油
+外挂物分离
+Length grating
+防火密封
+π-TFSK
+空间科学计划
+aerospike nozzles
+回流燃烧室
+平面反射镜框
+涵道螺旋桨
+地面数据系统
+飞控仿真
+全金属自锁螺母
+Passive optical network （PON）
+主桨毂
+民航英语
+Leak test
+蓖齿
+impeller/diffuser interaction
+Accelerated iteration
+低温黑体
+Liquid bearing
+有利迎角
+Cobra maneuver
+锁定紧固装置
+气动/机械稳定性
+additive drag
+临界马赫数
+计算机定座系统
+Rocket plume
+超声速燃烧室
+塞锥型面
+热核火箭
+中小机场
+风扇/压气机性能
+unsteady aerodynamic coefficient
+dump angle
+商业飞行员
+embedded grids
+型号飞机
+蜂窝结构板
+翼根弯矩
+进气道畸变
+分区求解方法
+叶间减摆器
+saucer-shaped aircraft
+防松螺纹
+欧洲空间标准化合作组织
+中空管
+应急工作状态
+Kapton H
+scheme analyse
+直升机安全性
+微机辅助测量系统
+液体喷射熄火
+伪光谱方法
+Turbine part
+ultraprecision lathe
+滚模设计
+反推力装置
+finocyl grain
+Missile electro-hydraulic servo mechanism
+Boundary layer suction
+强化混合+
+金属橡胶（MR）
+机载光测设备
+vectored nozzle
+采样成像系统
+试验飞船
+双组元推进剂火箭发动机
+filament wound structure
+helicopter rotors
+unsteady wind tunnel
+Two dimensional flow
+~+液固耦合系统
+轻松喷气
+尾迹畸变
+through flow design
+红超巨星
+Mechanical joint
+瑞航技术公司
+Line standard
+显模型跟踪控制
+reconfigurable flight control system
+support interference
+航天器故障
+system engineering framework
+惰气保护钎焊
+螺旋粘滞密封
+aircraft/store electrical interface
+Deep Space Exploration
+战斗机护航
+aerodynamic stabilization
+刷密封
+Jet impingement
+潜艇发射弹道导弹
+小型机场
+综合热管理
+水滴收集率
+Edge load
+Rotating speed measurement
+航改燃气轮机
+高室压
+端削技术
+high speed wind tunnel
+Missile base.
+吸湿性+
+活动舱盖
+high bypass ratio
+红外多光谱扫描仪（IRMSS）
+太阳反射器
+轨道飞机
+磁控进气道
+专门课
+组织性能试验
+尼龙嵌件
+刹车效率
+Oxygen-poor fuel-rich propellant
+H火箭
+瞄准线误差
+volume dynamics
+复飞决策系统
+SA湍流模型
+altitude simulation test facility
+Formation reconfiguration
+explicit model-following control
+增压舱
+校靶误差
+等离子体火箭
+Altitude characteristic
+试飞测试
+propellant component
+integer order
+双垂尾抖振
+粗糙带
+推进剂相容性
+Formation flying satellite
+vectoring nozzle
+GNC系统
+系统工程框架
+动态弯矩因子
+调相轨道
+位置度公差带
+羽流试验
+侧壁效应
+Satellite operation management
+ground running
+Grid fin
+aeroengine control
+三翼面飞机
+rotor flowfield
+爆炸分离冲击
+涡轮基组合循环发动机
+非定常气动系数
+固体助推器
+vehicular ground navigation system
+不着陆飞行
+挤光器
+落锤模
++环境因子
+垂直起落飞机
+发射包线
+磁试验设备
+公差制度
+喷管烧蚀
+vectoring thrust
+Bailout capsule
+Flow directional detection
+机体/推进一体化
+喷射冲击
+Compound engine
+翼身干扰
+cascade thrust reverser
+卫星轨道寿命
+相移时频调制
+普通工具
+飞行动态
+交付量
+接头装配
+基体螺孔
+改进解析解
+主液压油箱
+sergeants
+Space platform
+impulse orbit transfer
+airborne weapons
+制导误差分离
+fuel control
+GAP粘合剂
+地球资源遥感
+照相电解加工
+总设计
+Boundary layer
+刚度
+非线性规划
+逆变器
+智能控制
+Mathematical model
+刀体
+composite laminate
+浮空器
+最小条件
+侧风
+低温泵
+动力伞
+发射架
+fluid network
+环控系统
+裂纹转子
+Pressure measurement
+Laser welding
+laser propulsion
+近似函数
+雷达干扰
+湍流模式
+交互式电子技术手册
+导弹弹头
+Kapton
+metal matrix composites
+STK
+viscoplasticity
+飞行家
+密封试验
+石英谐振器
+试验研究
+optimum design
+精度分析
+计算机仿真
+肯尼迪
+temperature measurement
+桨叶
+computer aided design
+最佳控制
+大气层
+干扰抑制
+研制
+质量文化
+同轴度
+状态估计
+动力学仿真
+熔模铸造
+强度试验
+外星
+单脉冲天线
+吹砂
+样件
+蟹状星云
+红外导弹
+化铣
+超塑性成型
+数值色散
+杆臂效应
+外星生命
+太阳质量
+electronic controller
+WAAS
+landing impact
+SPOT卫星
+变稳飞机
+无线电高度表
+computational aeroacoustics
+built-in test
+分布型网络
+boundary layer control
+工业信息技术
+国防企业
+光纤总线
+气弹稳定性
+Teleoperation
+IRMSS
+Bonding agent
+Diffuser
+成型铣刀
+响应控制
+反导弹导弹
+Inertial navigation
+综合保障工程
+automatic landing
+失效物理
+飞行器控制
+吸气式
+工艺检测
+战略防御计划
+涡轮部件
+航空燃气涡轮发动机
+电气制图
+试验发动机
+微型扑翼飞行器
+绳系卫星
+微装配
+限制性三体问题
+飞行器制造
+RTM工艺
+研制质量
+激光喷丸
+Atomic oxygen
+飞碟研究
+后机身
+地空导弹系统
+发动机修理
+旅客满意度
+航空气象
+发动机发展
+可测试性设计
+燃气舵
+真空扩散焊
+接收机自主完好性监测
+flow shear stress
+Aerodynamic characteristics
+pressure exponent
+射线望远镜
+wake vortex
+fuel nozzle
+TERCOM
+等温模锻
+Pneumatic valve
+双模态
+三维制导
+MIMO雷达
+平显
+多齿分度台
+跨声速流动
+aircraft structures
+小型直升机
+喘振裕度
+技术卫星
+旋涡星系
+高速数据总线
+动态压力测量
+变推力
+地影
+小天体
+地形数据库
+涡格法
+Aero engine
+室女座
+gust factor
+测试系统
+数据采集
+计算机辅助制造
+标定
+Satellite navigation
+战略弹道导弹
+数字信息处理
+宇航服
+环球飞行
+精车
+Synthetic Aperture Radar
+螺旋天线
+测力
+weapon system
+aspheric surface
+精确制导炸弹
+simulators
+捷联系统
+network centric warfare
+雷达天线罩
+federated Kalman filter
+系留气球
+contractility
+载波同步
+航空相机
+自动检定系统
+隔热屏
+空间光通信
+海南航空公司
+频率捷变
+仿真转台
+JTIDS
+白云机场
+超音速飞行
+睡眠剥夺
+发射技术
+受油机
+Simulated test
+Reliability test
+信号检测
+Weibull distribution
+环境控制
+外层空间
+指令系统
+A*算法
+Trajectory
+伪随机码
+科研计划
+舵机
+Computational fluid dynamics
+calibration method
+超精密
+标准化机构
+孔加工
+传热计算
+data processing
+RDX
+研制过程
+材料标准
+microstrip antenna
+激光烧结
+kerosene
+coherent structure
+S-N curve
+阵列天线
+antijamming
+空域
+成形技术
+JTAG
+automatic test
+衬套
+太阳风
+成像系统
+模型辨识
+惯性矩
+钎料
+vortex flow
+军品
+旋压
+工艺标准化
+雷达天线
+测量标准
+机动性
+混合层
+专用夹具
+高层体系结构
+微细加工
+宇宙辐射
+线性调频
+multisensor
+多处理机系统
+Field programmable gate array
+flexure hinge
+model updating
+防空作战
+弯曲成形
+行波管
+stability margin
+fretting wear
+分度盘
+Verification
+damping
+国民党
+热环境
+冲击载荷
+刀具
+边界条件
+火星
+拉深
+金属零件
+heart rate
+微机械
+DDS
+固化
+动平衡
+动力特性
+数值方法
+弯曲强度
+嫦娥
+检漏
+模态参数
+digital simulation
+Error
+失效机理
+生产指标
+Dynamic response
+Optimization design
+Aluminium alloy
+拉深成形
+数字多用表
+airline
+可靠性数据
+飞行技术
+红外隐身
+月球轨道
+代理模型
+丝锥
+扩展Kalman滤波
+magnetometer
+面元法
+美标
+Vibration analysis
+普拉特
+centrifugal impeller
+最大实体原则
+Satellite communication
+光电经纬仪
+未注公差
+Oxidation resistance
+燃烧速率
+interval mathematics
+base pressure
+航班计划
+thermal control system
+模具零件
+铸造高温合金
+银河系中心
+error calibration
+航空模型
+differential games
+flow field calculation
+北斗导航
+遥感系统
+误差标定
+非线性结构分析
+多级火箭
+谐波减速器
+离心压缩机组
+target classification
+Accelerated life test
+航空管制
+捷联
+骨钙素
+军用电子元器件
+leakage flow
+紊流度
+旋转流体
+kill probability
+固态记录器
+战备完好性
+成组夹具
+恒虚警率
+导弹设计
+马蹄涡
+空间观测
+Propeller
+滚丝轮
+Inertial navigation system
+轨道卫星
+雷达截面积
+S波段
+涡轮导向器
+高超音速飞机
+随机振动试验
+模型修改
+红外干扰
+Wake
+network interconnection
+气动外形
+Cartesian grid
+导航卫星系统
+Theodolite
+cardiovascular function
+姿态
+轴承
+纤维增强树脂基复合材料
+Return loss
+纤维缠绕壳体
+System stability
+富燃料推进剂
+内流特性
+induced drag
+导航误差
+故障预测与健康管理
+vibration tests
+自由涡
+图象跟踪
+二次发射
+挠性支承
+ATN
+成都飞机公司
+定轨精度
+联合定轨
+逆风格式
+零控脱靶量
+Scene matching
+导航与控制
+COTS技术
+单晶叶片
+蒸发循环
+muscle atrophy
+高超音速导弹
+频率基准
+Terminal guidance
+航线飞行
+thrust coefficient
+空间运动病
+变质心控制
+组合冲模
+regression rate
+教学行动研究
+有源相控阵雷达
+grid fin
+世界无线电通信大会
+component characteristics
+国家航空公司
+带表卡尺
+纳卫星
+Differential game
+功率电传
+神舟三号
+空间拦截
+泄漏流
+吸气式发动机
+外弹道测量
+Turbine rotor
+奥克托金
+EGNOS
+落点偏差
+机加车间
+Servomechanism
+乘波飞行器
+infrared guidance
+Orbit perturbation
+Nastran
+电动静液作动器
+变几何
+高压橡胶软管
+切削工艺
+chemical non-equilibrium
+工艺管理体系
+侦察相机
+Reentry
+再入飞行
+bowed blade
+弹道设计
+发动机国产
+工装标准化
+航天制造业
+thermal driving
+宽波段天线
+航空航天飞机
+进口流场
+综合标准化工作
+三座标
+流动干扰
+太阳探测器
+ion thruster
+单兵导弹
+guided missiles
+中制导律
+aerodynamic forces
+无机粘接剂
+矢通量分裂
+机载武器系统
+事业部体制
+stators
+multi-target attack
+Detection probability
+large amplitude
+颤振主动抑制
+月球环境
+稀薄气体流动
+boundary layer suction
+Energetic material
+飞机燃油系统
+新品研制
+紫外敏感器
+铣切
+航空货运站
+transport aircraft
+图像发生器
+滚花轮
+微型涡喷发动机
+煤油发动机
+图形电磁计算
+脉冲爆震
+阵风响应
+anti-stealth
+航空齿轮
+Microwave measurement
+液压伺服机构
+直升机空气动力学
+最优制导律
+近地点
+新航标
+数值研究
+速度测量
+疲劳裂纹扩展
+铝粉
+数字化设计
+Viscoelasticity
+企业标准
+滑模变结构控制
+频率合成器
+nonlinear control
+易损性
+精密铸造
+夹具设计
+Information fusion
+温度传感器
+modeling
+抗干扰
+美国陆军
+飞机试飞
+multivariable control
+dynamic recrystallization
+定轨
+QPSK
+EMI滤波器
+微波集成电路
+降阶模型
+铝合金车轮
+Al-Li合金
+osteoblasts
+强跟踪滤波器
+喷射沉积
+雷达信号处理
+空间谱估计
+树脂传递模塑
+耦合动力学
+哈雷彗星
+epoxy resins
+Uncertainty analysis
+squeeze film damper
+碳复合材料
+angle of attack
+航空队
+空间太阳望远镜
+IMM
+筒形件
+Uncertainty of measurement
+振动分析
+酚醛树脂
+煤油
+无线传感器网络
+temperature control
+embedded system
+MCU
+failure analysis
+性能试验
+冷挤压
+未来战争
+aluminium alloy
+美国海军陆战队
+传递矩阵法
+特征线法
+含能材料
+微处理器
+雷诺数
+运动学
+产品标准
+支持向量机
+工艺技术
+Hough变换
+实体模型
+two phase flow
+车削
+数学模型
+digital signal processor
+结构材料
+热处理工艺
+扩频通信
+工艺试验
+变结构
+LabWindows/CVI
+linear matrix inequality
+研制工作
+谐振腔
+效能分析
+冷却
+不平衡响应
+板料成形
+嵌入式计算机
+组合件
+真空热处理
+纤维复合材料
+训练中心
+木星
+弧齿锥齿轮
+ultrasonic motor
+场发射
+女飞行员
+heat treatment
+Petri网
+太阳能电池
+声发射
+粘塑性
+动态误差
+Sliding mode control
+花键
+协同优化
+actuators
+频率估计
+美国防部
+landing
+综合保障
+过载
+宇宙中
+雷达系统
+零电压开关
+dry friction
+Vibration control
+医疗救护
+心功能
+圆板
+容错
+反隐身
+六自由度
+panel method
+太阳电池板
+压力修正
+激光冲击强化
+螺旋桨飞机
+炭/炭复合材料
+LEO
+微细电火花加工
+空勤人员
+精密零件
+computational fluid mechanics
+重型燃气轮机
+目标特性
+肌电图
+MSK
+小翼
+H ∞ control
+Performance parameter
+flow field measurement
+《标准化法》
+动目标检测
+次质量
+预测滤波
+罗伊斯
+焓法
+output tracking
+吸热器
+现场可编程逻辑阵列
+军用装备
+tactical missile
+公差等级
+卫星广播
+北斗导航系统
+边界层分离
+GEO
+人工时效
+fuel tank
+电抛光
+数字波束形成
+光电跟踪系统
+输出跟踪
+变轨
+新产品研制
+编织复合材料
+环氧复合材料
+equivalent system
+捆绑式运载火箭
+突防概率
+ELID磨削
+定量反馈理论
+orbit design
+微多普勒
+rotor/stator interaction
+政策与管理
+天线系数
+燃油控制系统
+control surface
+trajectories
+electromagnetic wave scattering
+分流叶片
+压气机盘
+blood volume
+反导导弹
+火箭飞行
+紧耦合
+north seeker
+vortex motion
+工程更改
+flowfield
+机加工艺
+角振动
+等效力学模型
+道合并
+锥形壳体
+P/M superalloy
+airborne computer
+航姿系统
+反应流
+impact damage
+航空喷气发动机
+机载激光武器
+可靠性维修性
+地杂波
+正交各向异性材料
+反重力
+可靠性计划
+solar absorptance
+前视红外
+制导与控制
+流动传热
+flapping wing
+flight trajectory
+三级火箭
+工艺技术改造
+膏体推进剂
+地面控制系统
+反隐身技术
+叶片断裂
+落点散布
+Decoy
+velocity compensation
+航空事故
+乘员舱
+Electronic packaging
+质量复查
+民航事业
+工程算法
+陀螺电机
+螺距误差
+实时模型
+导航定位卫星
+相似定理
+air traffic controller
+反雷达导弹
+stress analysis
+压电陶瓷
+D-S证据理论
+TCP/IP
+滤波器
+故障诊断专家系统
+天基
+混合灵敏度
+inverters
+误差传播
+刹车装置
+立式加工中心
+吸波性能
+射流冲击
+Surge
+swirling flow
+质量管理手册
+发动机功率
+computational fluid dynamics(CFD)
+电液伺服系统
+流场模拟
+rotor dynamics
+viscoelasticity
+试验验证
+software engineering
+机械制图
+热变形
+CNC
+Hough transform
+输出反馈
+Structural design
+decoupling control
+space environment
+验证试验
+scheduling
+Test
+高分辨率
+机场
+美国海军
+parameter identification
+动力学建模
+成骨细胞
+软开关
+特征模型
+设计与研究
+particle image velocimetry
+工时定额
+仿真平台
+导航算法
+飞机机体
+偏置动量
+热控设计
+装配协调
+公共航空运输
+chemical nonequilibrium
+作战要求
+最优导引规律
+地面压力
+旋翼飞行器
+两相燃烧
+主动雷达制导空空导弹
+Thermal control coatings
+失效率预计
+弹道式导弹
+试验与鉴定
+turboshaft
+材料复验
+ESGM
+共振应力
+维修差错
+航线选择
+HWA
+准直镜
+动态入流
+钟罩式气体流量标准装置
+结冰试验
+激波诱导
+燃油浓度
+风扇发动机
+圆型限制性三体问题
+状态变量模型
+运输类飞机
+water tunnel test
+钣金工艺
+coning compensation algorithm
+油滤
+吸氧排氮
+飞行攻角
+成对回波
+火星着陆
+星间测距
+飞碟现象
+气动构型
+大方位失准角
+HPL
+空间推进系统
+混合推进
+卫星群
+指尖密封
+立式风洞
+宇宙开发委员会
+TACAN
+密闭舱
+工装生产
+修正罗德里格参数
+porous plates
+vortex ring
+接触式干涉仪
+ECSS
+系留卫星
+marine gas turbine
+双座飞机
+Reaction wheel
+航天史
+T-S wave
+LQG/LTR方法
+attitude error
+solar arrays
+adaptive wing
+nozzle flow
+ignition transient
+supersonic ejector
+压制性干扰
+被动段
+载荷控制
+刚度测量
+电装工艺
+组合畸变
+编队重构
+非定常性
+pulsed plasma thruster
+量仪
+气泡雾化喷嘴
+Environmental testing
+航空绞车
+SDINS
+adaptive arrays
+涵道
+多机场
+疏散星团
+焊核
+前掠
+Observability analysis
+plastic properties
+旋转天平
+直升机控制
+dynamic inflow
+燃烧室性能
+心棒
+航空运输服务
+地面测试
+Image motion compensation
+类试验
+Low Reynolds number
+弹射试验
+螺纹车刀
+冲切模
+亚音速流
+导弹结构
+飞行间隔
+高空试车台
+Galileo系统
+dynamic unstructured grid
+综合飞行/火力控制
+大椭圆轨道
+星体跟踪器
+纵切自动车床
+焊前处理
+gyroscope drift
+blunt cone
+战术运输机
+综合孔径射电望远镜
+Torsion pendulum
+TLP扩散连接
+Satellite attitude
+线纹尺
+工艺装备标准
+Axial compressor
+搜索与救援
+刀具预调
+温度试验箱
+器件可靠性
+Flight simulation
+工艺文件管理
+人机耦合
+Momentum wheel
+代表性体积元
+空-空导弹
+电源分系统
+runway capacity
+飞机除冰车
+借用件
+长尾喷管
+民航法
+涡旋流动
+电火箭发动机
+螺旋桨滑流
+Damage probability
+等离子体气动激励
+空战能力
+卫星通信终端
+MEMS IMU
+波导元件
+Precombustion chamber
+最优制导
+飞行员操作程序
+飞航式导弹
+涵道风扇
+航空有机玻璃
+UG/GRIP
+航位推算法
+Space robot
+飞碟学
+圆柱尾迹
+机翼油箱
+自愿报告系统
+diagonal method
+武器火控系统
+太阳观测卫星
+指令舱
+校靶
+Magnetic control
+terminal guidance law
+combat aircraft
+展成电解加工
+CCRP
+重量估算
+高超音速飞行
+拉深零件
+空间碎片防护
+internal ballistics
+立铣
+airfoil design
+脉冲试验
+标准测力仪
+变推力发动机
+载人航天飞机
+民航运价
+直接物理模拟
+卫星固定业务
+Range profile
+选用范围
+海洋监视
+空间运输
+撞击效应
+遥感相机
+flight data recorder
+端壁翼刀
+endwall fence
+air traffic flow
+Low-thrust
+proportional guidance
+畸变流场
+叶栅实验
+combustion flow field
+火箭冲压发动机
+无尾飞机
+微细铣削
+等离子隐身
+高职高专教学
+WIG craft
+（有向）面积
+惯性摩擦焊接
+Ground to air missile
+mismatched uncertainty
+aircraft manufacturing
+贝叶斯假设
+flight training
+Auxiliary agent
+成像仪
+fault detection and diagnosis
+欧洲联合
+光流场
+钝体
+火箭推进剂
+DNC
+陀螺力矩
+atmospheric turbulence
+地面模拟
+MTF
+贴体网格
+晶体振荡器
+弯曲力矩
+战斗机飞行员
+激光跟踪
+物理光学
+high-speed train
+impingement
+气膜
+reliability engineering
+石墨纤维
+关键技术
+nonlinearity
+试验方法
+平面度
+焊接
+dynamic stability
+碳纤维
+拉伸性能
+QC小组活动
+频谱分析
+active control
+multi-objective optimization
+极大似然估计
+Signal processing
+model identification
+power spectral density
+laser cladding
+动应力
+concurrent engineering
+起飞
+Damping
+粒子图像测速
+标准化研究
+基础标准
+起动试验
+撞击试验
+轨道预报
+PMR
+大机场
+成像算法
+Thermal environment
+强力旋压
+track initiation
+雷达杂波
+电动舵机
+流动换热
+高雷诺数
+互耦
+湿度发生器
+丝材
+surrogate model
+亚声速
+发动机厂
+激光成形
+Modal parameter
+自准直仪
+Fatigue failure
+火力分配
+shear layer
+优先数系
+地球同步轨道卫星
+splitter blade
+不变流形
+Viscoelastic
+antennas
+标准对照
+时间生物学
+不可压缩流动
+缠绕工艺
+flow mechanism
+航天食品
+变形铝合金
+“当前”统计模型
+任务可靠度
+火焰稳定性
+无汞
+自适应
+environmental control
+切削用量
+Thermal conductivity
+coating
+淬火
+PCI总线
+模拟电路
+硬质合金
+Wavelet transform
+可压缩流动
+太阳耀斑
+flight safety
+辐射校正
+客运量
+direction of arrival
+Ultrasonic testing
+双马来酰亚胺
+标准化系数
+Reaction kinetics
+现场校准
+自标定
+structural vibration
+刚柔耦合
+导弹技术
+LDPC码
+InSAR
+裂纹扩展寿命
+performance calculation
+总体参数
+strong tracking filter
+stealth technology
+轨道参数
+应力集中
+总公司
+总体设计
+多线程
+光栅
+质量体系认证
+injector
+改型
+激光测量
+condition monitoring
+扩频
+减速伞
+unsteady aerodynamic
+模拟器训练
+跨音速流动
+body-fitted grid
+detection distance
+Ignition delay
+华沙公约
+对焊缝
+哈尔滨飞机制造公司
+Complex permittivity
+塑料工艺
+airborne equipment
+磁悬挂天平
+叶高
+Whipple shield
+Coordinate measuring machine
+导弹发动机
+校正网络
+飞行汽车
+光学陀螺
+streamwise vortex
+油量测量
+苏联飞行员
+Virtual test
+测压试验
+MEMS accelerometer
+激光导引头
+燕尾榫
+未来空战
+electron beams
+中国东方航空股份有限公司
+Flow rate measurement
+monopulse radar
+interlaminar shear strength
+mistuning
+外物损伤
+GMTI
+蜂窝电话
+pre-corrosion
+涂料保护
+virtual target
+Laser measurement
+意识丧失
+thermochromic liquid crystal
+heavy-duty gas turbine
+Space technology
+工艺研究院
+航天试验
+涡轮风扇
+输流管
+稳态工况
+地球静止卫星
+N S equations
+可观性分析
+质量矩
+推力损失
+低压缺氧
+Trajectory planning
+天线馈源
+APU
+轨道要素
+静频
+低膨胀合金
+moving blade
+Aluminum matrix composite
+flywheels
+takeoff
+火箭模型
+表面带电
+帧同步器
+超远程
+检测前跟踪
+Gyro
+inertial guidance
+无线电罗盘
+Resistance spot welding
+horseshoe vortex
+最优轨迹
+快速优化
+MSC/PATRAN
+继电器盒
+GFSINS
+Laser gyro
+空间环境探测
+总工时
+图像制导
+星下点轨迹
+焊接裂缝
+tactical decision
+momentum wheel
+liquid propellants
+飞行员训练
+空气雾化喷嘴
+力标准机
+模拟月壤
+气象火箭
+螺纹长度
+自动气象观测系统
+cryosurgery
+observability analysis
+近距空战
+燃油流量
+舱段
+Inconel
+head-up display
+航空院校
+马赫盘
+喷雾推进
+毛坯直径
+Numerical simulations
+大气阻力
+micro-thruster
+绝缘工艺
+autonomous underwater vehicle(AUV)
+航天器轨道
+捆绑火箭
+数字滤波器
+热流
+热膨胀系数
+发射机
+动态测量
+变换器
+PWM
+控制规律
+dynamic mesh
+故障识别
+高温氧化
+多普勒雷达
+Electromagnetic compatibility
+点估计
+空间辐射
+数字存储示波器
+焊接设备
+虚拟试验
+flow resistance
+卷积码
+裂纹扩展速率
+Cascade
+隐身材料
+雾化特性
+turbulence intensity
+卫星移动通信
+TIG焊
+maneuver
+腐蚀控制
+螺纹加工
+特种工艺
+随机噪声
+螺栓连接
+可靠性评定
+雷达波
+视情维修
+极限偏差
+H_∞控制
+强化换热
+检定装置
+燃烧模型
+量具
+shape memory alloys
+压力容器
+stainless steel
+propeller
+simulator
+解调
+电子设备
+电源系统
+人机系统
+反射镜
+方案论证
+工装
+通讯员工作
+space radiation
+机场候机楼
+flow field simulation
+航空燃油
+多功能显示器
+测量船
+碳氢燃料
+卫星导航定位
+诱导速度
+buffeting
+clutter
+国际机床展览会
+environment test
+复杂曲面
+H∞ filter
+发射试验
+低密度奇偶校验码
+turbine blades
+瞄准线
+单片处理机
+电动振动台
+寻北仪
+试验段
+宇航局
+Fault tolerance
+supportability
+技术成熟度
+位同步
+Measuring technique
+英语教学
+任职教育
+载荷分析
+fault-tolerant control
+镍基高温合金
+tool wear
+动响应
+刃磨
+Measurement uncertainty
+interferometry
+Atomization
+实时控制
+最小二乘
+动力响应
+乘务员
+Rotor
+fatigue damage
+宇宙空间
+磁性能
+control systems
+南联盟
+surge
+压电材料
+焊接工艺
+测距
+程序系统
+数字通信
+servo system
+CAM技术
+重力梯度
+Flow visualization
+机动导弹
+工艺人员
+叶片造型
+laser ignition
+proton irradiation
+laser guidance
+修理方案
+火星大气层
+微型直升机
+microelectromechanical system
+H_∞滤波
+Fracture strength
+推力系数
+flight delay
+compressor blade
+商品化和产业化
+random drift
+产品寿命
+发动机噪声
+fiber-optic gyroscope
+蒸发管
+预旋
+超声加工
+火控
+exhaust plume
+叶片型面
+发动机壳体
+铺层设计
+行星地球
+高分辨率卫星
+大跨屋盖
+原子频标
+民用客机
+极限环振荡
+偏航控制
+加速度表
+quantitative feedback theory
+舵面
+悬吊
+多余力矩
+ENO格式
+燃油附加费
+谢泼德
+双星定位系统
+热工艺
+孔组
+satellite constellation
+微喷管
+作战实验室
+野值剔除
+载机
+验前信息
+数据合成
+drop test
+fan blade
+发动机振动
+Drag
+施米特
+RAIM
+数据传输
+TiC
+telemetering
+喷射成形
+拉刀
+公差原则
+试验程序
+upwind scheme
+相控阵
+成形模
+real time simulation
+热线风速仪
+DOA
+水下航行器
+图像序列
+量规
+rolling bearing
+磨料
+切削参数
+正交各向异性
+powder metallurgy
+expert systems
+组合体
+IRST系统
+electro-hydrostatic actuator
+airborne fire control
+钱币正面
+low aspect ratio
+双样预测
+rotating fluid
+shock wave/boundary layer interaction
+搭接件
+临床监护
+On-orbit servicing
+红光照明
+平截
+航天器污染
+撞击式喷嘴
+高速气流吹袭
+机头罩
+judiciary authority
+环境适应性设计
+合成视景系统
+Launch window
+轨道拦截
+网格标识
+机载发射
+再入轨道
+life tests
+星孔药柱
+维修生产
+LTPB
+thermal vacuum
+压力感受器反射
+strapdown inertial measurement unit
+组合叶栅
+留空时间
+陀螺动力学
+Spoiler
+无尾桨
+dynamic posture equilibrium tests
+航天清华卫星技术有限公司
+防热罩
+奇偶方程
+轴对称喷管
+叶栅损失
+Exterior ballistic measurement
+hypersonic wind tunnel
+测控应答机
+航班超售
+space capsules
+推力增益
+Jet engine
+铝合金熔化炉
+稳定裙
+模型自由飞试验
+套扣
+篦齿密封
+visual discrimination
+radar reflection
+相关公差
+三轴气浮台
+Boundary layer transition
+acoustic liner
+Compound guidance
+进口畸变
+reentry body
+混压式进气道
+超精研磨
+Unmanned Air Vehicle(UAV)
+直接升力
+超声心动描记术
+转动壳体
+multi-stage compressor
+Manned spaceship
+inertial instruments
+Calibration equipment
+工具编码
+Sabatier
+抗荷裤
+离子火箭发动机
+flight measurement
+视觉分辨
+轴流压缩系统
+共轴双旋翼
+hydroxyl terminated polybutadiene propellant
+抗荷系统
+thermal visualization
+流场校测
+Delaunay graph
+飞机状态监控系统
+亚音速扩压器
+flight program
+Hexogen
+适航审查
+航空展览
+内部冷却
+array radar
+航天物资管理
+location discrimination
+肌功能
+旋翼试验塔
+飞行实验
+近音速
+首翻期
+航空交通管制
+dynamic stability derivative
+Helium refrigerator
+欧洲遥感卫星
+arc heater
+短舱
+导航计划
+民航院校
+瞄准方法
+性能预示
+无线电陆空通话
+惯性敏感器
+altitude characteristics
+mean rank
+unsteady calculation
+control problem
+下滑线
+Force standard machine
+Spot图像
+戴煦数
+试验飞行器
+加拿大皇家空军
+fuze antenna
+集成化CAPP
+cockpit display
+Ｘ射线望远镜
+航天回收
+target threat
+骨肉瘤成骨样细胞
+鸟撞试验
+stratospheric
+aircraft manufacture
+插拔装置
+Ni-based single crystal superalloy
+Hypersonic cruise vehicle
+two-level maintenance
+aerodynamic window
+hypobaric hypoxia
+Correlation property
+microwave circuits
+超快变换
+straight round pipe
+姿态匹配
+transonic velocity
+甚长基线干涉仪
+Bistatic SAR
+聚氨酯橡胶模
+元器件信息
+重于空气的航空器
+Fatigue load
+cascade loss
+军机研制
+EEG state complexity（CS）
+飞机维修人员
+霍尔推力器
+共轴式无人驾驶直升机
+新华航空公司
+Mass distribution
+Zero effort miss
+solar electrical energy generation
+地球反照
+Verification method
+监控显示系统
+枢纽辐射
+Pulsed plasma thruster
+天然金刚石刀具
+Flight dynamics
+计算机辅助设计-制造一体化
+万山特种车辆制造厂
+频率变换器
+出口温度场
+stability and control
+适航认证
+转捩流动
+流向测量
+子午扩张
+axial flow compressors
+导梭齿
+旋翼翼型
+气体二次喷射
+弹性轴承
+过载测量
+microwave integrated circuits
+遥测应用
+Acceleration physiological effects
+VPORT
+direct collocation method
+和平保卫者
+散度系数
+post-stall maneuver
+satellite carrying
+MTU公司
+符合性检查
+Structural design.
+印制电路板工艺
+MAP-CA
+composite blade
+Ducted rocket
+conic surface
+偏航力矩
+Vehicle classification
+西安飞机设计研究所
+航天器天线
+flight control law
+角区分离
+Short fiber
+unmanned air vehicle(UAV)
+三级维修
+cardiovascular regulation
+共线平动点
+航行管制
+control moment gyro
+non steady flow
+Rocket exhaust
+电动击实仪
+Subject terms
+endwall
+aerodynamic missile
+空间环境模拟技术
+敏捷性管理系统
+划船误差
+硬阳极化
+测发控系统
+hybrid grids
+accessory gearbox
+finger seal
+Space Object
+general specification
+爆破压强
+Rotation vector
+微推力
+储箱
+发动机排气温度
+国际租赁融资
+币状裂纹
+Gravity-assist
+thrust vectoring nozzle
+机载电子战设备
+automatic dependent surveillance
+水下发射试验
+飞行记录器
+防喘控制
+有效载重
+Parameter recognition
+tandem helicopter
+肺弥散量
+导弹振动
+工艺文件质量
+民航华北空管局
+中心锥
+C-SiC涂层
+工业产品质量责任
+标准文献管理
+失速起始
+Strapdown inertial measurement unit
+伴星系
+电弧喷射推力器
+弹头回收
+propellant rheology
+救生技术
+低循环疲劳试验
+速率陀螺仪
+Estimation theory
+升力风扇系统
+Atomic Oxygen
+ejection seats
+Weightless simulations
+空域结构
+滚动光栅
+后肢去负荷
+组合玻璃
+校准箱
+航空电子工程委员会
+失效判定
+全体机组人员
+Environment simulation
+Moon exploration
+Nd：YAG激光器
+Rocket engines
+Earth oblateness
+Geostationary orbit
+界面脱黏
+extraneous torque
+wind tunnel wall interference
+耐高温复合材料
+航天企业集团
+气候环境试验
+洪都航空集团公司
+Aerospace vehicle
+车辆地面导航系统
+Initial orbit determination
+Penetrant testing
+CPFSK
+纤维铺放技术
+事故调查委员会
+整体传递矩阵法
+Faultdiagnosis
+大板式方舱
+导螺
+C标尺
+微小推力
+助推段截击
+线性检波
+地面模拟设备
+巡航机
+myocardial contraction
+elastohydrodynamics
+推进剂储存
+aircraft conceptual design
+失重生理效应
+精密镜面磨削
+triangulation nets
+挤压棒
+航空电子软件
+gasfilms
+SDRE
+airborne weapon
+近似误差公式
+尾部悬吊
+完整性大纲
+H infinity control
+chemical non equilibrium
+网状聚氨酯泡沫
+地面支持设备
+自转旋翼
+引战系统
+机场属地化
+弹用涡轮喷气发动机
+扩稳
+机载电子
+叶片排
+Al-Cu-Mg-Ag
+ducted rocket engine
+软件编码标准
+Energetic property
+完好性监测
+桨毂
+JBC
+涡轮设计
+exobiology
+沿航迹向干涉
+航空货运企业
+parabolic flight
+装配扭矩
+微分求积单元法
+metrological confirmation
+起落架设计
+地外生物学
+Smokeless propellant
+噪声消隐器
+Attitude sensor
+Pressure reducer
+弹性修正
+Trajectory calculation
+decentralized filter
+human tolerance
+Pyroshock
+阻抗容积图
+定向结晶材料
+导弹安全
+航天工程应用
+功能模拟器
+Large-eddy simulation
+动基座对准
+气动-推进性能
+Aerodynamic configuration
+退步控制
+战伤修理
+Hot isostatic pressing
+Aircraft design
+无喷管助推器
+金属基超硬磨料砂轮
+整体式火箭冲压发动机
+push pull effect
+燃气二次喷射
+controlled ecological life support system（CELSS）
+damage tolerance design
+精确进场
+头立位倾斜
+四角误差
+放射保护药
+Strapdown system
+飞行驾驶员
+中国民航运输业
+航空飞机
+航天器推进系统
+Debond
+风扇/增压级
+vestibular function tests
+在轨标定
+可溶型芯
+相对辐射定标
+螺纹牙底
+远程空空导弹
+热处理保护涂料
+hypervelocity impacts
+multi channel synchronization
+有机溶剂清洗剂
+校准试验
+Inertial instrument
+vortex sheet
+Impact tolerance
+actuator disk
+空气动力学实验
+虚拟卫星
+extravehicular spacesuit
+静电放电器
+Acceleration performance
+thrust augmentation
+GLONASS卫星
+P-δ曲线
+宽带卫星
+排气扩压器
+轨道机动发动机
+rib turbulator
+涡轮冷却叶片
+在线电解修整（ELID）
+金刚石铰刀
+双啮检验
+seven-hole probe
+stabilization loop
+可控翼伞
+sustained acceleration
+失速先兆
+平板叶片
+登月飞行
+疲劳（力学）
+除冰系统
+数字式控制
+时域有限体积法
+steering law
+safe life
+液冷发动机
+空间发动机
+over-the-horizon radar（OTHR）
+民航业发展
+Method of work
+dynamic base
+洞壁干扰修正
+径向掺混
+航空供氧系统
+呼吸力学
+空军军官
+attitude errors
+弹道最优化
+Relative orbit determination
+故障期
+GAlib
+high-aspect-ratio wing
+航空材料技术
+氢氧火箭发动机
+水管清洗
+Aircraft manufacturing
+测控体制
+应用标准化工作
+产品明细表
+equivalent rotation vector
+气冷叶片
+Interlaminar shear strength
+无腐蚀钎剂钎焊
+模型直升机
+边缘载荷
+晕轨道
+suction location
+图样绘制
+Proposal research
+姿态跟踪控制
+combined cascade
+无喷管火箭发动机
+solid propellant grain
+复合材料蒙皮
+失速尾旋
+C_f/SiC
+environment spectrum
+航天器电源
+computer aided tomography
+head-down tilt
+调拨单
+orbital dynamics
+电厚度
+停滞劳动
+method of moment （MOM）
+sculling error
+SRPP
+radioprotective agents
+冶金试验
+瞬态热流
+风车特性
+垂直着陆
+试验问题
+偏斜拉伸
+组合机床生产线
+cryogenic wind tunnel
+Coaxality
+integrated avionic system
+combustor design
+编队保持
+卫星无线电导航业务
+变推力火箭发动机
+地磁亚暴
+全电刹车
+μ analysis
+机载产品
+相位翻转
+engineering simulator
+列表点曲线
+Contamination control
+Combination engine
+水升华器
+高温燃气
+火星探测任务
+一般解析解
+Lunar satellite
+Swirl
+gyro motor
+长半轴
+辐射与对流耦合换热
+液体火箭推进
+strain-gauge balance
+持续性加速度
+非线性气动弹性
+Fluid management
+Dai Xu numbers
+Stable combustion
+灰背隼
+飞行器总体设计
+滚压时间
+机载显示器
+反向喷流
+飞行（飞机）
+多导同步
+飞轮
+stress concentration
+computer graphics
+工业工程
+digital signal processing
+密封
+performance analysis
+成型工艺
+开关电源
+interpolation
+卫星遥感
+并行计算
+企业文化
+critical speed
+航标
+梯度功能材料
+显示系统
+nonlinear vibration
+高速钢
+静电放电
+D-S evidence theory
+焊接接头
+UG
+microgravity
+supersonic
+计量标准
+垂直起降
+WENO格式
+雷达回波
+TiAl alloy
+柔性制造技术
+脱层
+Stewart平台
+换热特性
+阻尼减振
+inverse design
+shot peening
+液压成形
+LQR
+感应同步器
+实时模拟
+titanium alloys
+GPS卫星
+滚珠轴承
+弹性性能
+测控站
+紫外辐照
+球头
+航空领域
+VXIbus
+流动测量
+测速雷达
+微观力学
+总体部
+地球空间
+Practical Teaching
+叶冠
+二基
+气动测量
+柔性接头
+发动机模型
+潜射弹道导弹
+鲁棒滤波
+机库
+辐射发射
+经颅多普勒
+爬坡能力
+拉深模
+气动参数
+铺层
+帆板
+Gas flow
+导航战
+pressure reducing valve
+μ综合
+机床发展
+Elastomer
+战场抢修
+激光点火
+全寿命费用
+低能见度
+thruster
+混杂复合材料
+Silicone rubber
+发射基地
+Interferometer
+incomplete data
+交互多模型
+史前文明
+监管办
+大型射电望远镜
+自由振动
+耐蚀性
+接触应力
+image compression
+吞吐量
+anti-jamming
+biomechanics
+图像编码
+激光熔覆
+小样本
+Surface roughness
+finite element methods
+疲劳断裂
+ARM
+冗余
+企业管理
+功率谱
+哥伦比亚
+error analysis
+企业信息化建设
+飞艇
+心率
+Algorithm
+surface roughness
+参数分析
+质量管理体系
+serial communication
+直线度
+Bayes估计
+刀具材料
+罗尔斯
+电磁环境
+压力脉动
+银河系
+洲际导弹
+infrared imaging
+暗物质
+preconditioning
+系统识别
+锻件
+多普勒
+Method of moment
+TiAl based alloys
+旋转管道
+稳定化热处理
+Satellite attitude control
+interception probability
+发射控制
+惯性元件
+ammonium dinitramide
+Ku频段
+morphing aircraft
+compressor rotor
+飞行员选拔
+电子束焊接设备
+predictor-corrector
+空间对接机构
+飞机刹车
+涡核
+化学非平衡流动
+maneuvering decision
+exterior ballistics
+整星隔振
+航空备件
+飞机控制系统
+低压舱
+月球重力场
+midcourse guidance law
+主动雷达制导
+机载传感器
+infrared lamp
+Resin matrix composite
+metal parts
+飞行原理
+潜无穷
+tab
+指控中心
+型号软件
+electronic jamming
+余度技术
+技术制图标准
+地面运动目标指示
+protons
+C/C composite material
+机载雷达罩
+离子推力器
+化学反应流
+防热层
+turbine stage
+Flexible body
+C频段
+pasty propellant
+航空快递
+型号系统
+封严涂层
+质量文化体系
+生物卫星
+NMD系统
+operational profile
+微扑翼飞行器
+多输入多输出雷达
+电子束钎焊
+control moment gyroscopes
+aerospace medicine
+双时间法
+再入段
+Digital oscilloscope
+Stall
+航空人员
+近地卫星
+导弹攻击区
+空间定向
+结构腐蚀
+事件关联电位
+lap joint
+含硼推进剂
+几何量测量
+战伤评估
+starter/generator
+machining distortion
+材料疲劳
+空战模拟
+搜索概率
+联合滤波
+复合式发动机
+航空无线电
+Satellite network
+intuitionism
+中性浮力
+螺纹装配
+liquid hydrogen
+Deployable antenna
+winglet
+Multiprocessor system
+舰船运动
+Stress-intensity factor
+同步气象卫星
+高速加工技术
+Pilotless aircraft
+威布尔过程
+指令制导
+返回式遥感卫星
+ablative material
+滤波发散
+fault prognostics
+导电滑环
+vector observation
+砂轮磨损
+early warning satellite
+增稳系统
+电化学去毛刺
+直接模拟蒙特卡罗方法
+辅助导航
+assignment problems
+pressure sensitive paint
+全球航空公司
+水流试验
+喘振边界
+全球星系统
+轻型燃气轮机
+对角线方法
+store separation
+数字射频存储器
+冷却通道
+image guidance
+Strapdown inertial navigation
+阶段设计
+inertial navigation platform
+加热切削
+internal performance
+赋形波束
+壁温计算
+Cavity resonator
+原恒星
+Spaceborne SAR
+buzz
+纤维增强金属基复合材料
+空间操作
+旋流发生器
+Turbulent combustion
+potential infinity
+激光通信系统
+转包商
+分包遥测
+捷联航姿系统
+Newton-Raphson
+气动弹性稳定性
+宇航工业
+stiffened panels
+phase locked loops
+弹道特性
+Nielsen数
+热光学分析
+航空火力控制系统
+雷达探测范围
+调压铸造
+气动耦合
+blisk
+天文导航系统
+斜流叶轮
+弹簧试验机
+机队规划
+笛卡尔网格
+防差错设计
+特征向量导数
+地球敏感器
+passage vortex
+夜间战斗机
+加强框
+振动温度
+light aircraft
+小型无人直升机
+小模数
+稳定性评定
+腐蚀断裂
+shroud
+radar fuze
+laser-guided bomb
+开放式系统结构
+tailless aircraft
+maneuver flight
+综合要求
+镗刀
+医学评价
+美国麦道公司
+Aerospace
+综合航空电子
+批生产过程
+Elliptical orbit
+bones
+比推力
+radar networking
+非定常计算
+民用飞机市场
+红外遥感器
+低温风洞
+GL Studio
+electric machine design
+间隙流
+红外成像导引头
+切矢
+附件机匣
+Ada语言
+一体化优化设计
+air vehicle
+Angle of attack
+气动窗口
+气热耦合
+标注方法
+AMESim
+heat sink
+多光谱
+喷丸
+运动规划
+心轴
+impinging jet
+爆轰波
+动力机械
+分系统
+reconfiguration
+累积损伤
+脑功能
+可靠性分配
+自适应滤波器
+特种加工
+嵌入式系统
+全面质量管理
+惯性测量
+国际航空
+燃油喷嘴
+劳动定额管理
+钻模
+公斤力
+零偏
+民用产品
+PXI bus
+海洋大气
+速度匹配
+ATLAS
+同步卫星
+新型飞机
+单脉冲
+铍青铜
+blood flow
+美国东部时间
+通信服务
+characteristic model
+smoothed particle hydrodynamics
+STEP-NC
+Monte Carlo methods
+弹性振动
+Leak detection
+error separation
+飞机制造业
+多光谱图像
+空气动力特性
+太空垃圾
+弯曲模
+无源干扰
+飞机着陆
+冲击谱
+模型跟踪
+CAPP系统
+微波测量
+neurons
+符合性
+automatic testing
+Residual stress
+航空煤油
+救生
+EPDM
+频率稳定度
+相干结构
+休斯
+active vibration control
+高等职业教育
+多目标
+旋涡
+芳纶纤维
+image matching
+配准
+晶粒细化
+网络控制系统
+压力计
+噪声测量
+test equipment
+要目
+自动校准
+孙中山
+改进型
+UML
+产品设计
+ADN
+土星环
+拦截试验
+椭球封头
+光亮电镀
+拉深件
+定型试验
+技术专科学校
+改善因子
+magnetorheological finishing
+编队控制
+红外望远镜
+工具管理
+像移
+移动卫星
+燃气射流
+零偏稳定性
+radar target recognition
+双星定位
+航迹相关
+标准化效果
+作战使用
+bistatic radar
+机载合成孔径雷达
+运输直升机
+定数截尾
+航空机
+简化画法
+刀具破损
+热习服
+国际空间法
+疲劳寿命试验
+脉冲爆轰发动机
+展弦比
+制订标准
+动力学环境
+旅客机
+relative navigation
+卫星位置
+geomagnetic navigation
+金属化孔
+anaerobic threshold
+aerodynamic load
+出流孔
+复合材料补片
+航空制造工程
+UKF滤波
+空间光学遥感器
+Stereo vision
+开放天空
+wind pressure distribution
+北斗导航卫星
+矢量观测
+ring laser gyroscope
+Pareto genetic algorithm
+潜地导弹
+民用航空运输
+地效翼船
+机床工具行业
+珠海机场
+X射线望远镜
+验收极限
+表面清洗
+等温成形
+Error model
+threat evaluation
+微重力科学
+地外生命
+Viscous flow
+镀镉
+automatic test equipment
+角闪烁
+综合导航
+高阶格式
+laser gyroscope
+天津机场
+推迟到
+直升机桨叶
+西欧联盟
+engine model
+水剂清洗
+洛氏硬度计
+面孔识别
+铝合金锻件
+pilotless aircraft
+distributed networks
+光电制导
+Aero-engine
+vibration stress
+security of data
+dynamically tuned gyro
+扰流板
+medical monitoring
+高能量密度材料
+水陆两用飞机
+flexible spacecraft
+民航飞行
+X-ray pulsar
+不可压流
+Pareto遗传算法
+Fault simulation
+Cf/SiC复合材料
+瑞安航空公司
+integrated logistics support
+plasma diagnostics
+BTT
+红外地球敏感器
+synthetic aperture radar （SAR）
+pulse tube cooler
+多处损伤
+三维边界层
+基准孔
+内花键
+CBN grinding wheel
+概率数据关联
+灌封胶
+二级火箭
+atomization
+非接触测量
+Coating
+辐射效应
+哥伦布
+PID控制器
+actuator
+激光焊接
+adaptive filter
+CAD
+阻力系数
+数字滤波
+optimal design
+图像压缩
+粘接
+DOA估计
+偏二甲肼
+自动化测试
+阵列信号处理
+奥德赛
+动力试验
+熄火
+grid generation
+空中客车
+气象观测
+man-machine system
+雷达图像
+CIMS工程
+五年制高职
+vortex shedding
+Accuracy analysis
+匹配滤波
+MUSIC算法
+fan
+power spectrum
+坐标转换
+管路
+拦截
+gear
+阳极氧化
+螺纹
+有限元素法
+频率测量
+分辨力
+光学测量
+等效腐蚀损伤
+sidewall compression scramjet inlet
+单级入轨运载器
+悬挂刚度
+仪表进近程序
+悬停性能
+Lightcraft
+required velocity
+Heterodyne interferomentry
+vortex interference
+gas and steam launching system
+acoustic loads
+rotor flow fields
+力矩平衡姿态
+铝合金固溶处理
+载荷校准
+Performance of low temperature mechanics
+elastic vehicle
+碘稳定激光器
+风挡结构
+膨胀循环发动机
+抬前轮速度
+Rocket engine with variable thrust
+飞翼构型
+欧空局标准
+模型逆
+control spectrum
+Surface acousstic wave
+Variable area nozzle
+低速预处理
+油雾场
+Aerodynamic damping
+Approximation （mathematics）
+数控自动编程机
+Vibration mechanics
+地勤维护
+二次差频测距
+储压器
+Improvement exploration
+国际合作方式
+Linearity measurement
+tip acceleration
+Rocket engine combustion chamber
+academician interview
+主流附体
+plume thermal effect
+座垫设计
+aero propulsion
+姿态估计器
+gearbox diagnosis
+guided missile guidance
+Satellite formation flight
+增压级
+风扇转子
+rotating disks
+旋翼轴
+水平轨迹
+电感测微
+耐热粘接剂
+低能见
+远方跟踪站
+分子坐标
+悬停轨道
+agriculture aircraft
+交错肋
+响应峰值
+分离螺母
+布站几何
+Gun tunnel
+monopulse antennas
+减速器诊断
+Asynchronous Generator
+Direct collocation method
+~+圆弧面
+强度硬度对比
+~+薄壁件
+Reusable launch vehicle (RLV)
+航天危害
+恒温槽温度均匀度测试
+rocket based combined cycle
+~+材料工艺
+直通型篦齿
+冷却有效性
+dust-pan shaped hole
+control and stability
+火箭贮箱
+车削掉
+strength specification
+头等舱旅客
+轨道特性
+并联火箭发动机
+反尾旋伞
+推进剂混合
+take-off weight
+飞机起落架系统
+earth oblateness
+反潜火控系统
+非定常自由来流
+研制工程
+飞机着陆控制
+load calibration
+构型控制
+logarithm method
+temperature probe
+AM linearity
+地心角
+Ejector mode
+Tip clearance height+
+级间段
+pre-twist design
+返回轨道设计
+gyroplane
+lift-drag radio
+relative dump gap
+Application satellite
+刀具前
+雷达模拟机
+~+民品开发
+Antenna Pattern
+安装误差角
+变轨发动机
+cut-paste algorithm
+Plasma propulsion
+hypersonic nozzle
+scramjet inlet
+迟滞试验
+双喉道
+容积动力学
+逼喘试验
+密封铆接
+通信技术卫星
+plasma wind tunnel
+分离式润滑方式
+漆封
+大涵道比涡扇发动机
+非失速
+ramp ski-jump take-off
+yaw plane
+校准直线
+kerosene combustion gas
+航改燃机
+动力补偿
+标准涡轮
+launching simulation
+整数阶次
+航班安排
+总能量控制
+Plug nozzle rocket engine
+尖顶襟翼
+转场训练
+进气总压畸变
+航天器再入
+蜂窝夹心结构
+unstalled
+Required velocity
+Propellant storage
+observable degree
+afterburning chamber
+Pontryagin maximum principle
+multi-fighter cooperation
+激光捷联惯导系统
+战术飞行管理系统
+metallographic phase composition
+天基测向
+战斗机动
+试飞验证
+Successive test data
+~+误差分离技术
+pseudo compressibility method
+增升机理
+金航数码公司
+标度因数非线性
+Guidance accuracy
+fault mode prediction
+Flexible appendage
+航空维修差错
+低压燃烧
+飞行指引仪
+联结翼
+High Pressure Transducer
+示范飞行
+Vibrational combustion
+integrated flight/propulsion control
+Entry guidance
+引射火箭
+扫描辐射仪
+拟欧拉角
+human spaceflight
+exoatmospheric interceptor
+full flowpath
+齐射攻击
+Monopropellant
+Sound distribution
+初期试验
+air-breathing engine
+多次启动
+合同情况
+Delamination shearing
+Integrating gyroscope
+高度剖面
+rotor tower
+Aeroassisted orbital transfer
+哥伦布计划
+C-W equations
+pitching moment coefficient
+discrete jet
+relative rotational speed
+Gauging
+零长发射
+径向稳定器
+翼柱型药柱
+Pressure exponent+
+遥测天线
+Statistics tolerance
+Composite laminated plates
+紊流传热
+机载火箭
+multi-missile
+性能寻优控制
+两相脉冲爆震发动机
+直升机传动系统
+灯单元
+谱变换LANCZOS方法
+耦合涡
+~+控制
+synthetic jet actuator
+再入姿态
+防、除冰
+调制传递函数补偿
+Busemann inlet~+
+secondary gas injection
+三维四向编织
+Generalized Jacobian matrix
+Performance of dynamic mechanics
+time domain spectrum
+micropropulsion
+~+误差补偿
+flat-plate delta wing
+涡轮进口温度
+地球非球形引力摄动
+焊件热处理
+Concentrated eigenvalue
+联合空情预警
+strain gage balance
+flight loads
+经济修理
+新现念
+旋压间隙
+广义经典分配
+ejector mode
+目标状态估计器
+轰炸航空兵
+military helicopter
+次流
+Interior ballistic calculation
+助推器发动机
+Federated filtering
+输入未建模动态
+失平
+偏置动量卫星
+连续准则
+parallel current equalizing
+侧风着陆
+wind tunnel measurement
+缓冲支柱
+德尔它
+ABPSK
+插算
+喉栓
+compressible boundary layer
+粗糙肋
+涡轮叶片冷却
+Manufacturing accuracy
+矢量喷管+
+全向无线电信标
+南北保持
+星体跟踪制导
+油膜力特性
+多体分离
+寿命试车
+不锈钢-铜热沉
+冲压燃烧室
+近地点发动机
+时间裕度
+机型改装
+罗德里格参数
+aviation technology
+桥路补偿
+Rocket engine cluster
+寻的
+Gauss伪谱方法
+Reignition
+Strategic ballistic missile
+impact-time-control
+料箱制造
+自动相关监视系统
+纵向间隔
+Hybrid rocket motor
+智能火控
+状态寿命
+low-speed model testing
+dynamic maneuver
+变距拉杆
+on-orbit test
+机载风切变系统
+V形尾翼
+滚转特性
+Lateral jet
+air launch
+测控分系统
+POGO振动
+low attitude penetration
+诱导磁场方程
+特征提取+
+~+高应变速率
+Inlet test
+Contour design
+模线样板工作法
+返回信息
+Subsonic flow
+solid ducted rocket motor
+切顶线三角形
+Gyration
+干扰流场
+creep/fatigue
+视加速度
+Solid rocket propellant binder
+纤维缠绕结构
+目标截获概率
+回避区
+Shell stability
+星箭适配器
+全紫外线
+~+金属—玻璃封接工艺
+管制席位
+分层剪切
+Unconventional nozzle
+镁合金型材
+Spacecraft contamination
+激波脱体距离
+turbo-jet engine
+扩散粘接
+周期变距
+Propellant burning
+排气节气门
+航向平面
+数字电传操纵系统
+VSCMG
+微波等离子体推力器
+~+红外辐射
+Spacecraft guidance
+小突片+
+比奇公司
+beyond-visual-range
+low altitude windshear
+旋流系数
+PDM产品数据管理
+高密度栅
+环模设备
+joint tactical information distribution system（JTIDS）
+porous restriction
+悬停试验
+大攻角气动力
+Earth sensor
+支持向量机+
+三维复原
+受力同轴度
+喷流/主流相互作用
+民用航空活动
+hot plume
+中国长城工业公司
+core-engine
+飞机构型
+截刀
+Gas cooling
+频率响应特性测量
+Incompressible flow
+case rotation
+reaction control system(RCS)
+rotating pipe
+aerodynamics design
+双钟形喷管
+turboprop
+Water impingement
+slender bodies
+Vibrational control
+分流机匣
+卫星推进系统
+返回流
+热处理工艺规程
+生存力评估
+运载贮箱
+HP compressor
+Booster separation
+第三级火箭发动机
+transfer element method
+混合式润滑方式
+单位权专家
+流量控制阀门
+low speed compressor
+序贯截尾决策
+convergent nozzle
+radar homing missile
+CCD太阳敏感器
+卫星电源系统
+Aeroservoelastic
+automatic tungsten electrode argon arc welding
+美国螺纹
+液体火箭推进技术
+demonstration software
+型架装配机
+three-axis hydraulic simulator
+推力方向
+大内径测量方法
+福克飞机
+耐水粘接剂
+微光功率标准
+suborbital launch vehicle(SLV)
+液氧/煤油发动机试车
+综合电子设备
+舱内适坠性
+Micro gravity test
+卫星发展计划
+全数试验
+超临界态+
+飞行签派
+燃气蒸汽式发射动力系统
+joined-wing configuration
+气浮陀螺
+国际航空联盟
+Air launching
+风限图
+目标飞行器
+复合材料制造工艺
+Spacecraft material
+~+强腐蚀
+aircraft development
+气动力与隐身一体化设计
+closed-loop FOG
+低碳硅锰钢
+Anti-Radiation Missile（ARM）
+Rocket engine.
+风洞自由飞
+Idler wheel
+double delta wings
+scanning camera
+Transient temperature distribution
+“速度+姿态角”匹配
+跨声速机翼
+应力严重系数法
+民品研制
+high angle-of-attack
+肼发动机
+圆锥扫描式红外地球敏感器
+知识密集型工业
+nonparallel flow
+推进剂混合比
+游动发动机
+危急程度
+航天器电子设备
+孤立噪声
+卫星电池
+Chiral material
+机场布局规划
+天平校准
+微分膨胀系数
+altitude test facility
+电热除冰
+Molding technology
+推进剂流平性
+数管系统
+joined wing
+航天飞机有效载荷
+MOCVI
+turn-over channel
+missile launch envelope
+Ablation test
+fly-by-wire flight control system
+球测头
+空间能源
+CCSDS file delivery protocol
+wing/body interference
+机械制造技术课程
+射线迹径
+pistonphone
+接通加力
+覆层测厚仪
+低速压气机
+薄壁异形壳体
+~+助焊剂
+绘图墨水
+Control moment gyroscope
+连续放映
+low aspect-ratio
+Burning rate testing
+混合式火箭
+推导式质量流量计
++线阵CCD
+导弹吊挂装置
+推力终止
+卫星运行管理
+起落架舱门
+piece-wise constant system
+Airplane-engine matching
+staged combustion cycle engine
+jet-flap
+Orbit inclination
+图灵等价性
+autorotating rotor
+飞机空调系统
+数值法和计算方程
+线、面
+Fiber placement
+涡干扰
+nickel-based single crystal
+气-气喷嘴
+农业飞机
+民航运输机
+深层充放电
+Ram air combustor
+电视广播卫星
+two-dimensional nozzle
+预浸无纬布
+编队飞行卫星群
+航天器试验
+运载飞机
+Lambert transfer
+风车起动
+rotor shaft
+ground simulation experimentation
+航天器碎片
+低速模拟试验
+显微形态学
+end-wall boundary layer
+Eigen analysis
+pintle
+天地气动相关
+气路延时
+Space transportation
+missile loaded to fighter
+高超进气道
+upstream wake
+droplet trajectory equation
+Spacecraft formation flying
+循环稳定化工艺
+进气道/发动机相容性
+支线航班
+活动夹钳
+明冰
+circular waveguides
+solid propellant kinetic kill vehicle
+AM distortion
+圆锥形孔
+民机维修
+像元分辨率
+GAO-YONG rational model
+叶型受感部
+质量不平衡调制
+Cycle ambiguity
+pre-research
+Expanding application
+涡环状态边界
+Missile launcher
+外场技术服务
+On-board embedded computer
+Double base propellant
+wing-tip missile
+subsonic flight
+碳盘
+非线性结构力学
+人感系统
+简化雾化器
+slot film cooling
+火星基地
+Cryogenic propellant rocket engine
+旋流结构
+combined compressor
+叶尖间隙高度+
+半物理仿真试验
+average thrust
+Microwave plasma thruster
+机轮摆振
+mass flow meters
+装配精加工
+传热传质类比
+应变式测力传感器
+同步卫星导航
+再入走廊
+Waverider configuration
+Missile control
+catapult launch
+斜切喷管+
+化学铣
+off-axis response
+积木式组件
+IMM滤波算法
+Beam synchronization
+测试发射控制系统
+Three body problem
+取液器
+orbital mechanics
++信息融合
+发射轨道
+supersonic aerodynamics
+交联双基推进剂
+trailing edge loss
+变几何进气道
+跨超声速风洞
+Radio Modem
+发动机安装架
+电源标准化
+low-altitude flight
+Semi physical simulation
+Hydroxy terminated polybutadience propellant
+空射运载火箭
+triplex redundance
+压气机工作叶片
+姿态快速机动
+flexible nozzle
+Aerodynamic model
+Homing phase
+aeronautical products
+轨迹保持
+转静系
+Plug contour
+制导设备
+平而度
+Doppler center frequency error
+gyroscope error
+平均场网络
+偏航导引
+Metrology and measurement
+标准流量装置
+调整夹
+temperature distortion generator
+flat blade
+潜入喷管
+流体推力矢量
+deck motion
+K-Distribution
+vacuum thermal tests
+成膜电压
+无铰旋翼
++CPLD
+前飞速度
+飞机供电特性
+着陆品质
+moving overset grids
+Turing equivalence
+飞行指引系统
+塞式喷管火箭发动机
++频率特性
+机动载荷
+空域辅助设计
+simplified aircraft model
+航天器材料
+台架阻力
+Spring deformation
+system with random changing structures
+Eigen sensitivity
+地形跟随雷达
+Spacecraft environment
+drag rudder
+无气喷涂装置
+复飞轨迹
+飞行试验测量设备
+初始压强峰
+矢阵
+Geomagnetic matching
+ice shape
+~+回火腐蚀区
+scanning infrared earth sensor
+multi-missiles
+根部窝渣
+煤油燃气
+复合材料铆接
+内螺纹中径
+前缘分离涡
+inertial component
+飞机地面保障设备
+推进剂可储存性
+紧固孔原始疲劳质量
+中温固化胶粘体系
+~+球头
+喉道面积
+液氢发动机
+thrust deviation
+rotor tip
+main flow attachment
+life monitoring
+supersonic jets
+Reflectoscope
+同轴式喷嘴
+integrated flight and propulsion control
+三轴姿态稳定
+捕捉激波
+真空低温环境
+激波诱导燃烧
+推进剂加注设备
+相位超前补偿
+tilt-rotor aircraft
+气瓶研制
+vacuum ultraviolet irradiation
+旋翼试验台
+惯性矩测量
+机载维护系统
+FEM simulating
+摩擦减震
+Stalling characteristic
+偏置比例导引
+包装要素
+租赁飞机
+流动转捩
+laser SINS
+液弹阻尼器
+飞机布局
+登月探测
+虚裂纹闭合技术
+Autonomous rendezvous
+缝槽气膜冷却
+气压阀
+Measuring instrument for geometrical quantity
+aerodynamics of high angle of attack
+aerodynamic configuration design
+L—乳酸精制残留液
+圆锥导引头
+故障模式预测
+保形油箱
+Space launch vehicle
+分割国家
+铺丝路径
+Disturbing moment
+灰度图像识别
+旋翼性能
+高应力梯度
+空中客车工业
+ablation test
+跨声
+锥顶罐
+power-by-wire
+开普勒轨道
+hybrid rocket
+高载荷涡轮
+flight trimming
+补燃发动机
+轨道构型
+桨-涡干扰
+沙特航空公司
+nano-satellite
+民机设计
+Upper stage
+microturbo engine
+self-repair flight control system
+TVD格式+
+Arcjet thrusters
+碾压机
+控温热电偶
+空气动力干扰
+guidance instrument error
+mean-field neural network
+Metallic seal
+plug nozzles
+air traffic flow management(ATFM)
+direct side force control
+GPS组合导航系统
+等离子体风洞
+vectoring thrust nozzle
+cockpit display system
+Nitramine
+多普勒中心频率误差
+连续可调驱动电源
+inertial alignment
+large commercial aircraft
+对称化子
+微重力火箭
+Formation flight
+flying-wing
+动态机动
+发射能
+挥舞运动
+制导方程
+冷气发动机
+圆锥效应
+平板三角翼
+下发预测
+金属涂复
+low speed preconditioning
+固定齿盘
+流场畸变试验
+Carrier rocket
+双喷管发动机
+whirl flutter
+Liquid atomization
+simulated altitude test facility
+力矩扳子
+涡轮进口总温
+mass model
+分级燃烧室
+real- time Correction
+布莱恩建议
+Hypersonic aircraft
+thrust termination
+scene matching navigation system
+~+调试工艺
+综合标准体系表
+Ground test stand
+momentum-source method
+Impulse firing
+integrated thermal management system
+过失速机动控制
+Propellant slurry
+细长翼
+使用载荷
+Orbiter
+无应力标印
+non linear control systems
+coning algorithms
+随机声载荷
+Line and flat
+Delta火箭
+耦合项
+区域流量管理
+彩色气象雷达
+thermal viscoplasticity
+航空附件
+牙侧角偏差
+Spacecraft dynamics
+排气导管
+动态气动力
+Rocket engine case
+动力传动链
+维修性设计准则
+Automated tape laying
+航天环境模拟器
+变刚度特性
+近场尾流
+面向对象表达
+spacecraft environment engineering
+Refining residue of L-lactic acid
+遥感图像品质
+Solid propellant rocket
+~+自身规律性
+pressure measurement system
+伺服活门
+Frequency meusurement
+slice minicomputer
+多头螺旋
+Circular restricted three-body problem
+临界散射截面
+混合压缩式进气道
+balloon-borne radar
+旋翼前飞流场
+ESA标准
+fluidlastic damper
+~+聚对苯二胺
+internal ballistic property
+Shock wave effect
+anti/de-icing
+充气式结构
+sting interference
+平面探测范围
+speed profile
+engineer testing
+凝视相机
+National defence
+overset unstructured grid
+guided missile control
+energy-absorber
+二元风洞
+反压特性
+turbojet engines
+空间站伴随卫星
+飞机维修机库
+Two sample prediction
+Turbine effectiveness
+anti spin parachute
+配置配合
+涡轮导叶
+实际要素
+卷弧尾翼
+Mars rover
+气氧/煤油
+航向误差
+变体飞机
+旋翼下洗流
+leading-edge flap
+brushless electricmachines
+Spacecraft reliability
+effusion cooling
+population percentile
+非线性仿射型模型
+single event upsets
+翼尖弹
+备降场
+hot-fire test
+Energy wastage
+空间通信链路
+伺服作动器
+加力试验
+salvo attack
+Confidence limits
+频率重复利用
+超高速撞击试验
+双斜块测头
+液体抛光
+radiations pectrum method

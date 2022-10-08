@@ -1,0 +1,10000 @@
+mechanics of explosion
+爆炸力学
+solid mechanics
+固体力学
+应力强度因子
+力学学科
+水动力学
+实验力学
+numerical simulation
+structural engineering
+finite element method
+stress intensity factor
+计算力学
+数值模拟
+SHPB
+《力学进展》
+中国力学学会
+bifurcation
+界面裂纹
+dynamic response
+buckling
+有限元法
+constitutive model
+几何非线性
+变分原理
+有限元
+侵彻
+弹塑性
+动力响应
+有限变形
+dynamic buckling
+广义协调元
+boundary element method
+finite element
+VISAR
+边界元法
+圆柱壳
+viscoelasticity
+理论力学
+turbulence
+湍流边界层
+本构模型
+FEM
+variational principle
+应力奇异性
+generalized conforming element
+拓扑优化
+后屈曲
+相干结构
+stress singularity
+功能梯度材料
+finite deformation
+矩形板
+研究与进展
+大变形
+unsteady flow
+计算结构力学及其应用
+topology optimization
+冲击屈曲
+云纹干涉法
+nonlinear vibration
+dynamic stress intensity factor
+大挠度
+非线性振动
+分析力学
+BEM
+非协调元
+弹性波散射
+哈密顿体系
+interface crack
+拟序结构
+large deformation
+反平面剪切
+有限元线法
+hypersingular integral equation
+塑性动力响应
+横观各向同性
+孤立波
+free vibration
+random vibration
+细观力学
+脱层
+rectangular plate
+turbulent boundary layer
+flow visualization
+coherent structure
+crack
+continuum structure
+自由振动
+vibration control
+动力屈曲
+解析解
+水动力学研究
+流固耦合
+圆板
+large deflection
+湍流
+复变函数方法
+超奇异积分方程
+爆轰驱动
+柔性多体系统
+风振响应
+配点法
+stress wave
+爆炸与冲击
+magnetoelasticity
+精细积分
+无单元法
+geometrical nonlinearity
+结构工程
+粘弹性
+本构关系
+振动控制
+多尺度法
+流动显示
+圆柱绕流
+PIV
+复合材料
+数值计算
+加权残值法
+functionally graded materials
+弹性动力学
+开路边条件
+turbulence modelling
+cable-stayed bridge
+transversely isotropic
+photoelasticity
+粘塑性
+压电材料
+周培源
+材料力学
+奇异积分方程
+stress intensity factors
+力学科学
+LDV measurement
+多体系统
+大涡模拟
+应用力学
+finite element method.
+solitary wave
+ICM method
+analytical solution.
+incompatible element
+弹性地基
+computational mechanics
+应力波
+两相流
+elastodynamics
+光弹性
+广义协调
+弹性细杆
+爆轰
+stochastic finite element method
+detonation
+numerical simulation.
+虚拟激励法
+弹塑性屈曲
+分层流体
+interface edge
+micromechanics
+流体力学
+广义协调条件
+geometrically nonlinear
+无网格法
+层合板
+本构理论
+wall turbulence
+Stroh公式
+thin elastic rod
+裂纹
+壁湍流
+碰撞振动
+层裂
+分离流
+边界元
+concrete
+shock wave
+meshless method
+湍流模式
+concrete filled steel tube
+vibration
+激波
+Navier-Stokes equations
+impact buckling
+裂纹扩展
+ICM方法
+piezoelectric material
+cylindrical shell
+structural reliability
+磁弹性
+动态应力强度因子
+直接数值模拟
+circular plate
+断裂动力学
+singular integral equation
+随机结构
+非完整系统
+structural topological optimization
+detonation driving
+断裂过程区
+力学史
+geometric nonlinearity
+黏弹性
+弹性波
+杆系结构
+统一强度理论
+functionally graded material
+液体晃动
+正交异性
+激波管
+边界积分方程
+circular cylinder
+随机振动
+turbulent flow
+屈曲
+shear locking
+stress intensity factor.
+stratified fluid
+钢管混凝土
+fluid mechanics
+nonlinear analysis
+应用力学评论
+bending damage
+nonlinearity
+热毛细对流
+残余应力
+拟协调元
+J积分
+正交各向异性
+混凝土
+极限承载力
+precise integration method
+Hamiltonian system
+flutter
+燃料空气炸药
+界面端
+爆轰波
+动态断裂
+boundary layer
+摄动法
+修正迭代法
+焦散线法
+有限元分析
+非定常流动
+弹性力学
+斜拉桥
+complex variable method
+mixing layer
+oscillatory flow
+旋转壳
+横向剪切变形
+VOF
+平面问题
+multiple cracks
+imperfect interface
+环境流体力学
+守恒量
+energy release rate
+反平面
+constitutive theory
+chaotic motion
+饱和土
+high strain rate
+seismic response
+结构动力学
+冲击载荷
+shock tube
+爆炸容器
+multibody dynamics
+能量释放率
+Navier-Stokes方程
+数值流形方法
+参数激励
+vibro-impact
+裂纹尖端场
+安定分析
+element stiffness matrix
+wind-induced response
+参变量变分原理
+transonic flow
+analytical mechanics
+应变率
+广义变分原理
+屈服准则
+numerical manifold method
+structural dynamics
+damage detection
+orthotropic plate
+非线性波
+本构方程
+thin plate
+direct numerical simulation
+单元能量投影
+element energy projection
+Hamilton正则方程
+cyclic plasticity
+plate bending
+扁壳
+residual stress
+nearly singular integrals
+hybrid stress element
+virtual boundary element
+传递矩阵法
+large eddy simulation
+非线性动力学
+动力稳定性
+转子系统
+periodic motion
+semi-analytical method
+复合材料层合板
+多孔介质
+数值方法
+模态综合
+精细积分法
+residual strength
+shooting method
+two-phase flow
+浅水方程
+hypersonic flow
+TATB
+gaseous detonation
+反平面问题
+剪切闭锁
+shear wall
+损伤演化
+rotor system
+Boussinesq方程
+打靶法
+非牛顿流体
+free surface
+analytical solution
+turbulent flow.
+渗流
+modal analysis
+各向异性
+elastic wave
+anti-plane shear
+Moire interferometry
+拟压缩性方法
+FEMOL
+线弹簧模型
+viscoelastic foundation
+弱形式
+水下航行体
+大跨度桥梁
+猝发
+动应力集中
+蠕变
+creep
+有限体积法
+Green function
+应变率效应
+shear deformation
+颤振
+Green函数
+极限分析
+ratcheting
+Hamilton体系
+随机平均法
+主共振
+potential flow
+Hankel变换
+flat shell element
+fracture process zone
+drillstring
+弹性薄板
+orthotropic
+有限元方法
+模态分析
+剪切变形
+复合型断裂
+航天器姿态动力学
+principal resonance
+cable dome
+应力函数
+高超声速
+piezoelectric materials
+model updating
+precise integration
+Hopkinson压杆
+unified strength theory
+薄板弯曲
+underwater explosion
+hypervelocity impact
+multibody system
+dynamic fracture
+胞格结构
+oblique impact
+冲击起爆
+半解析法
+wind tunnel test
+theory of elasticity
+裂纹止裂
+试井分析
+symplectic
+胞映射
+Boussinesq equations
+pseudo excitation method
+偶应力
+constitutive relation
+laminated plate
+等价的边界积分方程
+gyroscopic system
+强动载荷
+湍流统计理论
+强非线性动力系统
+非线性稳定性
+wall shear stress
+reinforced concrete
+基本解
+buckling load
+应力三维度
+cable structure
+混合层
+高应变率
+应变软化
+finite element analysis
+剪力墙
+elastoplasticity
+shaking table test
+结构拓扑优化
+parametric excitation
+interfacial crack
+conserved quantity
+连续体结构
+laminated plates
+复合材料层板
+nonlinear dynamics
+turbulence model
+工程力学
+detonation wave
+rock mechanics
+numerical method
+complex potential method
+super-convergence
+弹性通解
+刚性线夹杂
+eigenvector derivative
+工业流体力学
+constitutive relation.
+保辛
+体胞
+fracture toughness
+循环塑性
+strain localization
+分岔
+数值分析
+微分求积法
+非线性弹性
+damage evolution
+moving boundary
+shape optimization
+雷诺应力
+非线性有限元
+亚格子模式
+crack-tip field
+multibody systems
+微重力流体力学
+elastic wave scattering
+numerical computation.
+非线性水波
+加权残量法
+J-integral
+无网格方法
+桁架结构
+cylindrical shells
+blasting vibration
+ESPI
+涡破裂
+杂交应力元
+moderately thick plate
+slender body
+shock initiation
+MTMD
+虚拟激励
+水下爆炸
+composite material
+分片检验
+MAC方法
+焦散线
+wave forces
+旋转自由度
+underground explosion
+constitutive equation
+损伤识别
+多裂纹
+波浪破碎
+绝热剪切
+internal resonance
+Duffing方程
+损伤力学
+辛几何
+arch dam
+weighted residual method
+薄壁杆件
+表面裂纹
+Rayleigh-Ritz变分法
+stress singularity.
+tearing instability
+热电磁效应
+symplectic conservation
+撕裂失稳
+HLL
+toroidal shell
+gyrostat
+压痕实验
+elastic waveguides
+flow birefringence
+增量步
+null space basis
+k-ε模式
+三角形膜元
+湍流机理
+标量不变量
+boundary contour method
+binary fluid mixtures
+nonproportional cyclic loading
+零空间基
+shape memory alloy
+形状优化
+结构可靠性
+涡脱落
+索结构
+虚边界元
+不规则波
+material nonlinearity
+generalized variational principle
+圆柱薄壳
+高速撞击
+波浪力
+边界层
+弹性支承
+精确解
+周期运动
+势流理论
+动应力强度因子
+非比例阻尼
+分子动力学
+bridge engineering
+transfer matrix method
+Euler方程
+Reynolds stress
+应力集中系数
+多体系统动力学
+limit analysis
+postbuckling
+ground motion
+shear lag effect
+nonlinear stability
+应变局部化
+等参元
+杂交元
+SH波散射
+critical load
+能量法
+soil-structure interaction
+SPH
+Euler equations
+fracture mechanics
+损伤检测
+elastic foundation
+断裂韧性
+structural optimization
+断裂力学
+机电耦合
+破坏准则
+内共振
+strain rate
+thermoelasticity
+post-buckling
+Hamilton system
+fatigue life
+finite volume method
+膜板比拟
+delamination growth
+stochastic boundary element method
+hybrid grids
+有限元广义混合法
+jet
+CFD
+perturbation method
+natural frequency
+ultimate strength
+orthotropy
+fundamental solution
+振动
+gravity current
+涡运动
+失效波
+LQG/LTR
+刚性地基
+陀螺体
+Stroh formalism
+圆柱尾迹
+平板弯曲
+long-span bridges
+动力柔度系数
+棘轮行为
+多层地基
+wind engineering
+thin plate bending
+非线性非完整系统
+vortex breakdown
+axial impact
+地下爆炸
+Biot固结
+nonproportional loading
+LDV测量
+杂交应力有限元
+water wave
+跨音速流动
+Karman vortex street
+弯曲损伤
+时域边界元
+strength control
+circular inclusion
+分片试验
+溃坝波
+natural element method
+双调和函数
+thin-walled member
+层合圆柱壳
+elastic waves
+积分方程
+dynamic stress concentration
+moire interferometry
+plane problem
+viscoelastic fluid
+Hopkinson pressure bar
+分层损伤
+紊流
+动力特性
+anisotropy
+porous media
+平面应变
+damage mechanics
+随机有限元法
+自适应结构
+added mass
+nonholonomic system
+vortex shedding
+chaos
+Hopkinson杆
+constitutive relations
+粘性流动
+面元法
+计算流体力学
+流动控制
+加权残数法
+composite
+SH波
+脆性材料
+suspension bridge
+active vibration control
+非定常流
+frequency response function
+碰摩
+混沌运动
+viscoelastic
+engineering mechanics
+crack propagation
+rotor
+多相流
+Galerkin method
+TVD格式
+分叉
+悬臂梁
+薄板
+coherent structures
+panel method
+逐步积分法
+shallow water equations
+shakedown analysis
+均匀化理论
+intelligent structures
+非线性弯曲
+内变量
+impedance function
+浅水波
+冲击动力学
+应力约束
+meso-mechanics
+liquid sloshing
+piezoelectricity
+参数识别
+轴对称问题
+冲击拉伸
+engineering structures
+细长体
+ALE方法
+boundary integral
+dynamic plastic response
+separated flow
+dynamic fracture toughness
+复模态
+土-结构相互作用
+基础力学
+振动台试验
+试函数
+Hamilton原理
+内弹道
+numerical calculation
+horizontal well
+Melnikov方法
+rock
+临界载荷
+极限荷载
+thermocapillary convection
+numerical method.
+transformation toughening
+自然单元法
+stress constraint
+双重孔隙介质
+弹塑性材料
+椭圆夹杂
+Birkhoff系统
+well test analysis
+pulsatile flow
+plate and shell
+reproducing kernel particle method
+形状记忆合金
+structural control
+flexible beam
+层合梁
+wave force
+saturated soil
+非线性分析
+genetic algorithm
+射流
+SHPB实验
+flexible multibody system
+数值波浪水槽
+probability density evolution method
+chaos.
+antiplane
+电磁热效应
+不同模量
+parametric variational principle
+form finding
+逐步积分
+twin shear unified strength theory
+塑性极限荷载
+nonlinear bending
+绕射
+Timoshenko beam
+冲击荷载
+truss structure
+orthogonality relationship
+revolution shells
+near crack line analysis method
+损伤断裂模型
+细观元
+saturated ground
+dual vectors
+assumed strain
+多孔饱和半空间
+ESSPI
+splitting factor
+截锥壳单元
+elastic general solution
+几何刚度阵
+deployment dynamics
+analytical structural mechanics
+large deflection analysis
+假设应力场
+杂交/混合元
+periodic oscillatory flow
+代表体元法
+双参数地基板
+SemiLoof元
+载荷修正法
+VOF method.
+Laplace变换
+疲劳寿命
+nonlinear sloshing
+流形方法
+extended finite element method
+VITA
+endochronic theory
+liquid slosh
+精细积分方法
+二维问题
+域外奇点法
+热弹性力学
+三重介质
+spacecraft attitude dynamics
+伴随法
+generalized conforming
+cell mapping
+随机有限元
+自由面
+surface crack
+boundary element
+弹塑性分析
+地震响应
+多变量有限元
+刚-柔耦合动力学
+impulsive loading
+分裂因子
+云雾爆轰
+NS equations
+内孤立波
+boundary element method.
+bubble collapse
+固支圆板
+人工扰动
+模态展开法
+probability density evolution
+概率密度演化
+moiré interferometry
+统一本构模型
+猝发现象
+caustic method
+亏损系统
+力学研究
+BEM.
+双剪统一屈服准则
+干涉云纹
+子结构技术
+多频调谐质量阻尼器
+边界轮廓法
+广义胞映射
+雾化水流
+移动最小二乘近似函数
+充液刚体动力学
+dynamic compliance coefficient
+carotid
+拟协调单元
+microgravity fluid mechanics
+条件采样
+embedded crack
+局部高密度钢纤维混凝土
+mixed energy
+elastic-viscoplastic material
+不协调元
+弹性挠度
+oscillatory boundary layer
+热线测量
+nonlinear vibration.
+liquid-filled spacecraft
+step by step integration
+viscous flow
+临界荷载
+地震反应
+failure mode
+N-S方程
+molecular dynamics
+湍流模型
+active control
+inverse problem
+钢-混凝土组合梁
+elasto-plasticity
+plane stress
+failure process
+back analysis
+hypersonic
+主动振动控制
+spallation
+composite laminates
+incompressible flow
+shear lag
+Hopkinson bar
+discrete variables
+力学教学
+粘弹性地基
+滑动最小二乘法
+剪力滞
+板壳
+断裂能
+等效线性化
+非比例加载
+NS方程
+空泡溃灭
+塑性极限分析
+fluid-structure interaction
+中厚板
+级数解
+拱坝
+板弯曲
+meshless methods
+unstructured grid
+弯曲问题
+shear band
+正交各向异性板
+气动弹性
+Poincaré映射
+裂纹转子
+编织复合材料
+force method
+双材料
+分离流动
+meshless
+热爆炸
+应力应变曲线
+移动荷载
+shaped charge
+钻柱
+rotor-bearing system
+DPIV
+flyer
+transient wave
+stochastic structure
+vortex structure
+multiple scale method
+compact difference scheme
+资助情况
+几乎奇异积分
+Lie对称性
+风致响应
+constitutive law
+几何非线性分析
+wave breaking
+delamination
+frame structure
+伽辽金法
+流动稳定性
+转捩
+刚架
+moving load
+恢复力模型
+对偶变量
+adjoint method
+气相爆轰
+散斑干涉
+fuel air explosive
+多孔介质理论
+hybrid element
+双剪统一强度理论
+动态屈曲
+零应力状态
+thin plates
+non-probabilistic reliability
+bending problem
+penetration
+随机激励
+非完整约束
+自由表面
+domain decomposition method
+位移场
+夹层板
+临界流速
+stress concentration
+结构力学
+mechanical behavior
+水平井
+Rayleigh-Ritz method
+global bifurcation
+water entry
+open boundary condition
+湍流测量
+flow in porous media
+时变力学
+shallow shell
+刚度矩阵
+bending
+mechanical properties
+位移法
+渐近解
+摄动
+模型修正
+结构优化设计
+本征解
+LQ控制
+主应力轴旋转
+shock tunnel
+semi-analytical finite element method
+Reissner板
+open channel flow
+网格依赖性
+stochastic structures
+圆薄板
+fracture dynamics
+传递函数方法
+elastic bar
+homogenization theory
+domain switching
+linear elastic fracture mechanics
+Ⅲ型裂纹
+interface instability
+力学知识
+bimaterial
+变形介质
+高超声速流动
+滑移爆轰
+hemodynamics
+multi-body system
+异重流
+线弹性断裂力学
+TVD scheme
+strain rate effect
+锥壳
+正则方程
+method of weighted residuals
+高耸结构
+laminated beam
+Timoshenko梁
+屈曲模态
+element-free Galerkin method
+屈曲载荷
+疲劳寿命预测
+arch
+Galerkin法
+塑性力学
+标度律
+beam element
+size effect
+Navier-Stokes equation
+半刚性连接
+紧致格式
+FEM.
+板壳结构
+Hankel transform
+laminates
+超空泡
+弹性半空间
+刚架结构
+Hopf分岔
+drag reduction
+damage identification
+加权余量法
+参数共振
+fatigue crack growth
+beam
+model test
+dynamic stability
+时程分析
+two phase flow
+finite element.
+fluid structure interaction
+微观力学
+supersonic combustion
+位移约束
+水垫塘
+广义坐标
+破坏过程
+力法
+气相爆轰波
+source terms
+弹性圆柱壳
+photoelastic coating
+混合方程
+震源函数
+一般力学
+张拉结构
+扭转屈曲
+flexible multibody systems
+transversely isotropic material
+多柔体系统动力学
+余能原理
+自由表面流动
+failure wave
+PELE
+IP方法
+特征向量导数
+mesh distortion
+numerical wave tank
+Kirchhoff理论
+beam-column element
+method of weighted residual
+等效静力风荷载
+格子Boltzmann方法
+平面应力
+parameter identification
+动力分析
+应力分析
+computational fluid dynamics
+减阻
+rock blasting
+isoparametric element
+image force
+nonlinear wave
+Lie symmetry
+悬索结构
+不可压缩流动
+耦联振动
+蠕变屈曲
+动应力集中因子
+区间变量
+DSMC方法
+壁面剪应力
+高速碰撞
+fluctuating pressure
+松质骨
+有限差分法
+边界条件
+边界单元法
+剩余强度
+振动主动控制
+连续介质力学
+impact loading
+nonlinear
+空泡
+剪切带
+系统识别
+lattice Boltzmann method
+blast wave
+有限单元法
+nonlinear finite element
+流线迭代法
+载流薄板
+yielding criterion
+magneto-electro-elastic material
+准静态扩展
+冲击消振器
+Mach反射
+初生空化数
+arterial wall
+interface end
+three-point bending beam
+wellbore storage
+fluid-saturated porous media
+动力失效
+单试样
+single specimen
+Vacco模型
+follower force
+后屈曲分析
+周期裂纹
+antiplane shear
+自由梁
+精确积分
+dynamic stress intensity factors
+Anand
+hydrodynamic forces
+改进的L-P法
+normal form theory
+非光滑动力系统
+snap-through
+平板壳单元
+piezoelectric composite material
+应力均匀性
+随机内力
+interface mechanics
+anti-plane problem
+complementary relation
+Kagome
+dynamics of multibody systems
+concrete targets
+mixed hardening
+plate and shell structures
+非比例循环加载
+nonlinear oscillations
+热磁弹性
+悬浮固粒
+数值流形
+vibration control.
+外插法
+混合能
+displacement function
+creep buckling
+兴波阻力
+applied mechanics
+破碎波
+elastic half-space
+热机械疲劳
+弹塑性损伤
+non-proportional damping
+阻尼介质
+压电层合板
+多点输入
+multi-scale method
+弹性屈曲
+manifold method
+composites
+格林函数
+爆炸荷载
+分层流
+energy absorption
+刚塑性
+VOF method
+dynamic reliability
+振荡流
+supersonic flow
+参数振动
+elasto-plastic
+敏度分析
+涌潮
+homogenization method
+并行计算
+impact load
+多体动力学
+梁单元
+failure criterion
+边界元方法
+stratified flow
+转子-轴承系统
+digital image correlation
+三维裂纹
+intensity factor
+初应力
+parametric resonance
+各向异性板
+random field
+plane strain
+stress-strain curve
+wave propagation
+流场显示
+热弹性
+离散变量
+torsion
+接触问题
+finite difference method
+应力场
+hydrodynamic stability
+thermal relaxation time
+NND格式
+题目索引
+全过程分析
+effective moduli
+NND scheme
+precise time-integration method
+界面力学
+薄壁箱梁
+delamination damage
+axisymmetric body
+ballistic limit
+matrix perturbation
+粘弹性梁
+adaptive structure
+water waves
+circular cylindrical shell
+理想约束
+rarefied gas dynamics
+动态力学性能
+疲劳裂纹扩展
+积分变换
+失效概率
+找力分析
+large amplitude liquid sloshing
+塑料粘结炸药（PBX）
+三点吊
+最优吊点
+轴向受载
+Hamilton描述
+stress concentration.
+kinking
+内变量理论
+the stress intensity factors
+伸长张量
+模态方法
+earthquake response.
+平行平板流动腔
+bending of plate
+stress wave.
+rotating coating
+非理想界面
+Hamiltonian formulation
+极限扩孔压力
+随从力
+四边形面积坐标
+奇性应力指数
+刚性夹杂
+generalized compatibility
+附加位移基本项
+strain gradient theory
+nonlinear viscoelastic
+Taylor impact
+Boussinesq-type equations
+一维应力波理论
+porous media theory
+水平集法
+bursting phenomenon
+大挠度分析
+injection-molding
+three-dimensional fracture mechanics
+double porosity
+defence structure
+热粘塑性材料
+钻柱力学
+Kirchhoff动力学比拟
+rigid inclusion
+piezoelectric layer
+广义混合变分原理
+物性值反问题
+模态解
+脱层扩展
+Chaplygin球
+stratified fluids
+材料条纹值
+空间网架结构
+平衡降阶法
+桥梁工程
+health monitoring
+单元刚度矩阵
+VOF方法
+random excitation
+动态扩展
+蜂窝材料
+地球动力学
+aeroelasticity
+非线性动力响应
+复变函数法
+underwater vehicle
+strain softening
+parametric vibration
+层间应力
+thermal explosion
+单位分解
+crystal plasticity
+shock waves
+单面约束
+MEMS
+生物力学
+岩石力学
+薄壳
+均匀化方法
+环形填充层
+equivalence crack fracture model
+turbulent behavior
+动柔度测量
+压扭组合
+二自由度系统
+半封闭冲击射流
+拟协调元法
+收敛失败
+cylindrical chamber
+广义样条子域法
+几何非线性弯曲
+Plastic limit analysis
+discontinuous boundary elements
+简单胞映射
+回射流
+method of weighted Residuals
+重力势流
+annular packed-bed
+体积守恒定律
+网格稳定性
+experimental modal parameter identification
+semi-analytical analysis
+扩展的自相似性
+independent and continuous topological variable
+小参数展开
+离散变量结构
+refined direct stiffness method
+粘性裂纹模型
+斜压波热力结构
+coherent structure.
+quadratic gradient
+冲击问题
+动力聚缩
+electric-mechanical coupled
+HBTA
+non-linear dynamic system
+展开模拟
+damage induction vector
+三维生物力学模型
+修正势能原理
+弹塑性界面
+eigensensitivity analysis
+elastic lateral flexure
+Hsue-Shen Tsien
+Cholesky三角分解
+Reissuer plate
+fluid solid two phase flow
+随机风荷
+resonant instability
+螺旋桨叶剖面
+automated grid methods
+Matlab IDE
+应力强度固子
+层结流体
+层状流动
+speckle interferometry fringe patterns
+subgrid scale （SGS） model
+涡旋波
+广义增量法
+明槽流动
+KET model
+noninertia
+SD效应
+正交异性构件
+point collo-cation method
+tuned liquid damper （TLD）
+space conservation law
+几何约束方程
+drawing unsteadiness
+analytical-variational method
+damage and fracture model
+porous silicone rubber
+纤维压出实验
+turbulence mechanism
+多滑移系启动
+广义节点有限元法
+传感方程
+平行射流组
+triangular membrane element
+四边形薄板单元
+相对自由度壳单元
+dynamic compression properties
+代表胞元
+spectral method.
+rotating annulus experiment
+重构核点法
+human knee joint
+高维非线性系统
+条形传递函数法
+面力边界积分方程
+shock-cell structure
+stochastic DEDS
+structural analysis program
+非力学系统
+客观散斑
+纵向自由振动
+sandy water
+limit loads.
+SD effect
+本征应力模式
+非线性振动与控制
+rigid line inclusions
+parallel jets.
+斯托拉赫数
+LBB分析
+旋流式竖井溢洪道
+初始函数表达式
+high dimensional systems
+双向耦合模型
+κ—ε模式
+planar problems
+non-smooth dynamical system
+间断位移
+旋转水流
+三相复合本构模型
+屈曲临界值
+双折射材料
+跃移层
+准直磨料射流
+significant failure modes
+接触点副
+belieal buckling
+interval variables
+eigensolutions
+area coordinate
+near-tip fields
+parametric and forcing excitation
+propeller blade section
+超级壳单元
+composite laminate plate
+twin shear unified yield criterion
+实验模态参数识别
+geometrically nonlinear.
+horizontal seismic excitation
+万有D'Alembert原理
+capacity of bearing load
+三维有限体
+equilibrium configuration finding
+应力更新
+半解析分析
+inertial wave
+mineral bridges
+浸水圆柱壳
+natural stress modes
+空化比尺效应
+压电—弹性
+MWRAP
+scour of free jet
+hydrocyclone.
+屈曲分支方程
+Trefftz method
+substructure.
+vortex flow intake shaft spillway
+two-dimensional probabilistic Miner's rule
+beam with variable cross-section
+and parameter identification
+随机DEDS
+轴对称界面端
+convergent failure
+independent continuous mapping method
+thermal viscoplastic material
+gas solid turbulent flow
+回缩位移
+Phase-Shifting
+柱群
+KET模型
+binding forces
+deployment simulation
+叠层闭口柱壳
+偶应力流体
+圆柱壳稳定性
+large aggregate concrete
+statistical theory of turbulence
+热权函数
+tall steel structures
+势流核心区
+气／液两相流
+随机边界约束
+NS方程数值解
+网线函数
+转环实验
+three phase composite constitutive model
+逆动力学问题
+可动支座约束
+assumed stress field
+刚度反演
+the shear flow
+sensing equations
+双圆柱夹杂
+FGT
+element\|free method
+foldable structures
+stability of cylindrical shell
+准相似性
+soil\|structure interaction
+strip distributed transfer function method
+多输入多输出系统识别
+随机参数
+ultimate bearing capacity
+风洞试验
+传递矩阵
+塑性失稳
+精细算法
+阻抗函数
+long-span bridge
+压杆稳定
+理想弹塑性
+行波效应
+membrane structures
+动力可靠度
+pseudo-excitation method
+剪力滞后
+patch test
+high angle of attack
+燃烧转爆轰
+stress waves
+turbomachinery
+周期解
+Laplace transform
+perturbation
+dynamic behavior
+纵向振动
+life prediction
+反分析
+结构振动
+物质点法
+internal parameters
+crack preventing
+厚壁筒
+dynamic condensation
+一维问题
+high Reynolds number
+压电结构
+moving grids
+shock temperature
+风口模型
+supercavity
+裂纹应力强度因子
+V形切口
+空泡流
+表皮效应
+索穹顶
+hamiltonian system
+shock wave.
+应变梯度理论
+应变能密度函数
+位势问题
+physical mechanics
+自相似函数
+涡方法
+自动网格法
+相关屈曲
+viscoelastic beam
+梁柱单元
+物理非线性
+跨声速
+circumferential stress
+viscoelastic damping
+可靠度
+非结构网格
+钢筋混凝土梁
+电子散斑
+strain-softening
+浮力射流
+两相材料
+强度控制
+trial function
+挤出胀大
+thin-walled beam
+单胞模型
+Noether定理
+空间机械臂
+variational principles
+yield surface
+非均匀沙
+cracked rotor
+高阶剪切变形理论
+高雷诺数
+剪切层
+光弹性法
+模态控制
+模型试验
+轴对称
+溃坝
+势流
+analytical solutions
+explosive welding
+最小势能原理
+displacement field
+湍流流动
+integral transform
+破片
+爆炸载荷
+弹性梁
+random response
+旋涡脱落
+柱壳
+线弹性
+Duffing equation
+axisymmetric
+contact problem
+topological optimization
+频散
+板料成形
+Galerkin方法
+破坏模式
+conformal mapping
+对流扩散方程
+tall building
+运动稳定性
+悬索
+脉动流
+spacecraft
+inverse analysis
+模态综合法
+对流扩散
+位移函数
+airfoil
+RC beam
+有限元网格
+平均法
+虚功原理
+界面应力
+数值仿真
+cantilever beam
+natural convection
+perforation
+弹性地基板
+spall
+钢管混凝土柱
+复合材料力学
+Hamilton系统
+elastoplastic
+debonding
+粘弹性流体
+crack tip
+soil mechanics
+遗传算法
+磁流变阻尼器
+断裂韧度
+quadrilateral element
+scramjet
+transfer function method
+EFP
+非线性晃动
+非完整力学
+动态光弹性
+Hamilton canonical equation
+stochastic bifurcation
+理想弹塑性材料
+couple stress
+饱和多孔介质
+陀螺系统
+样条有限条
+SHPB test
+动力松弛法
+evolutionary structural optimization
+索网结构
+waverider
+adaptive structures
+Fourier-Bessel series
+photoelastic method
+supply opening model
+损伤预警
+cylinder.
+压剪断裂
+elliptical hole
+拉伸损伤
+multiple scales method
+effective length factor
+DSCF
+random structures
+条纹结构
+compression shear fracture
+广义应力强度因子
+plastic collapse
+manganin gauge
+linear elastic fracture
+充液系统
+Min.Min.Max.DMF
+全局分叉
+主值积分
+惯性流形
+ghost fluid method
+平衡路径
+initial imperfections
+three-dimensional crack
+弹性波导
+复变方法
+ventilated supercavity
+antiplane problem
+vibro impact
+distortional buckling
+saturated porous media
+wall jet
+激波绕射
+圆筒试验
+抗震控制
+statically indeterminate truss
+mode-Ⅲ crack
+运动激波
+位移不连续
+bi-material
+meshless local Petrov-Galerkin method
+Bond数
+one-dimensional problem
+自模拟
+角速度ω
+active constrained layer damping
+扩展有限元
+复势方法
+充液航天器
+trimaran
+延续算法
+state space approach
+damage alarming
+axisymmetric problem
+soft material
+critical wind velocity
+球面各向同性
+dynamic propagation
+膜元
+累积损伤
+形函数
+有效应力
+体系可靠度
+高含沙水流
+四边形单元
+modal synthesis
+椭圆孔
+blast loading
+管节点
+混合有限元
+晶体塑性
+buffeting
+马赫反射
+冲击压缩
+system identification
+temperature field
+numerical analysis
+泡沫铝
+斜拉索
+stiffness matrix
+pressure gradient
+dynamic characteristics
+exact solution
+integral equation
+wind load
+pile
+附加质量
+prestress
+failure probability
+substructure
+高层建筑结构
+fluid-solid interaction
+N-S equations
+变厚度
+elastic-plastic
+聚能装药
+深梁
+摄动解
+importance sampling
+nonlinear oscillation
+cyclic loading
+压力分布
+柔性梁
+scaling law
+能量吸收
+土力学
+high speed photography
+预应力
+光弹性实验
+水动力系数
+random loading
+nonlinear elasticity
+动态本构关系
+空化数
+rolling contact
+cavitation number
+动光弹
+应变梯度
+Mach reflection
+semi-rigid connection
+viscoplasticity
+DSMC method
+旋涡结构
+界面不稳定性
+有效模量
+岩石爆破
+随机边界元法
+最小二乘配点法
+双参数地基
+弹性稳定
+wave-current interaction
+visco-elastic
+Biot波动方程
+overtopping
+potential flow theory
+塑性极限
+plunge pool
+annular plate
+non-uniform sediment
+流固耦合振动
+机动法
+CE/SE method
+模态摄动法
+两相渗流
+杂交有限元
+空间网格结构
+波流相互作用
+高阶精度
+瞬态波
+挟沙水流
+wind pressure distribution
+动理论
+stochastic FEM
+tidal bore
+guyed mast
+ultimate load-carrying capacity
+应变硬化
+高层结构
+奇异函数
+强度准则
+血液动力学
+剪切断裂
+运动生物力学
+Boltzmann equation
+多轴疲劳
+相变增韧
+shape function
+结构可靠度
+yield criterion
+正则化
+explosive
+主动控制
+转子动力学
+纤维增强复合材料
+fatigue damage
+力学行为
+厚壁圆筒
+ductile tearing
+塑性动力屈曲
+equivalent static wind load
+拉伸失稳
+等和线
+奇异边界
+特征灵敏度分析
+critical initiation energy
+裂纹板
+最佳收敛阶
+creep force
+高阶边界元
+full-range analysis
+近似基本解
+self-similar functions
+TL method
+流体结构相互作用
+zero-stress state
+精化理论
+点阵材料
+penetration/perforation
+optimality criteria method
+等效夹杂法
+有限元模型化
+翘曲扭转
+可变形多孔介质
+斜冲击
+void growth
+line spring model
+流体双折射
+超级元
+Gurson模型
+韧性撕裂
+飞片速度
+圆柱形壳
+大骨料混凝土
+计算结构动力学
+stress uniformity
+空腔解耦
+主被动控制
+零能模式
+anomalous response
+mixed variables
+拟静态问题
+IP method
+幂硬化
+thixotropic fluid
+最小加速度原理
+elasto-plastic buckling
+large-deflection
+逆梯度输运
+thermomechanical fatigue
+部分稳定性
+mechanics of composite materials
+strain concentration
+drilling degree of freedom
+Circular plates
+侵彻实验
+双面约束
+匹配渐近展开法
+位势流动
+variable mass flow
+split Hopkinson pressure bar
+渐近分析
+asymptotic analysis
+动力相互作用
+稀疏波
+series solution
+水力输送
+正交异性板
+虚位移
+fatigue
+transient response
+energy method
+composite materials
+模态
+fracture
+应力集中
+尺度效应
+热应力
+材料非线性
+crack growth
+施工力学
+SH wave
+子空间迭代法
+紊动
+variable stiffness
+风雨激振
+弱界面
+稀薄气体动力学
+separation flow
+扁球壳
+dynamic mechanical behavior
+土-结构动力相互作用
+symplectic method
+wind environment
+面积坐标
+半主动控制
+工程结构
+反问题
+anisotropic
+Hopf bifurcation
+random parameters
+随机荷载
+shock loading
+crack opening displacement
+多刚体系统动力学
+hydrodynamic force
+剪切效应
+超燃冲压发动机
+differential quadrature method
+wave motion
+渗流力学
+侵彻深度
+饱和砂土
+激波风洞
+structure engineering
+fatigue reliability
+load identification
+flow field
+sensitivity analysis
+Green's function
+caustics
+material point method
+通气超空泡
+mode synthesis
+line-spring model
+普适开折
+层裂强度
+电位移强度因子
+损伤探测
+曲壳单元
+主动约束层阻尼
+cylinder test
+multiple inversion
+不可压缩流
+differential-algebraic equations
+transverse shear
+Structural dynamics
+non-Fourier heat conduction
+高能推进剂
+独立模态空间控制
+structural dynamic modification
+fictitious crack model
+不稳定结构
+shear effect
+local Petrov-Galerkin method
+振荡流动
+mesh dependence
+辐射条件
+complex variable function method
+激光诊断
+渐进结构优化
+索膜结构
+precise time-integration
+弹性直杆
+轴向运动弦线
+large eddy simulation （LES）
+位相检测
+岩土介质
+truss structures
+细观元法
+冲击温度
+cylinder wake
+thin elastic plate
+悬索桥
+elastic modulus
+插值函数
+爆破振动
+摄动方法
+constitutive relationship
+辛算法
+动边界
+transient flow
+谱方法
+加筋板
+薄壁结构
+随机场
+随机响应
+偏心结构
+源项
+fracture energy
+动态断裂韧性
+分离式霍普金森压杆
+combined loading
+升阻比
+SH-wave
+continuum mechanics
+unilateral constraint
+霍普金森压杆
+紧致差分格式
+blast vibration
+风环境
+high velocity impact
+影响线
+止裂
+粘弹塑性
+柔性机械臂
+载荷识别
+地震动
+stress field
+力学
+scale effect
+spline function
+钢筋混凝土
+波浪载荷
+plastic limit
+Hamilton principle
+thin-walled structure
+fabric tensor
+shock compression
+叶片扩压器
+时程积分
+混合变量
+linear vibration
+爆轰产物
+流动法则
+saturated soils
+边界配置法
+复合材料梁
+finite strain
+elastic stability
+活动边界
+strength criterion
+pipe conveying fluid
+移动质量
+全局分岔
+offshore engineering
+MAC method
+Melnikov's method
+混合对流
+双曲型守恒律
+impact sensitivity
+dynamic soil-structure interaction
+损伤指标
+damping medium
+dynamic failure
+环壳
+element free Galerkin method
+可靠性约束
+dynamic photoelasticity
+primary resonance
+边界积分
+抗扭刚度
+multiaxial fatigue
+动水压力
+damage diagnosis
+钻孔法
+弹粘塑性
+实验应力分析
+shallow water
+reliability index
+non-Newtonian fluid
+频响函数
+低周疲劳
+损伤诱导矢量
+双驱动激波管
+fractional exponential model
+possibilistic reliability
+激波点火
+裂尖单元
+area coordinates
+saturated porous half-space
+广义热弹性理论
+软化分析
+three-dimensional PIV
+thermal weight function
+cracked plate
+热权函数法
+混合边界元法
+连续矩形板
+shock wave ignition
+inverse dynamic analysis
+管状接头
+环加肋圆柱壳
+Chetaev模型
+延性动态损伤
+不可压缩N-S方程
+impact characteristics
+等熵方程
+Sobolev norm
+rigid projectile
+one-dimensional stress wave theory
+CRAS
+rotator inertia
+自然边界积分方程
+complete solutions
+modal solution
+plastic bonded explosive（PBX）
+pseudo-excitation
+active control.
+空化模型
+perturbation method.
+high-energy propellants
+精化直接刚度法
+equations of stream and vorticity functions
+弹黏塑性材料
+水下射流
+分裂格式
+melting heat energy
+structure instability
+应力奇异因子
+分析结构力学
+stress wave loading
+LBB analysis
+复变函数解法
+挑流冲刷
+流函数涡量方程
+mixed equation
+塑性应变能密度
+线夹杂
+索波列夫模
+等效性能
+Kirchhoff's kinetic analogy
+elastic circular arch
+current-carrying plate
+分数指数模型
+convergent geometry
+nonequilibrium flow
+axisymmetrical problem
+折合频率
+移行铰
+explicit difference method
+圆锥扁壳
+非平整海底
+ALE description
+落锤式弯沉仪（FWD）
+RNGk-ε湍流模式
+极限载荷分析
+多圆孔
+应力互换定律
+oxygen-free high-conductivity copper
+圆柱形孔洞
+traction fracture
+反向应变率效应
+应力与生长
+Laplace-Hankel变换
+虚铰
+Mandel-Cryer effect
+有限条分析
+cavity-expansion theory
+单变量有限元
+direct integration scheme
+炸药柱
+弹性力学变分原理
+joint mass-damping
+scattering of elastic waves
+rigid line inclusion
+涡旋脱落
+detonation gases
+张量函数
+吴消去法
+fluid mechanics.
+闭合模型
+临界破裂速度
+爆炸兴波
+刚性弹
+isoclinics
+KcsA
+continuous cable
+Taylor transform method
+Lanczos法
+熔化热能
+PLK method
+line inclusion
+地基内部
+反平面应变
+membrane-plate similarity
+复合随机振动
+elasticity plasticity
+flame arresters
+dynamic orthotropic photoelasticity
+high rise structures
+perturbation of eigensolutions
+KdV equation.
+Michell桁架
+层合壳体结构
+Rigid foundation
+TTI（d）
+旋转运动柔性梁
+动脉管壁
+解析试函数
+凝聚形函数
+内埋裂纹
+应力强度应子
+parallel speedup ratio
+密频系统
+twin shear stress yield criterion
+shelter plate
+explosive cylinder
+poroelastic half space
+等达因法
+样条有限杆元法
+厚板元
+K-H不稳定性
+nonlinear dynamic response.
+伴随变量方法
+微管道流动
+会聚结构
+杂交化后处理
+堵点探测
+格形模型
+土中应力
+couple stress fluid
+COLSYS
+SEM analyses
+stress constraints
+Benchmark structure
+ALE描述
+初值-边值问题
+FeMnNi
+inverse problem of material parameters
+piezoelectric structures
+一般化单胞方法
+反平面弹性
+高导无氧铜
+二次屈曲
+pitching airfoil
+粗化网格
+probabilistic uncertainty
+绳股
+散斑条纹图
+有限弹塑性变形
+样条加权残数法
+非线性波散射
+球空腔
+Octol
+resistence curve
+isodyne method
+transient load
+non-linear elasticity
+多孔硅橡胶
+thermal weight function method
+闭口薄壁
+rheology of liquid crystalline polymer
+small parameter perturbation method
+theory of porous media
+分层扩展
+线弹性稳定分析
+旋转射流剪切层
+multilayer subsoils
+圆形贮液池
+structure of bars
+Gurtin型变分原理
+double driver shock tube
+退化壳
+vortex wave
+饱和多孔半空间
+adjoint variable method
+time-variation mechanics
+the method of weighted function
+fluid flow through porous media
+弹性圆拱
+声程差
+拉索穹顶结构
+裂尖应力场
+溢流反弧段
+节点质量阻尼
+essential boundary conditions
+feedthrough growth
+等维化处理
+gust response
+广义变分不等原理
+time delay.
+curved pipe conveying fluid
+crack-tip fields
+双重抗震结构
+β效应
+moving least squares methods
+有理多项式技术
+弯曲单元
+Stuart-Landau方程
+水的削波作用
+planar crack
+骨外固定器
+air water two phase flow
+输流曲管
+plate
+cavitation
+瞬态响应
+最优控制
+fatigue crack
+水动力
+Poincaré map
+双重介质
+gravity dam
+LQR
+变形局部化
+modal parameters
+Boltzmann方程
+electromechanical coupling
+分数阶导数
+energy principle
+非线性力学
+频率约束
+两相介质
+stress triaxiality
+compressible flow
+结构振动控制
+找形
+初始缺陷
+viscous fluid
+结构动力分析
+弹性接触
+elastic support
+风振系数
+摩擦接触
+非恒定流
+高精度格式
+局部冲刷
+非线性稳定
+平衡稳定性
+the method of multiple scales
+压电体
+损伤累积
+有效弹性模量
+vortex-induced vibration
+Silo
+混合网格
+子结构方法
+artificial boundary
+弹塑性问题
+三体船
+动力可靠性
+complex mode
+interior ballistics
+flexibility matrix
+creep compliance
+尺寸效应
+高速摄影
+eigenvalue
+抗震性能
+singularity
+thermal stress
+奇异性
+模态试验
+三维流动
+损伤诊断
+水力特性
+interval analysis
+intelligent structure
+rotor dynamics
+buckling analysis
+非线弹性
+numerical damping
+Benchmark结构
+laminated cylindrical shell
+构造张量
+finite cover
+ordinary differential equation solver
+debris cloud
+spline finite strip method
+结合材料
+Biot动力方程
+甲板上浪
+临界起爆能
+Rayleigh Taylor instability
+大挠度弯曲
+Normal Form
+extrudate swell
+全曲线
+投影栅线法
+磁流体稳定性
+Runge-Kutta scheme
+线性强化
+random loads
+re-entrant jet
+找形分析
+V-notch
+广义可靠度
+遮弹层
+初应力法
+截面几何特性
+实模态
+随机摄动技术
+fuel air explosive （FAE）
+数字图像相关方法
+dynamic relaxation
+double porous media
+钢管混凝土拱
+textile composite
+unsteady aerodynamics
+variational principle.
+SIFs
+hourglass
+阵风响应
+complex stiffness
+incremental harmonic balance method
+曲梁单元
+strong resonance
+SIMP
+hydroelasticity
+薄板弯曲问题
+微重力流体
+interval parameters
+Fourier积分变换
+EPW
+广义失效概率
+pathline
+触变性流体
+plane elasticity
+变域变分
+欧拉描述
+M积分
+子结构法
+集中力
+连续体
+MR damper
+固液两相流
+压杆
+面上项目
+变质量系统
+水波
+塑性铰
+刚柔耦合
+非概率可靠性
+穿甲
+相移技术
+正则变换
+启动压力梯度
+screw dislocation
+节理岩体
+风工程
+saturated sand
+速度势
+shallow water equation
+Boussinesq equation
+双相介质
+automatic mesh generation
+裂纹闭合
+纤维复合材料
+二阶效应
+虚位移原理
+numerical stability
+composite beam
+应力应变关系
+deformation measurement
+砂土
+damage model
+atherosclerosis
+modal parameter
+泡沫金属
+徐变
+违约修正
+弹性圆板
+Duhamel积分
+hyperbolic conservation laws
+concentrated force
+综述评论
+区域分解方法
+增广变量法
+multibody system dynamics
+密集模态
+delayed feedback control
+血管重建
+超静定桁架
+bubble dynamics
+薄层法
+Biot consolidation
+荷载识别
+offshore structure
+线弹性断裂
+effective elastic moduli
+光弹性方法
+tensile damage
+参数二次规划法
+空腔膨胀理论
+正交关系
+flexible multi-body dynamics
+不可压流
+hydraulic jump
+augmentation approach
+旋成体
+爆炸加载
+楔体
+各向异性损伤
+结构动力修改
+nonlinear waves
+incompressibility
+deformation localization
+beam structure
+immersed boundary method
+arc-length method
+非局部
+axially moving string
+vortex motion
+hybrid finite element method
+主要失效模式
+三维边界层
+气动优化设计
+CE/SE方法
+system identification method
+bubbly flow
+SHPB technique
+碎片云
+光弹
+LQ control
+Fourier series
+热冲击
+运动方程
+气固两相流
+圆柱
+time-history analysis
+vertical vibration
+多工况
+non-stationary
+大应变
+ultimate load
+损伤变量
+biomechanics
+模态参数
+叠加迭代谐波平衡法
+相平面方法
+constitutive model.
+奇性指数
+boundary integral formulation
+客观应力率
+粗糙平面
+内埋脱层
+微粗糙平面
+strain rate.
+primary buckling
+康托诺维奇法
+rotating crack model
+bridge aerodynamics
+元素中心点密度
+separation flows
+分子动力学计算机模拟
+axially moving beams
+anisotropic plane
+pressure wave speed
+无限刚性体
+界面捕捉
+solid circular shafts
+弹性T项
+硬币形裂纹
+principle of preservation of probability
+拓扑描述函数
+bicrystals
+软铁磁材料
+冲击拉伸试验装置
+co-rotational Oldroyd fluid B
+Smooth mapping
+不可压缩粘性流动
+浅水长波
+non-conforming finite element method
+十次对称二维准晶
+porous media.
+直接扰动法
+local piston theory
+strees intensity factor
+Feigenbaum吸引子
+chemo-mechanical coupling
+弹性动力
+非齐次动力系统
+fuzzy-stochastic structure
+浮动参考应变区间
+动力特征参数
+条形单元
+beam-and-slab structure
+动态云纹干涉
+disaster prevention and mitigation engineering
+微分容积单元法
+generalized mixed FEM
+自然空泡
+affecting coefficient.
+closed crack
+mirror point
+应力漂移
+flexible multi-body systems
+共振周期解
+thermal elasto-plasticity
+conditional sampling
+plane central region
+computational structural dynamics
+热泡
+compliant wall
+蠕流
+elastic perfectly-plastic
+非定常油膜力
+representative volume element （RVE）
+Reynolds average
+series solution.
+density at the central point of an element
+静止与定常扩展裂纹
+floating interval of reference strain
+旋转甩涂
+精化板理论
+各向同性湍流
+large scale coherent structure
+哈密尔顿体系
+小范围损伤
+continuous rectangular plate
+concurrent optimization
+co-moving coordinate
+网格畸变敏感性
+黏弹聚合物熔体
+Pr number
+模糊随机结构
+Hencky解
+垂直振荡
+合成偏应力
+屈曲路径
+转子/定子碰摩
+biasing electric field
+higher-order scheme
+double random vibration
+浅水船波
+自适应网格粗化算法
+涂布流动
+时变动力学
+axial dynamic load
+surface slip
+axially-loaded
+耗散能密度
+mechanical and electrical damages
+checkerboard patterns
+波作用量守恒
+实时时间差
+Wilson nonconforming element
+wall shear rate
+指标函数矩阵
+complex variable analytic method
+振荡奇异性
+流体稳定性
+分离裂缝模型
+Jintegral
+不连续问题
+Biot equations
+黏弹性阻尼
+内力变更
+辛子空间迭代
+可展桁架
+计算力学软件
+密度演化理论
+stroboscopic method
+边界元法分析
+thin-thick plates
+initial equilibrium configuration
+similarity solutions
+built-in delamination
+单位脉冲响应函数
+incompatible FEM
+温度参数法
+gradient plasticity
+stress update
+action balance equation
+incompressible Stokes flow
+Heaviside算子
+generalized ray theory
+stress drift
+static buckling
+流速分布对数律
+elastic curved bars
+naval architecture
+可控环量机翼
+stiffness tensor
+河网水动力学模型
+dual extension-compression modulus
+bifurcation load
+Timoshenko thin-walled beam
+单侧摩擦界面
+quadrilateral thin plate bending element
+厚薄板通用
+Stroh's formalism
+chevron notch specimen
+实心圆轴
+Axisymmetry
+hamilton canonical equations
+penny-shaped cracks
+hysteretic nonlinear
+二阶效应系数
+铁磁板
+Cylinderical shell
+共面表面裂纹
+coupling of bending and twisting
+numerical solution technique
+协调性度量泛函
+薄板稳定
+flexible multibody dynamics
+参数卡尔曼滤波
+ground motion acceleration
+明流泄洪洞
+three-point lifting
+surrogate reproduction
+microbolometer pixel structure
+non-linear water wave
+bridging fiber
+uneven bottoms
+differential cubature element method
+gravitational wave detection
+elastoplastic contact
+SMA fiber composite
+最大波压力
+镜像点
+elastic theory with different moduli in tension and compression
+region method
+boundary-fitted coordinate systems
+超谐分岔
+自由剪切流
+杆件去除
+discrete crack model
+actuator/sensor
+non-homogenous linear dynamic system
+multiple virtual crack extension method
+单向递推
+压痕尺度效应
+mixed mode dynamic fracture
+elastoplastic seismic response analysis
+modal coordinates
+材料不稳定性
+topology description function
+split rigidity method
+狭长矩形截面杆
+north-east sea of Taiwan
+偏压电场
+弹塑性扭转
+泡动力学
+image torque
+代表性胞元
+repeated eigenvalues.
+压电激励器
+Love waves
+热压电介质
+冲击射流噪声
+dual variables
+ellipsoidal model
+潜水台阶
+statistical evolution
+bearing capacity of footing
+refined theory of plate
+三次样条差分
+sheared air-water interface
+壁面喷流
+non-stationary random excitation
+局部化残余
+synchrotron radiation computed tomography
+哈密顿求解体系
+正交各向异性复合材料
+微分代数混合方程
+Boussinesq-Galerkin解
+解耦条件
+optimum design of structure
+薄板元
+Hamiltonian solution system
+涡量流
+rigid-flexible coupling systems
+二维槽道湍流
+hydrodynamic model for river networks
+分片Ritz法
+displacement input model
+fatigue precracking
+三维权函数
+位移输入模型
+微力学性能
+湍流强度剖面
+two-dimensional turbulent channel flow
+Closed form solution.
+Mori-Tanaka模型
+液体大幅晃动
+力电损伤
+multiple scattering of elastic waves
+奇异边界元
+representative volume element method
+squeeze-film
+非线性随机地震响应
+弧坐标
+rough horizontal plane
+viscoelastic polymer melt
+SR-CT
+最大拉应变
+四瓣分布
+automated grid method
+不同模量弹性理论
+像力偶矩
+流体力学问题
+surface-crack
+parallel FEA
+gradient regularization method
+饱和多孔介质理论
+multiblock grid
+split scheme
+桁架材料
+cellular solid
+多相爆轰
+extended homogeneous capacity high precision integration method
+electro-magnetic theory
+裂隙间的相互作用
+圆夹杂
+interface cavity
+undrained condition
+furcated channel
+周期振荡流
+Finite element method of lines
+摄动有限差分方法
+honeycombs
+并列双圆柱
+均质弹性体
+Uniform validity.
+擦边现象
+旋转圆柱
+Cell Mapping
+极限载荷
+结构控制
+裂纹尖端
+球壳
+动网格
+结构动力响应
+finite difference method.
+post buckling
+micro-gravity
+有限覆盖
+超高速撞击
+混凝土靶
+气动阻尼
+区间参数
+deep beam
+增量理论
+粘结滑移
+爆炸成型弹丸
+界面剪应力
+不可压缩性
+条纹图
+卡门涡街
+线性振动
+相似解
+local buckling
+finite element analysis.
+爆破地震效应
+FSI
+细观
+约束扭转
+Poincare map
+非线性动力学系统
+symplectic algorithm
+non-holonomic system
+轴向冲击
+本征正交分解
+elastic thin plate
+blast load
+speckle interferometry
+水中爆炸
+local scour
+shear layer
+超声速燃烧
+缓坡方程
+大迎角
+numerical computation
+动态特性
+智能结构
+超收敛
+visco-elasticity
+力学研究所
+stochastic finite element
+natural frequencies
+曲梁
+damage index
+strain hardening
+polymer flooding
+涡量
+structural health monitoring
+多刚体动力学
+hydraulic fracturing
+displacement method
+ultrasonic guided waves
+水动力模型
+correspondence principle
+泥沙运动
+层状介质
+薄壁圆管
+compact scheme
+cellular structure
+conical shell
+混合流体
+nonlinear response
+薄壁梁
+低速冲击
+channel flow
+Mathieu方程
+双周期
+marble
+无条件稳定
+损伤演化方程
+跨音速
+frictional contact
+CFST
+crack initiation
+ductility
+状态空间法
+塑性变形
+numerical solution
+explosion
+cable
+mathematical model
+接触应力
+scattering
+风荷载
+parallel computing
+期刊论文
+FRP
+连续梁
+转子
+最小二乘法
+动力学建模
+翼型
+hybrid control
+钢框架
+projectile
+smart structure
+强度因子
+blasting
+notch
+纳米压痕
+semi-active control
+system reliability
+冲击射流
+geotechnical engineering
+boundary integral equation
+强非线性
+重力坝
+大位移
+concentration field
+理论解
+铁电陶瓷
+dispersion equation
+Burgers方程
+圆锥壳
+屈服面
+等倾线
+叶栅
+vorticity
+爆破震动
+棘轮效应
+弯扭耦合
+保角变换
+secondary flow
+紊流模型
+wake
+burst
+随机分析
+finite element simulation
+振动分析
+爆炸波
+双流体模型
+变截面梁
+作动器
+stress concentration factor
+子波分析
+激光测速
+elasticity
+共线裂纹
+本质边界条件
+连续化模型
+结构模型化
+海岸和近海工程
+precise time integration
+experimental mechanics
+interval extension
+湍斑
+dynamic tensile
+非线性互补
+turbulence spectrum
+光弹图
+contact constraint
+数字散斑相关测量（DSCM）
+预应力效应
+spline finite point method
+等效裂纹断裂模型
+金属靶板
+人为边界
+round jet
+Faber级数
+secondary explosion
+大范围平动
+管阵
+warping torsion
+rotation tensor
+环向加筋圆柱壳
+弹塑性波
+破波
+横风向
+RBSM
+预留单元
+非传播孤立波
+flux limiter
+抗侵彻
+展开分析
+shallow arch
+串列双圆柱
+柔性附件
+projectile structure
+水涡轮机械
+step-by-step integration method
+cavity decoupling
+瑞利泰勒不稳定性
+nonholonomic dynamics
+sediment laden flow
+B-spline wavelet on the interval
+压磁材料
+diffraction.
+Mandel-Cryer效应
+有限覆盖技术
+实体退化单元
+非连续边界元
+管道阻火器
+非对称涡
+振荡边界层
+湍流尾迹
+symplectic geometry method
+weighted residuals
+稳定性方程
+复合油藏
+连续索
+裂纹启裂
+微分变分原理
+表面风压
+多块网格技术
+非线性粘弹性本构关系
+generalized method of cell
+penetration experiment
+扁拱
+转动张量
+contact detonation
+rate-dependence
+准连续介质方法
+保压过程
+能度可靠性
+propeller cavitation
+圆柱容器
+双剪应力屈服准则
+indentation testing
+柱体扭转
+离面约束
+局部化因子
+double Hopf bifurcation
+弹塑性破裂
+fringe orientation
+三维断裂力学
+体胞模型
+伸展动力学
+reactive rate
+涡旋运动
+非平稳随机激励
+vortex pairing
+随机有限元方法
+惯性波
+黏性流
+annular duct
+J 积分
+carotid bifurcation
+人膝关节
+体外筋
+dynamic fracture mechanics
+equivalent mechanical model
+Ⅰ-Ⅱ混合型裂纹
+direct integration
+large overall motions
+应力波载荷
+digital image correlation method（DICM）
+生物流体力学
+double-diffusive convection
+viscoelastic parameters
+索穹顶结构
+piezoelectric structure
+二次梯度
+stress singularities
+thick-walled tube
+elliptical inclusion
+Stockes变换
+linear hardening
+stress tri-axicity
+bilateral constraint
+rational finite element
+resonance phenomenon
+elastic-plastic fracture mechanics
+偏心裂纹
+distributed transfer function method
+强迫振动响应
+integration algorithm
+统一解法
+Galerkin FEM
+参数激励系统
+couple-stress
+高超音速流
+Kirchhoff theory
+subgrid-scale model
+直线单元
+DDT过程
+机电耦联
+分布概型
+wind-structure interaction
+tensioned membrane structure
+thermoelastic
+KBM method
+viscoelastic solids
+环形基础
+等截面梁
+混凝土靶板
+explosion seismic effect
+wave action
+collinear cracks
+条纹方向
+拟应变
+干缩应力
+钢板剪力墙
+general mechanics
+intermediate strain rate
+杂交控制
+cohesive crack
+板的弯曲
+the generalized inverse
+球面扁壳
+Thin plates
+弹性悬链线
+循环强化
+二维浅水方程
+湍流相干结构
+爆燃波
+moving shock wave
+interfacial cracks
+piezomagnetic effect
+系统识别方法
+elastic beams
+complete stress strain curve
+natural frequency.
+分布感测
+应变循环
+recursive stochastic finite element method
+elastic catenary
+梁函数
+水气界面
+base forces
+平行四边形板
+generalized variation
+微桥结构
+elastic-perfectly plastic material
+理性元
+渐进方法
+revolutionary shell
+本构模拟
+概周期运动
+optimal convergence order
+解析积分
+非惯性
+cellular material
+Ⅲ型界面裂纹
+周期波导
+optimization method.
+curved shell element
+三维势流理论
+纵向阻抗
+perturbation methods
+风沙两相流
+viscous shock layer
+薄膜单元
+explosion-containment vessel
+相间作用
+absolute instability
+三维位移场
+岩石断裂韧度
+parametrically excited system
+高温实验
+谱元法
+对偶积分方程
+实验设计法
+chemical explosion
+爆炸抛撒
+precise algorithm
+矩阵摄动
+elastic contact
+细观分析
+timber structure
+静力凝聚
+simplified analysis
+模态截断
+应力边界条件
+多宗量
+DQM
+变幅载荷
+modal control
+adiabatic shear
+涡结构
+initial imperfection
+dynamic stall
+tensile impact
+wave scattering
+internal variable
+TMD系统
+long span bridge
+钝体绕流
+mixed mode crack
+多块网格
+RANS方程
+reliability sensitivity
+间隙元
+回传射线矩阵法
+fiber reinforced composites
+位移模态
+轴对称体
+volute
+频散关系
+内时理论
+应力三轴度
+modal strain energy
+杂交法
+幂级数法
+有效性质
+mixed mode fracture
+应力一应变
+转角位移方程
+索单元
+概率密度演化方法
+elastic supports
+time-varying mechanics
+elastic-plastic fracture
+linear elasticity
+multiple tuned mass dampers
+计算固体力学
+电磁弹性材料
+composite laminated plates
+Morison公式
+in-plane
+composite steel-concrete beam
+接触效应
+精细时程积分法
+van der Pol equation
+vented explosion
+bubble motion
+微损伤
+约化摄动法
+geomaterials
+magneto-elastic
+digital speckle correlation
+辛矩阵
+夹层圆柱壳
+非饱和多孔介质
+单层网壳
+细胞力学
+边裂纹
+ambient vibration
+local failure
+aeroacoustics
+四边固支
+纳米划痕
+lift-drag ratio
+Ⅱ型裂纹
+广义变分
+wind induced response
+被动标量
+守恒积分
+空化初生
+多边形单元
+非概率模型
+粘弹性参数
+热松弛时间
+湍流谱
+dynamic flexibility
+spherical cavity
+刚体位移
+动态焦散线
+lateral impact
+混沌混合
+大跨度屋盖结构
+multiple load cases
+数值阻尼
+tension structure
+satellite formation flying
+双曲扁壳
+breaking waves
+tall building structure
+裂尖
+SPH method
+区间B样条小波
+准一维应变
+interval finite element method
+刚度方程
+liquid storage tank
+虚拟裂缝模型
+elastic circular plate
+bird impact
+nonlocal
+稀薄气体效应
+斜侵彻
+shallow spherical shell
+higher-order shear deformation theory
+dynamic response.
+应变集中
+井筒储集
+复合反演
+bond-slip
+涡致振动
+圣维南方程
+dynamic analysis
+数字散斑
+圣维南原理
+水跃
+dam-break
+plastic limit load
+drill string
+mixed finite element
+open channel
+FORM
+construction mechanics
+large radio telescope
+非连续变形分析
+numerical calculation.
+transverse shear deformation
+cohesive zone model
+equivalent linearization
+strain energy function
+局部破坏
+Winkler地基
+移动最小二乘近似
+solid propellant
+virtual work principle
+composite laminate
+gas-particle two-phase flow
+thermo-mechanical coupling
+平面应力状态
+element-free method
+random parameter
+brittle material
+tubular joint
+非均质材料
+不可压缩流体
+大型射电望远镜
+penalty method
+VOF法
+beams
+海洋平台
+discrete element method
+抗震设计
+简支梁
+超声导波
+技术科学
+结构响应
+飞片
+fatigue limit
+stress function
+space debris
+力电耦合
+涡激振动
+springback
+structural damage
+fatigue life prediction
+J integral
+流场
+dispersion
+可压缩流动
+optimum parameters
+有限分析法
+confined concrete
+aluminum foam
+权函数法
+DSMC
+线法
+爆炸复合
+Kane方程
+复合型裂纹
+structural vibration
+Burgers equation
+stiffened plate
+空化
+stress analysis
+塑性
+自振频率
+shear stress
+状态方程
+差分法
+变截面
+钢纤维混凝土
+桁架
+optimal control
+离散元法
+particle image velocimetry
+数值稳定性
+爆炸焊接
+均布载荷
+特征线法
+nanoindentation
+结构损伤
+旋流器
+弹性模量
+contact
+pipe flow
+抗震结构
+热线风速仪
+dynamic mechanical properties
+各向异性介质
+Rayleigh wave
+conservation law
+钢筋混凝土板
+概率断裂力学
+裂纹张开位移
+极限承载能力
+dispersion relation
+seismic behavior
+limit load
+动力反应
+非定常
+PVM
+pressure distribution
+数值积分
+数学规划
+damping
+experimental investigation
+time delay
+自然对流
+非均匀性
+shear strength
+滑动轴承
+非线性
+微重力
+气液两相流
+plastic deformation
+声辐射
+尾迹
+可靠指标
+dry friction
+rock mass
+脉动压力
+参数反演
+impinging jet
+结构健康监测
+continuum
+应力分布
+数值解
+strain-rate effect
+finite strip method
+波浪作用
+concrete target
+Free vibration
+非达西流
+卷目录
+运动约束
+光塑性
+有界噪声
+壁面切应力
+impact dynamics
+力学教材
+shaped charge jet
+层状地基
+dynamic constitutive model
+directional blasting
+SHPB试验
+无限域
+explosion suppression
+简支圆板
+声弹性
+样条有限点法
+structural topology optimization
+相移法
+建模理论
+动态失速
+潮波
+浮筏
+canonical equation
+elastic beam
+wavelet packet energy spectrum
+随动强化
+wave diffraction
+超弹性材料
+滚动接触
+热振动
+component mode synthesis
+sloshing
+纺织复合材料
+小波包能量谱
+Winkler foundation
+cyclic hardening
+free-surface
+method of multiple scales
+全局分析
+Godunov scheme
+non-Darcy flow
+超高速碰撞
+轻气炮
+structural vibration control
+lattice model
+SIF
+剪胀
+tidal flow
+等效模量
+ALE method
+elasto-plastic analysis
+风压分布
+内参
+压电作动器
+dynamic stress concentration factor
+力学系统
+relaxation modulus
+singular function
+impact response
+nonlinear dynamical system
+固有频率
+非线性有限元法
+stress-strain relationship
+low cycle fatigue
+叶轮机械
+model reduction
+云纹法
+explosion mechanics
+粘弹性材料
+thermal shock
+两层流体
+backward-facing step flow
+non Newtonian fluid
+动网格技术
+gap element
+static condensation
+动态本构模型
+柔性悬臂梁
+光滑粒子法
+anisotropic materials
+principle of minimum potential energy
+动脉狭窄
+位相测量
+rarefaction wave
+cable net
+增量谐波平衡法
+应力重分布
+FAE
+有限转动
+等效力学模型
+强共振
+二次爆炸
+电炮
+折叠结构
+饱和地基
+分步算法
+Saint-Venant equations
+flow around cylinder
+dynamic problem
+high resolution scheme
+剩余承载力
+incompressible
+oblique penetration
+suspension bridges
+贮液容器
+平面裂纹
+横向冲击
+消能机理
+multi-support excitation
+Ⅰ-Ⅱ复合型裂纹
+挤压膜
+thin cylindrical shell
+变截面杆
+螺型位错
+saturated porous medium
+independent modal space control
+rigid foundation
+Navier-stokes方程
+Galerkin有限元
+braided composites
+shallow water wave
+对偶向量
+boundary layer.
+artificial disturbance
+开边界
+动脉壁
+平面杆系
+有限水深
+super tall building
+突跳
+plastic dynamic response
+桅杆结构
+orthogonal expansion
+cancellous bone
+边界面模型
+超奇异积分
+tangent stiffness matrix
+deformation work
+dynamic constitutive relation
+effective properties
+动力学与控制
+double period
+混合物理论
+张拉膜结构
+vehicle-bridge system
+magnetorheological fluids
+瞬变流
+力学问题
+stochastic analysis
+hydrodynamic pressure
+averaging method
+群桩
+modal test
+功的互等定理
+fracture mechanism
+振动抑制
+物理力学
+摄动分析
+viscoelastic material
+运动边界
+应变强化
+Melnikov method
+fractional derivative
+damper
+有限元模拟
+流型
+温度场
+刚体
+probability density function
+岩土工程
+压力梯度
+弹性常数
+thin plate theory
+中转动
+gas transfer
+Wu elimination method
+reduced order model
+微重
+spline finite strip
+充液比
+流形元法
+effective elastic properties
+electroelastic field
+连接键
+jointed rocks
+基面力
+collimated abrasive water jet
+薄层单元
+TMD system
+elastic-plastic material
+rectangular beam
+nanoscratch
+剩余模态
+shear dilation
+连续配筋混凝土路面
+多极坐标
+模型风洞试验
+加筋壳
+pipes conveying fluid
+acoustoelasticity
+空泡运动
+reliability constraint
+hysteretic system
+流体-结构相互作用
+成型装药
+粘弹性变形
+geometrical non-linearity
+复合曲梁
+electric displacement intensity factor
+高升力
+非定常系统
+Trefftz法
+strain gradient plasticity
+动态子结构方法
+双周期分布
+semi-analytical approach
+turbulence.
+时滞动力系统
+separated flows
+differential cubature method
+moving least squares approximation
+chaotic mixing
+wings
+局部凹陷
+catenary cable element
+stochastic averaging
+初始后屈曲
+河网非恒定流
+DSPI
+fast iterative algorithm
+fundamental solutions
+护壁桩
+tall structure
+淹没磨料射流
+前屈曲
+通气空泡
+mixed layer
+对偶方程
+壁板颤振
+SH-wave scattering
+foundation model
+精细网格
+detonation products
+slender body theory
+空泡数
+rigid plastic
+displacement constraints
+爆燃转爆轰
+虚裂纹模型
+样条边界元
+液液分离
+insensitive high explosive
+wave-making resistance
+nonlocal elasticity
+裂尖场
+constrained damping
+flexible cantilever beam
+sea ice dynamics
+无单元Galerkin法
+differential quadrature element method
+非定常数值模拟
+位错力
+ring-stiffened cylindrical shells
+整体弯曲
+consistent algorithm
+对应性原理
+空泡云
+Reynolds应力
+MicroADV
+torsional buckling
+probability constraints
+瑞利-里兹法
+Wolff法则
+R-T不稳定性
+rigid plasticity
+piezoelectric media
+卷边槽钢
+直接积分方法
+partition of unit
+vortex dynamics
+海冰动力学
+Thin plate
+裂纹形成寿命
+secondary moment
+悬索舱体结构
+自旋稳定性
+台阶式溢洪道
+T-stress
+损伤本构
+层合理论
+多重尺度
+逆解法
+圆形夹杂
+Rayleigh number
+边界无单元法
+interfacial wave
+blasting seismic effect
+起裂角
+discontinuous bifurcation
+split Hopkinson bar
+梯形板
+缩比实验
+矿物桥
+velocity distribution function
+三维PIV
+电弹性场
+reductive perturbation method
+dynamic tensile strength
+预应力连续梁
+高层钢框架
+multiple jets
+屈服轨迹
+多介质流体
+flattened Brazilian disc
+颤振临界风速
+radial point interpolation method
+ALE有限元法
+复阻尼
+结构体系可靠度
+Kantorovich method
+水动力相互作用
+动力灵敏度
+T应力
+激波聚焦
+layered foundation
+deformed bar
+曲线单元
+reticulated domes
+two-dimensional airfoil
+extended self-similarity
+punching failure
+多项式解
+quasicontinuum method
+微分容积法
+超声速混合
+thin shells
+elastic buckling
+Biot's wave equations
+stress intensity factor （SIF）
+减阻流体
+tall building structures
+畸变屈曲
+粗糙床面
+Vacco动力学
+Fourier-Bessel级数
+轴向加载
+buoyant jets
+elasto-viscoplasticity
+nonholonomic constraint
+围压
+极限平衡
+ocean engineering
+turbulent combustion
+motion planning
+贴体坐标
+动力稳定
+Duffing振子
+seismic design
+流体控制
+速度测量
+非饱和土
+马赫数
+细观结构
+筒仓
+特征值
+微裂纹
+molecular dynamics simulation
+岩体
+浓度场
+stability analysis
+pipes
+层板
+波传播
+区域分解法
+dynamic machine foundation
+refined theory
+elastic-plastic materials
+UL法
+impact and rubbing
+equivalent beam-column method
+bone cells
+有限谱法
+继效流动理论
+vibration isolation.
+桥箔
+局部行进波
+率温等效
+UL method
+应力奇性
+高温云纹
+shock wave/boundary layer interaction
+radial temperature gradient
+deflagration flame
+strain concentration factor
+punching strength
+circular curved beam
+artery stenosis
+棋盘格现象
+有限条元法
+frequency constraints
+压剪复合加载
+semi-discrete method
+coupling of structure and fluid
+圆球土样
+elastic-plastic failure
+各向异性支承
+chaotic saddle
+失效函数
+incompressible N-S equations
+deployment analysis
+elastostatics
+沙粒运动
+微分求积单元法
+Taylor撞击
+cumulative charge
+sediment-laden river
+界面断裂韧性
+开口泄爆
+滑动界面
+time integration method
+bending problems
+self-equilibrium stress field
+fatigue crack closure
+近奇异积分
+non-probabilistic uncertainty
+碎片尺度
+stress singularity factor
+空间曲梁
+弹性曲杆
+损伤定位向量
+Moire Interferometry
+magnetoelectroelastic solids
+CIP方法
+tire rubber
+dynamic photoelasticity.
+不连续位移
+钢靶
+埋置框架
+刚性线
+大变形测量
+小参数摄动法
+elliptical function
+磁电弹材料
+压力波波速
+structural topology
+厚度影响
+juncture flow
+理想正交各向异性弹塑性材料
+纹影迹线
+convolution integration
+初始层校正法
+点源函数
+刚度张量
+旋转周期结构
+piezomagnetic material
+orthotropic composites
+微分/代数方程
+piezoelectric laminated plate
+asymmetric vortices
+塑性节点法
+turbulence intensity profile
+刚性圆板
+约当型
+elastic continuation and plastic flow theory
+应变率相关性
+合理截面
+静水应力场
+卸载效应
+多层圆柱壳
+定常扩展
+model experiment.
+plane crack
+加权紧致非线性格式
+随行装药
+非概率不确定性
+FEM mesh
+悬式绝缘子
+圆柱尾流
+timoshenko beam theory
+晶体滑移有限元
+functionally graded material （FGM）
+杂交应力单元
+isochromatics
+匀角速
+非正交多项式展式
+damage locating vectors
+heterogeneous explosive
+动力反演
+弹塑性圆板
+VISAR interferometer
+通量限制器
+characteristic plane
+结构极限分析
+留数理论
+two-node curved cable element
+piezoelectric sensor/actuator
+creeping material
+turbulence measurement
+frame structure embedded partially in soil
+压电层状结构
+instability.
+moving crack
+Symplectic
+starting flow
+subgrid scale model
+Ritz向量法
+Reissner plate
+随机结构分析
+构架蛇行波
+桥梁空气动力学
+visco-elastic-plastic
+generalized mixed variational principle
+secondary bifurcation buckling
+high-order accurate scheme
+液体非线性晃动
+半解析边界元法
+涡襟翼
+divergent detonation wave
+alternating plasticity
+tension softening curve
+railway track structure
+fully Cartesian coordinates
+辛弹性力学
+metallic plate
+theory of stability
+控制溢出
+各向异性弹性
+偏心集中力
+mistuned bladed disk
+有效长度系数
+equivalent nonlinear system
+weak continuity
+波的相互作用
+inertial effects
+Faber series
+shock wave propagation
+中厚扁壳
+time domain boundary element method
+rigid circular plate
+TL法
+表面滑移
+应用数学和力学
+总体屈曲
+FAE装置
+饱和多孔弹性梁
+in-plane displacement
+stationary motion
+local map
+柔度阵
+Variational principles
+quasi-static growth
+SMA纤维复合材料
+突加不平衡响应
+Lyapunov's stability
+单索
+充液卫星
+Baldwin-Lomax模型
+CTOA
+wave interaction
+multi-block structured grid
+equivalent crack
+猪主动脉瓣
+singular boundary
+小口径喷嘴
+rational mechanics
+机械能守恒律
+ventilated cavitation
+piezoelectric elasticity
+边界元和有限元
+poroelastic beam
+高焓激波风洞
+submerged abrasive waterjet
+涂层夹杂
+incremental equation
+orthotropic rectangular plate
+急行跳远
+truss-like material
+diameter effect
+车桥耦合系统
+本构描述
+non-Darcian flow
+蠕滑率/力
+bend channel
+接触内力
+渐近摄动
+基于功能的设计
+circle hole
+荷载形式
+generalized stress intensity factor
+buckling modes
+subharmonic motion
+atomized flow
+Saint-Venant弯曲
+Laplace-Hankel transform
+磁弹性耦合
+roof structures
+gas-condensate reservoir
+曲线裂纹
+变形体离散元
+矢量喷流
+generalized degrees of freedom
+冲击运动
+多阶段决策算子法
+absolute/convective instability
+统计演化
+井筒储存
+negative bending
+Unsteady Flow
+三阶解
+natural BIE
+Duhamel integration
+discrete optimal control
+intense dynamic loading
+moving least-squares
+periodic excitation
+buckling constraints
+壁面剪切率
+water waves generated by explosion
+电子剪切散斑
+fractional step algorithm
+balanced reduction method
+arch ribs
+dislocation dipole
+涡量边界条件
+submerged step
+interface response
+point matrix
+SIMP插值模型
+等效非线性系统
+横流环境
+dynamic stress strain curve
+多列滚动轴承
+ventilated cavity
+temperature effect.
+body fitted coordinates
+数值反变换
+energy method.
+非光滑算法
+vertical vibration isolation
+垂直强迫振动
+冲击引爆
+ALE finite element
+normal mode method
+nonlinear amplitude equation
+热粘塑性失稳
+二次失稳
+体积力法
+stiffened laminated plate
+非比例载荷
+多虚拟裂纹扩展法
+静不定桁架
+bar element
+large deformation.
+纵横弯曲梁
+波流边界层
+反应堆结构力学
+amplitude dispersion
+模态坐标
+屈曲杆
+body force method
+光滑中心
+traveling charge
+detonation acceleration
+非定常分离
+位错偶极子
+广义动静法
+等效梁柱法
+intermediate configuration
+stress intensity factors.
+condensed shape functions
+频率和振型
+composite action of slab
+金属圆板
+streak schlieren
+rubber-like material
+transformation hinge
+非线性振幅方程
+antiplane elasticity
+加载波整形
+photoelastic composite materials
+nonlinear viscoelastic constitutive relation
+heterogeneous combustion
+plane element
+compressible shear layer
+Ramberg-Osgood model
+中间构形
+arterial remodeling
+动应力场
+算法阻尼
+defective system
+analytical integral
+应力约束全局化
+欧拉-拉格朗日法
+时相关变形
+浮力回流
+剪切应变率
+直径效应
+flyer velocity
+弹塑性板
+奇异场
+subjective uncertainty
+multiple resonance
+牵连点
+复势解
+symplectic eigensolution
+PSM model
+混沌鞍
+dual reciprocity method
+dynamic growing
+哈密尔顿矩阵
+Michell truss
+金属圆管
+stress release method
+K-H instability
+光弹性复合材料
+流固耦合系统
+有效松弛模量
+非线性气动弹性
+nonlinear analytical method
+binary fluid mixture
+finite spectral method
+币形裂纹
+numerical stability.
+elliptical planar crack
+environmental fluid mechanics
+动力可靠性分析
+流向振荡
+被动围压
+双裂纹
+油-水两相流
+串联体系
+variable domain variation
+应力状态参数
+非局部模型
+interpolation functions
+free free beam
+vortex
+疲劳强度
+flow control
+灵敏度分析
+deformation
+wavelet transform
+cavity
+Laplace transformation
+bearing capacity
+泊松比
+contact stress
+void
+延性
+阻力系数
+样条函数
+数字图像相关
+接触爆炸
+stress.
+low Reynolds number
+磁流体力学
+梁结构
+weak form
+纳米力学
+mesomechanics
+lift force
+wind-induced vibration
+Floquet理论
+逆动力学
+塑性理论
+后验误差估计
+软材料
+剪切流
+冲击加载
+风振控制
+热屈曲
+非线性结构
+规范形
+像力
+大攻角
+thin shell
+layered soil
+Newton-Raphson method
+three-dimensional analysis
+interfacial stress
+thermal buckling
+蠕变柔量
+damage
+聚合物驱
+直接积分法
+Fourier级数
+earthquake response
+吸引域
+移动最小二乘法
+破坏形态
+concrete slab
+triangular element
+复合加载
+second-order effect
+forming limit
+soil dynamics
+等差线
+FPK方程
+弧长法
+工业炸药
+弹塑性断裂
+Large deflection
+spectral element method
+局部屈曲
+Poincare映射
+anisotropic medium
+样条配点法
+撞击感度
+地面运动
+高层钢结构
+复合材料板
+nonautonomous system
+弹塑性断裂力学
+结构损伤识别
+damage localization
+岩石动力学
+dynamic stiffening
+瞬态热传导
+气泡运动
+鸟撞
+钨合金
+interface layer
+人工边界
+S-N曲线
+迷宫密封
+能量原理
+有限条法
+RDX
+率相关
+旋翼
+vibration suppression
+动力响应分析
+试验研究
+ANSYS
+flow pattern
+diffraction
+periodic solution
+特征系统实现算法
+脉动特性
+冲量耦合系数
+structural optimization design
+超谐共振
+延迟反馈控制
+structural system reliability
+interlaminar stress
+cavity expansion theory
+开边界条件
+多相材料
+interval mathematics
+切线刚度矩阵
+pounding
+位形空间
+floating raft
+Maxwell流体
+水压致裂
+滞回模型
+bounded noise
+明渠水流
+ADV
+变形协调方程
+Large deformation
+曲线箱梁
+功能梯度压电材料
+非牛顿流
+mild-slope equation
+probabilistic fracture mechanics
+elastic half space
+卡门涡
+爆炸应力波
+Lattice Boltzmann Method
+Nonlinear vibration
+动应力集中系数
+partial stability
+interface element
+particle image velocimetry （PIV）
+rain-wind induced vibration
+water tunnel
+半解析有限元法
+submerged floating tunnel
+explosion loading
+冲击伤
+等色线
+N—S方程
+三角形元
+压电介质
+矩阵摄动法
+变分不等方程
+wall effect
+双重非线性
+hybrid finite element
+势能原理
+laminated composite plate
+抗震可靠度
+无网格Galerkin法
+unknown input
+近海结构
+离散元方法
+explosive charge
+惯量主轴
+冲蚀性能
+变速运动
+loading history
+流激振动
+mixed convection
+再生核质点法
+space manipulator
+电流变阻尼器
+爆炸烧结
+experimental study
+热传导
+energy dissipation
+finite element model
+piezoelectric effect
+frozen soil
+防护结构
+high strength concrete
+deflagration
+Stress intensity factor
+state space method
+thermal stresses
+粘性系数
+应变速率
+KdV方程
+Lagrange multiplier
+fundamental frequency
+幂律流体
+多刚体系统
+non-linearity
+温度应力
+迭代
+earthquake
+稳态响应
+损伤模型
+区间分析
+动脉粥样硬化
+静力学
+无网格
+特征值问题
+变形测量
+强迫振动
+抖振
+屈服应力
+接触压力
+弹性理论
+parallel computation
+阻尼器
+seepage
+横向振动
+两相流动
+friction
+有限元模型
+会议简介
+相移
+子波变换
+极限强度
+强度理论
+NDT
+rheological model
+夹杂
+固结
+磁流变液
+压电效应
+超弹性
+retaining pile
+独立模态控制
+块体单元法
+free vibrations
+变态模型
+thermal vibration
+车桥耦合振动
+强非线性系统
+sediment-laden flow
+移动荷载识别
+convex model
+restrained torsion
+大涡模拟（LES）
+tidal wave
+冲击激励
+vascular remodeling
+爆炸加工
+second order effect
+H变换
+结构损伤诊断
+混合硬化
+带滑移铰空间机械臂
+电探针
+spectral representation
+wind stress
+geometric non-linearity
+heterogeneous materials
+接触约束
+incremental theory
+irregular waves
+two-phase turbulence
+中应变率
+elastic characteristic
+body-fitted grid
+nonlinear random vibration
+Bingham流体
+anisotropic plate
+slurry pipeline
+双曲型方程组
+discrete velocity ordinate method
+尺度律
+边界积分方法
+electric gun
+anisotropic damage
+岩石类材料
+壳体理论
+EFDC
+spall strength
+预制裂纹
+dual integral equations
+表示理论
+Edgeworth级数
+位移反应谱
+ALE finite element method
+漂浮基空间机械臂
+corrugated diaphragm
+虚功方程
+计算空气动力学
+粘性指进
+刚粘塑性
+shakedown
+multiscale method
+本征正交分解法
+厚壳
+线性互补方程
+moving least square approximation
+cavitation inception
+接触搜索
+离散速度坐标法
+flow field.
+局部Petrov-Galerkin法
+penny-shaped crack
+背景响应
+初生空化
+裂纹群
+local analysis
+deformation and failure mechanism
+螺旋焊缝
+理论力学教学
+耦合变形
+flow field visualization
+圆环壳
+细长体理论
+时间有限元法
+外弹道学
+模型缩聚
+梯度塑性
+非平衡流
+标准升温曲线
+双曲冷却塔
+horseshoe vortex
+越浪量
+冲击波衰减
+畸形波
+薄壁杆
+tubular joints
+调频质量阻尼器
+准则法
+振动弛豫
+eigenproblem
+动态力学响应
+thin-walled beams
+steel-concrete composite beam
+micro level
+爆炸地震效应
+固有振动分析
+自掺气
+Boltzmann模型方程
+load-displacement curve
+cable element
+displacement constraint
+体系可靠性
+user-interface
+membrane element
+冲击感度
+黏弹性流体
+composite tube
+力学教育
+拉压比
+幂硬化材料
+涡动力学
+乘波体
+frequency optimization
+少数民族中学生
+涡格法
+结构分析程序
+difference solution
+prestressed concrete beams
+螺旋屈曲
+工程专家系统
+structural optimization.
+可压缩材料
+three-dimensional finite element method
+aerodynamic damping
+激波衰减
+软土工程
+土—结构相互作用
+不可压流动
+wave passage effect
+shock wave focusing
+湍流模拟
+modified iteration method
+bifurcations
+Noether理论
+球面网壳
+jet pumps
+直流电位法
+initial-boundary-value problem
+vertical wall
+LQR方法
+条纹中心线
+潮汐流动
+应力集中因子
+半解析有限元
+结构失稳
+moving boundary problem
+steel frames
+freak wave
+swirling turbulent flow
+explosive stress wave
+畴变
+双悬臂梁
+labyrinth seal
+有限体积
+隐式算法
+消能
+浅水波方程
+横向剪切
+滞回曲线
+variable mass
+贴体网格
+钢筋混凝土框架
+超声速
+chaotic dynamics
+混流式水轮机
+dynamical behavior
+工程爆破
+FGM
+超静定
+气固两相流动
+聚能射流
+extrapolation method
+无限元
+concrete-filled steel tube
+热力耦合
+大气边界层
+功率流
+response spectrum
+initial stress
+equation of state
+effective stress
+level set method
+阻尼
+microgravity
+健康监测
+analytic solution
+iterative method
+difference method
+临界转速
+multiphase flow
+金属基复合材料
+integral transformation
+Newmark method
+塑性分析
+大跨桥梁
+damage evolution equation
+周向应力
+crack closure
+crack arrest
+energy criterion
+Level Set method
+索网
+无网格伽辽金法
+surface waves
+partition of unity
+sheet forming
+一致性算法
+scattering of SH-wave
+能量积分
+脉动风
+center manifold
+time-dependent reliability
+GMRES
+stability of motion
+LevelSet方法
+绝热剪切带
+挤压油膜阻尼器
+泥沙起动
+拉拔试验
+frame structures
+加劲肋
+metal forming
+non-linear vibration
+Godunov格式
+直接积分
+应变能释放率
+coupling dynamics
+非线性粘弹性
+MR阻尼器
+位移计算
+显式算法
+thickness effect
+damage variable
+重要抽样
+界面波
+动响应
+非线性屈曲
+管流
+honeycomb structure
+损伤因子
+粘性流
+摄动理论
+中心流形
+convection-diffusion equation
+压电复合材料
+移动最小二乘
+小变形
+constitutive equations
+内波
+并行算法
+失效模式
+非线性规划
+疲劳损伤
+弥散
+疲劳试验
+strain
+扭转
+剪应力
+动态响应
+航天器
+压电
+convolution
+finite difference
+滑移
+特征展开
+负刚度
+Cylindrical shell
+fuzzy variables
+stress redistribution
+气动声学
+二阶精度
+reinforced concrete structures
+similarity solution
+Level Set方法
+螺旋管道
+Morison equation
+gas-particle flow
+动柔度
+multi-variables
+perturbation technique
+多点激励
+waves
+incompressible fluid
+模态耦合
+附连水质量
+curved box girder
+inclined cable
+reinforced concrete beams
+viscoplastic
+谐波平衡
+简支
+预应力结构
+strain rate sensitivity
+非线性渗流
+incompressible viscous flow
+stress transfer
+continuum model
+axial-flow compressor
+irregular wave
+损伤破坏
+transonic
+高速流动
+粘结应力
+卫星编队飞行
+unit cell model
+力学理论
+超声速流
+三维效应
+progressive failure
+finite analytic method
+fracture process
+ignition delay time
+桥连
+颗粒浓度分布
+轴流压气机
+压电智能结构
+modal superposition method
+裂纹梁
+初始扰动
+曲杆
+云纹干涉
+supercavitation
+wake flow
+nanomechanics
+jets
+钝感炸药
+steel fiber concrete
+微尺度流动
+aerosol particle
+fast Fourier transformation
+moving least square
+积分不变量
+piles
+竖向振动
+geometrical nonlinear
+滑移系
+progressive damage
+stochastic averaging method
+湍流燃烧
+气动力
+dynamic mesh
+acoustic radiation
+stochastic resonance
+低雷诺数
+offshore platform
+运动规划
+piezoelectric actuator
+矩形薄板
+spherical shell
+裂纹扩展速率
+升力
+iteration method
+流速分布
+velocity measurement
+bolt
+浅水
+general solution
+隔震
+building structure
+piezoelectric
+差分方法
+velocity distribution
+相对运动
+叠加原理
+保角映射
+粘性流体
+injection molding
+空间碎片
+奇异积分
+orbit elements
+matrix exponential
+余维二分岔
+dynamic fracture strength
+thermo-hydro-mechanical coupling
+unloading effect
+热断裂
+当地流活塞理论
+应力奇性指数
+共轭变量
+saturation control
+traffic flow models
+method of harmonic balance
+pseudo-stress function
+elastic cylindrical shell
+S-R分解定理
+adaptive FEM
+compressible turbulence
+脉冲液体射流泵
+二次映射
+应变奇异性
+primary breakup
+boundary element-free method
+蠕变材料
+弹性线
+半离散中心迎风格式
+fine grid blocks
+UHTCC
+湿砂造型
+涌潮压力
+unsteady viscous flow
+micropipette aspiration
+asymptotic perturbation
+tensile membrane structures
+斜撞击
+动高压技术
+crack initiation angle
+瞬态波动
+刚体有限元
+辛本征解
+刚度效应
+DCD scheme
+strain singularity
+运动裂纹
+铝颗粒
+极值点屈曲
+erosion performance
+动力学普遍方程
+regularization technique
+样条积分方程法
+伪应力函数
+轴对称分布
+杆件截面
+螺旋管流
+Vibration.
+dynamic plastic buckling
+内蕴时间理论
+扩展有限元法
+材料强韧化
+cable structures
+多胞材料
+应力-应变全过程曲线
+rough wall
+confined pressure
+shallow water wave equation
+水沙流
+条纹常数
+coarse grid blocks
+anisotropic plates
+RC柱
+pressure desensitization
+large deflection.
+mechanics of fracture
+刚弹耦合
+超细长弹性杆
+塑性全量理论
+panel method.
+压力减敏
+equivalent static wind loads
+非均质炸药
+NND finite difference scheme
+湿应力
+seismic source function
+压裂水平井
+initial post-buckling
+水弹道学
+研究现状和展望
+齐次扩容精细积分法
+thermal bending
+张力膜结构
+optical readout
+超级单元
+变分有限元法
+pulsed liquid
+elastodynamic
+eigen-value
+quasi-static propagation
+弥散关系
+Bregman距离
+涡破碎
+撞击载荷
+single ignition
+弯曲动脉
+Wolff’s law
+elastic-plastic flow
+damage location identification
+geometrically nonlinear analysis
+正则模态
+Bernoulli-Euler thin-walled beam
+modal flexibility
+impulse loading
+胶凝原油
+general failure probability
+随机桁架结构
+共振周期
+prestressed concrete bridge
+申请情况
+杂交应力
+sliding detonation
+finite rotation
+径向点插值法
+子弹撞击
+detonation.
+多浮体
+initially stressed
+cable pretension force optimization
+基本微分方程
+elasto-dynamics
+wind-induced responses
+method of perturbation
+屈曲约束
+相变铰
+mesh adaptation
+wave dispersion
+移动接触
+激光速度干涉仪
+spatial lattice structure
+geometric nonlinear analysis
+spatial frame
+损伤位置识别
+rate of strain
+细节分析
+eccentrically compressed members
+plastic anisotropy
+横向剪切效应
+伪力
+过滤白噪声
+structural failure
+残余力向量法
+引力波探测
+unsteady motion
+eigensolution
+四边简支
+wind interference
+atomization field
+chimera grid
+动态破坏强度
+追击问题
+模糊有效域
+Bernoulli-Euler薄壁梁
+非均相燃烧
+各向同性材料
+internal solitary wave
+shock diffraction
+closed form solution
+gelled crude oil
+矩形中厚板
+室内空气流动
+longitudinal shear
+爆炸震动
+天棚阻尼
+自平衡应力场
+approximate analytic solution
+deformable porous media
+光滑映射
+Laplace interpolation
+三维应力集中
+bench blast
+constrained layer damping plate
+弹塑性应力分析
+非均匀变形
+区间有限元法
+micro-scale flow
+光塑性法
+spline finite element method
+Rayleigh数
+散心爆轰波
+主参激共振
+平面运动刚体
+hypersonic flows
+unified constitutive model
+complementary energy
+water cushion pool
+初缺陷
+storm surges
+continuous friction model
+high strength steel fiber reinforced concrete
+层状土层
+Dynamic plastic response
+圆弧裂纹
+concrete fracture
+fragment size
+时均压强
+边界拟合坐标系
+single-layer reticulated shells
+fringe constant
+弯矩-转角关系
+mild detonating fuse
+scattering cross-section
+铝粉尘
+Rankine source
+staggered mesh
+double Fourier transform
+随机参数结构
+材料动态性能
+界面孔
+保角映射法
+简正模态法
+coupled flutter
+变质量流
+柔性壁
+anisotropic elasticity
+pseudo excitation
+复合材料加筋层合板
+钢丝软轴
+damage constitutive relationship
+composite steel-concrete beams
+square plate
+二维连续体
+equilibrium matrix
+the Galerkin method
+pneumatic tire
+厚向各向异性
+平面弹性问题
+损伤粘弹性固体
+internal soliton
+自拟题目
+explosive dispersal
+杂交结构
+inclined beam
+后向台阶流
+塑性铰法
+inertial manifold
+stub column
+piezoelectric plate
+翘曲位移函数
+动量矩守恒
+电磁内爆
+annular plates
+齐次扩容精细算法
+crack growth life
+reasonable finished dead state
+无限长板
+负浮力射流
+单源模糊数
+rectangular container
+gaseous detonation wave
+拟动力实验
+雷诺平均
+波函数展开
+粘弹性输流管道
+快速畸变理论
+神经元集群
+空间刚架结构
+composite reservoir
+thin-walled members
+层裂模型
+拟弹性
+多弹簧模型
+expanding fracture
+equivalent elastic constants
+periodic disturbance
+黏弹流体
+time-integration
+magnetorheological （MR） damper
+energy release rates
+矩形贮箱
+explosive initiator
+空化空蚀
+branching channel
+非定常渗流
+绕射问题
+线性硬化
+散斑计量
+aerated flow
+multi-spring model
+airfoils
+有限弹性
+scattering of SH-waves
+equilibrium equations
+格子法
+约束层阻尼板
+mesoscopic level
+RC columns
+奇点分布
+stability of equilibrium
+势能泛函
+displacement response spectrum
+component modal synthesis
+无穷维动力系统
+locking phenomenon
+multiple tuned mass damper
+局部效应修正
+组织液流动
+切片理论
+Reissner's plate
+波传问题
+有限积分变换
+影像云纹法
+cable domes
+电磁粒子速度计
+微力学
+M-J集
+deformed media
+夹层扁壳
+up-and-down method
+力学性能
+迭代法
+疲劳裂纹
+变分法
+弹丸
+propeller
+分子动力学模拟
+反应谱
+拉索
+水动力特性
+流-固耦合
+弹塑性力学
+固体推进剂
+气动噪声
+模态参数识别
+不可压缩
+failure criteria
+lattice structure
+coupled analysis
+Mach number
+约束混凝土
+弹流润滑
+Lyapunov稳定性
+爆炸场
+dynamic loading
+管柱
+动力吸振器
+大理岩
+牵连运动
+疲劳可靠性
+半空间
+输液管
+S-N curve
+swirling flow
+多尺度方法
+干摩擦
+重分析
+wind tunnel experiment
+fluid-solid coupling
+finite element method （FEM）
+塑性区
+相似准则
+冲击损伤
+critical parameter
+非线性随机振动
+土动力学
+柔度法
+微悬臂梁
+principle of virtual work
+短裂纹
+functionally gradient materials
+爆破地震
+时变可靠度
+半解析方法
+dynamic response analysis
+femur
+box girder
+aseismic design
+不确定参数
+三角翼
+混合有限分析法
+管道流动
+弹簧模型
+滞回性能
+斜碰撞
+屈服条件
+proper orthogonal decomposition
+slug flow
+电爆炸
+natural characteristics
+large strain
+预处理共轭梯度法
+网格自适应
+holographic interferometry
+Love波
+松弛模量
+sediment transport
+冲击特性
+gas-liquid flow
+煤柱
+颈动脉
+semi-analytical solution
+纯滚动
+泄爆
+环境振动
+Lattice Boltzmann method
+初始几何缺陷
+断裂准则
+固有振动
+谐波平衡法
+空化噪声
+自适应网格
+高温蠕变
+nonlinear finite element method
+调和函数
+ultrasonic motor
+bridge structure
+thermal load
+fractal
+Lanczos method
+气体-液体混合物
+representative volume element
+polar decomposition
+散体单元法
+tidal river
+湍流旋流流动
+大尺度结构
+储液容器
+flutter stability
+air nozzle
+non-Newtonian fluids
+柔性多体动力学
+circular cavity
+抗侵彻性能
+索力优化
+河工模型
+shear walls
+discontinuous deformation analysis
+hyperelastic
+seismic excitation
+edge crack
+掺气减蚀
+pressure measure
+多重子结构
+白光散斑
+吸能特性
+Stokes flow
+脉冲爆轰发动机
+型钢混凝土结构
+intergranular fracture
+N－S方程
+flexural wave
+continuous box girder
+结构重分析
+内力影响面
+转动惯性
+PCG
+steel-concrete composite beams
+Birkhoffian system
+Elastic foundation
+复合材料补片
+wind tunnel testing
+first-order shear deformation theory
+moving least square method
+experimental design method
+损伤局部化
+plastic mechanics
+dynamic caustics
+固结方程
+疲劳缺口系数
+centrifugal field
+撕裂模量
+digital speckle
+基底压力
+boundary layer effect
+频域解
+预应力钢结构
+pedestal looseness
+厚圆板
+动系
+质点网格法
+网格畸变
+time-domain method
+adaptive finite element method
+metallic foams
+相似性解
+屋盖结构
+弹塑性接触
+wellbore stability
+热弹耦合
+非线性颤振
+semi active control
+光测力学
+等效渗透率
+lateral effect
+N S equation
+有效集法
+universal unfolding
+bounding surface model
+chaotic vibration
+sliding contact
+压力隧洞
+explosion field
+功能梯度材料（FGM）
+electro-mechanical coupling
+二次涡
+stenosis
+dynamics and control
+随机地震反应
+含铝炸药
+轴向运动梁
+generalized eigenvalue problem
+FPK equation
+等密度线
+ER damper
+Noether symmetry
+cold-formed steel
+catheter
+悬臂矩形板
+large rotation
+sliding interface
+并行加速比
+约束阻尼层
+荷载位移曲线
+unstable flow
+欧拉梁
+层间界面
+dispersion relations
+status equation
+层合结构
+开孔板
+空化特性
+总势能
+plane-strain
+热学参数
+fill ratio
+contact effect
+输液曲管
+风应力
+boundary collocation method
+SiCp/Al
+基体裂纹
+连续化方法
+颤振稳定性
+impact damage
+感潮河网
+稳定渗流
+trusses
+静风荷载
+扭转问题
+wave-guide
+标度关系
+Poincare截面
+非经典阻尼
+声振耦合
+static response
+大挠度理论
+strain-hardening
+concrete column
+buoyant jet
+wave transformation
+mode superposition
+波浪绕射
+cylindrical cavity
+边值问题
+阻尼比
+actuator
+圆管
+numerical modeling
+风洞实验
+钢筋混凝土结构
+eject event
+状态跳跃
+cerebrospinal fluid circulation
+double responses
+natural cavity
+string net function
+simulation of erection procedures
+open laminated cylindrical shell
+hollow jet
+partide neon - uniform distribution
+尔可夫过程
+负超载
+高频振型
+large pile foundation
+三维通用权函数法
+spectrum estimation by time sereis analysis
+梁壁曲梁
+Hutchinson模型
+目标函数鲁棒性
+phenomenological study
+Transverse Shear Deformation
+nonlinear deformation measuremant
+p收敛性
+局部-整体法
+稳态飞行
+pelitization interlayer
+Appell-Chetaev模型
+Hollow spherical joint
+coupling effects of creep-damage
+pulsed X ray photograph
+test tech-nique
+PVDF piezoelectric films
+three dimensional disturbance wave
+sectional properties
+三级联合解法
+闪烁偶极子流
+waterentry
+higher order finite element
+nonlinear fatigue damage accumulation
+deformation of deflection
+agrieulture machinery
+流-固冲击
+dynamic toughnes
+线型夹杂
+waterpower transportation
+SP压杆实验法
+超绕
+transformer shortcircuit
+弹性梁支承
+real time subtraction
+perturbation of magnetic field vector
+elasloplastieity
+axial and torsional loading
+Method of weighted residual
+大范围皱曲
+general-ized cell mapping
+土层波速结构
+great resistance underdrain system
+auto-fitting
+Density at the cen- tral point of an element.
+统一计算式
+运动强化模型
+第二激波
+水电站水工建筑物
+momentum flow rate
+静态爆破法
+几何动力非线性
+结构分析通用软件
+薄壁空心球
+cross flowp
+inversive analysis of stiffeness
+TMD的个数
+电极脱层
+密筋混凝土
+hydrody- namic interaction forces
+异步驱动原理
+通道通讯
+FLMS algorithm.
+optimal microstructure
+jot
+热屈曲实验
+artificialdisturbance
+土－结相互作用
+high precision computation
+大范围刚体运动
+pseudo-simila.tity
+裂纹分布张量
+液体的抗拉强度
+soften rock seam
+Cattaneo equation
+库仑力矩法
+sprin g-damper element.
+grid configuration
+膜-板模拟
+p-V exponential relationship
+piecewise Newton interpolating polynomial
+大跨度平屋面
+拟连续统理论
+载荷叠加法
+principle of effective stress
+初始位移设定
+Domain Decomposition Method
+dynamic impedence function
+EBIE.
+symmetric gryoscope
+vibration supporession
+横流均匀环境
+工程弹性力学
+- vibration analysis
+Eulerian simulation
+field intensity factors
+WSUC差分格式
+轴向恒压
+semi-analytic methods
+北塔大桥
+river networks unsteady flow
+灾变破坏
+grooved rolls
+initial irregularities
+nonlinear analysts
+dispersion of particles
+dynamic progress buckling
+损伤识别指标
+radial tires
+inverse parameter estimation
+Piezoceramic
+Timoshenko pipe
+distributed force model.
+sandwieh plate
+弹性粘塑性
+turbulence mcxiel
+self-rotating ratio
+oblique plate ele- ment
+Cosserat模型
+dynamics of Birkhoff system
+Homholtz equation
+amplitude of fluctuating pressure
+质量传输方程
+单层饱和地基
+unsteady hydrodynamics.
+平弯圆弧梁
+cracked straight through flattened Brazilian disc（CSTFBD）
+杂交/混合法
+stresses at interface
+内部点支承
+forefront coefficient matrix
+非协调分析的单位力法
+压电弯曲执行器
+介质传送
+非对称稳态振动
+位移杂交边界元法
+mass abrasion
+convection diffusion.
+Tuned Mass Damper control
+anti plane notch
+track geometric irregularity
+Yibin Jinsha river large bridge
+局部空间变位模式
+阵风谱
+gooseneck-like pipe
+突泄坝址过程线
+instability with bifurcation points
+frictional constraint
+incremental step
+automatic unit division
+prediction of blank size
+elastoplastic line spring model
+air/water two phase cross flow
+nonlocal elasticity theory
+水闸布置
+conjugate variables
+鼓形钢丝绳减振器
+nonlinear dynamics of rotor system
+失稳分岔
+entropy-based regu-larized function
+Constitutive modelling
+索-曲梁组合结构
+保辛方法
+multi-block matching method
+random earthquake simulation
+electroslag welding joint
+整体/局部方法
+multi-conductor bundles
+sin- gular perturbation method
+thin current-carrying conductor
+Circular Cylindrical Shells
+micro-defecls
+CCP模型
+the fixed rigid line problem
+pulsating flow.
+远场非奇异应力
+高阶余项
+应力─应变全曲线
+initial cracking point
+/multilayer subsoils
+分形熵与热力学
+平面压缩波
+Steel Fibre Reinforced Concrete （SFRC）
+元素位置矢量
+二次分叉屈曲
+赫谢尔—巴尔克莱流体
+eigen-problem/sirnpletic
+半离散法
+高可压缩流体
+体胞单元
+破坏速度
+变异系数（标准差）
+shearing adhesion force of cell
+条状屈服区
+inlet flowfield
+electrodynamical system
+Portevin-Le Chatelier（PLC）效应
+转动翼型
+joint design point
+multigrid.
+斜轴螺旋流
+缝端
+T形、L形、十字形截面
+双折射相移
+lose damage
+phasle velocity
+pulverizedcoal combustion
+controlling quantities of oscillatory singular
+夹层旋转壳
+random analysis.
+折合速度
+aorta wall
+Tall building structural analysis
+IMPS measurement
+抗侧移刚度矩阵
+isolation seism layer
+tube bundle with square section
+quantitative flow visualization
+sanduich shell
+analysis of post buckling
+tensor application
+deluted debris flow
+Quadratic isoparametric boundary element
+Christenson应力
+包体模型
+probabilistic finite automata
+正交异性矩形簿板
+intense pulse laser bcam
+Adaptive mesh refinement
+板弯问题
+推坡计算
+MTMD  （multiple tuned Mass dampers）.
+annalus
+局部—整体分析法
+非定常高升力
+轨道根数法
+阻尼配置
+电致弹性
+microcrack interaction
+旋转惯性
+redundant bar structures
+大错位电子散斑干涉
+Coulomb定律
+摄动法/扁壳
+dynamics of structUres
+分段平衡函数
+co rotational
+the characteristics of cav itatior.
+不可压缩本构
+perfectly plastic vibro-impact
+随机梅尔尼科夫方法
+三维船尾流
+visco-damping structure
+moving limit
+广义惯性流形
+wind tunnel ex-periment
+cohesive force.
+kinetic equatioa
+relative vibrational energy
+锚拉杆
+constant life fatigue diagram
+orthotropic spherical shell model
+工程动力学
+非磁悬臂板
+广义润滑方程
+High-pressure turbine plate
+elastic element of resonant vibration
+drag coefficient C_D
+形状优化/动力约束
+wave induced radiation stresses tensor
+Pad approximants
+LDV diagnosis
+短圆柱试件
+局部噘嘴
+fixed offshore platform structure
+环状试件
+光学各向同性
+mean value theorem of integration
+Carré算法
+continuous dynamical system
+mass-damping-spring model
+underground care
+nonlincar control
+最大剪应力系数
+clearance joint reaction force
+electrorheological fluied
+primal algorithm
+局部雷诺应力
+dynamic analysis of motion
+有缝结构动力特征
+transmission wire
+ma- trix cracking
+N- Sequation
+演化率方程
+打横
+gKdV solitary wave
+无伪振荡
+第三类面积坐标
+压电等效载荷
+unified calculating formulae
+周期变系数线性常微分方程
+liquid solid two phase flow
+机翼/外挂
+inclined coordinate
+special FEM
+design for body shape
+higher- order boundary element
+静动屈曲
+岩石变形局部化
+afterbody flowfield
+Ray-leigh-Ritz energy method.
+damping member
+人字形切槽短棒试样
+non linear structure
+electrical displacement
+内力展开法
+displacement modal shape
+non-symmetric double edge cracks
+sidewall effects
+建立高精度格式的原则
+representative unit cell （RUC）
+应力子空间
+stress-life relation
+多阶抽油杆柱
+materials fluid mechanics
+刚－柔耦合动力学系统
+轴向极限强约束
+oscillatory stress singularity
+pulsatile velocity
+modification of members' internal force
+mega-structure suspension system
+CTTSRI
+bottom-supported LMFBR vessel
+局部自然坐标
+automatic load incrementation
+權水器流道结构
+mechanocytobiology
+stereo particle mathching
+wave energy conservation equation
+Acceleration Dynamic Magnification Factor （ADMF）
+rigid multi-body model of human body
+经济生命期
+velocity transform matrix
+斜拉桥振动
+charac-teristic finite element method.
+coupled piezothermoelasticity
+变量减缩法
+椭圆腔数例
+three dimensional body shape
+stability of plates
+Boltzmann' s creep law.
+p-V指数关系
+piezoelectric patchs
+beam with notches
+与界面垂直相触三维平片裂纹
+多向映射函数
+area between parallel lines
+cable-prestressed steel truss
+two region
+塔宝剪切干涉
+减维
+NO γ band
+正则化最小二乘法
+微槽宽度
+fluid solids coupled
+the boundedness of the convective schemes.
+internal solitary waves in shallow water
+heat transfer coefficient of condenstion
+液-固二相流
+整体节点拓扑阵
+SEM扫描云纹法
+adjoint system equation
+parab-olized stability equations
+流体与结构相互作用
+Rayleigh surface waves
+fluid-solid interaction.
+稳定过程分析
+长期物质输运
+closed laminated cylindrical shell
+nozzle corner crack
+free surface.
+尾涡层
+设计变量指数变换
+initial cracking stress
+reliability improved FOSM method
+coupled rigid and deformation motions
+unsteady flow through porous medium
+unilateral interface crack
+abstract representation
+deployable space structures
+CMC solution
+isoparametric finite element with nodal derivatives
+conversion techniques
+有限元法局部线性化理论
+Ag-Cu/Ti nano-bilayer film
+Dirichlet-Neumann algorithm
+离散克希霍夫单元
+非定常可动边界
+膜-基复合材料
+quail-static displacement
+Ferroelectric Ceramic
+低速带条结构
+principal axis method
+annular plates with inside cantilever end
+after-load
+dynamic detectingT
+gas-solid two-phass flow turbulent boundary layer
+Voronoicells
+材料性质张量
+strengthen material.
+gravity currents
+Least Square Method.
+比拟有限元法
+the least square fitting
+constructional standards
+fibre rein-forced composite material
+振荡管流
+region of stability
+piezoelectric-elastie
+快速直接解法
+双方柱
+Fokker-Planck-Kolmogorov equation
+共振不稳定性
+传导薄板
+stress growth law
+embrittlement of liquid metal
+单侧界面
+computing intellgence
+schemes of high performance
+强奇异积分和超奇异积分
+交替分段显隐
+excess entropy.
+材料不可压缩性
+pitching excitation
+平移扭转耦连振动
+Crack preventing
+TLD法
+equivalence strength
+表面元程序标识
+弹性-粘弹性复合结构系统
+Finite clement method.
+动力压扁实验
+逆均匀化
+quasi- linear theory
+additive damping.
+角铺设层合板
+部分埋入管道
+分区混合元法
+suction technique
+Solution of solitary wave.
+层合闭口柱壳
+air leakage flow
+Portevin-Le Chatelier（PLC）effect
+fatigue damage variable
+机动极限
+cantilever heam
+sub pixel recognition
+光弹性涂层
+natural frequency-load characteristic relation
+两圆孔厚板
+Space tpuss
+nonlinear two-point boundaryvalue problem
+turbulence froce
+composite laxninates
+Noether′s theory
+壁面障碍物绕流
+the channel with arbitrary shape
+弯曲渠道
+非Fourier模型
+Spline integral equation method
+load-carry ing ability against axial impact.
+numerical experim ents
+dynamic time\|history analysis
+mixed bond-cone failure
+Unsaturated porous media
+载荷线位移
+load eccentricity ratio
+三维线性不稳定性
+cavity flow.
+时域位相分析
+modified Landau equation
+multilayered cylindrical shell
+lamellar flow
+quadratic Bspline
+群桩实体基础
+performance\|based design
+elastic region
+Hilbert应力子空间
+indirect fracture of bone
+wavelet time frequency analysis.
+预紧弹性约束
+reissner varitional principle
+parabolized Navier-Stokes equations
+mesoscale warm eddy
+tresshape
+state feedbad
+COD阻力曲线
+fatigUe
+波浪散射
+hydrodynamic force coefficients
+damp-ing
+length and displacement
+bendmg of beam
+global stress constraints
+部分单元法
+各向异性/势问题
+flow structure.
+被动式水槽
+非空化旋涡带
+affine coordinate.
+power series method.
+改进的新细长船理论
+粘性类土
+广义Hamilton型拟变分原理
+concrete in tension zone
+nonlinear axisymmertric buckling
+可动节点模型
+discrete model.
+blown sands
+挤凿机理
+automatically step-up method
+等寿命图
+临时性可变荷载
+分段样条函数
+large non-circular opening
+coup le.
+固体接触问题
+wing box section
+量测分析系统
+anisotropic/potential problem
+sub\|regional method
+external radius
+压力-变形率关联
+板块缝面层
+概率疲劳剩余寿命
+mechanical space
+体积分处理
+金属圆柱管
+experimental substructure
+plane compressional wave
+接触摩擦非线性
+asymmetric bending
+broken crack
+Lindstedt-Poincare法
+微机结构分析
+经典极大似然法
+transmitted ratio
+抗震控制结构
+filtering function
+double-di ffusive convention
+Moving mass.
+微网格法
+solid liquid model
+挤压拉拔
+homogeneous solid
+quasi periodic motion
+normalized circumferential stress
+平板层流边界层
+crack array
+Generalized conforming element
+分块隐式有限差分
+stability of fluid motion
+moisture and heat migration
+sand producing well
+有限元法/理性有限元
+Active vi bration control.
+quadratic gradient term
+simply suported beam
+释放力矩
+裂纹线场方法
+tensor of crack distribution
+界面破坏准则
+Cauchy应力原理
+action of combined heating and force
+necessary and sufficient condition for double bifurcation pionts
+inter-polant
+微细相变
+屈后强度
+Navies-Stokes equaion
+substruclutre
+stochasic model.
+in-plane shear load
+似加速度
+structure finite element
+超音速/高超音速
+elastic interlayer
+second moment approximation
+generalized spline subdomain methods
+successive elimilation method
+multibody system dynamics Euler-Lagrange equation
+thermal shoc|
+subscale grid model
+aerodynamic damping.
+不可逆非平衡热力学
+energy work rate
+U-shaped bend
+property of precision
+有限深水
+裂纹起裂与扩展
+Parametric Kalman Filter
+压力脉动频率
+动波浪壁边界层
+fully automatic searching method
+主-从结构
+准等熵加载
+deterministic of molecular surface reflection
+水流声速
+Cattaneo方程
+near-tip stress field
+geometrically nonlin
+partially high percentage fiber reinforced concrete （PHPFRC）
+动力失稳判据
+rectangular thick workpiece
+hypersonic viscousflows
+enclosed contour line
+aerospace structures
+衰减分布
+delaminated beam
+streaming flow.
+X形热膜探针
+extended Kirsch combined method
+LDV unit
+损伤度张量
+热套应力分布
+湍流锋面
+斜拉索振动
+fimdamental solution
+revolving shell.
+isodyne contour
+声压贡献
+axial flow turbine's runner.
+二维云纹干涉法
+数学陈述
+PC井式梁板
+thermal damping
+相对速度瞬心
+magneto-hydrodynamics stability
+flow resistence in conduit
+cylindrical submerged in fluid
+Mindlin-Reissner plate theory
+fluid with high viscosity
+hollow with an arch in the hollow
+spring-dashpot-mass model
+弹性动屈曲
+n umerical investigation.
+reading strain
+程序适用性
+conventional element
+thermopiezoelectric media
+self aeration
+homogenous elasticity
+additive mass
+dimension of trimming die
+指数强化
+vortex and separation flow
+耦合模态方程
+Noethers theorem
+正交异性板弯曲
+rate of excavation
+Poiseuille-Benard channel flow
+Twin Helical Screw Rotors
+non-ideal mode shapes
+Misses yield function
+金属层压板
+Kane’s method
+pressure contribution
+step-by-step reinforcement
+磨料型号
+piecewise equilibrium function
+材料本征值
+dynamic ex-citing forces
+multidomain treatment
+长度和位移
+vibrational patches
+大尺度圆锥结构
+Stokes-Helmholtz分解
+动理学方法
+Thermodynamic micromechanism
+疲劳裂纹扩发
+修正的联合概率密度函数
+双重非线性壳单元
+interballistics
+变厚度夹层环形板
+symmetrical and nonsymmetric schemes.
+h、p、hp adaptivity
+帽子山区域
+arch-axis line
+有限厚板
+failure of material
+transgression position
+downstream of reservoir
+高强铝合金的本构关系
+one-round trip
+orthogonality of modes
+full strongly nonlinear system
+对接焊钢管
+Ag-Cu/Ti纳米双层膜
+材料的软化
+lift force.
+non\|probabilistic
+半露头裂纹
+Zhujiang river
+fictitious heat source
+集中力偶影响量
+rib-reinforced cylindrical shell
+欧拉-拉格朗日分裂方法
+RELIEF方法
+S-R theorem of decomposition
+multiplle circular holes
+gage array
+冲击接触面
+管柱屈曲
+plastoelastic analysis
+scatter integral region
+stress boundary condition.
+Poincar 'e map
+super element.
+photoelastic material
+eccentric rectangular column
+finite-volume method （FVM）.
+single variable finite element method
+全量塑性理论
+mass-diffusion
+激光分相测速技术
+粘弹结构
+the coupling of the method of weighted residuals and finite element method
+直立圆柱
+DSPI method
+confinement coefficient
+the front of the a eration-baffle
+自愈合滑错脉冲
+wave forees
+dual aseismic structure
+大有效升阻比
+distributed transfer function
+constant stiffness
+液-固流
+dilute bubbly flow.
+anti\|plane
+结构形状控制
+electromagnetic heat effects
+频率本征方程
+non-linear whirl
+all\|speed algorithm
+two stage loading
+Wallncr 线
+bi-cgstab algorithm
+极低风速
+quadrupolelike pattern
+岩石损伤区
+不连续Reissner矩形板
+experiment of interfacial mechanics
+moment and shear geometric sequence method
+photoelastic technique
+frequency dependent viscous damping
+inhomogeneous inclusion
+nonlinear beam element
+双频栅
+Conservative integral
+function of directional distribution.
+force-measuring sensor
+锥—射流模型
+冰载分析
+简谐变温场
+Complex func- tion.
+high pressure culver pipe
+畸变断面
+local stress strain analysis.
+Optimal approximate solution
+modal optimal control algorithm
+螺旋形曲线梁
+单微吸管
+impulsive liquid flow
+周期热流
+high-order displacement mode
+周斯振荡流
+Appell-Hamel例
+熵源
+内部长度
+车辆与线路相互作用
+层合球壳
+shear f racture
+discounted lifetime cost
+weighted residual collocation point method
+应变与应变率
+forced vertically oscillation
+工程设计/拱坝设计
+物理模拟余虚功原理
+cold-expanded fastener
+subdomain precise integration method
+slice m ining
+compact constraint
+higher-order shear theory
+stress damage failure
+组集方法
+dynamics of head
+dynamic ring fundamental solution
+比例与非比例加载
+加载函数
+One-Order Self-Adaptive Technique
+ultrasonic velocity profile measurement
+转子轴系扭振
+phase step
+method of harmonic function
+piezoelectric bending actuator
+前进波近似
+random internal forces.
+rock stratum m ovem ent
+Steel Frames
+简支杆
+non-Fourier model
+inconsistent pixels
+material's eigenvalue
+桥梁最大承载力
+渐近传递函数法
+cylindrical orthotropy
+pressue drop
+thermal mechanical response
+turbulent front
+element numbering
+混合应变元
+层合构造
+平均速度散度
+projection expansih
+dispersive stresses
+compress- ible liquid
+weak negatively buoyant jet
+axisymmetric straining turbulence
+synthetic dischete method
+ductile fracture assessment
+loading strength
+Gurtin原理
+recirculation flow.
+非定常不可压NS方程
+critical speed.
+Boussinesq-Galerkin solution
+开挖速率
+径向点插值法(RPIM)
+acoustic-structural coupled analysis
+二维受限混合层
+resitance curve
+可靠性优化/相对差商
+discrete vortex method.
+random boundary contraints
+势能等效
+Vortex shedding.
+variable-domain variation
+least-squares collocation method.
+杂交/混合变刚度法
+fracture surface of concrete
+滑模砰砰控制
+准晶弹性动力学
+medium level waste
+unstable structures
+large distortion measurement
+极限断裂速度
+stress calculating results
+alminium bicrystals
+p-version refinement
+mixed-mode Ⅰ-Ⅲcrack
+Theoretical analy- sis.
+开槽板面
+湍流元
+局部应力应变分析
+two-class variables
+generalized Hamilton-type quasi-variational principle
+β  ball sampling
+concrete-filled steel tube （CFST）
+辛子空间迭代法
+随动载荷
+G-Factor.
+quaternion mechanics
+volume fraction ratio （VFR）
+singularity of corners
+direct reading method by microscope
+杆系组合结构
+elastic moduh
+数值拉普拉斯逆变换
+fast iteration
+multi-stage sucker rod
+fringe values of materials
+void diameter
+机体/动力装置一体化
+shakingtable test
+high - order - accuracy
+非等桩长
+piezoelectric screw dislocation
+Air-inlet duct
+动静力响应
+相容/非相容
+KANE方法
+slightly rough horizontal plane
+液体调谐减振器
+mechanics of flow of fluids through fractal reservoir
+真实粗糙
+surface response
+paramet-rical excitation
+力法分析
+rigid circular footing
+three-level five-point explicit difference scheme
+张线支撑结构
+阻尼构件
+group theroy
+permibility
+multiple tuned liquid damper （MTLD）
+Laminated shell
+local residual
+位移场和应力场
+分离式 Hopkinson 压杆
+seismic coda
+B-splint function
+颗粒或短纤维增强复合材料
+orthotropic friction law
+general instability
+技能指标
+generalized self-consistent
+shape optimization/dynamic constraint
+修正积分因子法
+flow around square cylinders
+位移速度反馈
+yielding condition.
+变井储
+bluff-body flow
+high convergency
+two degree of freedom nonlinear system
+相位-多普勒分析
+f riction
+俯仰/偏航
+longitudinal equilibrium profile
+弹塑性有限变形
+selfgravity
+多次张拉
+vane mechanism
+shielding.
+pitching/yawing
+变泊松比
+separating functions
+Dirac function.
+热位移势
+cyclic wavelet
+oblique leadings to waves
+cavitation bubble movement
+scaling law for the extended self-similarity
+noncircular cylindrical shell
+分级起动流速
+二重分支点的充要条件
+三维弹性理论解
+Bauschinger effect.
+浆体管
+单元平衡
+isentropic equation
+LAGFD数值模式群
+相似流动替换
+Hele-Shaw装置
+冷度函数
+function of Liapunov
+floating oil slick
+hybrid numerical method
+rebound behavior
+project pursuit regression （PPR）
+isolation seism building base
+limit expansion pressure.
+粘弹性稠油
+bending stiffness out of plane
+coupling in tensity
+bar system structures
+microsensor for magnetic fields
+long wave and short wave
+无质量误差
+human left ventricle
+thick-wall
+operation mode of the reservoir
+等损伤线
+C-W-Hill equation
+finite element/plate bending element
+高超音速空气动力学
+point and line contacts.
+scattering of elastic
+fluid-end
+linear harden
+the hybrid BEM
+ramp structure
+混合边界透水条件
+grating of paint and epoxy
+Lee极值原理
+global/local method
+static and dynamic combination
+cavitation scale effect
+boundary restrict stiffness
+Homologous变形
+successive averaging approximating operator
+extended pseudo-concentration method
+characteristic value analysis
+带节点导数等参元
+侧向不均匀冲击
+:离心压缩机
+coupling deforma- tion
+挤压残余应力
+Shearwall
+起动流动
+mode III interface crack
+形位编码
+elastic waveform inversion
+mapping & continuation comprehensive method
+mowing least-squares method
+two circular inclusions
+J\|integral
+length scale effects
+circulation height
+crack intensity
+动态应力历程
+KBKZ积分型本构方程
+优化微结构
+vortex-shedding frequencies
+liqueafaction
+line-tying
+力学表征
+ventricle.
+波浪及泥沙的相互作用
+asymmetrical cyclic load
+optical-anisotropic constant
+constitu- tive relation
+secondorder effect coefficient
+super elements
+曲面应变
+Smygorinsky模式
+coupled rigid-elastic body
+潜水直立方柱群
+periodic responses
+波浪中船的运动
+recurrence relation matrix
+Reissner变分原理
+t he list square method.
+谐振式测力传感器
+silt-releasing sluice
+屈曲状态与二次屈曲
+瑞雷法
+exploring-number algorithm
+tidal current ridge
+elasto-plastic fracture
+不可压湍流流动
+被动变刚度
+vortex cavitation band
+热电材料矩形板
+precision positioning control
+plate and shcll structures
+internal obstacle
+离心振动复合环境
+fringe centre line
+pile-footing response
+SMA intelligent composite structures
+宏观单元模型
+无滑动滚动
+local-global analysis
+重建率方程
+二维波浪数值水槽
+visco-elastie
+低阶单元
+continuous casting mechine
+关键力学问题
+存在性及条件
+interaction noise
+自由表面条件
+流向涡量
+pseudocompressible method
+异体同构周边式对接系统
+λ-level cut
+Electro-magnetic heat effect
+有限变形梯度
+high-temperature flue gas
+Jones－Nelson模型
+土的摩阻力
+定常速度
+显微镜直读比拟法
+deflection of the beam
+Modulus attenuation.
+flow over torpedo
+incompressible turbulent flow
+regeneration vessel
+electroelastic dynamics
+energy dissipated.
+风浪极值参数
+order reduced method
+算法/逆摄动
+中面x方向受拉（压）
+吸气效应
+表面短裂纹
+有限元与有限差分
+directional spreding
+shallow reticulatd shell
+transonic small perturbation potentialequation
+secondary separation
+分步加固
+concrete filled steel tubular columns with rectangular sections
+应力分离
+composite laminates plate
+联接一体化
+liquid-filled satellite
+equivalent extreme value event
+马尔尼科夫方法
+平板元
+stimulated small scale （SSS） model
+steel pipe-concrete arch
+无穷远条件
+inertia force coefficients
+suppression of vortex shedding
+instability process simulation
+computer algorithm and programimplementation
+稀疏流体介质
+starting processes
+伪可变体系
+正交构造异性板
+相移技术算法设计
+壳体有限元
+wave motion method
+刚性缺口
+粒子图像法
+Equation of stability.
+prestressed steel trusses
+f requency response function.
+Random signals
+live loads during construction
+上随体Maxwell本构方程
+flow continuity
+非比例阻尼线性体系
+轮胎带束
+unilateral effect
+perturbation approach.
+muscle groups
+glass-fiber tape
+rockness with cracks
+creep property of cracks
+plate bending with hole
+圆形磁铁
+变刚度杆单元
+supersonic flow.
+cross correlation function analyses
+mixed FEM
+oblique axis helicodial flow
+自然环境流动
+peculiar acoustoelectricwave
+钝物体尾迹
+Luke's variational principle
+material nonlearity
+stress-dropping softening model
+剪切柱
+VCCT technology
+分歧失稳
+模型降维
+解析-变分解法
+offload by steps method
+平面切口
+compound bent beam
+实体退化板单元
+三维缓变流场
+intersity factors
+loading-path dependence
+weak-form
+光力学法
+multiple slip activate
+double surface contact algorithm
+suspended solid particle
+a power-law elastic-plastic solid
+circular conical shell
+wing/store
+失记效应
+time variation dynamics
+相对刚度参数
+钢丝绳单元
+surface element method
+irregular wa€
+nonhomgeneous equilibrium
+wind vibration of structure
+三层五点显格式
+tunnels' ventilation
+existent criterion
+wavenumber frequency spectrum.
+形状不确定
+large flexible structure
+双铰模式
+超静定计算原理
+layerwise theory.
+combustion driver
+non-uniform lateral impact
+损伤各向异性
+the least-squares collocation method
+fluid-saturated porous half space
+AUSM＋ scheme
+flows about a circular cylinder
+potential energy principle for physical simulations
+弹性转角约束
+表面疲劳裂纹扩展曲线
+广义半Markov过程
+Ruby laser
+alternate iterative method.
+comb type structure
+DCB specimen.
+fiber-reinforced photoelastic composite
+excessive detuning.
+orthotropic thin plates
+natural frequency and mode
+中尺度暖涡
+黏弹流体流动
+initial crookedness
+图象光载波
+sub-region mixed energy principle
+average rank
+Moire method.
+crustal stress.
+bias reduction procedure
+网格畸变度
+物理模拟势能原理
+viscous fluid flow
+Maozishan Nuclear Plant
+viscoelastic circular plate
+Collatz包含定理
+位移贡献法
+粘附能量密度
+compressed angle.
+turbulent boundary layer flow
+strengthening toughening desigP
+numerically simulating
+予应力钢桁架
+excited magnetic fields in transverse direction
+liquid-filled cylindrical shells
+narrow functional.
+the method of mode perturbation
+elastic plastic interface
+finite elastic-plastic deformation
+picard iteration.
+固体发动机保险机构
+wetting/drying conditions
+inner bound stress
+润滑近似
+united analysis
+existence and conditions
+perforated viscoelastic plate
+sectorial singular element
+a substructure method
+exact mathematical model
+single-layered saturated ground
+桁架拓扑优化
+Trefftz-method
+双向反复加载
+含间隙系统
+KMAS软件系统
+neuronal population
+modified sliding-mode bang-bang control
+等达因条纹
+板桁梁段有限元法
+balanced status
+实验应力换算
+Bulk solids
+multi-layered foundation
+线性弹簧振子
+预反射
+Stuart Landau model
+periodic suction and blowing
+LLS模型
+recovery force.
+proximity interference
+a simplified method
+solid liquid coupling vibration
+中厚度圆柱壳
+阶跃递增电流
+damage cumulation model
+Euler-Lagrang equations
+wind pressure bodily form coefficient
+surface fatigue crack growth curve
+fiber bundle undulation
+progress waves' approximation
+quasi-periodic motions
+oblique Cartesian coordinate system
+impact internal pressure
+multilayer structure ceramics
+streaks.
+thin shell.
+弹性居
+gcodesie trajectories
+Engineering systems
+three-dimensional fracture network in rock mass
+water entry depth
+增长体力学
+祝密度加权平均
+Mesh Stability
+elastio-plastic
+单特征值的摄动
+curvature of artery
+水平短缝
+boundary element iterating method
+computational system identification
+无单元法（EFM）
+谱荷载
+heat-moisture-deformation coupling model
+失稳全过程仿真
+快速接触加温
+condensed states
+energy-iteration method
+Micro-fracture process
+dimensionless elastic constant ratio
+two-dimensional Probabilistic Miner's Rule
+active slip field
+无量纲温度值跃变区
+弹性肋板
+adaptive h\|hierarchical boundary element method
+modal sensor/actuator
+forced fitting
+succeeding function
+床沙分选
+弹性模量等价性假设
+Laplace外问题
+frequency close degree
+self-exciting waves
+the definition of inner degrees of freedom
+mechanics of string fricition force of drilling
+管道压力脉动噪声
+subdomain precise integration
+quadrilateral plate bending element
+heterogeneous media of large extent
+incompatibility theory
+thecoupling dynamic equations
+model of opening and closing
+推移质级配
+铁基形状记忆合金的本构关系
+the initial period of tunnel excavation.
+von Karman板
+second-moment modelling
+WSUC scheme （weighted second order upwind central scheme）
+shape sensitivity analysis
+cenififugal impeller
+retaining soil wall foundation
+optimization design based on reliability
+对耦剖分
+平行直线间区域
+tor-sional moment
+任意涡量分布
+Isoparameter element
+second order nonlinear wave
+braid region
+overall derivation
+two parameters foundation
+Chaboche
+Ritz模态向量
+wall-burning
+mesh overturn
+非完整系统正则形式
+微分／代数方程组
+两种材料
+measurement of LDA
+边界积分方程-边界元法
+digital imageprocessing
+LUSGS预处理
+shaft of tractor
+多拐通道
+构件初始疲劳质量
+optimal filling layer number
+annual bed load amount
+notch opening displacement
+应变硬化（强化）
+interface circular hole
+inverse dynamic problem
+船舶线性位置导数
+矩形厚件
+自由流线问题
+energy release rate.
+large elastic-plastic deformation finite element method
+equivalent inclusion method
+transportation by hydraulic power
+zero - stress state
+whole substitution method
+弹性曲梁
+潮汐影响因子
+film-substrate
+鱼雷绕流
+obstructed pulmonary lower airway
+mathematical theory of elasticity
+metalforming machine tool
+flow with flap deflection
+梁元单刚
+impaet response
+sand particle motion
+弹塑性子结构并行有限元
+coherent structures.
+瞬态应变仪
+freque
+limited scattering signals
+双圆柱干扰
+analyt ical integration scheme
+sedimentation vessel
+裂纹扩展加速度
+拟不可积Hamilton系统
+不可压缩Stokes流
+caribration
+非线性涡黏性模式
+弹性角区
+低丁坝
+multiple circular loads
+挤压流型
+交流场
+free turbulent jet
+Splitting test method
+复合材料微观力学
+temperature field of crack-tip
+mesh distorsion
+人工机械心瓣
+multi-layer tube structures
+large-scale vortex structure
+yaw growth rate.
+缺口张开位移
+exist\|null combination
+硬湍流
+bobot
+dougong （corbel bracket）
+large-scale deformation
+trajectory of borehole
+ill posedness
+dam break waves
+element-type method
+wave-theory
+Elasto-plastic Damage Hinge.
+compressive material
+尖角及分支结构
+stochastic Duffing-van der Pol system
+threshold pressure gradient （TPG）
+soft truss model
+有限单元系统
+moving least-square （MLS）
+generalized Pochhammer frequency spectra.
+transonic field
+numerical simula- tion
+片状模型
+压电-压磁复合材料
+TLD method
+aerodynamical field.
+载荷类型
+动力响应/变质量
+含裂粘补结构
+四边形板弯曲元
+postbulkling
+Imperfection sensitivity analysis
+non-othogonal body-fitted coordinates
+hybird method
+inverse design problem.
+scattered waves.
+ALE边界元
+localization factor.
+rhombus wave.
+yiels criterion
+轴向动力荷载
+二维激光流速仪
+Three edges clamped and one edge simply supported
+cubic Schrodinger equation
+Elasticity constants
+coefficient of variation （stan- dard deviation）.
+K-BKZ模型
+SHPB方法
+electrical resistance grid
+刚柔耦合效应
+管道压力脉动
+SemiLoof element
+Expected damage index
+exter-nal fixer
+order-reduction
+多层筒体结构
+Womersley数α
+绕圆柱非定常流动
+声点源散射
+longitudinal limit constraint
+多抛物面组合扁壳
+Arbitrary boundary conditions
+Κ—ε紊流模型
+弹-塑性圆管
+micro-wedge
+分散理论
+D-bifurcation
+six variable
+structure stability in wind
+平面塑性压缩
+the grating projection method
+Gaussian quadrature formula
+Two-body satellite
+signatures for damage detection
+结构-地基动力体系
+动力柔化
+比卡迭代法
+主干裂隙和网络状裂隙
+shear break
+船尾流场
+double velocity correlation
+tranversely isotropic material
+electro-megnetic flow
+longitudinal shear modulus
+非恒定力
+伴随系统方程
+hypersonic reentry vehicle
+violation stabilization
+Orlanski open boundary condition
+p wave
+Bimodular elasticity
+plate/shell/ elasticity
+two order spline interpolation
+movable support constraint
+convect heat transfer
+symplectic elasticity
+wheel/rail performance
+山形切口试件
+积分/时程积分
+improved Kantorovich method
+涡量—流函数
+环肋和舱壁加强圆柱壳
+model composite
+residual stress after curing
+diesel engine underwater exhaust port
+Ritz-Vector method
+梯形断面曲杆
+post-buckling behaviour
+bridge ultimate load-carrying capacity
+aamal load
+粘性尾迹
+laminated boxbearn
+laminatc
+定位可确定性
+Четасв条件
+mixture rules
+variational integral equations
+measurement of plastic strain
+direct integration methods
+liner shell. liner shell shell experiment
+theory of structural topological variations
+变厚度扁球壳
+high compressible fluid
+fruit natural frequency
+气固耦联作用
+化学-力学耦合
+Turbomachine
+major mechanical problems
+quasifracture
+experimental strainstress conversion
+CCD photo-electical test
+微机软件DDJ-W
+纳米压痕/划痕
+标量波近似
+intermittence chaos
+initial stresses method
+广义Biot方程
+finite el- ement method
+拟流动角点理论
+界面多圆孔
+two-order non-homogeneous equation
+talbot shearing interferometry
+水舌风
+nonlinear integral differential equation
+Visco crystal plasticity
+损伤特征张量
+dynamic stress intensity
+threshold pressuregradient
+阶梯式薄板
+visco-elastic damping joints
+frequency-time domain method
+岩移理论
+黏弹性杆
+hybrid granularity
+Double-hinge mechanisms
+low-speed streak structures
+coldness function
+拱形围堰
+system with clearance
+Subsonic flow.
+包带技术
+three-node compatible elements with square displacement function.
+Measurement of surface deepth
+热射流拟序结构
+interfacial cracking
+coupled thermoelastic quasistatic analysis
+BGK法
+概率约束等价显示化
+crack/cavity
+multiple holes
+Gurson's model
+longitudinal waves and transverse wave
+接触判据
+capillary effect.
+空化状态
+车流通过效率
+cohesive sedimentation
+upstream oscillating flow
+buckling bifurcation equation
+thick laminate
+probability perturbation finite element method
+spot welded component
+优化差分方法
+拟可积哈密顿系统
+含孔薄球壳
+虚质量力
+geosysthetics
+弹塑性失效
+impinging jet noise
+spherical inclusions
+计算施工力学
+平面断裂问题
+炮弹头螺
+inflow water and sediment
+thickness-shear mode
+generation and synthesis
+两相流PIV技术
+stiffeness inversive analysis
+closed laminated continuous cylindrical shell
+走时来回
+加固及修复
+vortex-vector potential equation
+buckling of a bar
+宜宾金沙江大桥
+geometrical non-linearity.
+Lagrangian坐标描述法
+short fatigue craek growth
+高聚物玻璃
+固液耦合振动
+表面深度测量
+Heterogeneous combustion
+two-parameter theory
+vortex shedding.
+two-phase PIV technology
+肌肉活性度
+流体双折射方法
+动力环基本解
+generalized spline subdomain approach
+位侈
+steady crack growth
+Unified Solution
+element assembled vector
+多重应力奇异性
+三维接头
+浅悬链线壳
+热-固-损伤耦合
+凝析气油
+平面尾流
+dynamic supporting
+棒棒控制
+二维灰度极值检测
+螺度
+folding flexible structure
+快速迭代解法
+静动组合
+旋浮
+疲劳可靠性。
+透射焦散线
+轴向撞击
+difference splitting
+二相流.基本方程
+ficticious crack model
+Beita bridge
+breakaway point.
+板/壳和三维弹性分析
+non-cavitation noises
+绕圆柱非定常流
+scalar wave approximation
+透视成像原理
+动态热应力分布系数
+thin-walled bars with general sections
+flow in porous media.
+数学弹性理论
+non-linear partial diffential equation.
+aepped thin plate
+boundary crisis
+the exponent of dynamic aberrance
+相当机构
+待定边界
+ANGK－ε模型
+Hertz接触问题
+unloading conipliance
+interface fracture criterion
+theorem of inverse Hilbert—adjoint operator
+numerical approach.
+time precision integration algorighm
+integral as a function of the upper limit
+technology of drag reduction.
+phase shift techniques
+breadth first searching
+非等距网格的迎风紧致格式
+non-uniform directional vector
+Anti-plane strain
+Multi resolution inversion.
+longitudinal-transverse stiffened circular cylindrical shell
+skew ness factor.
+延性断裂评定
+crack layer
+应力损伤失效
+跨音速小扰动速势方程
+有约束修正单纯形法
+Eason's method.
+Tabor数
+斜交笛卡儿坐标
+位移匹配
+预测－校正算法/无条件稳定性
+bottom artificial boundary
+寿命估算模型
+D-velocity
+随机颗粒模型
+Yu's Unified Strength Theory
+multi block mesh
+universal equation
+箭基组合循环
+elliptical area
+dynamic re- sponse.
+纤维薄板（纤维布）
+Circular-arc cracks
+局部断裂准则
+能量-动量方法
+Curved thin-walled beam
+相速度方程
+圆型夹杂
+橡胶楔体
+Winchest disk
+the fluctuating frequency of pressure
+Motion of solid particle
+三维物形
+deformation of the soft rock around tunne ls
+subharmonic bifurcatio
+细胞切向粘附力
+IMOC
+位相检测技术
+Hele-Shaw流动
+modal acceleration
+cooling towers group
+Nodal point
+弹性半无限平面
+LUSGS preconditioning
+modal truncation.
+plasticcollapse
+equivalent properties
+转子系统非线性动力学
+liquid-filled pipe
+Viscop lasticity
+magnetic fusion energy
+振动压实能
+anisotropic bimate-rial
+Generalized Conforming Element
+vibration absorption apparatus
+structural optimization software
+detached vortex
+semianalytical BEM
+symplectic integrators
+Melnikov theory
+two-dimensional shallow-water flows
+各向异性杆
+大升力
+广义射线法
+层合近似理论
+增量变分原理
+contact serching algorithm.
+two-dimensional mixing layer
+liquid sheet.
+Linear varying lateral loads
+Coriolis force.
+偏航角幅值增长率
+流量与污染物分配
+shepard function
+Anti planewave
+updating dynamic model
+science database
+粘贴层
+混合数值法
+Compress impact
+grating of silicone rubber
+variatianal principle
+F.E. M
+节点体
+三维格子法
+Cubic Interpolated Pseudo-particle Method
+Conservation integral
+distribution sensing.
+vector Lyapunov functions
+length of recirculating flow
+均匀湍流
+Timoshenko管道
+反射散斑场
+motion cognition
+plasma interchange mode
+flow rate capacity
+rigid-flexible coupled dynamics
+curves of flow path
+进化模态解
+复应力强度系数
+弹性长杆
+quasi-conforming element.
+drying shrinkage stresses
+加载路径相关性
+multi-block techniques
+probability optimization
+particle or short fiber reinforced composites
+水平地震激励
+displacement-velocity feedback
+truncated conical element.
+涡对的合并
+浮力驱动对流
+deffective systems
+Self-exited vibration frequency
+波速特征关系
+wind-type load
+skeletonal structure
+Non-Sinusoidal
+Luke变分原理
+比断裂能
+generalized semi markov process
+Poincare's section
+期望破损度
+normal random process
+thermoviscoelaxticity
+Trefftz
+Quotient rule
+torsion of cylinder
+horizontal short keyways
+物理模拟虚功原理
+adhesively bonded bars in concrete
+结构声腔耦合
+tight rock
+mixed frame structures
+能量相位准则
+nonlinealrity
+系统描述性抽样
+纯对流水质模型
+非法向流动
+BGK method
+Projection grating method
+local strain-strain method
+总势能方程
+平衡分支
+初变形
+semi-analyticalmethod
+die swell of Newtonian fluid
+P S N  curve
+子空间迭代方法
+长柱吊装
+振动/流固耦合
+折叠式网架结构
+rotatory shells
+初始迭代点
+端部问题
+underloading
+近似不可压缩性
+nonsmoothness
+矿山采动区
+双调和多项式空间
+shallow shell finite element
+transversely isotropic solid
+力学反问题
+多相孔隙介质
+环流高度
+stress separating
+multi-fold eigenvalue
+liquid/structure coupling system
+porous plate structure.
+应力轴偏转
+层合连续柱壳
+红外幅射应力分析
+质-阻-弹模型
+阿凯克信息准则
+vacillated riverbed
+optically isotropic
+electric-mechanical loading
+指数风压
+商法则
+Poison equation
+hybrid/mixed finite element method
+tall frame-shear wall structures
+梯形空间
+bifurcatioa
+linearly load
+predictor-corrector method/unconditionally stability
+Timoshenko laminated composite beam
+converter tilting mechanism.
+持久性可变荷载
+多模式失效
+功能梯度压电/压磁材料
+振荡奇异场控制量
+two -parameter models
+Heaviside operator
+transient extension
+弯道及不规则边界
+uniaxial compres-sion
+nonlinear oscillation resonance between two modes
+延性扩展
+归一化应力-应变曲线
+网格翻转
+bioengincering
+PIC.
+slowly varying topography
+定常整流
+load modification method.
+definiens of boundary layer
+approximate integral formula
+Loading methods
+充液金属圆柱壳
+决策算子
+塑性区跟踪
+reciprocal law of stresses
+sanding capacity
+non-Fick mass transfer
+全速度偏航角
+unsteady flow around a circular cylinder
+算法及程序实现
+dam- age variable.
+Mode shape.
+内自由度定义
+Yeoh模型
+effect of negative buoyant
+有限板块法
+对称耦合法
+projected gritting.
+anisotropic thick plate
+thin spherical joint
+conformed rotational vector
+mid-air glass
+最优非线性随机控制
+D elastic wave modeling
+Exponential wind pressure
+method of weighted residual.
+time\|delay compensation
+circular velocity bias
+VISAR probe
+inside heat-conducting body
+bulge formation
+在位观测
+anisotropic bar
+compatibility truss model
+相间力
+fatigue fracture reliability
+slippage phenomenon
+断裂丝栅
+圈梁约束
+界面端奇异应力场
+irregular and bend boundary
+dentoid baffle
+laminar boundary layer flows
+Hot-fitted disk
+加劲圆柱壳
+damage-coupled constitutive law
+dissipation of energy and transformation of energy
+air cushion catamaran
+silo shell roof
+couple stiffness
+start toughness
+delamination expanding
+Material ductility
+几何积分
+coordinate canonical transformation
+Mixed variational principle
+LLS model
+strength optimal
+环形几何缺陷
+耦合热弹性力学
+使用条件和环境
+有限宽中心裂纹板
+structure of suspension network
+湍流反应率
+analogous fatigue analysis
+vortex-burst
+概率等值
+VISAR探头
+dispersion induced turbulence
+curved thick shell element
+高层建筑结构分析
+pipe flow with eddies
+Rayleigh-Benard system
+Mainshock and aftershock
+Adomian算子分解法
+线捆
+three dimensional transient flow
+Nonsymmetic Duffing/s oscillator
+大延伸非均匀介质
+clastic constants
+modified new slender ship theory
+Hypersingular integral equations
+multi-obstacle
+visco-plastic fluid
+relative difference quotience
+thermo-piezoelectricity
+physical-geometry relation
+large modifications of the structural parameters
+Mises应力最大值
+half plane crack
+distributed-parameter beam
+Experimental Mechanics
+AL-alloys
+actual load spectrum
+multirsofution analysis
+Ratchting
+low-Re model
+creep damage failure
+G-因子
+DP效应
+zigzag approach
+compressive stability
+颗粒动理学压力
+反平面切口
+齐次／非齐次方程
+表征体胞
+free streamline problem
+SMP破坏准则
+finited deformation
+similarly no-coupled system
+高阶流形方法
+static and dynamic buckling
+RIPI
+stress-strain complete curve
+air flow model
+倾斜底坡
+非线性附加项
+floor slab deformation
+液体光楔
+退化曲壳单元
+环槽法
+非理想模态振型
+dynamic caustic method
+covariance. analysis
+高阶非完整约束的质点
+discrete-variable method
+悬移区
+弹性杆动力学
+结构抗震设计基于
+位相展开（解包络）
+approximate expression.
+concentratedload
+子结构解耦控制
+解析与数值结合法
+二堆概率Miner准则
+自由边缘效应
+rationalized structural working state
+Three-dimensional advective problem
+蠕变-松弛耦合
+Periodic wave guide
+大物体
+变截面曲杆
+impulsive motion
+加捻纤维束
+turbulent rotating pipe flow
+ring stiffened cylindrical shells
+非线形杆件单元
+割线方法
+Displace ment
+bending solutions
+储罐-波纹管-管道系统
+implicil scheme.
+NBA-UM
+位移列阵
+Hankel transform.
+isotropic moderately thick plates
+separated vorticcs
+vibration and acoustics
+Electro magnetic heat effect
+shock wave compacted
+wave radiation
+ferroelectric-ferroelastic
+vibration model control
+dynamin equation
+柔度传递
+物理动力机制
+convection-diffusion equation.
+mode compensation
+恒流源电路
+总刚组装
+非线性周期/变系数微分方程
+turbulance measurement
+湍流模化
+modified joint probability density function
+电站前漏斗
+bed scouring
+概率型有限自动机
+fugue effect
+modified potential energy principle
+wave profile.
+Flow passing a cylinder
+Elastic pulse buckling.
+power flow.
+液晶高弹体
+声学比拟理论
+含孔薄板弯曲问题
+skyhook damping
+细长潜体
+Lowrise shearwall
+半主动筋腱控制
+Strongly nonlinear autonomous tem
+non-Newton flowing
+弥散应力
+客车疲劳寿命
+Mori-Tanaka' s model.
+solid-surface
+shallow sea mining
+structural vibrations
+piezoelectric modal actuator
+tensility structures
+plate and beam composite structure
+摄动精确数值解方法
+柱坐标系下的谱方法
+spherical isotropy
+横观各向同性:轴对称问题
+one dimensional nonsteady flow
+同步测压
+viscoelas-ticity
+local average method.
+metallic cylindrical tube
+孔板流动
+微观热力学机理
+quasi-consistence element
+static indeterminateness
+FitzHugh-Nagumo
+非线性弹性动力学
+I-II mixed-mode fracture
+刚-液耦合
+风工程学
+轴对称充液刚体
+Ito integrals
+quasi-organized motions
+linear solution in time domain
+沉箱病
+reopen
+curved rigid line
+SIF measurement
+湍流分离
+有限纤维模型
+PD effect
+前缘系数矩阵
+mesh stability
+拉压双模量
+generalized compatibility conditions
+modeⅡcracking
+相关功率流
+浮球惯性平台
+general resonant triad
+flattened form
+可变误差多面体
+扁壳单元
+马尔柯夫扩散过程
+Goldfarb法
+微分对接条件
+反平面压电
+稳态圆响应
+Helmholtz-Monge Decomposition
+“探索数”算法
+完全理想约束
+ЧАПЛЫГИН方程
+buckled state and secondary buckled
+cyclic stressstrain curve
+structure systems with energy dissipation
+最大周向应变
+高度适应性
+variable control finite element method
+damage characteristic tensor
+complicated river network
+光滑连接条件
+limit loading.
+能耗机理
+有阻尼体系
+梁接触有限元
+Stress singularity.
+长波与短波
+压入实验
+nonlinear composite material
+沉降位置
+regulation works of river
+斜向自由剪切层
+大桥安全性
+reverse problem algorithm.
+inverse-analysis
+stress space.
+充液柱壳
+诱振
+backcalculation of material parameters
+wall turbulent zone
+sand-like media
+细观损伤破坏
+smictural damage detection
+空蚀率
+层迭回转壳
+fatigure life.
+corrosion expansion
+the fibre bundle of states
+饱和和非饱和工程材料
+等效弹簧实体元
+correlative region phase unwrapping algorithm
+special fundamental solutions
+Hu Haichang solution
+random structure.
+projected grating method
+eccentrically compressed reinforced concrete member
+统一求解
+渐进协调平衡
+内耗散热
+参数激励与强迫激动
+ribration
+cyclic stress strain relation.
+Non-obstructive particle damping
+unstable extension
+复势向量
+substitution of similar flows
+Stress function of twist
+对偶互补
+two phase jet
+static pressure distribution parameter
+非轴对称刚度转轴
+超先进复合材料
+振型参数识别
+concave stretch/convex shrink flanges
+牛顿-拉斐逊方法
+Moderate rotation.
+参激白噪声
+水滴自由跃移
+aircraft noise.
+厚圆板弯曲
+non-linear additional term
+实用绘制方法
+uniform stresses
+nonlinear water wave
+电学边界条件
+steelmaking processes
+fluctuant pressure of flow
+structural reliability/automatic matrix force method
+附加根
+water rem oval
+IRLV
+小微元分析
+carbon fiber-sheet
+bifurcation responsecurves
+through bond
+updated Lagrange description
+nullspace method
+laminated plate-shell element
+transferring matrix.
+truss optimization design.
+imitate function.
+dynamic character.
+independent model space c ontrol
+脉动液流
+method of spring restraint
+残余奥氏体相变诱发裂纹闭合
+combined vortex.
+歪曲屈曲
+piezomagnetics
+最大响应系数
+locate.
+修复胶囊
+有限元实施和应用
+photoelasticty
+magnetroreological fluids
+stress-optical constant
+economic service life
+concrete hollow slabs
+振荡应力奇异性
+各向异性矩形薄板
+晶界结构转变温度
+spatial pipeline system
+Plane state of stresses
+material characteristic length
+diaphragm wass
+repcated eigenvalue analysis
+网格密度控制
+fluid structure interactions
+pertUrbation method
+有限元/有限差分/控制体积法
+saltating layer
+flow field numerical computation
+Chaplygin′s Sphere
+new type airplane
+球形Couette流
+正多边形薄板
+Non\|probabilistic model
+amplitude modulation and phase modulation
+explicit recursion formula
+Orlanski开边界条件
+work conjugate integral
+stress-strain master curve
+circulation flow strength.
+blinking dipoles flow
+CSFDB
+滑移基础
+thermo-structuxe
+submerged cavitating water jet
+线性变压力
+非定常水动力
+numerical simulationX
+structure of ad- joining rock
+horizontal well of long and middle radius
+optically birefringent
+固化残余应变。
+压力曲线图版
+short round bar
+on-the-spot dynamic test
+ITO积分
+quasibrittleness
+apron width.
+组合耗能系统
+二维概率Miner准则
+homogeneous shear flow
+柔性隔板分析
+动态界面断裂
+generalized thermoelasticity theory
+inhomogeneous isoparametric element
+刚柔耦合运动
+有限杆元
+Specific fracture energy
+visco-debris flow
+分子标记示踪
+biaxial load.
+Starling力
+linear damping derivatives for ships moving obliquely
+And Active Vibration Control.
+组块稀疏
+passive confined pressure
+liquid filled system
+quadrilateral thick plate
+改进的混合法
+六参量
+low Reynolds
+R.Rossman方法
+three-dimensional failure mode
+catastrophe region of the non dimensional temperature
+复振型分解法
+rigid-viscoplastic body
+general structure analysis software
+step-by step method
+同伦技术
+矩形截面偏心柱
+流入边
+Local contact.
+thermohaline double-diffusive system
+harmonic temperature field
+rotational tensor
+相容拉格朗日-欧拉法
+D shallow water equation
+Spline function solution
+离散算子差分
+applicability of software
+Large deflection bending
+circular delamination
+非线性粘塑性蠕变模型
+two-way coupling model
+heterogeneous body
+combined tension and bending loading
+dynamic-film
+热超弹性材料
+Nilpo- tent normal forms
+the minimum acceleration principle
+axial constant load
+vortex-induced separation
+ejection and sweeping
+transverse finite strip
+完备模态法
+curing residual strain.
+横观各向同性压电体
+turbulentbuoyantsurface jet
+sub-critical Reynolds number
+modified potential principle
+涡波干扰
+二维单元
+Digital Speckle Correlation Measurement （DSCM）
+hydrology-hydraulical model
+confining pressure unloading
+molecular dynamics computer simulation
+起动沙级配
+pseudo-compressibilty method
+比较方程的核
+双特征参数法
+有限目标控制
+壳体精化理论
+super shell element
+微楔形层
+the interior of ground
+声学整流
+wind dynamic control
+line-loaded integral equation method
+扩展虚拟浓度法
+open-press
+axial fluid solid impact loading
+circular line load
+swimming cloths
+supersonic / hypersonic
+ILU预处理
+刚－柔耦合动力学方程
+momentum and heat transport
+fluid elastic instability
+initial cylindrical surface shape
+Coal Seam Pitch
+fictitious link stiffness
+experimental measuement
+Mises truss
+振幅角
+dynamic stress intensity factor.
+Shepard函数
+struc-tural system
+thick spherical shells
+应力洛德角
+strip distributed load
+shearing strain rate
+微粘结实验
+UZAW算法
+influx header
+design of rod pumping system
+圆锥杆
+Small scale damage
+弹塑性复合材料
+旋拧流
+DSPI方法
+动力边界单元法
+非圆柱壳各
+非对称边缘裂纹
+Large strain.
+stress sum gradient
+thick-thin element
+高温封隔器
+大分子变形
+环形调液阻尼器
+Laminated composited plates and shells
+circulating water chann el
+the plots of pressure variation
+time-integration method
+Hazniltonian principle
+changing wellbore storage
+抽气研究
+dimensionless relaxation coefficient
+structures with stochastic parameters
+一般实矩阵
+single load
+dynamic fracture behaviors
+复合型载荷
+higher order plate element
+压弯翻边
+FAST （five hundred meter aperture spherical telescope）
+实时跟踪分析
+桁架式塔
+Gyroscopic cffect
+特征值计算法
+time dimension discretization/oscillation
+outside bound stress
+瞬间极值
+T\|type beam bridge
+防涡措施
+displacement and stress fields
+multi-directional mapping function
+upper-bound principle
+lens distortion calibration
+定常流分离判别准则
+distribution of the internal force
+低普朗特数流体
+generalized Stokes equation
+copper bicrystals
+surface short fatigue crack
+bubble clouds
+circulation control marine wing
+three-dimensional linear elasticity
+建筑物周围流动
+flowing in edge
+multi\|loading case
+BSWI
+analysis of stresses
+sea wave effect
+DMSM
+粘性-无粘干扰流动
+meso damage and fracture
+安全壳模型结构
+virtual work principle for physical simulations
+冲击波压实
+critical load parameter
+plastichinge
+narrow-strip yield zone
+vorticity flux
+广义加权残值法
+山形切口三点弯曲试样
+Sn-Pb共晶合金
+Power-hardening material
+equivalent sandwich plate method
+韧窝破坏
+高阶规范形
+蠕变线弹簧模型
+铺设方式
+strong nonlinear dynamics
+large-scale circulation （LSC）
+reliability index vector
+cell to cell mapping
+characteristic relation of wave spT
+底部人工边界
+transverse frame
+Marcov theory
+conveying fluid and subjected to outside cross fluid flow
+循环小波
+三节点二次协调元
+existing reinforced concrete
+partial-cell treatment
+阻力系数C_D
+雷诺剪切应力
+黏弹性多孔介质
+损伤敏感特征
+能带分析
+泥沙病害
+温盐双扩散系统
+thermorheological simple material
+共排斥不稳定性
+eccentric hole
+dynamic interfacial fracture
+steel fiber reinforce concrete
+附着力场
+Qiantang Bore
+R-function
+J and J-Δa curves
+拉氏空间
+work-hardening material
+Stress concentration factor.
+映射延拓综合法
+mathematical formulation
+滞后能
+散光法
+summary flow pattern determination
+flexible diaphragms analysis
+选值域
+ANSYS宏程序
+光滑直管
+自激压力波
+Structural dynamic rcsponsc
+theory of elasiicity
+交通流动
+Multi rigid body dynamics
+空间梁结构
+central concentrated load
+mail truck
+finte difference scheme
+symplectic.
+turbulent coherent structures
+resonating beam force sensor
+method of weighted resid- uals
+parametric white noise excitation
+geometrical nonlinear finite element method
+modified iteration met
+tracing plastic zone
+旋转章动充液腔体
+flexible pipe for deep sea mining
+turbulen ce closure
+轴段弯曲刚度
+粘附接触力
+返回映射
+压电层
+滑动屋盖系统
+静力学特征
+有限塑性
+楔形直杆
+孔眼流入
+剪切滞后模型
+spin-up and spring buck
+动刚度测量
+multiple cracks body
+演化系数
+路表响应
+uniform annular load
+stabilization process analysis
+thickness optimism.
+网格特征尺寸
+high\|rising building
+分岔响应曲线
+Potential equivalent.
+plastic strain amplitude
+累积等效塑性应变
+impact dynajmics
+作用-角变量
+bed particle
+非高斯矩闭合方法
+非稳态自然对流
+asynchronous precession.
+数学识别
+动态断裂行为
+模型的构造
+低速稀薄流动
+higher order normal form
+closed point projection
+linear complementary cquation
+advective-dispersive equation
+分区存在
+模拟疲劳分析
+numerical simulation-
+圆柱面约束
+COMP-element
+coherent waves
+OLS学习方法
+初始正交异性
+Incompressible materials
+finite element method/rational finite element
+hydraulic calculation.
+quasi-variant system
+inclining angle
+fi nite volume method
+porcine aortic heart valve
+optimal lift point
+system parametric combination
+dynamic thermal stresses
+Turbulent Boundary Layer
+degree of observabili ty.
+width of specimen
+real—time interval
+experiments in vivo
+the constitutive relation of Fe base shape memory alloy
+underdrain equality
+finite element melhod
+联合验算点
+conical shells.
+最小—最大问题
+Delamination failure
+无量纲势能
+load bearing capacity in drawing
+模态截尾
+弹簧约束法
+Development of a yielding zone
+split Hopkinson torsion tension combination bar apparatus
+power series approximation
+complementary virtual work principle for physical simulations
+涡电流影响
+stability of underground tunnel
+载荷历史
+substructuring techniques
+net-worked PC cluster
+高速录相
+membrane vibration.
+子域精细积分法
+名义应力幅值
+涡辫区
+attractive basin boundary
+静力问题
+degenerated beam element
+摩擦拖动
+系统搜索算法
+hcat conduction
+axisymmetric interface end
+声功率预估
+Damage Cumulation Effect
+large body.
+刚体-弹簧模型
+low-cyclic fatigue life.
+cable network structures
+beding of plates
+energy equivalence postulate
+较大变形
+一次超静定梁
+distribution of dissipated energy
+Stokes波、分叉
+two-phase gas-liquid fluid
+Partially High Percentage Fiber Reinforced Concrete （PHPFRC）
+三维应力度
+广义协凋元
+气体生成物
+temporal phase analysis
+photoelastical material
+compression and bending
+dynamical response.
+玉米秆粉粒体
+马休函数
+non—classical deformation effects
+plane frame structures
+加权等价线性化方法
+加筋圆柱壳体
+凝聚选择
+高速正撞击
+膝关节韧带张力
+正交界性动态光弹性
+float contour line
+耦合热弹性准静力分析
+条形分布传递函数法
+free boundary injection
+step-by-step integral procedure
+flex rotator
+tensile-shear failure
+near field flow property
+pakages
+varied thickness.
+second-order hydrodynamic force
+nonlinear anchor forces
+积分逆变换
+limit point.
+非正态相关随机变量
+mechanical strain energy release rate
+stochastic BEM
+hazard loads
+出口边界条件
+geometric and material nonlinear finite shell element
+变厚度层合结构
+oreep.
+铁磁薄板
+气动塞发动机
+deldrination
+oil film dynamic coefficients
+element modol
+linearization of differential equations
+绝对不稳定
+Tall steel structures
+AMV迭代格式
+展向曲率
+随动荷载
+热阻尼
+Christenson stress
+bar bar tensile impact apparatus （i.e. SHTB）
+sub-critical angle condition
+两相流紊流
+二次变分
+颤振抑制实验
+shell element of relative degrees of freedom
+射影平面模型
+撞冲
+elastic bending of thick Reissuer plates
+broken line converting method
+变惯性矩
+concentration of nitric oxide
+built—up structures of truss member system
+strain-rate-temperature equivalence
+降低流体噪声
+三维弹性波模拟
+circular cylindrical shell stiffened by ring and bulkhead
+砂类介质
+non-conforming elements
+wave current interaction
+material fringe constant.
+bond number
+space-based manipulator
+multi-chain interaction
+泥沙不平衡方法
+交替作用的裂纹
+hybrid stress finite element method
+research issues.
+参数二次规划方法
+thick\|walled cylinder
+相应奇性控制方程
+control of wind-induced vibration
+力扰动法
+remodeling rate equation
+constrained metal foil
+drill bit side force
+the deviator strain energy
+膝关节咬合接触力
+非凸储能密度函数
+crack front wave
+椭圆后继屈服函数
+体积跟踪法
+mass transmission equation
+viscoelastic composites
+effective depth of cross section
+elastic thin shell
+neural networks method
+test stand.
+viscous flow past a circular cylinder
+vapor reactive pressure.
+均匀应力
+matching asymptotic expansionmethod
+“二维湍流”
+塑性流
+晶体塑性模型
+分解算子法
+small discharge
+不可压流体模型
+双面接触算法
+perturbatio-nal solution
+integro-type constitutive theory
+均值自洽模型
+rotational DOF.
+tall buildings structUre
+subset displacement mode
+structural acoustica l coupling
+结构合理工作状态
+ship stern flow
+recbogular plate
+primary auxiliary structure
+低周循环加卸载
+连接件模型
+added boundary layer thickness of centrifugal force and roughness
+eniry flow
+AUSM~＋格式
+liped plate
+应变片技术
+isotropic in sphere surface
+Cohen类二次时频分布
+shear locking phenomenon
+material instability
+thin\|walled column
+flexible bars
+non stationary response
+and cracked rotor.
+centrifugal pump impellar.
+elastic pressing head
+particle composition profile
+spanwise curvature
+James-Anderson方法
+二维气泡
+栓状流
+网格加筋圆锥壳
+composite shall lining
+Johnson-King turbulence model.
+bridge-subgrade transition
+RCC concrete
+rotating disc in elasto-plastic state
+lower order FE
+fahgue microcrack
+Curved member with trapezoid section
+experi-ment test
+suction/injection
+model calibration and vertification
+时均值基本方程
+流体运动稳定性
+Riemann-Christoffel张量
+coupling of motionD
+四边形厚板
+rank of maxtrix
+Stochastic influence
+strain and strain rates
+非定常流激
+复变-变分解法
+nonuniform and localized deformation
+俯仰激励
+structural analysis on microcomputer
+hard turbulence
+double-porosity system
+configuration space.
+双向拉伸试验仪
+振动衰减控制
+plane water wave
+explicit technique
+method of stochastic averaging.
+Melnikovs method
+high speed synchronous sample
+resuluai stress
+非均匀等参元
+独立连续映射法
+constantly growing crack
+涡黏系数
+三维数值半解析算法
+two-phase interactions
+plate benging
+internal combustion engine.
+principal value integrals
+上抛和下扫
+亚像素方法
+attitude dynamics of spacecraft.
+振动固结
+two side-by-side circular cylinders
+biharmonic polynomial space
+防空掩体
+偏置圆速
+initial orthotropy
+速度曲面
+divergence of mean velocity
+电弹性动力学
+分歧集
+动态弹塑性断裂韧性
+动压量
+线路积分方法
+二个模式的非线性共振
+环形简谐荷载
+随机边界积分方程
+first-order second-moment theory
+slit-type energy dissipation
+predict-correct
+supercavitation hydrofoil
+mixed boundary permeability condition
+white light digital speckle correlation method
+fiber push- out test
+离散流场数据
+强非线性耦合参激系统
+solid fluid coupling shock absorber
+APAS docking system
+连续区间离散化
+DPM方法
+mode testing
+Baldwin-Lomax湍流模型
+圆角方板
+orthotropic structures
+oil film forces
+牛顿—拉斐逊技术
+cable stayed bridge vibration
+混沌胞映射法
+homotopy.
+mechanics of compKsite materials
+dynamics flowing
+Transversely isotropic elastic strata
+sand precipitation
+连梁连续化假定
+domain average self—consistent model
+front collapse
+塑性角区
+path\|independent integral
+主被动阻尼控制
+土──锚杆界面
+local natural coordinates
+axisymmetric.
+修正Jeffreys模型
+computational wind engineering （CWE）
+推广的Kirsch混合法
+贮液圆柱容器
+ground wind
+Angle—ply laminates
+动脉模型
+frequency lock in.
+stagnation-point flow
+Distortion of the cross section
+moment distribution method.
+有限元插值方法
+vorticity structure
+cubic spline finite difference method
+垂直分选
+liquid filled pipe system
+多微裂纹屏蔽
+bolted rockmass
+electromechanical collpling
+second impact.
+广义协调矩形分层单元
+Hysteretic Model
+wind pressure on buildings
+signal collecting efficiency
+红外热象系统
+spline interpolation/scooter
+fixed circular plate
+裂纹分叉角
+平衡催化壁
+high order accuracy.
+elastic support.
+骑行波
+time element methods
+接触摩擦阻力
+渗透率模数
+degenerated solid plate element
+thin f
+多重Ritz向量法
+inner supports
+圆杆表面裂纹
+离心液压
+非连续分岔
+材料流体力学
+beam with one degree of indeterminacy
+thermohydrodynamic effects
+displacement sensor.
+circular-cylinder flow
+screening of structures
+load displacement curve
+instrumented indentation methods
+squeezed cast-in-place pile
+Coleman-Noll关系式
+multi--phase materials
+斯托克司边界层
+two tandem circular cylinders
+rapid pressure-strain correlation
+resilience stability
+环线荷载
+球罐断裂
+有摩擦接触问题
+计算气动热力学
+oscillator model.
+finite ele mentme thod.
+Stratonovich integrals
+constitutivemodelling
+离散正交法
+变折射率相移
+dependent constraints
+互补能量原理
+状态转换方程式
+incompatible isoparametric element
+necessary condition of existence
+非线性静动力
+Nilpotent范式
+多重特征值
+multirsolution element
+local fracture criterion
+logitudinal impedance.
+vertically laid
+正倒圆锥体
+depth of mini longitudinal channels
+均匀拉伸
+the conjagate gradient method
+interface toughness
+matrix toughness.
+spot welded joint
+Jones-Nelson material model
+扩展的自相似标度律
+skewly cooperating system with stepped cross section
+三雏形状
+time temperature stress equivalence principle
+迟滞共振
+measurement by hotwire
+Torsional buckling
+acute-angled or branched meridiane
+generalized compatible condition
+MSZ rate
+实验误差法
+dynamic strain field.
+Presetting elements.
+radial inertial effect
+wo-stage loading
+gen-eral solution
+薄板弯曲单元
+B G wave
+self-heading slip pulse
+协调桁架模型
+电机械载荷
+single crane hoisting
+曲面法
+混凝土结构应力应变分析
+gas-coal oulburst
+semi permeable wall model
+Liapunov characteristic number
+有限散射信号
+Damage measurement
+有限分析法/复合网格
+three-dimensional stress concentration effect
+单元构造机理
+动态电测
+cube cleavage test
+stability degree.
+adjacent-buildings
+structural combinatorial optimization
+invariance of nodenumbering sensitivity
+格子Boltzmann仿真
+波浪传播与破碎
+generalized nodal interpolation
+wet modes
+iterative perturbation.
+知识获取形式化
+非相关流动
+双调数值计算
+Hot Wire/Film Anemometer
+CMC水溶液
+the calculation technique of matrix exponential function
+dynamic walk
+length of diffuser
+thermomechanics.
+汽车模型风截面
+减功系数
+Probability equal value
+super-elliptical plates
+复约束刚度
+dynamic boundary element method
+electro magnetic law
+behaviour analyses
+interative perturbation method
+多相反应流
+时变均方响应
+first kind Fredholm integral equation
+波内频率调制
+谱分析曲线
+constraint solubilization.
+双扩散现象
+non Newtonian power law fluid
+plasticity and limitanalysis
+topology optimizatio
+H- transformation
+electrochemical technique.
+friction- sliding
+rotation with a constant angular velocity
+静压分布参数
+对称复合材料层板
+边界元迭代法
+complex coordinatesconversion
+力的虚功
+flexible volume method
+大范围直线运动
+oscillatory pipe flow
+bounded parameters
+振动模态控制
+elastic conjugate surface
+初始不规则
+half-body of piezoelectric ceramics
+rock cutting.
+unpropelled capsule.
+computational solid mechanics
+接头相容条件
+斜塔纠偏
+Kevlar纤维增强复合材料
+固支浅拱
+pulse-orbit
+概率摄动有限元法
+dynamic characteristics of structure.
+shallow water long wave
+rigid notch
+coupling sensitivity
+turbulent spots.
+非线性隔离
+interface fracture behaviors
+fuzzy safe domain.
+应力—生长定律
+short crack propagation model
+Intranet网络教学
+叠层结构陶瓷
+闸下出流
+paling
+steel fiber reinforced high strength concrete column
+多维多点地震输入
+finite element analysis of elasto-plasticity
+矛盾线代方程
+Silnikov轨道
+压力应变快速项
+VITA scheme
+finite element substructure parallel algorithm
+Separating Flow
+Reissner型板断裂问题
+Second-order effect
+analysis of ice loads
+program marking of surface elements
+thin fluids
+RLW equarion
+the dynamies of manipulators
+and development characteristic.
+cavita-tion
+粘塑性流体
+非线性碰摩力
+finite member element
+均匀切变
+vibrating machines
+Functionally graded piezoelectric materials
+权函数方法
+P S N Curev.
+大型桩基础
+负浮力效应
+销栓作用
+worst failure mode
+AMV iterative procedure
+γ-p-ε-N curve
+shear lip
+polybattenedshear wall
+Poincazr截面
+nonlinear hysteretic model
+Dirichlet-Neumann算法
+空间展开结构
+集中荷载:界面应力
+多孔介质结构
+strength of rockmass
+裂纹前缘波
+reactor containment's design
+分离再附流动
+非线性恢复力模型
+adhesion probability
+开孔粘弹性薄板
+不完全理想约束
+concentrated inelasticity approa
+非线性参数激励
+新内容模块
+streaks structure
+Sequential probability Ratio Test （SPRT）
+flexible wall test section
+the energy phase criterion
+F. E. M. numerical simulation.
+the rigid bar method.
+release rate of strain energy
+internal upset transitionzone
+foundation with inserted angle steels
+双折射主切片法
+递推关系矩阵
+incipientvelocity
+过调谐
+third order theory
+测量枝术
+filled metallic cylindrical shells
+杆屈曲
+captial
+modeled investi gation
+Oil-pressure operated flap gate
+Void-containing material
+ventricular pressure-volume relationship
+mild-slope equations
+来流脉动
+循环应力应变关系
+nearly sigular integrals.
+plane elasticity plate bending similarity
+inverson system control
+初始开裂应力
+Boussinesqs formula
+dynamic problems.
+two-dimensional frictional contact problem
+impact of aircraft
+incompressible constitutive equation
+相移步长
+强声场
+点焊元件
+Non-linear edge detection
+Thin plate bending
+unit total feasible prestress
+晶体塑性本构关系
+structure optimazation
+Rectangular corner
+numerical convolution
+分支点屈曲
+dynamic buckling.
+sigular intergration.
+complete modal method
+层合悬臂梁
+wakes behind circular cylinders
+elastic-plastic damage
+interpenerating flow field
+coplanar surface cracks
+径向扩散层流
+computerized symbolic manipulation
+kinetic equation.
+mechanics of continuous media
+地下封闭爆炸
+Nonlinear arialysis
+Deformation-damage fields
+应力一光学定律
+预应力混凝土张拉
+two phase material
+方型散流器
+成层固体介质
+空间—时间分析法
+Modal theory
+显式/单元刚度阵
+h- adaptive boundary elements
+叠层单元
+micro grid method
+open boundary.
+arc interface insulating crack
+Al-Sn-Si alloy
+thermal stress between resinous basis and filled particles
+thermohaline equilibrant sys-tem.
+过剩变形能
+扭转舞动
+finite elements of plate-truss deck
+effects of shear
+erosion and siltation experiment
+equivalent COD conversion
+bending moment-axial force-curvature
+magneto mechanical characteristic
+elasticviscoplasticity
+首次超越可靠度
+lip plate
+Morie interferometry
+初内力准则方程
+limit state function.
+非线性精化理论
+Perturbation finite element method （P FEM）
+closed frequency
+扭弯剪复合作用
+等效线弹簧
+set-up elastic stop
+温盐均势场
+湍流边界展
+退火铝合金
+Span is the largest in the world
+strongly singular and hyper-singular integrals
+framed rods
+光声测量技术
+二类独立变量
+critical strains
+the interface stresses
+塑性区开展
+elastic angle constrain（
+refined shell theory
+film/substrate
+Digital Mask
+finite plate with a crack
+有限雷诺数效应
+finite-volume method.
+dam-break bores
+thin conductive plate
+riding waves
+moderate Reynolds numbers
+semianalysis method.
+reflected caustics
+visco-elastic heavy oil
+shear layer between two non parallel streams
+单孔隙介质
+fiber-sheet
+the blade passage frequency
+超载疲劳
+whurlpools
+multi- input multi-output
+Practical methods of analyses.
+Kelvin解
+邻近影响
+local inverson system control
+method of shear-lag analysis
+catenny element
+侧向人工边界
+rocker flap wavemaker
+Postbuckling of thin plate
+non-sway composite frame
+特殊桩基
+eccentric buildings
+material discontinuity
+reinforced heat exchanging
+actuator's parameters
+卸降柔度
+prestressed spatial steel trusses
+潜约束系统
+生命期折算总费用
+AF格式
+Poisson外问题
+拉格朗日模拟
+弹簧-阻尼-质量模型
+compatible isoparametric element
+slow rarefied gas flows
+space cable element
+flow field with discrete data
+two-point displacement method
+perturbation method/flat shell
+湍涡结构
+三维非均匀性
+Love displacement function.
+大涡的卷起
+标准K-ε两方程模型
+非均匀方向向量
+exten-sional viscosity
+confirmatory calculating point
+Shells of revolution
+singular optima topology
+关节测量系统
+夹层圆锥壳
+Tow-phase flow
+geometric and dynamic nonlinearity
+multi-polar coordinate systems
+物理-几何关系
+three-dimensional singular element
+matrix repre- sentation method
+二阶矩方法
+finite elememnts
+near wake of circular cylinder
+固液模型
+creep/recovery
+water surface gradients
+condensate oil-gas
+等概率均匀扩展区间Markoff链
+air-water two phase flow
+矩形与圆形紧凑拉伸试件
+Elasto-plastic failure.
+MDWW方程
+nonlinear periodic ordinary differential equation system
+discrete time transfer matrix method
+表面张力—重力波
+damage cumulative rule
+赵奇异积分方程
+强度分析模型
+座面应力
+linear ordinary differential equations with periodicallyvariable coefficients
+内自由度
+冲切破坏强度
+非线性耗散波
+边界层定义
+thick hollow sphere
+plane wall
+三相关
+self—consistent—FEM
+non-probobilistic model
+or thotropic structures
+hyperboloidal shells
+sheet metal Multi-Point Forming
+悬挂式层间减震结构
+water saturated soil
+EGG波
+投影栅线
+the maximum-entropy estimation principle
+pile row retaining system
+复模态状态空间法
+tensile sample design.
+井字形格栅
+exist null combination
+companion vector
+径向流速
+支座截面弯矩
+高温云纹干涉法
+韧性耗散损伤
+temperature-dependency
+多层钢管
+DC potential drop method
+beam with overhang ing ends
+ear mechanics
+integration /time-integration.
+RNG κ-ε湍流模型
+转捩途径
+条纹全量
+汽轮发电机转子护环
+自由面离散
+制备及合成
+循环回线
+Euler-Bernoulli beams
+ideal rigid-plasticity
+机械应变能释放率
+冲击扭转装置
+界限理伦
+nonlinear contact with friction
+unsteady drag
+粘附概率
+水下喷气
+superposition methods
+自扭转系数
+reinforced concrete buildings
+RC frame stature
+后体流场
+mass-weighed averaging
+Castigliano's Rule
+Anisotropic support
+半平面裂纹
+shear-free boundary layer
+frees stream
+耦合离散流体理论
+developing mechu-nism
+各向同性半无限板
+axial flow fixed-bed reactor
+single-node quadratic element
+分布参数传递函数方法
+数值摄动算法
+three-dimensional stress singularity
+centurifugal hydraulic pressure.
+active aerodynamic wing
+Inegnetomechanical coupling
+elastoplastic matrix composites
+boundary integral equationn
+局部线性化的有限元法
+asymmetric steady vibration
+临界Ra数
+impact with low velocity
+Taylor′s cone
+环管不定常流动
+非均匀水流
+ship replenishment
+accuracy of the method
+the Fredholm integral equation of the second kind
+非正交贴体坐标系
+物理－几何关系
+等力线
+振荡脉冲射流
+被粘体剪切变形
+round test bar
+softening nonlinear
+nonlinear stability.
+prestress of concrete tension
+锋面坍塌
+antiplane piezoelectricity
+假想联接刚度
+几何及物理非线性
+liquid filled cylindrical shells
+Silnikov orbit
+纤维束波动
+复合材料厚板元
+contact stress sensor
+Plastic post-bifurcation
+起始冲击波
+inverse solution method
+Laplace和Fourier变换
+p—S—N 曲线
+the head-on wind section of automotive models
+溃坝参数
+Flogge方程
+Variational finite element method
+represen-tative unit cell （RUC）.
+o ptimal method.
+气固两相流边界层
+launching underwater
+high-order remainder
+静力预加载
+温粘效应
+（w
+method of singular point distribution
+非线性粘弹性板
+stress sum
+phase variety
+reinforcedconcreteplate
+local vessel expansion
+permanent-loaded compression line
+涡对流和扩散
+Ritz能量法
+三维电子散斑干涉
+Thin-walled Beam Structure
+the residual welding stress.
+morie interferometry
+equivalent spring solid element
+concentrational moment
+UCGVC
+显式非线性经验弥散关系
+调和函数法
+program system DDJ-W
+管节点局部柔度
+similar parameters
+reciprocal theorm of work
+hyperbolic conservation laws.
+depth averaged COD.
+raft plates
+Ultrasonic loading
+movable support constrains
+分段逼近法
+Cauchy stress principle
+Calculating model.
+localized traveling wave
+control of high-frequency wideband random vibration
+growingpath
+Hamilton微分方程
+韧性断裂控制参数
+微孔洞生长
+loose green sand
+fatigue lifetime estimation
+nonholonomic systems with servoconstraints
+波浪吸收
+刚度不对称转子
+应变空间理论
+nozzle engine
+粘弹性阻尼铰
+three-dimensional discontinuous displacement method
+electro-hydraulic shock wave
+横向剪切模量
+skew plate arch bridge
+dynamic stress-concentration
+差动式机电缓冲阻尼机构
+动态力学性能实验
+节点弹簧单元
+self-si-muarity
+k-∈ two-equation turbu- lence model
+IMPS测量
+voting engineering system
+progressive failure.
+orthotropic FRP plate
+small-strain theory
+strain space theory
+特殊基本解
+nano- moiré
+shearing band
+numerical wave absorber
+振幅弥散
+white noise filter
+local wind pressure of region
+热弹性动力学
+sheet metals stamping
+Correlation Search
+spokes
+脉动实验
+退化梁单元
+dynamic fra cture mechanics
+global branch-and-bound algorithm
+solid contact problem
+球形厚壳
+hypervelocity flow
+粒子数值图像技术
+气体上升速度
+displacement perturbation methods
+刚度合成
+heat-loading path
+principles on establishing high order schemes
+PLK法
+the method of substitution for constituting
+fiexible fort story building
+奇特的电声波
+analytical element
+Greens functions
+stresses measurement
+侵入速度条件
+declined well
+theory of mixtures
+field developmet
+anisotropic permeability.
+第一次分岔
+stress subspace
+screw flow
+Teflon ablation
+随机拉索刚度
+turbulence burst
+dynamic flexibility measurement
+种树
+capasitive sensor
+荷载组合代数
+微细传热
+stresses constraints
+dynamics of rigid body containing fluid
+finite Reynolds number effect
+等参壳元
+线载荷积分方程法
+thermo-plastic media
+打靶法技巧
+thermo elasticdamage coupling.
+升温-加载途径
+circular contour die
+大湍流度
+flow pattern.
+电子密度脉动场强
+compression effect.
+preform die shape
+圆模面
+近哈密顿系统
+flow over three square cylinders
+pole grasp height
+glass fiber reinforced polymer （GFRP）
+adaptive influential radius
+ock mass
+SHPB method
+脉冲加载
+thermocapillatory oscillatory convection
+power law fluid.
+激光—超声技术
+conical shell element
+底层柔性建筑
+结构可靠性/自动矩阵力法
+algebraic model for stresses and scalar fluxes
+rotor-SFDB-support system
+spiral tubes conveying fluid
+tank bellow pipeline （ TBP ） system
+CSPM
+保角转动参数
+wedge theory.
+深度平均COD
+初始平衡形状
+pseudo—causties
+sim-coupled potential energy principle
+tidal flow.
+straight line element
+screwy welded joint
+plastic shock absorbing technology
+water bottom effect
+对数正态平稳随机过程
+科学思维方式培养
+Ito equation.
+自适应风洞
+FEM-optium
+风致动态响应
+analytic solution in complex Fourier series
+Elastic Foundation.
+analytical inversion of Laplace transforms
+近自由表面
+变截面圆弧壳梁
+gro（
+property of flow field
+三维流速分布
+time his-torv analysis
+蠕变矫直
+equivalent spring stiffness of joint
+无纸考试系统
+con-straint violation correction
+structure of flow path
+非线性钢板弹簧
+应力强度因子测量
+空泡尾流
+座式快堆堆本体
+快速颗粒流
+螺旋绕板容器
+最优配位点
+solution of subhar monic resonance.
+流固耦振
+spline function element
+有杆泵生产系统设计
+Baldwin-Lomax turbulence model.
+submarine exhaust system
+耦合计算模型
+discharge of polluted water
+微颗粒组合体
+动态剪切行为
+压电螺型位错
+dynamic force test
+biphase media
+筏式
+稳定的双共轭梯度方法
+Stanton数C_H
+开式复合约束绳系
+fractional derivative model
+预应力复合材料
+damage model.
+黏弹性参数
+post-buckling behaviors
+velocity triangle.
+锁定区
+statistical theory of turbu-lence
+modal superposition pseudoforce method.
+large bridge structure
+均匀涡旋
+zigzag channel.
+Ⅱ-Ⅲ混合型裂纹
+self-acting ball valve
+vibration mode of high order frequencies
+弹性支承圆弧梁
+liquid large-amplitude sloshing
+void evolution
+particle dynamics analyzer technique
+双面模型
+张量的分量
+Gurtin principle
+reanalysis.
+variation reach of back water
+limited cutting width
+stable response.
+non-linearity with fold linearity
+elastic cylinders
+平衡构形曲线
+水体抗拉强度
+input power.
+monomolecular layer
+切断铰
+pseudo excitations method
+Rayleigh-Ritz技术
+刚塑性动力方程
+mixed/hybrid methods
+gas-solid interaction
+three dimensional photoelasiticity
+fracturemechanics of interface
+一阶自适应技术
+piezoelectric admittance
+分层有限元法
+几何-光学逼近
+object\|oriented design
+finite circular sheet
+shock vortex interaction
+随机扩阶
+PC waffle
+一氧化氮γ带
+depressing vibration of turbine
+波前追踪方法
+crystallographic constitutive equation
+higher order discrete-layer model
+attached building
+有限元方法/冲击-动力接触问题
+elastoplastic analytical solution
+松散型砂
+overbroken rock
+W operator
+algebraic structures
+in-plane buckling
+椭球体分离流
+sound-structure interaction
+numerical manifold
+exact representation
+optimaldesign.
+linear systems with time-delay
+高温结构设计
+Poiseuille－Benard流
+欧拉数值模拟
+single-degree-freedom
+phenomena of transition.
+节点截面
+优化更新
+Very ill-conditioned equations
+Laplace Hankel transform
+fitted grid
+T形分叉管
+linear-elastic buckling
+block-implicit finite difference
+the effect of tranverse shear
+双参数弹性地基板
+动力时域内反分析
+crack tip superblunting
+rotating tone noise
+变分型积分方程
+折叠式柔性结构
+Lundgren涡
+温度场问题
+fluid science
+numerical perturbation algorithm
+二次分离
+high-low two stresses
+rotationally cylinder
+the method of averaging
+And Second Order Reliability Index.
+热塑介质
+平行四边形定律
+内边界支承环板
+Vibraion
+partial fluid film
+scaling function transform
+结构动力可靠度
+subcooled liquid film
+连续多跨梁
+initiation life of the crack
+very low velocity
+plane restrain
+第一激波
+圆柱正交异性体
+contact condition.
+振动反分析
+in plane notch
+thick laminated facet element
+the theory of internalvariables
+deformation and breaking of wave
+Solution of power series.
+物理模拟余能原理
+球形网格扁壳
+冲淤试验
+不确定性分岔
+解析解答
+弹性接触压力
+implicit method.
+shape memory alloy.
+elastic jump
+waffle structure
+analyses model.
+statural vibration control
+cylindrical shell with simply supported edges
+四元数力学
+sensitivity number
+多物理耦合
+the rotation of principal stress axes
+D displacement fields
+HRR field
+saw-teeth phenomena
+力的实功
+刚度组集
+Explosive pressure
+acoustic-path difference
+ductility exhaustion damage
+平衡构形曲线的确定
+high moire
+极坐标应力
+immersed tunnel structure
+uniform shear
+moving boundary variational principle
+多重交叉闭环系统
+Rayleigh\|Ritz energy method
+损伤与演化
+钢纤维钢筋高强混凝土柱
+气—水分离
+压电传感器与执行器
+artificial damping.
+泄流脉动压力
+壁面剪切流
+plastic unstable
+turbulent mixed convection
+initial stress intensity factor
+波系结构
+optimum collocation points
+singular integral equation method
+floquet theory
+flow in helical pipes
+finite element procedures
+nonlinearprogramming problems
+fully developed turbulent flow
+Smart Structures
+welluposedness
+von　Karman板
+actual trajcctorics
+tool having negative primary land
+heat waves
+力学性能曲线
+impact budding
+流固偶合运动
+high-intensity acoustic wave
+动能量释放率
+nonuniform eigenstrain.
+振源探测
+喷射事件
+三维组集式模型
+软化土
+plane stress.
+单向拉伸模型
+the steep streamlined finite element method.
+interference stress
+superpositive iteration harmonic balance method（ SIHB ）
+二阶样条插值
+first excursion failure criterion
+当量正态
+floated-ball inertial platform
+deflection of rolls
+斜置排列双圆柱
+单面剥层
+fiat strip initial geometrical imperfection
+剩余刚度比
+形状优化/相对差商
+摩尔—库仓准则
+phase Doppler analysis
+flexcural-compression member
+integral Maxwell constitutive equation
+destruction ratio
+strengthre liability.
+强脉冲激光束
+optical mechanics method
+straight buried pipeline
+复合多孔介质
+equivalent damage lines
+不可压缩流场
+coupled of fluid and solid
+time averaged fundamental equations
+discretization of half-space surface
+固体-液体相互作用
+weighted equivalent linearization technique
+hemodynamic environment
+Scissor-Like Element
+multi\|flexible body system
+frequency response function.
+连续长索
+修正的拉格朗日描述
+累积损伤法
+electro elastic field intensity factors.
+collisional stresses
+正交各向异性玻璃钢板
+雾滴直径测量
+Fundamental Solution
+RBCC （rocket based combine cycle）
+柱失稳
+granite and marble
+elastically articulate contact
+cylinder orthotropic body
+受阻塞肺下呼吸道
+flocculation in pipes
+mixed-mode I-II crack
+椭圆平片裂纹
+动力弯曲
+Metric Functional of Compatibility.
+大晃动
+parameters of dam failure
+脉冲轨道
+容积换热器
+turbulent micro-scale
+structure system with damping
+junction control method
+thickwall cylinder
+半闭卷半开卷
+seismic random field
+displacement-based plate bending element
+hydraulics problems
+局部状态保持
+convection boundary layer
+任意拉格朗日-欧拉网格
+critical flutter wind velocity
+multi porous
+interface multi-circle
+quasicrystal elastodynam- ics
+非比例双滑移
+柔性涂层
+multilayered energy-absorbing element
+quasi\|static problem
+symplectic subspace iteration
+钢筋混凝土有限元
+control overflow
+elementary failure regions
+laminated shell structure
+arch cofferdam
+修正Goldfarb法
+particulate-filled polymers
+solution of polynomial expression
+thermoelajsticity
+incipient sediment distribution
+混合能密度
+周期性流动
+interface stress.
+ODE's solver
+turbulence power spectrum.
+内悬臂梁
+the natural frequency
+加权残数配点法
+湍流理论分形模型
+arbitrary vorticity distribution
+numerical sim-ulation
+潮汐剩余环流
+high velocity normal impact
+铝锂二元合金
+concrete containment
+laminated approximation theory
+differential constraint
+拉-剪破坏
+kinematic limit
+模糊随机振动理论
+dispersional coefficient.
+动态激励力
+dynamic criterion
+van der pol model
+堤坝溃决
+effective medium.
+导热流体
+体分比
+行进绳索
+γ-p-ε-N曲线
+cable-cabin structure
+Lagrange multiplier technique
+饱和作动器
+constraint stabilization
+closed type solution
+应力、应变速率
+helical vortex
+elastoplastic large deformation
+monotonically inclined negative curve
+Hilbert伴随算子逆定理
+tension-compression strength ratio
+cap - shape frame
+模态设计灵敏度
+三维应力奇异性
+wind-blown-sand two phase flow
+interface crack initiation
+圆柱绕流近尾迹
+Model updati ng
+double average
+integral strain feedback
+Interface dynamic fracture
+lift.
+电极-陶瓷界面裂纹
+crack bifurcation angle s.
+second order differential system.
+simulated variational principle
+instability study
+sur face delamination
+构件预应力损失
+multi ply composite structures
+Yu's unified yield criterion
+critical velocityh
+interaction between structure and fluid
+complementary energy principle for physical simulations
+strain-gradient-enhanced
+macrodispersion
+transport of negative gradient
+nonsimultaneous variation
+sprinkler irrigation application ratio
+围箍压痕法
+双面剥层
+paramertric integration
+帘线力
+实验流体
+弹性变形波
+非相容点
+measurement and analysis of flow.
+vectored differential jets
+central cumulate truncation
+multiple stress singularity
+acoustic forcing
+elasto-plastic constitutive relation
+influence matrics
+pressure fluctuatoin
+thin regular polygon plate
+big shearing
+theory of defects
+最大拉应力准则
+non-homogeneous differential equation.
+模态精度
+Elastic contact
+two surface plasticity model
+civil and structural engineering
+违约稳定
+multi-block grid approach
+Modal design sensitivity
+rotor shafting torsional vibration
+dynamics of rigid body containing liquid
+Riemann-Christoffel tensor
+plate-truss composite structure
+large scale compute
+幂次硬化
+single bumper shield
+Wada basin boundary
+fast Hankel transform
+transient moving boundaries
+complex boundary condition
+specific energy.
+aseismic control
+Tuned mass damper（TMD）
+摄动高精度差分方法
+micro interference
+串联双圆柱
+等温激波
+the method of weighted function.
+coflowing
+non-equilibrium irreversible thermody-namics
+Deformation localization
+超轻结构
+Photoelasicity
+discrete vortices
+Hammer Exciting
+bending twisting coupling
+crack plane twist
+flexibility matrix H diagonalization
+Concrete.
+集成化智能系统
+Hamiltoni-an canonical equation
+Stationary and steady-state growing.
+传感器最优布点
+变截面斜交体系
+vanational principle
+疲劳短裂纹生长
+seismic design of bridge
+钢衬壳实验
+crane-beam
+耦合压电热弹性
+active vibration control.
+nucleus of comparison equations
+斯托克管
+dynamic shear behavior
+transverse wave velocity
+cellular biomechanics
+关节内力
+distributions of velocities along the depth.
+Equivalent Normal Random Variables
+thermodynamics condiction
+working vibration mode
+Amplitude of oscillation of free ends
+杂交元应力子空间
+zoning-direct method
+微量水农业
+控制作用最优分布
+初始斜交异性
+variational theorem
+分层介质中的波
+shape eigenfunction method
+drifting from yielding surface
+准静态响应
+four- roll plate bending
+无损定征
+layered solid media
+underground closed explosion
+biofluiddynamics
+I Ⅱ mixed mode crack
+round turbulent jets
+generalizde inverse
+displacement field match
+流体力学杂志
+crit-ical load
+standard two-equation K-ε model
+dual dissection.
+monosource fuzzy numbers
+缺陷动力学
+实验力学学科
+damping ratiod
+high order FDM
+Horseshoe Map
+quasi-three dimensional shell element
+NND有限差分格式
+buckling and post buckling
+终了速度
+initial starting point
+magnetic levitated system
+solvers
+零空间连续正交基
+中等雷诺数
+Contact Analysis
+形状特征式法
+Sliding polycrystals
+节线关连矩阵
+shallow spherical shell with hole
+混凝土核安全壳
+wafer bondint
+Mindlin's solution of displacement
+跨度世界第一
+Bayesian approach.
+桥接应力
+helicoid girder
+微分算子线性化
+hybrid/mixed vari-stiffness mothod
+电子密度脉动强度
+coefficiert of variation
+Cylindrical Shells
+dynamic A/D preamplifier
+前屈曲应力
+displacement influence factor.
+高阶平板元
+fatiguereliability
+斜交板梁单元
+Viscoelastic T tubes model
+laminated spherical shell
+守恒元和解元
+passive stiffness-shift
+Initial stresses
+纤维位向
+分叉渠道
+Hindmarsh-Rose
+blasting energy
+distribution of heat sleeve stress.
+组合结构结合部
+Hastelloy-X
+温度损伤系数
+continuous and non-continuous body
+Runge－Kutta格式
+nonlinear theory of thermoviscoelastisity
+剩余拉压强度
+creeping solids
+stretching-bending coupling
+shadow moire interferometry
+mechanico-electric coupling
+弯矩剪力等比数列收敛法
+turbulent coherent structure
+燃烧异常
+elliptical equations
+二值搜素
+analytical relationship
+假设应变元
+Barnett-Lothe tensors
+dynamic infinite element
+cubic spline method.
+非线性弹性卸载
+It积分
+ABAQUS用户单元
+stokes drag
+面外弯曲刚度
+rocker arm of major landing gear
+mounting strain clamps
+过盈压入
+width of mini longitudinal channels
+quasi-continuum method
+explicit non linear dispersion relation
+steady planar flow
+stochastic order expansion
+概化设计
+gas flow in tight porous media
+溶剂驱替
+parallel structure system
+: flow behind obstacles placed on the wall
+sliding roof system
+强度与变形关系
+fatigue and swing test
+fundamental solutions.
+the Modified Jeffreys model
+particle slug
+vibrating compaction value
+rigid-flexible mechanical arm
+微曲屈
+转动角软化桁架模型
+continuous beams.
+numerical simulatt
+泰勒锥
+广义自治
+艾雷应力函数
+multi front
+traction boundary integral equaiton method
+criteria for dynamic instability
+层合开顶扁球壳
+改进的离散克希霍夫单元
+multi stage Runge Kutta method
+Multi-phase detonations
+读数应变
+elastic-plastic dynamic buckling
+non-cavitatjon vortex band.
+随机包络
+预扭矩
+manifold method （MM）
+工程概论课程
+Saturated soil body
+woven fabric composite
+速度瞬心点
+three dimensional heterogeneity
+悬浮能量
+virtual mass force.
+technology mechanics
+致稳
+可压缩流向涡
+bolting-grouting reinforcement
+time space finite element.
+strata movement theory
+Davidson类方法
+vortex flow at high angles of attack
+骨断裂
+横向磁场激励
+vibro-compacting energy
+deployable space structure
+bi layer beams
+位移扰动法
+分离式扭拉复合Hopkinson杆装置
+立方体劈裂试验
+nonlinearly
+J_a积分
+large sloshing
+圆管道
+calculation of temperature field
+pipe-branch intersection
+模型特征可视化
+variatoional solution
+triangular element stiffness matrix
+transverse shear deformation.
+扁平形试件
+波浪绕射和散射
+Green-Naghdi equation
+应变第一不变量
+two dimensional numerical analysis
+composite faces
+spacedocking
+spatial curved beam
+laminated metal plate
+sphere beads filling
+large linear motion
+teansversely isotropic
+experimental mechanics.
+squeeze residual stress
+following load
+linear elastic buckling.
+Reissner厚板弯曲
+钢方管截面柱
+system of variable mass
+local state maintenance
+logarithm difference method.
+particle imaging technique
+粘聚力模型
+角点竖向附加应力面积
+submerged source method
+damage rate equation
+三元流面理论
+内外部流激发
+single-chip-computer.
+轴对称涡环
+含瓦斯媒体
+功能梯度材料梁
+福克－普朗克方程
+explicit formulation
+分段Newton插值多项式
+热光弹法
+刚性线问题
+全弹性散射理论
+antipiane
+generalized incremental algorithm
+Hybrid-Trefftz有限元
+high-speed ships built in composite materials
+dyanmic stress
+dynamic characteristie
+arris weld
+固有频率—载荷特征关系
+微硬度法
+Boger流体
+sandwich shallow shells
+unstable structure.
+the information measure
+foundary Cullocationmethod
+粒径-速度测量
+转换矩阵法
+train-running limit state
+动态畸变指数
+微细流动
+正交异性球壳模型
+半解析有限差分法
+空间管路系统
+rigid-flexible coupled motion
+elastic-perfect plasticit
+a series of transformations
+微裂纹屏蔽
+P\|shape
+numerical Laplace inversion method.
+“材料力”
+general numerical method
+evolutional coefficient
+whirl-flutter
+dynamic buckle propagation
+冲击动态特性
+adhesion parameter
+particle size velocity measurement
+oblique intersecting
+active cable-mesh reflector
+eigenvalue equation of vibration frequency
+不连续分岔
+arbitrary-Lagra ngian-Eulerian method
+hydrodynamics configuration
+plastic limit load.
+exact integration method
+Timoshenko层合梁
+photoelastical image
+拟流动准则
+explosive forming pellet （EFP）
+Finite deformation.
+microhardness.
+supercoiling
+three-dimensional velocity distribution
+cornering behavior of tire
+三维间断位移法
+gas rise velocity.
+杆件力学方法
+Floquet stability
+反冲塞效应
+容量矩阵技术FFT
+内转半径
+adaptive control of resolved motion.
+双向扩散模型
+高精度无振荡差分格式
+并行多步法
+axially-loading
+impulsive mass
+bed-cutting technique
+high temperature moire interferometry
+湍流边界层外区
+local dilatanr.y
+结构组合优化设计
+pile group.
+Equivalent linetrization
+Guyan法
+multi-steps
+canonical equations.
+proportional cyclic loading
+concrete-filled steel tubular short column
+币型微裂纹
+走钢丝杂技
+complex-mode state space metho
+constitutive m odel
+rock damaged zone
+the variational principle.
+opening in beam web
+塑性安定性
+薄板稳定性问题
+random chaos
+变截面毛管
+耦合van der Pol振子
+basic equation for two-phase flow
+additional displacement basic formulations
+interfase condition
+Lyapunov-Schmidt约化方法
+cable strUctUre
+three-dimensional finite body
+near field reconstruction
+extended stress intensity factor
+engineering te
+finite element method/conservation integration
+circular inhomogeneity
+幂级数近似
+jamming point detection.
+the interfaces of organic matrix
+不完全简支
+guasi-flow
+compress.
+定常流切应力
+广义逆技术
+algebraic approaches
+四狗追戏问题
+积分应变反馈
+罚函数有限元方法
+cross-section.
+非极性液体
+vertical vibration loading
+能量吸收控制
+vertical superimposed stress area of comer point
+火箭剂
+analysis and verification
+二阶非齐次椭圆型方程
+小应变理论
+light-sensitive coating
+first-order infinite mechanism
+帽形加筋板格
+incomplete simple constraint
+elasto plastic combined stress waves
+局部追随理论
+stressoptic law
+流出边
+enhanced hybrid post-processing procedure
+three-dimensional elastic theory
+progressional solutions.
+water w ave dynamics
+Engineering structures
+overbank flow.
+eroding properties
+Kane's dynamic equations.
+Kármán涡街
+bi-moduli
+aero elastic buffetting
+dynamic instability criterion
+load modification method
+dynamic aggregate
+反射和绕射
+临界力参数
+各向同性中厚板
+拉伸试样设计
+channel flow.
+hydrostatic stress field.
+turbulent gas-particle flows
+坐标正则变换
+应力与电磁耦合
+耦合的热传导
+非等桩径
+贴体的正交曲线网格生成
+thermodynamics of continuum mechanics
+非保守跟随力
+non-J-controlled
+再生波
+能量功率
+模态正交性
+混合分区
+光干涉条纹图
+rigid plastic dynamic equations
+non-stationary processes.
+裂尖超钝化
+多余零能模式
+two-dimensional confined mixing layer
+cone jet mode
+C-W-Hill方程
+interpolation residue
+ship'hull
+correlation velocity measurement
+particle Lagrangian simulation
+特征值分析/模型减缩
+helix weld
+裂纹测量
+时－空守恒
+压弯耦合
+reducing shock-wave reflection
+鲁棒与自适应混合控制
+visco-damping
+isolated wave-packet
+Mindlins formula
+脉冲时间比
+Pre-gap method
+cavitation state
+内曲拉伸/外曲收缩翻边
+力学空间
+compatible finite elemellt
+bucking mode.
+viscoelastic.
+Equaldimension manipulating
+ligam
+线性荷载和边缘弯矩
+dynamic relaxation method.
+孔隙流体的混合边值条件
+J-Q 理论
+Contact surface element
+geometry imperfecation
+钢铅组合耗能器
+虚链杆
+超声连续信号
+foundation pit supporting protection
+cross section of bridge main girder.
+下潜源过
+curve strip in length and breadth
+lipped channel sections
+单防护屏防护结构
+精度与误差
+PetrovGalerkin方法
+表面湍浮力射流
+the method of odd order truncation
+finite elemnt
+compacted difference scheme
+symmetrical composite laminate
+acoustical radiation.
+five parameter method
+自适应边界元
+elastic-viscoplasticity
+《中国力学文摘》
+悬浮顶层
+main vibration system
+波浪阻塞
+nonproportional double slip
+vortex sheding
+等效集总参数
+round jet flow
+Large Deflection of Membrane
+non-catalytic wall
+viscous/inviscid interaction technique
+图像色彩分割
+outside singular pointmethod
+magnetomechanics
+equivalent boundary integral equation
+简支圆柱壳
+differentialelectro-mechanical attenuation mechanism
+static constitutive relation
+滑错多晶体
+eccentric column
+均匀剪切流动
+boundary identification.
+adaptivity.
+浮动基空间机械臂
+力学细胞生物学
+hybrid finite analytic method.
+预锻模具形状
+滨海采矿
+construction stress field
+拟静态有限元分析
+微尺度气流
+扭转应力函数
+nonlinear complementary
+blunt zone
+悬浮等应力线
+damage anisotropy
+二元翼型
+multivariate finite element method
+nonlinear eddy-viscosity model
+mirco-irrigation
+single bond strength
+curvilinear coordinates.
+Shallow conical shell
+equal-opening-curve
+离散速度法
+three-dimensional constraint effect
+casting microporosity
+ILU preconditioning
+modal sensitivity method
+修正的Landau方程
+Birkhoffs system
+Buckling measurment
+损伤偶合本构规律
+ferromagnetic conducting plate
+低雷诺数流理论
+测地轨道
+Creep function
+非协调有限元法
+CBC准则
+water pollution dynamical control
+optical fibre intelligent composite material
+frictional energy
+standing surface wave
+VITA法
+fracture toughness of rock
+ratio of length to gyration radius of cross sectional area for a uniform beam.
+simularity
+Rock/Soil
+护坦宽度
+transversely isotropic behaviour
+Onsager-Casimir倒易定律
+Ono-dimensional structure
+曲线窗口
+positive buoyant jet
+potential flow theory.
+有限单元公式
+finite plasticity
+增量—迭代法
+incompressibility of materials
+Space foundation
+probability distribut ion.
+rayleigh-ritz technique
+invertible transformation
+bonded materials
+rotational degree of freedom.
+retained austenite induced crack closure
+thick plate elements
+Random earthquake ground motion
+twisted pipe
+显格式技术
+singular intergral equation
+impact dynamic chara cteristics
+轴对称应变湍流
+flow around two prismatic cylinders
+multi-microcrack shielding
+Multigrid meth- od.
+semiLoof element
+Homholtz方程

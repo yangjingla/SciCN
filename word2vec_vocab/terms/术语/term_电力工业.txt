@@ -1,0 +1,10000 @@
+供电企业
+电力市场
+继电保护
+electricity market
+Transformer
+汽轮机
+power system
+energy and power engineering
+变压器
+变电站
+能源与动力工程
+配电网
+construction
+电力系统
+输电线路
+断路器
+电能质量
+局部放电
+农电工
+substation
+火电厂
+无功补偿
+矢量控制
+异步电动机
+电力企业
+transient stability
+PLC
+农村电工
+电流互感器
+OPGW
+农网改造
+voltage stability
+供电所
+HVDC
+无刷直流电动机
+换流站
+power quality
+boiler
+transmission line
+水轮发电机
+relay protection
+电网
+国家电网公司
+power market
+特高压
+逆变器
+县供电企业
+UHV
+暂态稳定
+变频器
+微机保护
+digital substation
+复合绝缘子
+电费回收
+steam turbine
+电压稳定
+transformer
+直接转矩控制
+锅炉
+“两改一同价”
+distribution network
+循环流化床锅炉
+农电企业
+thermal power plant
+真空断路器
+在线监测
+黑启动
+汽轮发电机
+差动保护
+谐波
+负荷预测
+直流输电
+云南电网
+照明学
+MOA
+Electric power engineering
+inverter
+永磁同步电动机
+异步电机
+Power system
+农村供电所
+县级供电企业
+热能动力工程
+供电公司
+高压直流输电
+消弧线圈
+需求侧管理
+功率因数
+状态检修
+凝汽器
+vector control
+绝缘子
+锂离子蓄电池
+永磁同步电机
+partial discharge
+power systems
+电网公司
+无功优化
+一次调频
+PWM
+换流变压器
+Li-ion battery
+自动发电控制
+PSS/E
+过电压
+整定计算
+金属氧化物避雷器
+制粉系统
+锂离子电池
+converter
+reactive power compensation
+电力系统稳定器
+brushless DC motor
+composite insulator
+电机工程学会
+国家电力公司
+电力营销
+smart grid
+power plant
+线路保护
+水轮机
+故障测距
+power grid
+配电变压器
+同步发电机
+UHVDC
+有源电力滤波器
+绕组
+DSP
+特高压直流
+电能表
+广域测量系统
+智能电网
+农村电网
+电力通信
+超声波电动机
+华北电网
+供电可靠性
+电器工业协会
+真空灭弧室
+电压互感器
+水利水电工程施工
+SVPWM
+fault diagnosis
+母差保护
+电机
+隔离开关
+变电站自动化
+电容式电压互感器
+磨煤机
+并联电抗器
+故障诊断
+RTDS
+软开关
+电子镇流器
+induction motor
+电力需求侧管理
+CFB boiler
+Induction motor
+励磁系统
+circuit breaker
+differential protection
+无刷直流电机
+汽轮发电机组
+火电机组
+Power electronics
+DCS
+电网调度
+PSCAD/EMTDC
+云南电力
+数字信号处理器
+电力变压器
+converter station
+数字化变电站
+PMSM
+电站锅炉
+铅酸蓄电池
+能量管理系统
+power transformer
+电管站
+短期负荷预测
+感应电动机
+地区电网
+generator
+配电自动化
+电网规划
+接地网
+励磁涌流
+low frequency oscillation
+配网自动化
+FACTS
+分散控制系统
+变压器油
+Dry-type transformer
+active power filter
+南方电网
+load forecasting
+直流锅炉
+脉宽调制
+发电企业
+变换器
+送电线路
+电动机
+DEH
+最优潮流
+变频调速
+风力发电
+绝缘子串
+农电工作
+重合闸
+电力体制改革
+fault location
+供电局
+失灵保护
+电网建设
+substation automation
+current transformer
+烟气脱硫
+高压直流
+harmonic
+特高压直流输电
+低频振荡
+覆冰
+电力通信网
+避雷器
+单片机
+调度自动化
+protective relaying
+永磁电机
+EMTP
+距离保护
+reactive power optimization
+故障选线
+正极材料
+碱性锌锰电池
+on-line monitoring
+line protection
+Partial discharge
+有载分接开关
+广西电力有限公司
+超临界机组
+馈线自动化
+合成绝缘子
+故障定位
+变电所
+开关磁阻电动机
+电力电子
+晶闸管
+TCSC
+高压加热器
+直流系统
+BLDCM
+误动
+lead-acid battery
+SCADA
+负荷管理系统
+现场总线
+分接开关
+爆管
+配网
+安全自动装置
+防爆电机
+调度自动化系统
+小电流接地系统
+transmission lines
+Electricity market
+区域电力市场
+distributed generation
+母线保护
+思林水电站
+Thermal power engineering
+电力电缆
+输变电工程
+无人值班
+vacuum interrupter
+direct torque control
+汽动给水泵
+潮流计算
+电能计量
+综合自动化
+碱锰电池
+converter transformer
+交联聚乙烯绝缘电力电缆
+城市电网
+无位置传感器
+power supply and demand
+excitation system
+voltage sag
+setting calculation
+联合循环
+electric power system
+optimal power flow
+SPWM
+纸板电池
+On-load tap-changer
+electric power market
+无人值班变电站
+Brushless DC motor
+Winding
+电力标准化
+静止无功补偿器
+电网企业
+电磁环网
+农电管理
+循环流化床
+配电网自动化
+闪络
+绕击
+电力系统稳定
+氧化锌避雷器
+低压电器
+电气设备
+带电作业
+索风营水电站
+线损
+单相接地故障
+塑料外壳式断路器
+asynchronous motor
+矩阵变换器
+同步电动机
+电容器
+燃烧调整
+高压变频器
+短路电流
+开关磁阻电机
+partial discharge（PD）
+水利工程施工
+构皮滩水电站
+铁磁谐振
+power system stability
+输变电设备
+定子绕组
+泄漏电流
+主变压器
+污秽
+高压断路器
+并联电容器
+空间矢量调制
+稳燃
+熔断器
+县级电网
+步进电动机
+电力设施
+Power transformer
+电力电容器
+short-term load forecasting
+定子线棒
+permanent magnet synchronous motor
+distribution automation
+wind power generation
+湖南电网
+转矩脉动
+分布式发电
+Current transformer
+洪家渡水电站
+干式变压器
+接地故障
+整流器
+无功功率
+触头材料
+接地电阻
+绝缘
+once-through boiler
+HVDC transmission
+电力信息化
+风电场
+励磁控制
+电能计量装置
+绝缘结构
+insulator
+cycle life
+中性点
+供电可靠率
+超超临界机组
+电力系统通信
+SVC
+负荷建模
+污闪
+水轮发电机组
+抽水蓄能电站
+再热器
+绝缘配合
+电力供需
+开关电源
+空间矢量脉宽调制
+电压崩溃
+操作过电压
+华东电网
+空气预热器
+高压电器
+灭弧室
+发电机
+功率因数校正
+vacuum circuit breaker
+水冷壁
+power system stabilizer
+电力施工企业
+电弧炉
+农村电价
+接地
+换流阀
+超超临界
+load modeling
+单相接地
+cathode material
+VRLA battery
+ATP-EMTP
+电力工业
+AGC
+electrochemical performance
+磁性能
+配电网规划
+建设与改造
+暂态稳定性
+机组组合
+保护配置
+省电力公司
+UPFC
+Ni-MH battery
+励磁调节器
+介损
+电化学性能
+有源滤波器
+二次回路
+hydrogenerator
+Li-ion batteries
+线损率
+VRLA电池
+电容电流
+甩负荷
+农村电气化建设
+分布式电源
+火力发电厂
+XLPE cable
+故障分析
+电热水器
+低频减载
+内部故障
+供电所所长
+结渣
+铁心
+给水泵
+感应电机
+无速度传感器
+架空线路
+相量测量单元
+电磁兼容
+无人值班变电所
+CFB锅炉
+Transient stability
+配电系统
+power network
+玻璃绝缘子
+华中电网
+torque ripple
+水电机组
+谐波电流
+调峰
+三相异步电动机
+次同步谐振
+燃气轮机
+matrix converter
+电动给水泵
+electric power communication
+架空输电线路
+步进电机
+同步电机
+网损
+混合式步进电动机
+UHV transmission line
+东北电网
+合闸电阻
+电力设备
+MH/Ni电池
+sensorless
+直流偏磁
+电子式互感器
+motor
+凝结水泵
+turbine
+Distribution network
+恢复电压
+distribution network planning
+供用电合同
+可控串补
+变压器行业
+直接空冷机组
+串联补偿
+turbogenerator
+农网
+电动工具
+电业局
+农村电气化
+绕组变形
+串联电抗器
+万能式断路器
+电力客户
+grading ring
+power communication network
+电气时代
+overhead transmission line
+耐雷水平
+STATCOM
+协调控制系统
+互联电网
+燃烧器
+thermal power engineering
+紧凑型荧光灯
+电力建设
+水工结构
+重合器
+特高压输电
+高频保护
+城网建设
+commutation failure
+次同步振荡
+备自投
+black-start
+油中溶解气体
+power cable
+并联电容器组
+配电管理系统
+故障分量
+Permanent magnet synchronous motor
+超级电容器
+负荷管理
+《农村电工》
+GOOSE
+潜供电流
+PSS
+循环寿命
+负荷模型
+支柱绝缘子
+power communication
+继电器
+金属卤化物灯
+主绝缘
+电价
+可中断负荷
+shielding failure
+同杆双回线
+supercritical unit
+雷电定位系统
+油纸绝缘
+大停电
+输电系统
+电力行业协会
+操作票
+照明电器
+配电网络
+换相失败
+三电平逆变器
+电力行业标准
+switched reluctance motor
+CFB
+调速系统
+定子
+fuzzy control
+发电机组
+结焦
+统一潮流控制器
+空间矢量
+智能变电站
+shunt reactor
+零电压开关
+阻性电流
+辅助服务
+excitation control
+Switched reluctance motor
+变压器差动保护
+变电站自动化系统
+超声波电机
+电网安全
+网损分摊
+纵联保护
+中国电池工业
+引子渡水电站
+农村电力市场
+ultrasonic motor
+leakage current
+AVC
+自动电压控制
+同塔双回
+电力行业
+保护误动
+Ultrasonic motor
+过热器
+滚筒洗衣机
+改造
+模糊控制
+无刷双馈电机
+供用电
+工作票
+外绝缘
+IGBT
+EMTDC
+Shunt capacitor
+OPPC
+经济调度
+Torque ripple
+动作保护器
+可编程控制器
+调速
+供电营业所
+热耗率
+三电平
+配电线路
+互感器
+power factor
+电磁炉
+电容器组
+transformer protection
+线损管理
+VFTO
+XLPE power cable
+省电机
+定子铁心
+三峡电站
+变压器保护
+synchronous generator
+铅蓄电池
+介质损耗
+power supply enterprise
+black start
+lithium ion battery
+厂用电
+施耐德电气
+组合电器
+XLPE
+发电厂
+燃煤电厂
+over-voltage
+集合式电容器
+insulator string
+East China Power Grid
+城网改造
+电动工具行业
+microprocessor-based protection
+small signal stability
+电压源换流器
+接触器
+直接空冷
+condensate pump
+XLPE电缆
+低压电器产品
+转子
+slagging
+distance protection
+发电量
+状态估计
+高压开关设备
+无功电压
+ADSS
+励磁
+小家电产品
+大型发电机
+harmonics
+primary frequency regulation
+供电部门
+云南电力集团公司
+电抗器
+DSM
+匝间短路
+定子线圈
+电力线通信
+正弦脉宽调制
+西北电网
+电动汽车
+电力工程
+仿真
+电网结构
+余热锅炉
+电力局
+负荷开关
+家电企业
+上海电网
+中压缸启动
+disconnector
+变电运行
+短路阻抗
+GPRS
+负序电流
+空冷机组
+短路
+automatic generation control
+主变
+农网建设
+bidding strategy
+insulation
+电压质量
+genetic algorithm
+overvoltage
+supercapacitor
+电工技术
+voltage transformer
+旁路系统
+grounding resistance
+magnetic properties
+循环水泵
+热力系统
+湖北电网
+增安型
+蓄电池
+inrush current
+异步发电机
+gas turbine
+接线方式
+雷击跳闸
+气体绝缘
+爆炸性气体环境
+直流电动机
+变频
+阻塞管理
+跳闸
+电力公司
+农电总站
+China Southern Power Grid
+变速恒频
+PSASP
+电磁暂态
+线路避雷器
+short-circuit current
+retrofit
+照明设计
+电网运行
+ADSS光缆
+变流器
+遗传算法
+切负荷
+Rectifier transformer
+悬式绝缘子
+光照水电站
+rectifier
+reactive power
+soft switching
+竞价上网
+装机容量
+负极材料
+FTU
+售电量
+进相运行
+小干扰稳定
+变极绕组
+组合式变压器
+arc suppression coil
+绝缘材料
+space vector pulse width modulation
+协调控制
+fault locating
+电触头材料
+脱硫
+电压等级
+软起动
+电力技术
+internal fault
+端差
+feeder automation
+汽轮机组
+main transformer
+少油断路器
+中小型电机
+power distribution network
+并网
+UPS
+load forecast
+气体绝缘变电站
+Powerformer
+高频通道
+电路原理图
+热经济性
+circulating fluidized bed boiler
+江苏电网
+电流互感器饱和
+氧化锌电阻片
+Transformer oil
+齿槽转矩
+电力生产
+WAMS
+供电所管理
+单片微型机
+数字控制
+MH-Ni电池
+罗克韦尔自动化
+紧凑型线路
+DC transmission
+电工行业
+厂用电率
+阀控式铅酸蓄电池
+输电能力
+power electronics
+荧光灯
+中国电力
+推力轴承
+连续潮流
+密封油系统
+microgrid
+农村用电
+transformer oil
+配电自动化系统
+介质损耗因数
+上网电价
+绝缘油
+distribution network reconfiguration
+东风发电厂
+电除尘器
+low-frequency oscillation
+架线施工
+三板溪水电站
+voltage collapse
+永磁操动机构
+Tap-changer
+紧凑型输电线路
+PWM rectifier
+零序电流
+谐波检测
+电压暂降
+液压机构
+超临界锅炉
+电缆
+拒动
+光纤复合架空地线
+回转式空气预热器
+雷击跳闸率
+通流部分
+永磁无刷直流电动机
+低压电网
+blackout
+电网事故
+分时电价
+六氟化硫
+混流式水轮机
+PWM整流器
+城市配电网
+金卤灯
+fault analysis
+short circuit current
+power supply reliability
+家用电器产品
+开关柜
+绝缘电阻
+故障录波
+甩负荷试验
+输送容量
+开断电流
+失磁保护
+后备保护
+energy-saving
+电流差动保护
+厂级监控信息系统
+送变电
+series compensation
+燃煤锅炉
+谐波抑制
+交直流系统
+大花水水电站
+Converter transformer
+防雷
+道路照明
+操动机构
+distribution networks
+reheater
+substation automation system
+EHV
+解耦控制
+交流接触器
+电磁干扰
+煤粉锅炉
+漏电保护器
+RTU
+水电厂
+西电东送
+方向元件
+电力系统规划
+水泵水轮机
+DC/DC converter
+低压断路器
+间谐波
+过渡电阻
+供电营业
+electric vehicle
+超温
+区域电网
+unit commitment
+高压直流输电系统
+无功平衡
+电力需求
+负荷特性
+state estimation
+vibration
+故障选相
+交流滤波器
+coal-fired boiler
+wind farm
+燃气热水器
+局部放电试验
+发变组
+锌锰电池
+burner
+智能电器
+fault component
+thermal power unit
+demand side management
+反事故措施
+多电平
+伺服系统
+除氧器
+浸渍漆
+交流伺服系统
+安全生产
+wavelet transform
+line loss
+开拓电力市场
+供电煤耗
+质子交换膜燃料电池（PEMFC）
+IGCT
+质子交换膜燃料电池
+末级叶片
+发电电动机
+直流电机
+flashover
+power system s
+conservancy engineering construction
+电力系统稳定器（PSS）
+风电机组
+变电站综合自动化
+匝间绝缘
+零电流开关
+secondary circuit
+温升
+power system simulation
+电力多经企业
+配电网重构
+supercritical boiler
+自励磁
+thyristor
+直流输电工程
+定子接地保护
+转矩波动
+厂用电系统
+电压稳定性
+超高压输电线路
+习惯性违章
+建设改造
+utility boiler
+同步整流
+输煤系统
+重复控制
+air preheater
+PMU
+dielectric loss
+CPLD
+power flow
+congestion management
+交联聚乙烯电缆
+pollution flashover
+MFT
+热电联产
+直流电阻
+HGIS
+available transfer capability
+HVDC power transmission
+内熔丝
+空心电抗器
+FGD
+配电装置
+均压环
+FPGA
+高压电动机
+箱式变电站
+中性点接地
+安全用电
+网络重构
+交联聚乙烯
+发电机转子
+grounding grid
+行波
+家电行业
+暂态保护
+触头系统
+电工组
+高压并联电容器
+电力企业管理
+连锁故障
+闪络电压
+high voltage circuit breaker
+广西电网
+VSC-HVDC
+water wall
+小型断路器
+《电力法》
+竞价策略
+load management
+secondary arc current
+三峡电厂
+大型汽轮发电机
+power system planning
+IED
+磁阻电动机
+特高压输电线路
+fault line selection
+凝汽器铜管
+直线电动机
+转子绕组
+夜景照明
+电力安全
+防污闪
+Reactive power compensation
+等离子点火
+大电网
+电压无功控制
+最大功率点跟踪
+SIS
+电压
+过电压保护
+permanent magnet synchronous motor（PMSM）
+Direct torque control
+MH-Ni蓄电池
+《农村电工》杂志
+振动
+误动作
+CAN总线
+省煤器
+DC system
+智能功率模块
+选相元件
+无励磁分接开关
+低压成套开关设备
+乌江洪家渡水电站
+高压研究
+可控电抗器
+空载损耗
+静态电压稳定
+电气工业
+地下变电站
+interruptible load
+电压凹陷
+转轮
+风力发电机组
+空冷汽轮发电机
+基层供电所
+乡镇电管站
+高温腐蚀
+power flow calculation
+微电机
+电力调度
+超临界直流锅炉
+中长期负荷预测
+快速暂态过电压
+static voltage stability
+stator winding
+PEMFC
+commissioning
+农村电工队伍
+high pressure heater
+油断路器
+绕线转子
+潮流控制
+combined cycle
+wind power
+Inverter
+condition-based maintenance
+无刷励磁
+电磁设计
+电气主接线
+capacitive current
+proton exchange membrane fuel cell（PEMFC）
+操作机构
+继电保护装置
+高压开关
+供热机组
+电力系统稳定性
+农村电力
+灭磁
+Active power filter
+分裂导线
+电池工业
+Linear motor
+真空开关
+电力系统仿真
+cogging torque
+switchgear
+华北电力集团公司
+stability control
+变压器绕组
+电机设计
+杆塔
+仿真机
+无功
+储油柜
+灵活交流输电系统
+乡镇供电所
+main steam temperature
+distribution system
+电力改革
+ESDD
+云南电力系统
+浙江电网
+power flow tracing
+电抗率
+insulation coordination
+pilot protection
+县级电力企业
+stepping motor
+负荷裕度
+“十一五”通信规划
+电压波动
+capacitor
+FSSS
+有载调压变压器
+阀控铅酸蓄电池
+sensorless control
+电源技术
+梯形图
+排烟温度
+高压钠灯
+油色谱分析
+倒闸操作
+抗燃油
+零序保护
+供电服务
+电磁继电器
+动态电压恢复器
+发电装机容量
+导购员
+reactive compensation
+LabVIEW
+电源规划
+中速磨煤机
+吹灰器
+输变电
+永磁
+整定
+调速器
+憎水性
+icing
+整流变压器
+分段器
+抽水蓄能机组
+变电设备
+Capacitor
+superheater
+permanent magnet motor
+电力负荷
+synchronous motor
+fault
+network reconfiguration
+电气传动
+工程地质学
+开关设备
+集控站
+运行维护
+反措
+多机电力系统
+电树枝
+switching overvoltage
+PM motor
+雷电冲击
+电客户
+数控机床
+发电设备
+可编程序控制器
+coal-fired power plant
+高电压技术
+再热汽温
+《电业安全工作规程》
+燃气轮发电机
+山东电网
+气体绝缘金属封闭开关设备
+DSTATCOM
+匝间保护
+Permanent magnet motor
+安全稳定控制
+电力负荷管理系统
+母线故障
+distribution network automation
+有限元法
+power factor correction
+瓷绝缘子
+maximum power point tracking
+condenser
+接地方式
+中性点不接地系统
+液晶电视
+电力电子技术
+中性点接地方式
+陶瓷金卤灯
+current differential protection
+lithium ion batteries
+双馈电机
+space vector modulation
+无源滤波器
+Rogowski coil
+放电线圈
+Cogging torque
+特高压交流
+电压分布
+电子制作
+arc-suppression coil
+谐波补偿
+永磁同步发电机
+选型
+多电平逆变器
+反窃电
+instantaneous reactive power theory
+电气几何模型
+大面积停电
+紧急控制
+有源箝位
+国际照明委员会
+低压缸
+架空送电线路
+胶体电解质
+combustion adjustment
+油浸式变压器
+动触头
+economic dispatch
+中间视觉
+运行人员
+空调市场
+抽水蓄能
+静止同步补偿器
+load model
+电压跌落
+微机保护装置
+参数辨识
+PID
+CVT
+化学清洗
+电子式电流互感器
+fuel cell
+预防性试验
+ZVS
+瞬时无功功率理论
+数控系统
+power supply
+引风机
+发变组保护
+可控串联补偿
+输电网规划
+浆层纸
+柳州供电局
+烟温偏差
+可用输电能力
+大型电力变压器
+水工材料
+污秽闪络
+小水电
+房间空调器
+无刷电机
+逆变电源
+用电器
+supercritical once-through boiler
+同塔双回线路
+《电池》杂志
+南宁供电局
+带电检测
+节能调度
+旋流燃烧器
+电网调度自动化
+镇流器
+风力发电机
+家电连锁
+谐波分析
+瞬时无功功率
+“西电东送”
+谐波源
+digital signal processor
+保护装置
+工频过电压
+接地开关
+京津唐电网
+电力部门
+lithium-ion battery
+digital control
+家庭影院
+用电管理
+无线电干扰
+并列运行
+导线舞动
+《安规》
+flashover voltage
+漫湾发电厂
+harmonic suppression
+内点法
+电源
+运行方式
+接地选线
+工频电场
+fieldbus
+电力系统自动化
+直流输电系统
+动作特性
+电压合格率
+电枢反应
+DGA
+热水器市场
+广东电网
+发电计划
+rotor
+overhead line
+时域仿真
+操作冲击
+post insulator
+main insulation
+活物质
+lightning withstand level
+sympathetic inrush
+风冷却器
+SSSC
+安全运行
+检修
+不接地系统
+voltage source converter
+调峰运行
+battery
+锁相环
+交流电机
+煤质
+space vector
+湿法脱硫
+金具
+公共信息模型
+典型设计
+电建企业
+Prony algorithm
+EEAC
+输电定价
+proton exchange membrane fuel cell （PEMFC）
+和应涌流
+电力资产
+光纤保护
+农电发展
+Sensorless
+谐波治理
+maloperation
+非线性控制
+电触头
+power line communication
+电感镇流器
+短路故障
+soft-switching
+电容式电压互感器（CVT）
+业扩报装
+Hongjiadu Hydropower Station
+power system stabilizer（PSS）
+RUNBACK
+国际大电网会议
+定值整定
+microprocessor based protection
+backup protection
+AC filter
+boiler efficiency
+防爆电气
+农村电网改造
+带电测试
+dispatching automation
+绝缘水平
+家电产品
+corona
+distance relay
+protection configuration
+ultra-high voltage
+控制器
+电弧
+励磁电流
+母线
+经济运行
+冲击电压
+transmission capacity
+广东电力
+空预器
+短路电流计算
+主接线
+loss allocation
+电力弹性系数
+电容型设备
+低压线损
+农村电气化事业
+大型变压器
+harmonic current
+吸油烟机
+power transmission line
+通信规约
+闪变
+滑模控制
+事故分析
+煤耗
+负序
+Power quality
+状态监测
+voltage fluctuation
+弹簧操动机构
+保护动作
+电力市场化改革
+电网发展
+监控系统
+电力设施保护
+谐振
+基层供电企业
+bus protection
+单相重合闸
+recloser
+直流耐压试验
+ancillary service
+Vector control
+负荷密度
+中压配电网
+柔性交流输电系统
+电力供应
+Rogowski线圈
+电压控制
+hydraulic turbine
+旋转变压器
+voltage control
+直流
+电力系统恢复
+urban distribution network
+局部放电量
+power system restoration
+燃料电池
+电力线路
+六氟化硫断路器
+城市供电
+power plant boiler
+无差拍控制
+塑壳断路器
+双馈发电机
+lead acid battery
+PID控制
+wind generation
+危险点分析
+electric energy metering
+fault current limiter
+行波保护
+电磁暂态程序
+控制回路
+串联谐振
+relay
+energy saving
+自动化系统
+breaker
+电流控制
+电力系统运行
+电机行业
+直流输电线路
+滑压运行
+Power market
+winding deformation
+generating unit
+给粉机
+备用电源自投
+瞬时性故障
+厂网分开
+热力设备
+控制策略
+接地距离保护
+静止同步串联补偿器
+ampacity
+CT saturation
+气体继电器
+高压发电机
+transmission pricing
+frequency converter
+ultra high voltage
+无位置传感器控制
+谐振接地
+二次系统
+repetitive control
+钢球磨煤机
+DeviceNet
+永磁机构
+静止无功发生器
+短路试验
+过热汽温
+放电容量
+electronic transformer
+ferroresonance
+热继电器
+电晕
+汽包水位
+远动
+家电市场
+空冷凝汽器
+转子线圈
+高压电机
+应力锥
+电工合金
+Mobitex
+recovery voltage
+静态安全分析
+lightning protection
+防窃电
+无传感器控制
+synchronous machine
+混煤
+一次风机
+APF
+二次设备
+增容改造
+交流采样
+电厂
+phasor measurement unit
+触电伤亡
+automatic voltage control
+无功控制
+TA饱和
+电网稳定
+县城电网
+Load forecasting
+electricity price
+湿法烟气脱硫
+计量装置
+双边交易
+oil-paper insulation
+Prony算法
+故障计算
+氢气湿度
+电力工业改革
+自动发电控制（AGC）
+harmonic analysis
+额定电流
+live working
+coordinated control system
+GGH
+protective relay
+单相电机
+永磁直线同步电动机
+空间电荷
+电寿命
+平衡变压器
+解列
+峰谷差
+氢冷发电机
+农村电网建设
+neutral point
+distribution transformer
+弧垂
+单周控制
+对称分量法
+自动重合闸
+降损
+全自动洗衣机
+剩余电流
+锅炉效率
+防雷保护
+冲击电流
+接地变压器
+无传感器
+一次风
+DC/DC变换器
+污秽等级
+主设备保护
+灰密
+optimal power flow（OPF）
+火电施工
+直流滤波器
+特高压变电站
+特快速暂态过电压
+调度数据网
+grid planning
+复转矩系数法
+三相潮流
+OLTC
+分层分区
+超短期负荷预测
+regional power grid
+给水泵汽轮机
+typical design
+electrical tree
+局放
+glass insulator
+潮流追踪
+收发讯机
+pulse width modulation
+介质阻挡放电
+EMS
+电解二氧化锰
+anode material
+计算机监控系统
+ARM
+照明控制
+冷态启动
+交接试验
+Distribution transformer
+phasor measurement unit（PMU）
+反窃电工作
+lightning location system
+安全稳定控制系统
+衰减直流分量
+同步相量测量
+load flow calculation
+audible noise
+动模试验
+密封瓦
+ground fault
+voltage sags
+电能质量监测
+active power filter（APF）
+电力市场营销
+VRLA batteries
+汽封
+输电技术
+shunt capacitor
+架空地线
+电力设计院
+粗粉分离器
+有载调压
+VQC
+变压器中性点
+MH/Ni battery
+Matrix converter
+load flow
+漏氢
+电网互联
+飞灰含碳量
+单相电能表
+矩阵式变换器
+电枢绕组
+电力有源滤波器
+电价预测
+全社会用电量
+内冷水
+变压器绝缘
+故障
+直线电机
+电涌保护器
+cathode materials
+coordinated control
+硅钢片
+变频空调
+electric power
+感应电压
+直接甲醇燃料电池
+电光源
+实时数据库
+开关
+实时电价
+输电网
+鸟害
+电枢
+电器
+SDH
+微特电机
+proton exchange membrane
+接地装置
+通信
+变频电机
+优质服务
+非晶合金变压器
+speed sensorless
+换向器
+等效电路
+燃煤机组
+低压线路
+真空电弧
+分断能力
+microcomputer-based protection
+高温过热器
+封闭母线
+城市照明
+单元机组
+电网经营企业
+煤粉燃烧器
+Fault
+西门子
+用电负荷
+漏风
+零序电压
+microcomputer protection
+动态无功补偿
+Halbach
+农村电工管理
+人身死亡
+rural power network
+line loss rate
+低温再热器
+气体绝缘组合电器
+河南电网
+耐张线夹
+联合反事故演习
+compact transmission line
+可靠性评估
+PD
+电气性能
+load rejection
+跌落式
+化学监督
+线损计算
+电费管理
+可听噪声
+space charge
+农电
+架空线
+electronic ballast
+密封铅酸蓄电池
+水轮机调速器
+励磁机
+小波变换
+转矩控制
+large generator
+ultra-supercritical
+发电机变压器组
+等效热降
+半导体消雷器
+董箐水电站
+ultra-supercritical unit
+预装式变电站
+并联电容器装置
+fossil-fired power plant
+暂态仿真
+three-level inverter
+小电流接地
+grounding
+软起动器
+污秽试验
+Electric machinery
+中压开关柜
+结合滤波器
+级联型逆变器
+line arrester
+energy management system（EMS）
+局部放电测量
+ATP simulation
+CIGRE
+AC transmission line
+无人值班改造
+security and stability control
+交直流混合系统
+乌江渡发电厂扩建工程
+耐压试验
+机座
+运行优化
+turbo-generator
+IGCC
+永磁铁氧体
+电气化铁道
+温升试验
+汽轮机转子
+转子断条
+superheated steam temperature
+供电能力
+电力线载波
+凝结水精处理
+母线电压
+高频链
+微电网
+MOV
+电磁式电压互感器
+单位功率因数
+磁性槽楔
+绿色照明
+供电
+CAN bus
+家用电器
+电动自行车
+降损措施
+永久性故障
+沿面闪络
+harmonic detection
+整定值
+电压闪变
+城网
+virtual instrument
+模型参考自适应
+通信电源
+磁场定向控制
+载流量
+非全相
+electromagnetic transient
+热工保护
+暂态过电压
+居民生活用电
+阀控式
+盐密
+滤波器
+技术支持系统
+电网改造
+市场占有
+驱动电路
+电站
+雷击
+光伏发电
+交流调速
+降损节能
+contactor
+隔爆型
+combustion
+在线检测
+过流保护
+traveling wave
+unattended substation
+大截面导线
+model reference adaptive system
+series reactor
+瓦斯继电器
+电力调度数据网
+reclosing
+非全相运行
+电工管理
+双凸极电机
+电网技术
+电网调度自动化系统
+调度员培训仿真系统
+核电
+DTC
+机床电器
+PWM逆变器
+unattended
+混合励磁
+电器行业
+分散控制系统（DCS）
+冷渣器
+interior point method
+微网
+PID control
+接触电阻
+电接触
+卷铁心变压器
+筒形阀
+相量测量单元（PMU）
+特高压电网
+protection relay
+failure protection
+液压操动机构
+真空严密性
+等值盐密
+fault calculation
+高压直流输电工程
+porcelain insulator
+coal pulverizing system
+超高压电网
+变压器套管
+wide-area measurement system
+自并励励磁系统
+福建电网
+燃弧时间
+direct air cooling
+干式空心电抗器
+transformer differential protection
+high frequency link
+EMTP仿真
+high frequency protection
+屏式过热器
+小径管
+zinc electrode
+即热式电热水器
+电场计算
+爆漏
+高压电网
+能效标识
+氢镍电池
+故障处理
+LED
+circulating fluidized bed
+combustion optimization
+busbar protection
+permanent magnetic actuator
+electric power construction
+DEH系统
+低压加热器
+谐波放大
+电厂锅炉
+放电性能
+调试
+鲁棒性
+虚拟仪器
+输配电
+空冷
+投运
+蓄电池组
+永磁电动机
+电压空间矢量
+主蒸汽温度
+feedwater pump
+电力线载波机
+胀差
+composite insulators
+voltage distribution
+城乡用电同价
+稳定控制
+变压器试验
+启动系统
+共模电压
+thermal system
+功率变换器
+并网逆变器
+压敏电阻
+控制电路
+fault detection
+时间继电器
+电气工程
+UHV substation
+高电压绝缘技术
+HV transmission line
+gas insulated switchgear（GIS）
+air circuit breaker（ACB）
+输电权
+Guangdong power grid
+Three-level converter
+UHVAC
+频率响应分析法
+增爬裙
+低压电器标准
+四相输电
+张力架线
+energy management system （EMS）
+质子交换膜
+安全稳定
+备用电源
+绿色照明工程
+无刷
+中国家电业
+FCB
+直接功率控制
+交流耐压
+汽包
+NOx
+运行分析
+舞动
+transmission tower
+变频空调器
+低电压穿越
+供电半径
+全桥变换器
+创一流工作
+低负荷稳燃
+接地电流
+电力安全生产
+online monitoring
+聚酰亚胺
+自适应控制
+电力勘测
+Voltage transformer
+节点电价
+磁极线圈
+工频变化量
+保安电源
+风电
+three-level
+能量回馈
+用电量
+通信协议
+市场力
+平板电视
+DC motor
+高压熔断器
+power marketing
+无功规划
+lead-acid batteries
+农电体制改革
+radio interference
+节能发电调度
+heating surface
+剩余电流动作保护器
+实时数字仿真
+induced draft fan
+feed water pump
+stable combustion
+one-cycle control
+电寿命试验
+reactive power control
+power flow control
+双水内冷发电机
+双层土壤
+urban power network
+河北南网
+ATP仿真
+线路绝缘子
+气体绝缘开关设备
+真型试验
+煤耗率
+距离继电器
+中国家用电器研究院
+低压配电网
+推力瓦
+锌电极
+电监会
+风力发电场
+直流接地
+起动
+超高频
+自动抄表
+击穿电压
+高电压
+turbo-generator unit
+断路器失灵
+electromagnetic loop network
+交流试验
+零序互感
+方向保护
+小功率电动机
+ACSR
+分闸线圈
+南网
+electric power communication network
+Power system stability
+隔爆型电动机
+rotary air preheater
+电力多种经营
+电连接器
+circulating current
+电力系统谐波
+DC resistance
+static var compensator
+electric power network
+合并单元
+电容分压器
+过调制
+单相变压器
+grid-connected
+涡流损耗
+能效标准
+flue gas desulfurization
+Harmonic
+电磁转矩
+电力商品
+起晕电压
+UPQC
+机床企业
+压力释放阀
+随机生产模拟
+service restoration
+multilevel inverter
+联合循环机组
+electric power equipment
+故障电流
+电能量
+sliding mode control
+卡涩
+隔爆外壳
+贮氢合金
+烧损
+发电技术
+Matlab/Simulink
+滑模观测器
+一户一表
+arrester
+air leakage
+电动机绕组
+燃烧优化
+模拟电荷法
+危险场所
+二次接线
+power enterprise
+循环冷却水
+感应加热
+渗漏油
+给煤机
+热工过程
+有源功率因数校正
+故障录波器
+空间负荷预测
+BDFM
+铁塔基础
+直流线路
+非周期分量
+wet FGD
+手持式电动工具
+谐波阻抗
+卷铁心
+线路走廊
+反事故演习
+insulators
+双母线
+自并励
+锌筒
+凝汽器真空
+实心转子
+输电阻塞
+电压不平衡
+电力系统分析
+非计划停运
+正极板
+零序
+绝缘技术
+主汽温
+板栅合金
+CCS
+优化运行
+触头
+高压开关柜
+谐振过电压
+power equipment
+起动电流
+受热面
+发电商
+电力科技
+short term load forecasting
+机床行业
+静止无功补偿装置
+空间矢量PWM
+electric power enterprise
+contact material
+Matlab
+SCR
+data acquisition
+洁净室
+FFT
+AC servo system
+market power
+运行特性
+Internal fuse
+power grid dispatching
+灵活交流输电技术
+带电更换
+Power flow calculation
+测试信号法
+高电压试验
+NSDD
+ZnO arrester
+当量电价
+同杆并架双回线
+共用接地极
+区外故障
+moulded case circuit breaker（MCCB）
+No-load loss
+统一电能质量控制器
+Oil-immersed transformer
+线路型避雷器
+天津电网
+electric power telecommunication
+load characteristics
+交流励磁
+CIM
+coal handling system
+金属封闭开关设备
+安徽电网
+分段开关
+EHV transmission line
+周波变换器
+HP heater
+Optimal power flow
+充油电缆
+heat rate
+circulating water pump
+energy management system
+electromagnetic relay
+环网柜
+Power systems
+永磁直流电动机
+发电机定子
+非线性负荷
+小火电机组
+防误操作
+非线性电阻
+交联电缆
+air electrode
+云南省电力局
+树脂浇注
+云母带
+集流体
+直接能量平衡
+无轴承
+NiCuZn ferrite
+power grid planning
+digital protection
+电磁暂态仿真
+并联
+连接器
+接地线
+防雷措施
+变结构控制
+arc furnace
+三级市场
+开关电器
+communication protocol
+结垢
+winding
+滑模变结构控制
+彩电
+并联运行
+损耗分摊
+load management system
+炉水循环泵
+Power capacitor
+Unit commitment
+regional power network
+Differential protection
+稳定极限
+绝缘在线监测
+dispatch automation
+动态无功优化
+电力系统控制
+grounding current
+COMTRADE
+雷击断线
+综合负荷模型
+汽水管道
+远动设备
+转子铁心
+电动机保护
+polyimide
+顺序控制
+无功功率补偿
+security and stability
+Ansoft
+零序阻抗
+阻尼绕组
+多功能电能表
+纵差保护
+NiCuZn铁氧体
+热水器行业
+堵灰
+有载调压开关
+turbine-generator
+断股
+开闭所
+多电平变换器
+resistive current
+Core
+corrosion
+凝结水
+misoperation
+circulating water
+主蒸汽管道
+power line
+直流变换器
+电价管理
+接线模式
+VRLAB
+transmission network planning
+飞灰可燃物
+无汞电池
+voltage and reactive power control
+阻抗继电器
+误操作事故
+高压套管
+technical retrofit
+雷击闪络
+ANSYS
+轴承
+高压输电线路
+控制系统
+导线
+核电站
+供电量
+direct torque control（DTC）
+铁耗
+功角
+电力发展
+Step motor
+型式试验
+小家电
+Substation
+电位分布
+hydraulic structure
+电磁环境
+有限元分析
+permanent magnet synchronous motors
+pulverized coal boiler
+超导储能
+故障限流器
+Francis turbine
+DC bias
+VRLA
+摆度
+voltage
+passive filter
+煤粉细度
+销售电价
+电业公司
+除灰系统
+电气试验
+主保护
+external insulation
+理论线损
+installation
+空调器
+switching power supply
+RTV涂料
+接触件
+跳闸率
+bypass system
+荧光灯电子镇流器
+瓷套
+大型水轮发电机
+防晕
+窃电行为
+发供电企业
+static var compensator（SVC）
+电压无功
+FEM
+电冰箱
+配电
+电力网
+智能控制
+避雷线
+双重化
+绝缘老化
+联络线
+煤粉炉
+电力线载波通信
+掺烧
+电力负荷预测
+汽缸
+relaying protection
+阀控式密封铅酸蓄电池
+小电阻接地
+电池行业
+merging unit
+分级燃烧
+开关损耗
+供电质量
+communication network
+鲁棒控制
+不平衡保护
+“W”火焰锅炉
+串联电容补偿
+增供扩销
+金属化膜
+地方电厂
+自动重合器
+特高压线路
+gas insulated switchgear
+配电台区
+城网规划
+无人值班站
+control strategy
+deaerator
+电机控制
+economic operation
+交流电动机
+智能电子设备
+间隔棒
+短路计算
+distribution line
+疏水系统
+座环
+国际照明
+Fourier algorithm
+微机线路保护
+capacitance current
+河南省电力公司
+天生桥一级水电站
+导水机构
+经济负荷分配
+微油点火
+hybrid stepping motor
+机组
+integrated automation
+移相控制
+核电机组
+伊莱克斯
+DTS
+永磁材料
+有功功率
+彩色电视机
+损耗
+不间断电源
+neural network
+额定电压
+PFC
+零序电流保护
+coal quality
+变压器油箱
+铅酸电池
+short circuit
+electrical equipment
+servo system
+输电
+钢管杆
+power frequency electric field
+山东电力集团公司
+Ni/MH battery
+用电营销
+dynamic voltage restorer
+交流伺服电动机
+转矩
+Capacitor voltage transformer
+AC/AC变换器
+水利水电工程管理
+preventive test
+阀厅
+voltage unbalance
+power transmission and transformation equipment
+电动机起动器
+可用传输容量
+带电跨越
+短路强度
+光纤复合架空地线（OPGW）
+零值绝缘子
+capacitive voltage transformer
+electric power construction enterprise
+Shunt capacitor bank
+直线塔
+交流特高压
+耐电晕
+中压缸
+输电线路工程
+CT饱和
+燃料炉
+铸铝转子
+distributed control system （DCS）
+接地刀闸
+耗差分析
+interharmonic
+测量阻抗
+热力试验
+VPI
+失步
+voltage regulation
+AC contactor
+均流
+导线截面
+electrified railway
+增安型电动机
+控制性能标准
+小型化变电所
+漫湾电厂
+防爆电气产品
+笼型转子
+UHV power transmission
+蒸汽吹管
+自适应重合闸
+无铁心
+突变量
+电动斥力
+机电元件
+憎水迁移性
+optical fiber channel
+农村电力资产
+聚合物锂离子蓄电池
+Leakage magnetic field
+输变电设施
+Capacitor bank
+切向燃烧
+支吊架
+high temperature corrosion
+发电
+无功电流
+灯具
+coal mill
+Chromatographic analysis
+hybrid excitation
+电接触材料
+耦合电容器
+反激变换器
+暂态特性
+asynchronous motors
+弱磁控制
+数字仿真
+并网发电
+发电公司
+旁路
+故障电弧
+张力放线
+电价机制
+母联开关
+discharge performance
+小电源
+达标投产
+高强度气体放电灯
+低压绕组
+油色谱
+双进双出磨煤机
+负荷转移
+绝缘拉杆
+整定原则
+Experiment
+发电成本
+球磨机
+storage battery
+电场分布
+Motor
+MCU
+油中溶解气体分析
+continuation power flow
+减温水
+脉冲电容器
+广西电力
+触点材料
+浓淡燃烧
+无人值守变电站
+精处理
+交流耐压试验
+档距
+单相异步电动机
+神经网络
+高压隔离开关
+power converter
+电压调整
+固体继电器
+over voltage
+水树
+双电层电容器
+chemical cleaning
+instantaneous reactive power
+PWM inverter
+电池性能
+电容量
+镉镍电池
+绕组设计
+TA saturation
+用电市场
+高温再热器
+均压电容
+out-of-step
+密封铅蓄电池
+有功电能表
+永磁无刷电动机
+metal oxide arrester
+光纤差动保护
+特定谐波消除
+分数槽
+微机母线保护
+AC/DC power system
+污闪事故
+live line work
+停电时间
+金竹山电厂
+数字电液控制系统
+capacitor bank
+击穿
+节电
+环氧树脂
+空冷系统
+阀型避雷器
+hybrid active power filter
+plasma ignition
+HRSG
+nonlinear control
+变频调速系统
+supercritical
+小水电站
+On-line monitoring
+积灰
+voltage flicker
+牵引电机
+road lighting
+调度
+低压侧
+换流
+电流跟踪
+空气电极
+Asynchronous motor
+水利管理
+照明节能
+wind turbine
+负荷控制
+直流电源
+PT断线
+北京电网
+杂散损耗
+小汽轮机
+双回线
+污闪电压
+rural power grid
+火电工程
+fault line detection
+地埋线
+火电施工企业
+ice disaster
+高压电抗器
+reclosure
+电子式电压互感器
+金属监督
+开断能力
+寄生回路
+升压站
+潮流跟踪
+供电恢复
+独立发电公司
+电力可靠性管理
+变压器低压侧
+coal pulverizer
+MSTP
+高压电缆
+调光
+线路故障
+trip
+漏电保护
+OFDM
+超高压
+综合自动化系统
+电晕放电
+线圈
+field bus
+负荷
+峰谷分时电价
+DFIG
+峰谷电价
+反时限
+无功补偿装置
+variable speed constant frequency
+停电事故
+励磁变压器
+distribution automation system
+load density
+智能化电器
+one cycle control
+用电营业
+用电检查人员
+灯泡贯流式机组
+配网自动化系统
+胶球清洗
+time domain simulation
+DCS系统
+电线电缆
+单相
+组态
+技术改造
+直流炉
+motor design
+剩余电流保护器
+bidding strategies
+Short circuit
+直接空冷系统
+HID灯
+grounding grids
+锌镍电池
+Synchronous generator
+tanδ
+危险点
+核电厂
+参数整定
+自耦变压器
+安全管理
+负极
+XLPE电力电缆
+硅钢片漆
+busbar differential protection
+华东电力市场
+低压减载
+金融输电权
+氢冷
+青海电网
+新型换流变压器
+小干扰稳定性
+内冷水系统
+输电服务
+气体绝缘变压器
+secondary equipment
+bus differential protection
+工频参数
+common information model（CIM）
+供电煤耗率
+process bus
+static security analysis
+耐热导线
+输配电工程
+low voltage circuit breaker
+支柱瓷绝缘子
+电压源型换流器
+Instrument transformer
+electric field calculation
+抗干扰
+永磁无刷直流电机
+电解液
+低压配电系统
+脉冲功率
+轴电压
+照明工程
+voltage quality
+单片开关电源
+综合资源规划
+照明节电
+降低线损
+flyback converter
+转子故障
+抗短路能力
+电价改革
+变极
+汽机
+漏磁场
+SOFC
+electric power industry
+电动力
+直流无刷电机
+土壤电阻率
+载波通信
+国家电网
+Temperature rise
+绝缘栅双极晶体管
+反电势
+anti-interference
+不平衡电流
+潜水电机
+报价策略
+robustness
+Ethernet
+零值自破
+Series reactor
+动态电压调节器
+频响法
+dynamic reactive power optimization
+primal-dual interior point method
+油纸电容式套管
+double-circuit transmission line
+phasor measurement unit （PMU）
+电力载波机
+ADSS optical cable
+Ex motor
+电气剖分
+国际电光源科技研讨会
+gelled electrolyte
+能量变换器
+固定型蓄电池
+糊式电池
+整体锌筒
+道路照明设计
+digitalized substation
+悬垂绝缘子串
+converter valve
+thyristor valve
+绕线转子异步电动机
+多馈入直流输电系统
+DC filter
+Wound core
+跨越架
+decoupling control
+hydropower plant
+变压器铁心
+微风振动
+发电市场
+无轴承电机
+MnZn铁氧体
+贮灰场
+excitation regulator
+MATLAB
+色谱分析
+主站
+气隙
+防误闭锁
+磁场定向
+微机继电保护
+牵引变压器
+煤粉浓度
+retrofitting
+动作电流
+润滑油系统
+power loss
+逆变
+以太网
+多经企业
+并网运行
+气隙磁场
+谐波电压
+doping
+人工污秽试验
+explosion-proof motor
+家电连锁企业
+single-phase earth fault
+大容量机组
+燃烧器改造
+轻型直流输电
+W火焰锅炉
+power frequency overvoltage
+电解液添加剂
+电压稳定裕度
+地磁感应电流
+固态限流器
+等效可用系数
+Prony analysis
+二次负荷
+小接地电流系统
+微步驱动
+变压器类产品
+intelligent electrical apparatus
+变电站无人值班
+W-flame boiler
+ancillary services
+农电工管理
+光电互感器
+暂态能量
+优化潮流
+high-pressure heater
+capacitor voltage transformer
+动态特性
+水电开发
+风机
+低负荷
+proton exchange membrane fuel cell
+RB
+高压绕组
+transmission capability
+灵活交流输电
+传输规约
+行波测距
+brushless DC motor（BLDCM）
+烟塔合一
+三绕组变压器
+孤岛运行
+超高压变电站
+subsynchronous resonance
+automatic generation control（AGC）
+暂态电压稳定
+换流器
+underground substation
+模拟电力市场
+dielectric barrier discharge
+电饭锅
+emergency control
+城乡电网
+soft-switch
+静态稳定
+聚酰亚胺薄膜
+电压调节
+electrochemical properties
+电磁线
+化学电源
+induction motors
+digital signal processor（DSP）
+工业炉
+主蒸汽管
+厂用电源
+wide area measurement system
+transmission congestion
+农村电气化县
+广西电力工业
+直吹式制粉系统
+电力上市公司
+定子机座
+电容器投切
+农村用电管理
+全封闭组合电器
+吸风机
+笼型异步电动机
+潜油电机
+flue gas desulfurization（FGD）
+电力物资
+pulverizing system
+negative sequence
+阻波器
+一次电池
+双定子
+照明质量
+差动继电器
+卫燃带
+current collector
+防爆电器
+冲片
+GIS设备
+电力交易
+zinc-air battery
+压缩机
+electromagnetic environment
+故障恢复
+雷电过电压
+有源滤波
+可再生能源发电
+光纤通信
+电流传感器
+投产发电
+neutral grounding
+平波电抗器
+induction generator
+高压真空断路器
+闭锁装置
+农电局
+接地阻抗
+embedded system
+闭锁
+operation analysis
+电缆终端
+电炉变压器
+EMI
+变频技术
+permanent magnet
+数值计算
+电池厂
+傅氏算法
+开关站
+电网故障
+电力系统及其自动化
+智能建筑
+漏风率
+空载电流
+远程抄表
+电动车
+current control
+故障隔离
+烟气脱硝
+power load
+光效
+导叶
+脱硫系统
+雷电定位
+不平衡负载
+纵向磁场
+钢芯铝绞线
+ZnO varistor
+temperature rise
+软交换
+PLC控制
+接线
+面板堆石坝
+检修计划
+turbine generator
+中国电力工业
+工频磁场
+居民用电
+单周期控制
+调节系统
+绝缘试验
+fault recorder
+收发信机
+自放电
+SVG
+parameter identification
+绝缘监督
+lightning trip-out rate
+设备状态检修
+油介损
+wide area measurement system（WAMS）
+隔爆型电机
+端部磁场
+current transformer saturation
+power load management system
+低压台区
+de-excitation
+录波器
+高电压与绝缘技术
+厂用电切换
+McWiLL
+间断角
+secondary arc
+原对偶内点法
+快速接地开关
+时步有限元
+印制绕组电机
+超临界直流炉
+voltage stability index
+东风水电站
+MW unit
+stator coil
+HVDC transmission system
+合成场强
+HVDC system
+power system stabilizer （PSS）
+断路器失灵保护
+inter-turn short circuit
+器具开关
+单相自适应重合闸
+灭磁系统
+滇东电网
+远动信号
+常规变电所
+小电阻接地系统
+Space vector modulation
+electromagnetic interference
+电感
+control system
+节能降耗
+电流
+燃烧系统
+stator
+变压器容量
+过负荷
+电容
+冷却塔
+标委会
+on line monitoring
+torque control
+飞利浦
+programmable logic controller（PLC）
+热电池
+死区时间
+空气间隙
+溶解气体
+connection mode
+失磁
+县电业局
+电力管理
+冰灾
+光纤通道
+在线监测系统
+接线端子
+ballast
+电费
+电除尘
+辅机
+景观照明
+位置控制
+整流
+变频电源
+transient stability assessment
+功角稳定
+spatial load forecasting
+power supply and consumption
+双凸极
+fossil power plant
+谐振接地系统
+active power filter （APF）
+Short-circuit
+可通信
+EMTP simulation
+单相故障
+smart substation
+动断触点
+传递过电压
+程序化操作
+热过载继电器
+大用户直购电
+超高压输电
+暂态稳定评估
+tangential firing
+定子绕组端部
+零电压过渡
+mesopic vision
+旋转备用
+发电侧
+制动系数
+超声电动机
+电费储蓄
+变压器油中溶解气体
+增安型电机
+收球率
+三峡机组
+交错并联
+载波机
+冲击式水轮机
+electric market
+故障信息系统
+投切
+hydro-generator
+配变
+reliability of power supply
+凝汽式汽轮机
+无溶剂漆
+OPC
+微机励磁调节器
+circuit-breaker
+促销员
+溶解气体分析
+短路容量
+电力半导体器件
+农电系统
+自起动
+外转子
+电机工程
+synchronous rectification
+dissolved gas analysis
+切机
+合闸线圈
+超高压线路
+position sensorless
+双级矩阵变换器
+励磁调节
+小家电市场
+W型火焰锅炉
+小功率电机
+交流输电线路
+电力信息系统
+最大风能捕获
+asynchronous generator
+转子磁链
+single-phase grounding fault
+oil saving
+dispatching automation system
+乌江渡发电厂
+不平衡率
+直流断路器
+母线差动保护
+ZVT
+Three-level
+电池
+armature reaction
+Short-term load forecasting
+开断
+高压侧
+insulation system
+汽温
+magnetizing inrush
+供电可靠性管理
+reactive power planning
+自激法
+双进双出钢球磨煤机
+城市电网规划
+汽温控制
+铁心损耗
+二次电缆
+中速磨
+zero-voltage-switching
+intelligent substation
+decaying DC component
+微型断路器
+转桨式水轮机
+PQDIF
+等值附盐密度
+火电建设
+Bushing
+绝缘诊断
+移相全桥
+生活用电
+空气断路器
+板栅
+母线槽
+解耦
+伺服控制
+induction heating
+空调行业
+flicker
+transmission network
+钢管塔
+气隙磁密
+架空导线
+大型机组
+电动机起动
+电压骤降
+preventive control
+电机制造
+可用率
+linear motor
+conductor
+环网
+arc
+大跨越
+MATLAB/SIMULINK
+electromagnetic compatibility
+PSCAD
+operation optimization
+空气动力场
+ferromagnetic resonance
+脱谐度
+施工
+方向阻抗继电器
+switching impulse
+fault resistance
+C-GIS
+distributed generation （DG）
+distribution lines
+低压开关设备和控制设备
+雷击断股
+Brushless doubly-fed machine
+Doubly salient
+High voltage engineering
+区域控制偏差
+Induction generator
+调度员培训
+Shunt reactor
+enamel wire
+相间距离
+环氧云母绝缘
+电压闭锁
+voltage and reactive power
+static synchronous compensator（STATCOM）
+grounding impedance
+valve hall
+Brushless dc motor
+冰闪
+主绕组
+Oil-paper insulation
+复用通道
+经济压差
+Power electroncis
+interconnected power grid
+distributing network
+光伏系统
+快速充电
+火焰检测
+Power factor
+电刷
+仿真培训
+气体放电灯
+空间电压矢量
+LCC
+resonant
+GPS
+high voltage
+内模控制
+热电厂
+lithium-ion batteries
+等值电路
+缓冲电路
+电力规划
+Transmission line
+火电站
+补偿电容器
+家电
+雷电流
+AC motor
+filter
+同步采样
+状态评估
+脱硝
+GSM
+保护电路
+finite element method
+numerical simulation
+电缆线路
+全国联网
+electrical engineering
+induction machine
+固体氧化物燃料电池
+接地保护
+闭环控制
+制冷剂
+校验
+锅炉燃烧
+家电业
+脉冲宽度调制
+electric equipment
+吸收塔
+EMC
+magnetizing inrush current
+explosion protection
+二次压降
+dielectric barrier discharge（DBD）
+位置伺服系统
+江西省电力公司
+circulating water system
+直线感应电动机
+photovoltaic system
+双绕组
+钒电池
+雷电侵入波
+distributed control system（DCS）
+过充电
+自抗扰控制器
+洁净技术
+中压
+高次谐波
+循环性能
+运行可靠性
+水树枝
+primary air
+Overvoltage
+positive material
+电力网络
+炉膛压力
+冲击电压发生器
+磁链观测器
+vacuum switch
+地方电网
+远动装置
+电压源逆变器
+Li ion battery
+数值模拟
+厨房电器
+暂态电流
+监控信息系统
+power demand
+电压矢量
+接入系统
+deadbeat control
+分体式空调器
+智能脱扣器
+power network planning
+位置传感器
+内阻
+静电除尘器
+permanent magnet linear synchronous motor
+转移电流
+城市道路照明
+直线同步电机
+VRLA蓄电池
+零电压零电流开关
+transient current
+水汽品质
+direct power control
+比率制动
+贯流式水轮机
+铅钙合金
+机床市场
+电力试验研究所
+发电机断路器
+power distribution automation
+备用电源自投装置
+轴系振动
+阻尼电阻
+MRAS
+电源结构
+多路输出
+electric machine
+零售量
+防爆
+加热炉
+voltage space vector
+电力电子器件
+可靠性指标
+实时仿真
+vacuum arc
+漆包线漆
+reluctance motor
+无通道保护
+燃煤发电机组
+Reactive power optimization
+固体绝缘
+备用电源自动投入装置
+误动分析
+permanent fault
+瓦斯保护
+AM/FM/GIS
+油流带电
+switched reluctance motors
+电力系统继电保护
+气力除灰
+Speed sensorless
+高阻接地
+启动调试
+电能量采集
+transient protection
+三相感应电动机
+停用保护
+载波通道
+寿命损耗
+移相
+condition monitoring
+冰箱压缩机
+背投电视
+controller
+故障检测
+配电系统自动化
+电力系统调度自动化
+UHV AC
+静止无功补偿器（SVC）
+动作逻辑
+power swing
+zero current switching
+交联聚乙烯电力电缆
+kV substation
+《中国电力企业管理》杂志
+集中绕组
+多谐波源
+ultra high voltage（UHV）
+磁阀式可控电抗器
+无差拍
+电力教育
+航天继电器
+Variable-frequency adjustable-speed
+charge acceptance
+SCADA/EMS
+无间隙金属氧化物避雷器
+牵引整流变压器
+绕组端部
+双端测距
+柱上开关
+过程总线
+鲁布革电厂
+污秽绝缘子
+有机膨胀剂
+邢台发电厂
+葛洲坝换流站
+primary battery
+无源电力滤波器
+lightning impulse
+介损角
+汽温偏差
+全膜电容器
+输配电技术
+zero sequence current protection
+电力高校
+Inrush current
+旁路断路器
+变压器组件
+二次谐波制动
+海南电网
+谐波潮流
+UHVDC transmission
+电热水器行业
+高中压缸
+Bearingless motor
+faulty line selection
+双辽发电厂
+农电事业
+国产数控
+controllable reactor
+back-EMF
+剩余电流保护
+真空负荷开关
+换位导线
+短路事故
+杆塔基础
+绝缘特性
+fault type
+全密封变压器
+美式箱变
+集控中心
+华东电力
+electromagnetic transient simulation
+银氧化锡
+PM synchronous motor
+微水含量
+耐受电压
+电力优质服务
+停炉保护
+解环
+分数槽绕组
+desulfurization
+equivalent circuit
+机械特性
+节能改造
+runner
+互感
+power distribution system
+discharge capacity
+轴系
+安全性评价
+滑销系统
+demand response
+电气距离
+智能型万能式断路器
+正弦绕组
+输电线路杆塔
+isolated neutral system
+磁通切换
+EGM
+电力试验研究院
+分布电压
+直流工程
+聚酯亚胺
+成套开关设备
+大停电事故
+grounding network
+横差保护
+直流调制
+送出工程
+广域保护
+line loss management
+钢化玻璃绝缘子
+县调自动化系统
+谐波磁场
+正极添加剂
+short circuit fault
+Congestion management
+subsynchronous oscillation
+tunnel lighting
+单相异步电机
+有限元
+综合误差
+汽轮机油
+NOx排放
+TCP/IP
+异种钢
+大机组
+交流伺服
+变电站综合自动化系统
+serial communication
+太阳能电池
+type selection
+水处理
+白光LED
+智能控制器
+磨损
+洗衣机
+供电方案
+华北电力大学
+IEC标准
+遥信
+家用空调器
+滚筒式洗衣机
+泛光照明
+Fault location
+空调业
+linear induction motor
+Electric vehicle
+锂锰氧化物
+脱扣器
+热控系统
+环网供电
+PI控制
+分布电容
+busbar
+doubly-fed induction generator
+垂直接地体
+PMLSM
+纳秒脉冲
+频率稳定
+分析与检修
+炉水
+电化学电容器
+防爆电气设备
+照明产品
+检修管理
+双馈
+AC sampling
+管理信息系统
+过电流保护
+小波分析
+太阳能发电
+direct current control
+三次风
+金属护套
+超超临界锅炉
+通信中心
+线路施工
+LCL滤波器
+转子位置
+天然采光
+备自投装置
+电力职工
+给水温度
+叶轮给煤机
+三电平变换器
+electric energy quality
+豆浆机
+双马来酰亚胺
+真空接触器
+轴系扭振
+变电
+lightning strike
+双闭环
+electric bicycle
+Fuzzy control
+输出电压
+线路
+电路
+corona discharge
+hydrogen storage alloy
+ASON
+超声电机
+负荷预报
+电力服务
+electronic current transformer
+反激
+MCR
+暂态信号
+倒塔
+调整试验
+wind generator
+direct methanol fuel cell（DMFC）
+power angle
+network loss
+electricity markets
+牵引变电所
+负荷曲线
+轴电流
+伺服电动机
+定时器
+张力控制
+Fault diagnosis
+电气设计
+直流调速
+lightning
+三相四线制
+separator
+功率损耗
+中间继电器
+可编程逻辑控制器
+行风建设
+带负荷
+二滩电站
+Power factor correction
+电气误操作事故
+interrupter
+需求响应
+surface flashover
+market clearing price
+pumped-storage power station
+snubber
+insulation level
+single-phase grounding
+联合循环电厂
+secondary battery
+连续潮流法
+线路跳闸
+ferro-resonance
+电力法规
+boiler combustion
+高压交流
+运行
+cogeneration
+通用变频器
+镍电极
+单相运行
+故障类型
+电流保护
+小型水电站
+数据采集
+电力
+故障现象
+电工
+RB功能
+Shanghai Power Grid
+test signal method
+Auto-transformer
+压力闭锁
+循泵
+overhead conductor
+桂林供电局
+secondary loop
+Dielectric dissipation factor
+单相串激电动机
+继电保护整定计算
+高压引线
+受端电网
+fossil fuel-fired power plant
+有心感应炉
+换流变
+耐张绝缘子串
+电力标准
+可充碱性锌锰电池
+穿壁焊
+复合接地网
+起重冶金电机
+电力特种光缆
+锌饼
+超高频法
+短路电流限制器
+kV
+Power Line Communication（PLC）
+magnetic inrush current
+intelligent grid
+directional protection
+桂林电厂
+Protective relaying
+Transmission and distribution
+戴维南等值
+隔爆结构
+RTDS仿真
+差流
+故障录波数据
+六氟化硫封闭式组合电器
+miniature circuit breaker
+零差保护
+盘式绝缘子
+导引绳
+广域信息
+valve cooling system
+very fast transient overvoltage（VFTO）
+广域测量系统（WAMS）
+可控硅阀
+Voltage quality
+给水加氧处理
+调度交换网
+工频电压
+光电式电流互感器
+快关汽门
+高压直流输电（HVDC）
+平面电动机
+multi-infeed HVDC
+非线性内点法
+conductor galloping
+输配电设备
+dispatching exchange network
+厂站自动化
+接地距离
+无功配置
+能效比
+robust control
+水冷壁管
+thrust bearing
+集肤效应
+高压线路
+运动控制
+电气
+单神经元
+交流传动
+发电系统
+anode
+网络拓扑
+高压试验
+运行调整
+缺电
+电网谐波
+美加大停电
+入炉煤
+冷态试验
+开关磁阻发电机
+消谐
+EV
+风力机
+PT
+矩角特性
+磁集成
+参与因子
+最高负荷
+distributed generation（DG）
+工程水文学
+电压力锅
+water tree
+熔沟
+ultra supercritical
+试验电压
+供电工程
+局部放电检测
+short-term load forecast
+turbine-generator unit
+low voltage electrical apparatus
+eigenvalue sensitivity
+断路器保护
+导线覆冰
+安全文明施工
+汽流激振
+高压并联电抗器
+预测控制
+fluorescent lamp
+护环
+lightning stroke
+备用容量
+变压器故障
+附加损耗
+MnZn ferrite
+死区效应
+负极板
+正极活性物质
+空调产品
+电力谐波
+遥视
+电腐蚀
+智能照明
+传导干扰
+galloping
+NdFeB
+软磁铁氧体
+绕线机
+热力计算
+固态继电器
+炉膛
+二氧化锰
+Insulation
+参考价格
+现场总线控制系统
+动力电池
+distributed control system
+reliability evaluation
+电压型逆变器
+检修策略
+thermal battery
+zero sequence current
+直接电流控制
+unbalanced load
+涡流场
+自动跟踪补偿
+燃气-蒸汽联合循环
+self-excitation
+potential transformer
+预防措施
+绝缘导线
+direct methanol fuel cell
+水力机械
+GIS
+电性能
+sol-gel method
+矿用隔爆型
+power grid enterprise
+fault phase selection
+电网自动化
+临界切除时间
+电工专用设备
+定子绝缘
+常规变电站
+电站工程
+正确动作率
+发电机内冷水
+中压电缆
+primary frequency modulation
+发电投资
+引入装置
+voltage stability margin
+李家峡电站
+stator bar
+山西电网
+电力期货
+非电量保护
+动静触头
+regional electricity market
+电机电工
+OPGW光缆
+灯泡贯流式水轮机
+grid alloy
+盆式绝缘子
+负荷频率控制
+重击穿
+母差
+碳负极
+晶闸管阀
+绝缘设计
+高效压缩机
+GCB
+站用电
+旁路开关
+槽绝缘
+理论线损计算
+小电流接地选线
+tube bursting
+低励限制
+ZnO电阻片
+十八烷基胺
+交流高压
+家电零售
+紫外成像
+漏电继电器
+short circuit calculation
+远程监控
+有载开关
+沿面放电
+发电机保护
+天津市电力公司
+热双金属
+电力设施安全
+冷油器
+电压切换
+磁阻电机
+zero voltage switching
+输电网络
+电弧侵蚀
+热工自动化
+静止无功补偿
+digital signal processor （DSP）
+碱性电池
+variable frequency speed regulation
+眩光
+通信电缆
+窃电
+氢氧化镍
+动作分析
+MPPT
+逆系统
+平面广告投放
+系统电压
+under-frequency load shedding
+梧州供电局
+小电抗
+陕西电网
+高频环节
+转子匝间短路
+发电机变压器
+能量管理系统（EMS）
+少胶粉云母带
+节点阻抗矩阵
+冲击电流发生器
+双回输电线路
+电力系统动态
+失步解列
+配电开关
+arc suppressing coil
+control and protection system
+Bergeron model
+transmission line protection
+differential current
+traveling wave protection
+电容式套管
+绕击跳闸率
+BZT装置
+暂态稳定控制
+双重化配置
+compound insulator
+load margin
+暂态稳定分析
+固定串补
+transmission network expansion planning
+earthing fault
+污闪特性
+气体绝缘开关装置
+直线杆塔
+cable terminal
+输电断面
+时步有限元法
+generation bidding
+电力市场交易
+Bearingless
+直流潮流
+电缆分支箱
+pulverized coal burner
+波纹油箱
+steam turbine-generator set
+电力互感器
+电工产品
+parallel operation
+位置检测
+介电性能
+电能损耗
+超声波探伤
+烟气
+反渗透
+接地系统
+除尘效率
+铁塔
+intelligent building
+数字信号处理
+水电站
+正极
+限流
+风偏角
+transition resistance
+impulse current
+防爆电动机
+电力系统安全
+风偏
+overcharge
+metal halide lamp
+浓淡燃烧器
+dynamic reactive power compensation
+自动励磁调节器
+variable-speed constant-frequency
+叶片断裂
+水导轴承
+水轮机调节系统
+IPM
+细分驱动
+流化床锅炉
+主厂房
+接线盒
+故障检修
+Simulink
+裂纹
+ATM
+MIS
+热效率
+效率优化
+bushing
+高功率因数
+永磁直线同步电机
+移峰填谷
+cycloconverter
+高压缸
+粘结磁体
+安全稳定运行
+lighting design
+特征值分析
+稀土永磁
+数控车床
+选线
+格兰仕
+液力偶合器
+二次电池
+相位补偿
+火电
+electrostatic precipitator
+暂态过程
+电力投资
+多点接地
+燃烧稳定性
+高温超导电缆
+补偿容量
+胶体蓄电池
+相电压
+cascading failure
+厨卫
+换向片
+燃煤电站
+应用电路
+光学电流互感器
+恢复供电
+adaptive control
+power capacitor
+main steam pipe
+doubly fed induction generator
+starting performance
+自动转换开关
+电网工程
+Voltage stability
+总谐波畸变率
+外力破坏
+串联间隙
+电液调节系统
+东京电力公司
+粉尘防爆
+内桥接线
+longitudinal differential protection
+turbo generator
+并联补偿
+配电站
+输电铁塔
+NOX
+高压设备
+交流调速系统
+比能量
+再燃
+起动性能
+电缆敷设
+洗碗机
+城市夜景照明
+nickel electrode
+前推回代法
+lightning current
+水力发电工程
+Wind power
+显色性
+电脑钥匙
+低压开关柜
+anode materials
+购电
+电极
+工业以太网
+mathematical model
+automatic control
+leakage
+串行通信
+照明灯具
+磁导率
+大商场
+燃烧特性
+cooling tower
+flue gas
+VoIP
+漏电断路器
+AC impedance
+空调压缩机
+脱硫效率
+电流型
+双电源
+节油
+电动洗衣机
+场路耦合
+fault current
+直流接触器
+模型参考自适应系统
+主变保护
+同步时钟
+reburning
+电气强度
+绝缘故障
+辅助车间
+主变差动保护
+直流伺服电动机
+secondary system
+shunt active power filter
+热偏差
+可充性
+刀闸
+供电模式
+循环水
+MATLAB仿真
+短路保护
+自动调谐
+可控硅
+surge protective device（SPD）
+故障电流限制器
+转子支架
+无功定价
+动态安全域
+电力零售市场
+GIL
+变电站工程
+刀开关
+衰耗
+start-up system
+水内冷发电机
+平均负荷
+挂接地线
+覆铜箔层压板
+许继集团
+Linear induction motor
+锁相环控制
+电弧模型
+电站自动化
+ground grid
+power system analysis
+用户电力技术
+tube burst
+螺旋肋片管
+输配电线路
+变电站设备
+工业电器
+保护死区
+Ni MH battery
+农电体制
+小扰动稳定
+电网安全稳定
+隔爆面
+无汞锌粉
+Induction machine
+蒙西电网
+换相转矩脉动
+power station
+预付费
+运行性能
+铁芯
+multilevel
+煤粉
+交流阻抗
+电气产品
+稳定运行
+主电路
+套管
+煤种
+双馈风力发电机
+镉镍蓄电池
+经济电流密度
+覆铜板
+iron loss
+internal resistance
+电力事业
+电力电子学
+potential distribution
+自抗扰控制
+开关函数
+寿命评估
+electric field distribution
+直流电弧炉
+Harmonics
+分布式能源
+输电塔
+亚临界
+IEC
+不平衡度
+双环控制
+供电方式
+电力用户
+reactive current
+主油泵
+梯级电站
+东方电机股份有限公司
+偏磁
+建筑电气
+Boiler
+economizer
+circulating cooling water
+电力消费
+爆炸性环境
+thermal power plants
+three-phase four-wire
+遥视系统
+电压异常
+变电所综合自动化
+distribution management system
+air-cooled condenser
+zero-sequence current
+永磁直流电机
+电力监管委员会
+混合有源滤波器
+定子接地
+snubber circuit
+跌落式熔断器
+电力负荷管理
+电弧管
+阀控密封铅酸蓄电池
+绝缘系统
+超临界
+cable
+flux observer
+电弧电压
+电子式电能表
+调度运行
+限流器
+核电技术
+神华煤
+Ni-Cd battery
+力矩电动机
+节能降损
+grounding fault
+低压
+switch
+position sensorless control
+跨线故障
+快切
+设备巡视
+穿墙套管
+合闸弹跳
+闪络特性
+电容器行业
+特高压变压器
+石灰石-石膏湿法脱硫
+智能配电网
+发电权
+亚临界锅炉
+synchronized phasor measurement
+ultra supercritical unit
+雷害事故
+分散发电
+transient energy
+操作回路
+UHV transmission lines
+back-up protection
+electric power marketing
+熔丝熔断
+transient energy function
+MHNi电池
+模数化
+peak load regulation
+绕组线
+“W”型火焰锅炉
+traction transformer
+方向继电器
+串补
+water treeing
+特征值灵敏度
+绕击率
+射频连接器
+重冰区
+窃电案件
+照明
+图像监控
+high altitude
+微型燃气轮机
+就地补偿
+降阻剂
+千瓦时
+燃煤
+换向
+电器产品
+串级调速
+反电动势
+工频
+电流检测
+network topology
+早期容量衰减
+先导发展模型
+风电接入
+双位置继电器
+冲击电钻
+最大风能跟踪
+终端电器
+调爬
+disconnecting switch
+实心磁极
+terminal box
+Voltage sag
+终端变电站
+contamination flashover
+increased safe
+Position sensorless
+DC transmission line
+regional power market
+多层土壤
+Capacitor voltage transformer（CVT）
+广域控制
+RTDS simulation
+电缆变压器
+capacitor voltage transformer（CVT）
+失灵启动
+慢脉冲快速充电
+真空触头材料
+凸极
+unbalance protection
+UHVDC power transmission
+六相感应电机
+novel converter transformer
+单极性移相控制
+cable termination
+large crossing
+实时数字仿真器
+同步相量
+自能式
+接入系统方案
+用电业务
+grid dispatch
+氢油水系统
+动态状态估计
+high voltage direct current transmission（HVDC）
+发电机出口
+RTV coating
+直流融冰装置
+切换电容器
+双回线路
+串补站
+单断口
+交直流并联
+电磁暂态计算程序
+automatic bus transfer
+wide-area measurement system（WAMS）
+primary frequency control
+HV switchgear
+电池机械
+不拆引线
+Short-circuit test
+锅炉MFT
+partial discharge test
+Single-chip switching power supply
+sampled values
+电流型整流器
+Off-circuit tap-changer
+背靠背换流站
+theoretical line loss
+出口短路
+高压直流输电线路
+wide area measurement system （WAMS）
+transmission open access
+虚幻接地
+Goupitai Hydropower Station
+屏蔽电动机
+Main insulation
+零飞弧
+lightning trip-out
+合成试验回路
+绝缘地线
+air-cooled turbogenerator
+交流励磁电机
+汽动给水泵组
+transmission price
+total transfer capability
+断线
+消费者
+电价政策
+voltage source inverter
+运行电压
+网络能源
+空间矢量控制
+电缆附件
+sliding mode observer
+双馈异步发电机
+失步保护
+正弦波脉宽调制
+无速度传感器控制
+水利工程管理
+削峰填谷
+电源建设
+谐波分析法
+双管正激
+室外照明
+模塑料
+power frequency
+electrolyte
+电磁兼容性
+三相
+线性矩阵不等式
+电气化铁路
+lighting
+速度控制
+集散控制系统
+CAN
+模糊神经网络
+复杂可编程逻辑器件
+用电设备
+油系统
+fuel cells
+大容量
+风能
+供电系统
+电机机座
+细粉分离器
+变电站设计
+限流熔断器
+暖风器
+电网调峰
+soot blower
+谐波励磁
+锅炉水冷壁
+电力发展规划
+变频洗衣机
+塑壳式断路器
+馈线终端单元
+空载变压器
+发电机励磁
+Brushless DC Motor
+老炼
+transient voltage stability
+symmetrical component method
+高峰负荷
+main protection
+NiOOH
+故障指示器
+grounding mode
+智能交流接触器
+真空低
+动模实验
+high voltage switchgear
+低速动平衡
+吉林电力
+HVDC modulation
+合闸过电压
+保护拒动
+交流灭磁
+量测变换
+新息图
+last stage blade
+转子冲片
+高功率电池
+跨步电位差
+电压稳定指标
+short-circuit impedance
+灯泡式水轮机
+中小电机
+hidden failure
+generator circuit breaker
+flameproof enclosure
+电网分区
+电力电子开关
+铁芯多点接地
+RB试验
+circulating fluidized bed（CFB） boiler
+相差高频保护
+stator insulation
+shunt capacitor bank
+超临界参数
+insulated conductor
+overhead transmission lines
+等离子点火装置
+transient saturation
+用户电力
+模型转轮
+城市电网改造
+reserve market
+雷电屏蔽
+潮流算法
+zero sequence protection
+掉闸
+调度操作票
+事故追忆
+调度员培训仿真器
+架空配电线路
+partial discharge （PD）
+wind farms
+fuel furnace
+hard ferrite
+耦合地线
+污秽放电
+transfer capability
+合山电厂
+内过电压
+electricity m arket
+differential expansion
+power network dispatching
+Three-level inverter
+signal injection method
+全厂停电
+inductive voltage
+sub-synchronous resonance
+用电企业
+析气量
+generator-transformer unit
+平行双回线
+无功电压优化
+耐张串
+brushless DC motors
+全介质自承式光缆
+电晕笼
+开断特性
+DC power transmission
+load rejection test
+接触可靠性
+磁场断路器
+节能电感镇流器
+温度场
+ground resistance
+电气集团
+斜槽
+solar energy
+载波
+岭澳核电站
+故障信息
+浸渍树脂
+设备缺陷
+automation system
+串级控制
+在线测量
+过热
+放电
+power engineering
+轴流式水轮机
+line selection
+generator rotor
+背投彩电
+主轴密封
+励磁特性
+flyback
+对称分量
+electric energy meter
+导电剂
+失压
+power plants
+HDDR
+一次设备
+electric power quality
+非同步采样
+NiZn铁氧体
+电磁场
+PID控制器
+励磁装置
+接地极
+褐煤
+electric field
+动平衡
+vacuum
+EMI滤波器
+吹管
+冲击接地电阻
+BLDC motor
+光伏并网
+电力监管
+bipolar plate
+大电机
+polymer electrolyte
+water turbine
+电气安全
+Reactor
+防磨
+死区补偿
+二次风
+dSPACE
+检修技术
+负荷分配
+particle swarm optimization
+resonance
+客户服务中心
+变频调速器
+火力发电
+分布参数
+thermal power generation
+引出线
+转子位置检测
+工器具
+电动机保护器
+对地电容
+ZCS
+磁场分析
+荷电状态
+超导电缆
+励磁控制器
+斗轮机
+全桥
+风速预测
+基本电费
+孤岛检测
+电度表
+电动车辆
+earthing
+输送能力
+超级电容
+零线断线
+电蓄能技术
+备用电源自动投入
+复合开关
+Prony分析
+steam temperature control
+interharmonics
+Pelton turbine
+trajectory sensitivity
+optical current transformer
+转子时间常数
+线损指标
+日负荷曲线
+无轴承异步电机
+灰渣泵
+变电站选址
+status maintenance
+控制保护系统
+DCS改造
+胶体电解液
+SEI膜
+导光管
+异步运行
+turbine oil
+Prony
+输配电价
+十三陵蓄能电厂
+定子冲片
+变压器安装
+Turbogenerator
+农电市场
+空冷岛
+predictive control
+programmable logic controller
+speed control
+大电流
+漆包线
+contact resistance
+cathode
+轴封系统
+消谐器
+无汞化
+覆铜箔板
+回热系统
+整体煤气化联合循环
+phase-shifted
+固体氧化物燃料电池（SOFC）
+power dispatching
+铅膏
+self-discharge
+油浸式电力变压器
+asynchronous sampling
+rotor winding
+power frequency magnetic field
+出厂试验
+贮氢电极
+电工材料
+功率振荡
+permanent magnet machine
+多导体传输线
+无换向器电机
+主汽门
+impulse voltage
+temperature field
+故障点
+送风机
+PI control
+PWM控制
+细分控制
+Relay protection
+hysteresis current control
+permanent magnet brushless DC motor
+电力需求预测
+绝缘缺陷
+微波站
+control and protection
+火力发电机组
+增压流化床
+condition maintenance
+spot price
+THD
+permanent magnet synchronous generator
+用电需求
+选择性保护
+绝缘纸
+polyimide film
+旋转整流器
+现场可编程门阵列
+电极材料
+高频变压器
+三相不平衡
+永磁发电机
+开路电压
+技术经济比较
+耦合电感
+electrocatalyst
+transformers
+大屏幕彩电
+electric arc furnace
+三次谐波
+sag
+设计特点
+滤波
+比容量
+通电
+受潮
+eigenvalue analysis
+低压电力线
+monitoring system
+风能资源
+热耗
+DC-DC converter
+运动控制器
+drive circuit
+梯级水电站
+防护等级
+组态软件
+伏安特性
+电控系统
+规约
+饱和
+真空度
+绝缘监测
+电磁计算
+harmonic elimination
+烟气脱硫装置
+测控装置
+防冰
+CFBB
+室内机
+滞环电流控制
+电热锅炉
+电压偏差
+相电流
+在线辨识
+PI调节器
+轴封
+MATLAB simulation
+整流电路
+磁路
+artificial neural network
+time synchronization
+聚合物电解质
+消雷器
+power line carrier
+微波炉
+intelligent control
+室内空气品质
+transformer substation
+small current neutral grounding system
+单相永磁同步电动机
+ATPDraw
+W型火焰
+比率差动
+相间功率控制器
+汽水品质
+静止补偿器
+水位开关
+soft ferrite
+调度员潮流
+DEH system
+地方电力公司
+Next Generation Network（NGN）
+primary air fan
+炉水处理
+dynamic voltage restorer（DVR）
+继电保护设备
+mica tape
+OPF
+无功管理
+extra high voltage
+power system communication
+家用漏电保护器
+银金属氧化物
+空载线路
+调门
+农网整改
+枢纽布置
+power system reliability
+Hybrid excitation
+防爆标准
+隔爆接合面
+电力营销工作
+接户线
+铁心饱和
+hydrogen leakage
+series capacitor compensation
+Suofengying Hydropower Station
+balance transformer
+耐雷性能
+stress cone
+生产制造工艺
+power system operation
+shaft voltage
+晶闸管开关
+中间变压器
+雷电流幅值
+zero-sequence impedance
+line fault
+multi-machine power system
+光源与照明
+粉云母带
+调度交换机
+预制分支电缆
+定子端部
+分支系数
+离相封闭母线
+直轴
+负序电压
+直流融冰
+电力电子电路
+碱性蓄电池
+低压变频器
+微机防误
+insulation structure
+江西电网
+EAF
+traction substation
+swirl burner
+电网管理
+混合电动车
+微机调速器
+分闸
+电厂化学
+电能质量扰动
+unity power factor
+电机测试
+端部
+双桶洗衣机
+线棒
+自投装置
+自适应保护
+power load forecasting
+热工控制系统
+波过程
+成套设计
+flue gas temperature
+synchronous rectifier
+供热改造
+reactive optimization
+功率铁氧体
+dielectric loss angle
+generator unit
+晶闸管投切电容器
+voltage deviation
+building automation system（BAS）
+中间接头
+超临界汽轮机
+照明设计师
+Halbach阵列
+能损分析
+capacitive equipment
+电力系统可靠性
+配电公司
+差价合约
+静触头
+柔性交流输电
+嵌入式以太网
+供电站
+家用电器标准
+luminous environment
+铜杆
+不平衡电压
+可充电池
+射水抽气器
+自动电压调节器
+补偿电网
+短路比
+等离子
+缓蚀剂
+死区
+电气自动化
+补偿装置
+电缆故障
+用电
+RTV
+发电集团
+负荷分析
+冷轧硅钢片
+熔丝
+电磁灶
+冲灰水
+电线电缆行业
+双馈感应发电机
+short-circuit
+远动系统
+DC/DC
+current transducer
+中性线
+代理商
+恒压供水
+通信方式
+频率跟踪
+SRM
+variable structure control
+交换机
+误差分析
+软启动
+定子铁芯
+谐波测量
+Boost变换器
+三相四线
+磁势
+运行经验
+grid-connected inverter
+digital simulation
+供电设施
+油浸变压器
+直线感应电机
+频谱泄漏
+相量
+grounding system
+集电环
+power industry
+DC-DC变换器
+Buck变换器
+电力线
+AVR
+防范措施
+循环水系统
+创建学习型企业
+企业标准化工作
+过热故障
+直流传动
+pulverized coal
+distributed parameter
+电子节能灯
+旋转电机
+小信号模型
+Reactive power
+调度员
+系统稳定
+煤粉燃烧
+负载
+blade
+工控机
+小天鹅
+吊装
+优化调度
+临界转速
+operation mode
+防振锤
+光纤通信网
+双凸极永磁电机
+photovoltaic power generation
+活动导叶
+insulating oil
+电力载波通信
+洗衣机市场
+配电设备
+electrochemical capacitor
+excitation controller
+谐波含量
+容量
+汽车继电器
+fault record
+胶体电池
+匝间
+switched reluctance motor（SRM）
+海水脱硫
+brushless doubly-fed machine
+leakage inductance
+限流电抗器
+bearingless motor
+介损测量
+储能系统
+城乡电网改造
+unified power flow controller
+屏蔽电机
+inverter power supply
+passive power filter
+接力器
+fault information
+统一电能质量调节器
+主站系统
+架空敷设
+电力系统计算
+pulsed power
+short-circuit fault
+轴振
+电网负荷
+harmonic current detection
+定子磁链定向
+等效磁路
+主汽温度
+定子磁场定向
+三相短路
+消弧装置
+蒸发冷却
+占空比
+impregnating resin
+direct energy balance
+GIS组合电器
+电力市场技术支持系统
+响水电站
+微波磁学
+接地故障选线
+掏挖基础
+hydrogen humidity
+防雷性能
+最优乘子
+油中带水
+高压配电设备
+electricity futures
+金属膨胀器
+corona cage
+Yinzidu Hydropower Station
+lightning flashover
+转子电压
+两班制运行
+电压波动与闪变
+低周减载
+石子煤
+核电发电机
+single-phase ground fault
+汽封间隙
+动作判据
+电传动系统
+绕线模
+bilateral transaction
+烧结Nd-Fe-B磁体
+polymer lithium ion battery
+远动信息
+small-signal stability
+广域后备保护
+electric grid
+inverter-fed motor
+高级应用软件
+neutral reactor
+多因子老化
+电容器保护
+气隙取气
+winding design
+定位转矩
+深度调峰
+power plant equipment
+不正确动作
+substation operation
+gas-steam combined cycle unit
+spinning reserve
+试验线段
+输电价格
+small disturbance stability
+自愈式
+single-phase transformer
+爬电比距
+低压钠灯
+关口电能计量装置
+罐式断路器
+ZnO避雷器
+元件保护
+间歇放电
+潜供电弧
+高阻接地故障
+磁阻同步电机
+暂态电压
+小型化变电站
+断电延时
+天生桥二级水电站
+击距
+离散空间矢量调制
+AC/DC hybrid system
+secondary voltage control
+slag cooler
+nodal price
+closing resistor
+变压器绕组变形
+目标网架
+末屏
+封口剂
+集束导线
+光电电流互感器
+微机变压器保护
+对地距离
+开断试验
+一次风管
+沙沱水电站
+油中气体
+电催化剂
+感应电流
+Profibus-DP
+放电特性
+暂态
+三相变压器
+脱硫装置
+lithium manganese oxide
+密封油
+resolver
+安全文明生产
+直流屏
+varistor
+室内照明
+负载损耗
+电冰箱压缩机
+电采暖
+drum level
+信号继电器
+调速电动机
+efficiency optimization
+不对称半桥
+landscape lighting
+汽包炉
+暂态能量函数
+高压电力电缆
+相量测量装置
+示范电站
+自动投切
+micro-grid
+corrosion diagnosis
+声谐振
+hydroelectric generating set
+transient fault
+电动机端盖
+power quality monitoring
+低压电缆
+distribution grid
+贯流式机组
+电压回路
+air-cooling unit
+selective harmonic elimination
+NiZn ferrite
+可充碱锰电池
+暂态模型
+安全管理工程
+故障跳闸
+Main transformer
+reheat steam temperature
+罗氏线圈
+Excitation control
+瞬态恢复电压
+impedance relay
+harmonic voltage
+DALI
+线路参数
+空冷发电机
+绝缘套管
+非全相保护
+差动电流
+安全性评价工作
+TOPSwitch
+远动通道
+充电接受能力
+脉冲电流法
+重燃过电压
+锅炉灭火
+载波调制
+电站辅机
+调速汽门
+numerical calculation
+状态维修
+自动装置
+TSC
+紧凑型
+变送器
+电磁噪声
+ball mill
+脉宽调制/三电平
+零序补偿系数
+三相不一致保护
+动态电能质量
+转子过电压
+电流差动
+Multilevel inverter
+high voltage and insulation technology
+motor-driven feed pump
+自然积污
+柔性交流输电技术
+电力期权
+停电管理
+轴向叠片各向异性转子
+低频减载装置
+CIM/XML
+Prefabricated substation
+机电暂态仿真
+Wujiangdu power plant's extension project
+kV transmission line
+非晶合金铁心
+轴向双分裂
+substation equipment
+dynamic state estimation
+变压器开关
+照明工程师
+反力特性
+凝汽器管材
+Transverse flux
+阀冷系统
+活性物质利用率
+无载调压
+Amorphous core
+Winding deformation
+单极运行
+热控保护
+过励磁保护
+power grid structure
+相间故障
+变压器有载
+wide area protection
+可控并联电抗器
+locational marginal price
+复合电压闭锁
+人工污秽
+wide area measurement
+直流接地极
+Arc-suppression reactor
+corona inception voltage
+整定配合
+调压绕组
+H级绝缘
+R型铁心
+moulded case circuit breaker
+anti-accident exercise
+预期短路电流
+WGMOA
+transmission right
+磷酸盐隐藏
+controlled switching
+安全稳定控制装置
+远方跳闸
+line trap
+海拔修正
+级差配合
+同频并网
+unified power quality controller
+电晕损耗
+压气式灭弧室
+电容器单元
+故障类型识别
+耐电强度
+检同期
+Blackman-Harris window
+阀控式铅蓄电池
+站用电系统
+electrolytic manganese dioxide（EMD）
+电励磁双凸极电机
+AC withstand voltage
+发输电组合系统
+γ-NiOOH
+无功储备
+dispatching data network
+零序过流保护
+air clearance
+step potential difference
+挂网运行
+眩光评价
+transmission and distribution equipment
+数字电液调节
+双向功率流
+安全约束调度
+分区电网
+flameproof motor
+引线接头
+measurement transformation
+self-healing control
+EMTDC/PSCAD
+次同步阻尼控制器
+reactive power management
+Gas insulation
+ansformer
+control performance standard
+新疆电网
+interconnected grid
+HV cable
+正序故障分量
+谐波发射水平
+数字式保护
+不平衡负荷补偿
+一个半断路器接线
+synthetic test circuit
+electrical dissection
+交流无间隙金属氧化物避雷器
+lightning over-voltage
+供电服务质量
+有载调压分接开关
+overhead power transmission line
+debugging
+避雷针
+调节器
+Steam turbine
+吸收比
+solid oxide fuel cell
+自动抄表系统
+风能发电
+磁通
+反击
+疏水
+水力发电
+磷酸铁锂
+空调负荷
+UHF
+万用表
+epoxy resin
+冷却器
+技术监督
+接口
+溶胶-凝胶法
+electrical performance
+total harmonic distortion
+空载试验
+抗扰度
+起动器
+单相电动机
+高温空气燃烧
+漏电开关
+换相
+励磁绕组
+定子电阻
+两部制电价
+high voltage transmission line
+var compensation
+锌空气电池
+wind turbine generator
+谐波畸变
+负荷电流
+浮充电压
+wet flue gas desulfurization
+fault treatment
+潮流分析
+线损分析
+亚临界机组
+屏蔽电泵
+charge simulation method
+ANSOFT
+状态空间平均法
+组立
+fault recording
+调制策略
+给水控制
+中性点电压
+islanding detection
+配变监测
+initial permeability
+同网同价
+发电调度
+中压电网
+turbine rotor
+over-voltage protection
+西北电力
+分布式
+扩频通信
+电气火灾
+wavelet analysis
+节能减排
+load characteristic
+相量图
+electric network
+放电电压
+混床
+保护特性
+自动投入
+电流继电器
+定子磁链
+excitation current
+多重化
+电机学
+运行管理
+嵌入式系统
+reactor
+DC
+误操作
+组网
+温控器
+节能产品
+数据中心
+coal
+热水器
+setting
+动作时间
+hydropower station
+变压器模型
+带电作业工具
+雷电参数
+main steam pressure
+入厂煤
+风电并网
+低压省煤器
+Reactive compensation
+轨迹灵敏度
+电器工业
+机组优化组合
+interconnected power system
+空载合闸
+小油枪
+绝缘工具
+锌负极
+交流励磁发电机
+有序用电
+配电网络重构
+windings
+发电机励磁系统
+四川电网
+特高压交流输电
+dual-loop control
+dq变换
+合理用电
+冰箱市场
+空间电压矢量脉宽调制
+aeolian vibration
+掺杂
+数据通信
+Simulation
+变频调速技术
+nuclear power station
+工作原理
+安装
+operation and maintenance
+放电电流
+电路图
+检定装置
+事故
+电场强度
+除尘器
+仿真模型
+adaptive
+electrode
+通风冷却
+电动机运行
+保护整定
+海上风电场
+大型锅炉
+风电发展
+配电管理
+distributed capacitance
+step voltage
+高温超导变压器
+电气误操作
+PSIM
+消弧线圈接地
+联网工程
+高效电动机
+在线计算
+汽包锅炉
+pumped storage power station
+电压空间矢量脉宽调制
+无功损耗
+Synchronous motor
+爬电距离
+电磁性能
+人工神经网络
+BPA
+年发电量
+combustion system
+charger
+斩波
+接触电压
+重合闸装置
+power system automation
+交联聚乙烯绝缘电缆
+导汽管
+注入信号法
+multi-output
+阀控铅蓄电池
+generator protection
+dissolved gas in oil
+differential relay
+谐波畸变率
+valve regulated lead acid battery
+线路阻波器
+高速混床
+electric power load
+膨胀不畅
+HVDC light
+luminaire
+双水内冷
+ZnO压敏电阻片
+中间点温度
+temperature rise test
+无汞碱锰电池
+开关触头
+同期装置
+四角切圆燃烧
+供用电关系
+电压无功综合控制
+静态安全
+网损微增率
+二级电压控制
+保护判据
+黑启动试验
+resonance grounding
+相对内效率
+送电量
+rotor fault
+远动规约
+resistive leakage current
+继电保护系统
+合环操作
+介损值
+直接空冷凝汽器
+高压送电线路
+单级功率因数校正
+等离子燃烧器
+三维涡流场
+发电竞价
+瞬时功率理论
+system restoration
+多相电机
+漏电感
+配变台区
+百龙滩水电站
+Reactive Power
+sliding pressure operation
+energy-loss analysis
+三相PWM整流器
+配电网改造
+调光电子镇流器
+实时数字仿真系统
+线路运行
+喷水减温
+过热性故障
+金属氢化物镍电池
+电磁起动器
+wind power field
+transmission planning
+混合型有源电力滤波器
+直流母线电压
+旁路母线
+磁路饱和
+Calculation
+PAS
+变频改造
+企业联合会
+融冰
+风力发电系统
+ETS
+电力产业
+switching function
+phase compensation
+insulation resistance
+飞轮储能
+低温腐蚀
+双极板
+起动转矩
+电锅炉
+技能竞赛
+端盖
+转差率
+太阳能光伏发电
+增容
+电能
+SIMULINK
+接口电路
+harmonic wave
+调压
+可靠性管理
+改造工程
+调相机
+变电站改造
+地方电力
+起始磁导率
+人身触电
+防爆结构
+农村配电网
+照明控制系统
+无油点火
+速断保护
+汽车发电机
+超导限流器
+PI数据库
+bad data
+active clamp
+弱电设备
+接线组别
+弹簧机构
+Halbach array
+三相负荷
+辅助触头
+用电检查
+contact system
+harmonic compensation
+power grid construction
+EMS系统
+绝缘纸板
+变压器产品
+synchronous motors
+电力信息
+隔离刀闸
+主汽压力
+maintenance scheduling
+低压电力线载波通信
+日用电器
+air leakage rate
+ASVG
+electric vehicles
+滞环控制
+卤钨灯
+带电
+节电技术
+governing system
+暂态分析
+energy feedback
+电力自动化
+相间短路
+变比
+active filter
+矫顽力
+optical fiber communication
+输电线
+PCM
+实用化
+能耗制动
+漏电流
+可再生能源
+焊接
+原因分析
+节能灯
+焊接工艺
+海尔
+explosion-proof
+燃料管理
+电力部
+电液转换器
+轴承室
+直流无刷电动机
+position detection
+水电设备
+autotransformer
+load shedding
+过放电
+batteries
+二次绕组
+电磁系统
+Power System
+窄带干扰
+NGN
+静态特性
+触发电路
+LonWorks
+联锁
+frequency control
+failure analysis
+load
+安全生产责任制
+stepper motor
+锌锰干电池
+稳定裕度
+佛斯
+overheating
+comprehensive automation
+红外诊断
+地网
+industrial furnace
+充电效率
+操作电源
+高压电气设备
+grounding device
+中兴通讯
+pulse width modulation（PWM）
+泄漏
+热应力
+节水
+welding
+永磁体
+control circuit
+USB
+思想政治工作
+brushless excitation
+LED路灯
+上网电量
+断条
+特征气体
+截流过电压
+steam temperature
+变压器室
+送变电工程
+电气制动
+high voltage inverter
+电力设计
+相角差
+锂二次电池
+漏感
+安全校核
+有机电解液
+排粉机
+锅炉补给水
+电机温升
+峰值电流控制
+electrical contact material
+倍流整流
+thermal economy
+百万千瓦级
+three-phase four-wire system
+condition assessment
+电压波动和闪变
+铜管
+控制逻辑
+控制线路
+等电位联结
+环流
+自然功率
+阻性泄漏电流
+Z源逆变器
+漏汽
+封闭式组合电器
+早期容量损失
+small current grounding
+输出滤波器
+两相短路
+feeder terminal unit
+序分量
+molten carbonate fuel cell（MCFC）
+switching operation
+集成门极换流晶闸管
+低压转子
+cascade multilevel inverter
+tube failure
+deadbeat
+热缺陷
+水泥电杆
+高压配电网
+电气操作
+变电站仿真
+inter-harmonics
+coal-fired unit
+备用市场
+振荡闭锁
+fault restoration
+长山热电厂
+sensorless vector control
+自动转换开关电器
+gas-steam combined cycle
+启动元件
+HV circuit breaker
+串补电容
+弧光接地过电压
+正极板栅
+state of charge（SOC）
+拒分
+hybrid electric vehicle（HEV）
+燃气蒸汽联合循环
+power generation enterprise
+DEH控制系统
+电力二次系统
+反电势法
+边际电价
+控制与保护
+发电集团公司
+Eddy current loss
+特征谐波
+Goupitan Hydropower Station
+放电模型
+燃气—蒸汽联合循环
+economic dispatching
+机组大修
+仿真分析
+soft switch
+水工建筑物
+缺相
+线路工程
+家用电冰箱
+垃圾焚烧炉
+彩色显示器
+错误接线
+中频电源
+on-line detection
+直接驱动
+nuclear power plant
+接地体
+正交频分复用
+时钟同步
+Boost
+super capacitor
+Control system
+VPN
+常见故障
+series resonance
+光缆
+电气控制
+微控制器
+动态稳定
+饮水机
+太阳电池
+联网
+监测系统
+采样值
+步距角
+行输出变压器
+PI regulator
+pulverizer
+牵引供电系统
+电机产品
+series resonant
+电动机转子
+振荡模式
+稳定燃烧
+暂态响应
+灭弧
+集中监控
+malfunction
+Generator
+安全文化
+VHDL
+极点配置
+转速
+小波包
+breakdown
+燃烧控制
+高功率
+绝缘漆
+hybrid electric vehicle
+集中抄表
+切换开关
+混合仿真
+系统恢复
+Boost converter
+动态等值
+double circuit transmission line
+smart meter
+拉线塔
+助磁法
+innovation graph
+光纤纵差保护
+DC/DC 变换器
+谐波管理
+限流措施
+预想事故
+沈阳变压器有限责任公司
+超临界压力机组
+电动水泵
+valve-regulated lead-acid battery
+充裕度
+generator transformer unit
+EH油系统
+relay setting
+日发电计划
+reactive power pricing
+power telecommunication
+大负荷试验
+无心感应炉
+三相重合闸
+调度端
+换位方式
+悬垂线夹
+极耳
+有源电力滤波器（APF）
+Oil filter
+hydraulic material
+阀控铅酸电池
+群爆
+拉线绝缘子
+吉林热电厂
+直流换流站
+电网仿真系统
+discrete space vector modulation
+generation investment
+氧化锌阀片
+超超临界参数
+运行规程
+过电压倍数
+合闸速度
+power electronic circuit
+loss calculation
+sequence valve
+corona loss
+开断过程
+配网改造
+optical transmission network
+相间绝缘
+临界割集
+异步牵引电动机
+网络等值
+四大管道
+配汽机构
+line differential protection
+助增系数
+超高压变压器
+射油器
+fire-resistant oil
+等效热降法
+节点边际电价
+Economic dispatch
+农村变电站
+大唐发电股份有限公司
+line surge arrester
+电压无功优化
+电感模型
+superconducting magnetic energy storage
+同杆并架
+harmonic power flow
+复故障
+transient stability control
+相模变换
+自然循环锅炉
+smoothing reactor
+lightning shielding
+transient stability analysis
+metal oxide arrester（MOA）
+Electricity Market
+槽漏抗
+热化学试验
+variable-frequency adjustable-speed
+oil-immersed transformer
+金属壁温
+汽泵
+氢冷汽轮发电机
+regional grid
+Cd/Ni battery
+中压断路器
+二次锂电池
+intelligent operation
+串激电机
+直购
+高频脉冲交流环节
+网损计算
+转子接地保护
+thyristor valves
+多速电机
+push-pull forward
+数字继电器
+“无人值班”（少人值守）
+场路耦合法
+脉振磁场
+过励磁
+Dongfeng Hydropower Station
+定子磁链观测
+环流损耗
+电信线路
+外机座
+熔断件
+照明规划
+sealing oil system
+光纤余长
+转子一点接地
+Synchronous Digital Hierarchy（SDH）
+direct air-cooling unit
+power system protection
+间隙保护
+直流力矩电动机
+两网改造
+电气闭锁
+热失控
+总装机容量
+传输网
+容量衰减
+ZVZCS
+不对称运行
+电量采集
+现场校验
+cycle performance
+analysis and treatment
+磁链观测
+NdFeB磁体
+错峰
+power station boiler
+低压熔断器
+自动准同期
+电力系统调度
+static synchronous compensator
+岩滩水电站
+运行数据
+positive electrode
+solid oxide fuel cell（SOFC）
+设备管理
+数据仓库
+热电偶
+预测电流控制
+输电容量
+风扇磨
+交-交变频
+digital relay
+防跳
+槽配合
+虚拟DCS
+hydraulic mechanism
+盘车装置
+镜板
+低压开关设备
+电缆终端头
+lightning overvoltage
+风电系统
+降阻措施
+疏水泵
+power transmission lines
+架空绝缘导线
+两改一同价
+保护间隙
+标准电能表
+大电流放电
+battery performance
+找中心
+小湾电站
+intelligent release
+power oscillation
+电压应力
+汽轮发电机转子
+电力供需形势
+水电发展
+tube mill
+同步网
+复合励磁
+电力可靠性
+supervisory information system
+电流滞环控制
+Motor control
+数字化电厂
+校正控制
+direct air-cooling
+Z-source inverter
+潜水电动机
+自愈式电容器
+工频耐压试验
+保护原理
+液晶彩电
+发电机中性点
+直接甲醇燃料电池（DMFC）
+东方电机
+消谐措施
+变压器的经济运行
+内部短路
+breaking capacity
+同业对标
+微机继电保护装置
+电场分析
+auxiliary power system
+intelligent controller
+双向晶闸管
+cyclic voltammetry
+SCADA系统
+intelligent
+网络安全
+additive
+温度控制
+伺服电机
+照明系统
+PROFIBUS
+能源效率
+循环伏安
+实时性
+设计优化
+低通滤波器
+CORBA
+空载
+电力载波
+光伏
+脉冲电源
+Matlab仿真
+回路
+压力脉动
+试验方法
+优化设计
+wind power generator
+合闸
+背光源
+大型电机
+coal consumption
+建筑照明
+DMFC
+碱性锌
+家用中央空调
+油枪
+影碟机
+非线性负载
+topology analysis
+发电能力
+centralized control
+涌流
+catalyst
+bearing
+电缆接头
+壁温
+自动化专业
+开关频率
+膜电极
+分压器
+串口通信
+拓扑
+微处理器
+optimal design
+配煤
+电机绕组
+集中器
+电抗
+motor control
+MOSFET
+小功率
+国产化
+自动控制系统
+性能试验
+电站设备
+转轮叶片
+lithium iron phosphate
+电力推进
+输电工程
+最大功率跟踪
+辅助开关
+节能认证
+洁净厂房
+优质服务工作
+合闸涌流
+Digital control
+绝缘击穿
+灭火保护
+速度辨识
+即热式热水器
+flameproof
+移相变压器
+蓄能空调
+成套电器
+electric power engineering
+不良数据
+断相运行
+混合式步进电机
+Harmonic current
+coal feeder
+断线故障
+低压电气
+ash deposition
+电网安全运行
+感应发电机
+飞灰磨损
+分析检修
+电压继电器
+并联有源电力滤波器
+permanent magnetic synchronous motor
+feed pump
+wind-power generation
+直接反馈线性化
+chance-constrained programming
+大朝山水电站
+谐振变换器
+水泥杆
+相似日
+参数
+数控
+高压变频
+滑模变结构
+隧道照明
+逆变电路
+起动过程
+燃气灶
+负载率
+governor
+WinCC
+环境工程学
+EPON
+speed regulation
+国际电工委员会
+驱动系统
+大用户
+经销商
+过电流
+电阻炉
+太阳能热水器
+柴油发电机组
+计算机监控
+劣化
+高压电源
+堵转转矩
+电费风险
+Hunan power grid
+High voltage insulation engineering
+内部故障电流
+转角塔
+场所划分
+高压电力设备
+继电保护管理
+residual flux
+initial capacity
+equivalent salt deposit density
+transmission and distribution project
+Loss allocation
+航天电磁继电器
+electromechanical transient simulation
+wide-area measurement system （WAMS）
+棕釉
+棒形支柱绝缘子
+主导低频振荡模式
+端子箱
+氧化锌压敏电阻片
+distributed generator
+单相电容电动机
+厂用系统
+棒形悬式复合绝缘子
+瓷质绝缘子
+微机型继电保护
+positive active material
+送电线路设计
+采样值差动
+自能式灭弧室
+high voltage insulation engineering
+磁极铁心
+MW generating set
+稳定控制装置
+发变电站
+超高压变电所
+长距离输电
+干荷电极板
+绝缘方式
+静态等值
+电气工程其它学科
+power network structure
+电压水平
+gelled-electrolyte
+electric power company
+分相电流差动
+polymer Li-ion battery
+台区管理
+液压弹簧机构
+gas insulated metal-enclosed switchgear
+icing flashover
+MTPA
+traveling wave fault location
+电子电力变压器
+无弧分断
+伏秒特性
+有功调度
+T型线路
+交流电磁接触器
+过程层
+电池杂志
+加强电网
+conservancy management
+back-to-back converter station
+premature capacity loss（PCL）
+demand side bidding
+需求侧竞价
+串补装置
+bypass control system
+间接磁场定向
+密度控制器
+back striking
+高压交流断路器
+optimal reactive power flow
+line loss calculation
+公共绕组
+最大输电能力
+卧式漆包机
+转子位置传感器
+Demand side management
+power m arket
+HV motor
+串联补偿装置
+closed loop test
+线路型
+energy-saving dispatch
+大受端电网
+主网架
+同步断路器
+雷电侵入波过电压
+Hubei power system
+统计加工
+全星形变压器
+high voltage apparatus
+等网损微增率
+交直流混合输电
+磁网络模型
+电网电能
+机网协调
+supercritical pressure unit
+Internal fault
+主油箱
+钕铁硼系永磁材料
+MH／Ni电池
+fundamental component
+Distribution networks
+HV power cable
+用户供电
+极限短路分断能力
+epoxy/mica insulation
+凹陷域
+小电流接地电网
+充电接受
+switching surge
+绝缘表面
+端部漏抗
+organic expander
+对地电容电流
+超高频局部放电检测
+水涂粉工艺
+breaker failure protection
+功率方向元件
+system voltage
+Sichuan power grid
+双断口
+脉宽调制/软开关
+地下变电所
+同调机群
+Continuation power flow
+极限传输容量
+partial discharge measurement
+fault indicator
+static synchronous series compensator
+valve-regulated lead-acid（VRLA） battery
+高压直流换流站
+串励电机
+carrier phase shifted SPWM（CPS-SPWM）
+complex torque coefficient approach
+软换流
+极板厚度
+稳定域边界
+有机复合绝缘子
+配电静止同步补偿器
+无功规划优化
+双母线接线
+电池信息
+工频电弧
+自定义模型
+蓄能发电
+录波图
+链式多电平逆变器
+谐波状态估计
+localized production
+两相运行
+中国铅酸蓄电池
+机组跳闸
+发电机-变压器组
+频率偏差系数
+back flashover
+power grid operation
+端盖止口
+光纤复合相线
+最小流量阀
+artificial contamination test
+automatic reclosing
+loss-of-excitation protection
+transmission and distribution separation
+power system interconnection
+多馈入直流
+棒间隙
+East China Power Market
+AVC系统
+Power electroncs
+distribution automation（DA）
+三相潮流计算
+turbo-generators
+送粉管道
+可控串联电容补偿器
+pulverization system
+line corridor
+功率分量
+输电投资
+总烃超标
+ultra high-voltage
+次档距
+dispatch automation system
+配网重构
+漫昆线
+ultra super-critical
+tension stringing
+Short circuit impedance
+《电池》双月刊
+鸟粪闪络
+绕组系数
+internal fuse
+Short-circuit impedance
+transmission investment
+微机控制
+最优控制
+wind energy
+机芯
+气体放电
+VVVF
+城市电力网
+暂态计算
+雾闪
+阻尼控制器
+防晕材料
+手车式开关柜
+化学与物理电源
+排汽焓
+line losses
+恢复控制
+Marx发生器
+cascaded inverter
+敏感负荷
+复合绝缘
+差胀
+internal faults
+无轴承电动机
+distribution company
+电费结算
+燃气-蒸汽联合循环机组
+柔性直流输电
+电力用油
+伴音
+继电保护整定
+水平浓淡燃烧器
+load frequency control
+static var generator
+unbalance current
+混煤掺烧
+EHV transmission lines
+四角切圆
+防止误操作
+转子温度
+short-circuit test
+集成磁件
+碎渣机
+二次滤网
+载波相移SPWM
+interconnected power systems
+non-linear load
+降压运行
+多回路理论
+voltage source converter（VSC）
+大功率汽轮机
+Electrodynamic force
+预购电
+电容器元件
+DC／DC变换器
+analysis on causes
+密度继电器
+旋流式燃烧器
+电气监控系统
+床温控制
+zero-sequence voltage
+剩余电流动作断路器
+定子磁链观测器
+推挽正激
+褐煤锅炉
+直线同步电动机
+grid construction
+intelligent electronic device
+广域测量
+non-communication protection
+防晕结构
+触头结构
+配电终端
+误跳闸
+交直流电力系统
+分裂变压器
+城区供电
+电工电器行业
+辐射能信号
+电网仿真
+用电服务
+matrix converter（MC）
+银电联网
+grid enterprise
+Traction transformer
+实用动态安全域
+反时限保护
+电阻分压器
+高压负荷开关
+drum water level
+机组启动
+Hybrid electric vehicle
+全寿命周期成本
+横担
+transmission delay
+国美电器
+浓缩倍率
+弹性金属塑料瓦
+转速估计
+电气开关
+进相
+北京供电公司
+新能源发电
+Wind power generation
+钳形电流表
+相量测量
+控制保护
+调度通信
+碰磨
+节能照明
+端环
+汽水系统
+吸收电路
+转子磁场定向
+阿里斯顿
+carrier communication
+密封水
+弹性分组环
+white LED
+合闸回路
+零售额
+直接转矩
+电力供需矛盾
+reserve capacity
+功能指令
+MPLS VPN
+无极灯
+高加
+竞价
+输煤
+watt-hour meter
+漏磁通
+电压型
+自适应
+顺序阀
+electric locomotive
+induced voltage
+地下厂房
+SMPS
+联合循环发电
+thermodynamic system
+临时用电
+并联谐振
+聚合物锂离子电池
+frequency stability
+残压
+功率
+高海拔
+节能技术
+制冷系统
+power generation
+大功率
+fuse
+dynamic performance
+仿真计算
+集中控制
+PID controller
+数控加工
+抄表
+PI controller
+千瓦
+nuclear power
+双闭环控制
+交流伺服电机
+锂电池
+protocol
+conductivity
+发光二极管
+safe operation
+飞灰
+措施
+bypass
+市场整顿
+水库调度
+劣质煤
+接地电阻值
+failure diagnosis
+工业自动化
+转速控制
+PROFIBUS-DP
+粒子群优化算法
+electrochemical property
+real-time simulation
+降压起动
+铁损
+声波吹灰器
+微机五防
+接线错误
+可燃性粉尘
+小型电机
+无汞
+speed identification
+auxiliary power supply
+脱水桶
+直驱
+并联型有源电力滤波器
+风力发电技术
+飞剪
+Decoupling control
+电压监测
+复小波
+distributed energy system
+电场
+试验研究
+复合控制
+sliding mode variable structure control
+会议电视
+电压传感器
+区域经理
+dead-time
+power battery
+APFC
+电工钢
+小电厂
+永磁风力发电机
+无人值守变电所
+economic load dispatch
+绝缘线
+防鸟害
+带电测量
+煤质变化
+线圈绝缘
+power demand side management
+全电流
+冷阴极荧光灯
+automatic generation control （AGC）
+电气监控
+mal-operation
+机械闭锁
+direct current system
+剩余电流动作保护装置
+网厂分开
+capacity fading
+thermal power units
+宽调速
+实时/历史数据库
+负荷波动
+电力系统振荡
+reactive power balance
+工业加热
+电铁
+充电模式
+probabilistic production simulation
+Soft switching
+保护定值
+跨步电势
+系统振荡
+中置柜
+cyclic performance
+TTU
+battery capacity
+D-STATCOM
+电力系统保护
+组合间隙
+电压模型
+母联
+中性点位移电压
+中央热水器
+高阻抗变压器
+地电位升高
+PTN
+instrument transformer
+家电经销商
+bearingless
+AC/DC变换器
+main electrical connection
+tube rupture
+充电保护
+机炉协调控制
+磁控电抗器
+优化检修
+配模
+steam turbine generator
+水轮机调速系统
+common information model
+generation scheduling
+最小二乘法
+企业文化建设
+磁场计算
+analysis and forecast
+断相
+隔板
+分析处理
+燃烧技术
+原电池
+wireless communication
+快速傅里叶变换
+添加剂
+瞬时无功理论
+屏蔽层
+Dielectric loss
+凝结器
+wire and cable
+变极调速
+multilevel converter
+蓄电池厂
+端子
+电化学活性
+除灰
+high temperature air combustion
+reheating furnace
+轴向磁场
+漏电保护开关
+NO_x
+反馈线性化
+inductance
+passivity-based control
+荷电率
+垂直接地极
+acoustic resonance
+光电源
+configuration scheme
+commissioning test
+electricity demand
+cascading failures
+电力基建
+电流滞环
+转速辨识
+热油循环
+互联电力系统
+湖北电力
+leakage reactance
+hydraulic generator
+用电结构
+智能操作
+电力系统暂态稳定
+小水电开发
+绝缘监察装置
+大型汽轮发电机组
+调峰机组
+发电机模型
+大气过电压
+玻璃布层压板
+双余度
+三峡左岸电站
+isolating switch
+网络损耗
+潜伏性故障
+火花间隙
+lightning protection measures
+高频信号注入
+主蒸汽
+九区图
+试验研究院
+电动机构
+voltage adjustment
+travelling waves
+brushless
+speed governing system
+极化继电器
+光电式互感器
+分接头
+晶闸管控制电抗器
+LCL filter
+燃气轮机发电
+密封电池
+小电流系统
+湖南省电力公司
+pulse width modulation （PWM）
+coal fired power plant
+风扇磨煤机
+加热器
+蚁群算法
+additives
+内胆
+SPD
+dispatch
+空气冷却
+《安全生产法》
+integrated automation system
+等离子电视
+山东电力
+ECS
+current sensor
+油膜振荡
+GTO
+脱硫技术
+WAN
+炉衬
+跨步电压
+合同能源管理
+Converter
+换位
+数控设备
+电源电压
+交流电源
+soft starter
+实时监控
+失效分析
+电磁阀
+cause analysis
+decoupling
+finite element
+水压试验
+电量
+过载能力
+汽车蓄电池
+hybrid simulation
+网络家电
+space vector PWM
+specific capacitance
+节能荧光灯
+motor protection
+electric load
+油动机
+漏液
+波轮式洗衣机
+开关变换器
+燃煤发电
+汽车前照灯
+finite element analysis
+电动机定子
+电力需求侧
+铁磁谐振过电压
+流注
+谐波损耗
+锂离子电池组
+power transmission system
+机床工具行业
+interior point algorithm
+天然光
+电力监管机构
+大型火电机组
+Hydraulic turbine
+current tracking
+uninterrupted power supply
+type test
+补偿度
+公告日
+arc voltage
+计量箱
+anti-icing
+DEB
+油压装置
+damping control
+交叉跨越
+主蒸汽压力
+消毒柜
+快速切换
+直流分量
+再生制动
+垃圾发电
+高频头
+dispatching
+下一代网络
+PF
+调压器
+电磁力
+变频控制
+电路设计
+discharge
+使用寿命
+低压配电
+出力
+Matlab simulation
+时间同步
+安全监督
+触电事故
+hydrophobicity
+班组建设
+潮流
+并联电容
+卧式加工中心
+产品统计
+单相接地保护
+反激式
+磁轭
+photovoltaic generation
+空间电压矢量调制
+验电
+Saber
+电水壶
+氢气纯度
+有源钳位
+voltage vector
+脉冲功率技术
+coal fired boiler
+碳棒
+异步起动
+de-icing
+瞬态仿真
+电压偏移
+阻尼控制
+发电工程
+Multilevel
+电力信息网
+无源性
+交流励磁机
+轮毂电机
+双文明单位
+电动机故障
+低NOx
+linear synchronous motor
+Electric power system
+流化床
+microprocessor
+变压器厂
+优化规划
+降阻
+electromagnetic torque
+熔融碳酸盐燃料电池
+稳压吹管
+汽机房
+reactive voltage
+transverse differential protection
+高压开关行业
+直流电阻测量
+初始位置检测
+半导电层
+solid insulation
+双进双出钢球磨
+大规模电力系统
+再热蒸汽
+调度员培训系统
+PQ分解法
+integrated resource planning
+单相配电变压器
+运行备用
+电力企业标准化
+电场干扰
+gel battery
+分段断路器
+电能计量系统
+昆明电网
+导线选型
+T接线路
+微电机行业
+operation order
+同期并列
+power system security
+稳燃腔燃烧器
+内部短路计算
+负荷恢复
+斜柱基础
+电力板块
+机组保护
+doubly salient motor
+电压稳定域
+electricity marketing
+superconducting magnetic energy storage （SMES）
+华能玉环电厂
+broken rotor bar
+农电服务
+选相合闸
+电流行波
+可调光电子镇流器
+自愈控制
+主保护配置方案
+五电平逆变器
+变压器事故
+电力系统稳定器(PSS)
+重要用户
+功率方向继电器
+基波分量
+bed temperature control
+PE隔板
+电力储能
+临界档距
+定子槽楔
+电力生产过程
+输电规划
+continuous power flow
+导前时间
+高压调节汽门
+fault phase selector
+dielectric dissipation factor
+doubly-fed induction generator （DFIG）
+智能化脱扣器
+捕滴器
+tE时间
+出口断路器
+DC transmission system
+农村电气化工作
+非同期并列
+输电方式
+抗熔焊性
+protection relaying
+辽宁电网
+灯泡式水轮发电机
+participation factor
+关口计量点
+饱和盐密
+综合负荷
+中国家电市场
+夹件
+需求侧响应
+落雷密度
+磁极压板
+高厂变
+高速电动机
+子导线
+CDEGS
+通信继电器
+电厂自动化
+可控串联补偿器
+异步化同步发电机
+industrial EtherNet
+dispatcher training simulator（DTS）
+雨闪
+管母线
+导线选择
+signal injection
+power system control
+柳州电厂
+power transmission and transformation
+公共连接点
+弹簧隔振基础
+FBD法
+“四管”爆漏
+wind power integration
+电弧电阻
+gas relay
+固态断路器
+Permanent magnet synchronous motor（PMSM）
+contract for difference
+背景谐波
+field-circuit coupling
+随机潮流
+缸效率
+短路分断能力
+中低压电网
+短期电价预测
+双调谐滤波器
+电力科技期刊
+重叠换相
+可控串联电容补偿
+sequence component
+单相自动重合闸
+overhead power line
+pumped-storage station
+demand-side management
+自并励励磁
+interphase power controller
+整套启动
+Turbo-generator
+Electric machinery and electrotechnology
+platen superheater
+single phase earth fault
+箱式变电所
+架空避雷线
+水电厂计算机监控系统
+三相变四相变压器
+分支线路
+中性点绝缘
+电能质量问题
+不良绝缘子
+氧化锌非线性电阻
+交—直—交
+径向悬浮力
+励磁调节系统
+ADSS cable
+旁路控制系统
+电网运行方式
+旁路控制
+等值阻抗
+ceramic metal halide lamp
+风偏闪络
+transformer windings
+Transient Stability
+分闸速度
+电磁单元
+直流回路
+漏氢量
+AC/AC converter
+变压器噪声
+熔断体
+单相接地故障选线
+TSI
+焊口
+架空电力线路
+前置机
+升压变压器
+谐波分量
+雷害
+交-交变频器
+VSC
+法国电力公司
+overcurrent protection
+正激变换器
+增压风机
+斗轮堆取料机
+变频压缩机
+五防
+机械行业标准
+上位机
+network security
+水利水电工程
+saturation
+充电器
+excitation
+改进遗传算法
+Test
+switching loss
+brushless direct current motor
+substations
+AC excitation
+防误装置
+shafting
+裕度
+small current grounding system
+阿尔斯通
+combustion stability
+Cooler
+寿命管理
+轴承振动
+harmonic source
+nanosecond pulse
+field oriented control
+发电装机
+power line carrier communication
+反电晕
+电压波形
+励磁控制系统
+electrical machine
+槽楔
+故障探测
+数字信号处理器（DSP）
+水电建设
+inverse system
+thermal process
+锅炉运行
+chopper
+重复接地
+感性负载
+电磁骚扰
+PCC
+稳态特性
+load distribution
+调度管理
+电机厂
+配置方案
+支持向量机
+fuzzy neural network
+地基处理
+水力设计
+air gap
+TA
+行业信息
+TCR
+coking
+internal model control
+系统调试
+投影机
+real-time database
+燃油锅炉
+变工况
+轴瓦
+绝缘性能
+power supply system
+linear matrix inequality
+阴极保护
+程控交换机
+动态补偿
+电子式
+斩波器
+发光效率
+保护系统
+感应同步器
+电瓷
+transient simulation
+缺陷处理
+electric energy
+锅炉汽包
+高耗能企业
+soft starting
+引脚
+小型电动机
+current protection
+水务管理
+dielectric strength
+电网频率
+录波
+分布参数模型
+Nonlinear control
+减摇鳍
+灰坝
+电力建设项目
+air heater
+选线装置
+data network
+水情自动测报系统
+decoupled control
+CFD分析
+机械强度
+驱动
+故障率
+人机界面
+碳刷
+伺服
+红外测温
+现场总线技术
+冷却系统
+temperature control
+国家能源
+相序
+network planning
+专委会
+电力勘测设计
+thermal plant
+电励磁双凸极发电机
+运行检修
+tgδ
+供电企业管理
+negative materials
+防跳继电器
+fossil fired power plant
+ash handling system
+滑压
+USC unit
+无溶剂浸渍漆
+主厂房布置
+high-voltage converter
+高阻抗电弧炉
+electricity price forecasting
+数字积分器
+膜式省煤器
+瞬时脱扣器
+mercury control
+电力行业信息化
+fault information system
+dispatcher training simulator
+接地引下线
+导线弧垂
+富液式
+分频输电
+生活用电量
+Electronic current transformer
+示温
+micro-computer protection
+允许载流量
+扰动分类
+空冷汽轮机
+混合线路
+electric transmission line
+反向恢复
+switchgear cabinet
+zero sequence
+基波电流
+combined cycle power plant
+热油喷淋
+chromatogram analysis
+wind power farm
+弹簧操作机构
+防误操作系统
+副绕组
+substation simulation
+分压电容
+相序排列
+绝缘寿命
+联合循环发电机组
+phase-shifting transformer
+石门电厂
+脉宽调制整流器
+battery life
+推力轴瓦
+联合电网
+暂态行波
+功率因数调整电费
+离子流场
+快切装置
+耐张塔
+事故预想
+输电成本
+switching over-voltage
+等效焓降法
+slip frequency
+滑参数停机
+主蒸汽流量
+insulation oil
+Zn-Ni battery
+space-vector
+cyclone burner
+变电工程
+危急遮断器
+垃圾电厂
+synthetic automation
+磁复位
+辅助问题原理
+锅炉制粉系统
+微波烹饪
+power generation technology
+overhead lines
+predictive current control
+单相供电
+OLE for process control（OPC）
+变电所自动化系统
+electronic instrument transformer
+电力检修
+无功发生器
+挠性覆铜板
+本安电路
+最高表面温度
+directional element
+harmonic analysis method
+牵引用铅酸蓄电池
+电力专用通信网
+高电压测量
+中压开关
+supercritical units
+危险影响
+发输电系统
+凝结水系统
+turbine unit
+MH electrode
+可用系数
+发电机失磁
+落脚河水电站
+杆塔接地电阻
+框架式断路器
+电机优化设计
+双电压合成
+农村变电所
+风水联合冷渣器
+需求侧
+mid-long term load forecasting
+电缆分接箱
+中性点小电抗
+电流纹波
+安装特点
+爬距
+电力销售市场
+高效率电动机
+partial discharges
+高倍率放电
+unmanned substation
+high voltage direct current
+urban power grid
+AGM隔板
+fire power plant
+LiBOB
+电导率
+仪器仪表
+系统辨识
+水煤浆
+Intranet
+communication
+锅炉受热面
+electrical power system
+谐波电流检测
+脉冲电压
+电动助力车
+氧化皮
+悬浮力
+小电流
+减温器
+NOX排放
+转差频率
+热控
+三相逆变器
+梅兰日兰
+over-current protection
+锰酸锂
+集成电路
+氮氧化物
+MIS系统
+模拟量
+处理措施
+负荷率
+变压器损耗
+石油钻机
+锅炉给水泵
+active power
+用电安全
+煤气化
+磁饱和
+Distribution system
+parameter setting
+状态反馈
+Wavelet transform
+直流侧电压
+selective protection
+供电职工
+membrane electrode assembly（MEA）
+联网效益
+相间干扰
+setting principle
+positive plate
+stator windings
+超高压电缆
+sintered NdFeB magnet
+distribution power network
+独立发电企业
+远方抄表
+允许温度
+轴承电流
+高中压转子
+voltage fluctuation and flicker
+农村供电
+低压避雷器
+台区
+不平衡负荷
+电池生产线
+pulverized coal-fired boiler
+daylighting
+无功电压控制
+impulse grounding resistance
+integrated magnetics
+后屏过热器
+跌落保险
+doubly-fed induction generator（DFIG）
+电力市场分析
+feed-water pump
+闭环测试
+发电容量
+水火电力系统
+输煤皮带
+电瓷材料
+降压变压器
+变频电动机
+wind energy generation
+overcharge protection
+electricity price forecast
+power transformers
+弛度
+电磁场数值计算
+常熟开关厂
+定子端部绕组
+heat recovery steam generator
+直流侧电压控制
+发电权交易
+短路环
+高压限流熔断器
+high voltage direct current（HVDC）
+用电水平
+低压成套
+low voltage apparatus
+直流电缆
+photovoltaic grid-connected
+外高桥电厂
+气动机构
+electric power dispatching
+cycling life
+残余旋转
+联结组
+standby power supply
+锂钴氧化物
+电容电动机
+凝结泵
+脉动转矩
+双向变换器
+调节级
+宁夏电网
+power factor correction （PFC）
+负荷经济分配
+级联H桥
+综合电价
+速度变动率
+分流系数
+磁瓦
+家电出口
+大港发电厂
+electrical endurance
+阻抗保护
+iron losses
+intelligent AC contactor
+基础接地
+施耐德电气公司
+travelling wave
+variable frequency
+power transmission
+electrode material
+电饭煲
+汽轮机叶片
+微机监控
+中央空调
+dynamic simulation
+particle swarm optimization（PSO）
+tower
+电气故障
+Profibus
+high power
+EMD
+系统改造
+光源
+施工企业
+test
+大型火电厂
+灰场
+speed governor
+combustion efficiency
+引水隧洞
+harmonics analysis
+NOx emission
+中性点不接地
+商业化运营
+鞍结分岔
+四川省电力公司
+中国电力行业
+static frequency converter
+抄表器
+dead-time compensation
+热态启动
+箝位
+微波硫灯
+配网规划
+自增湿
+平均电流控制
+electric machines
+新型变压器
+继电保护配置
+load switch
+对时
+变频器市场
+准同期
+母管制
+negative sequence current
+永磁同步直线电动机
+饱和电感
+寿命评定
+traction power supply system
+感应耐压试验
+水斗式水轮机
+电子脱扣器
+power flow analysis
+风量测量
+消谐装置
+电力销售
+切圆燃烧
+电阻接地
+电网损耗
+硅烷交联
+锅炉燃烧器
+液态排渣
+工频耐压
+fast charge
+carbon anode
+数字电液调节系统
+不对称故障
+抽水蓄能电厂
+发电设备制造业
+试验变压器
+准确级
+白色LED
+protection scheme
+电流互感器变比
+启停
+电力企业信息化
+线路保护装置
+优化燃烧
+环氧树脂浇注
+复合转子
+Soft-switching
+箝位电路
+锰电池
+平面变压器
+扩展规划
+nonlinear resistance
+少油开关
+中国机械工业联合会
+PI控制器
+高效过滤器
+馈线
+通信网络
+磁场
+体制改革
+工业协会
+Modbus
+退火炉
+solar cell
+直流电压
+电机转子
+voltage compensation
+电磁机构
+励磁回路
+双向开关
+空调企业
+电机端盖
+光衰
+distributed parameter model
+电煤价格
+直流运行
+power factor correction（PFC）
+pumped storage
+drum boiler
+接头发热
+KKS
+Kaplan turbine
+主汽温控制
+电管局
+无功负荷
+主轴电机
+低压电器行业
+绝缘监察
+孤网运行
+电费收缴
+电价制度
+冰箱节能
+承压部件
+辅助绕组
+电动机保护装置
+furnace pressure
+谐波谐振
+temperature
+维护
+耐火材料
+总线
+single chip microcomputer
+设备改造
+仿真系统
+automation
+密封
+电快速瞬变脉冲群
+规约转换
+SNCR
+稀土永磁同步电动机
+惠而浦
+工频接地电阻
+太阳能发电厂
+阳极催化剂
+电老化
+communication power supply
+tripping
+earth fault
+电流型控制
+maximum power point tracking（MPPT）
+密封继电器
+函数图
+charge efficiency
+耐火电缆
+磁保持继电器
+火电项目
+space vector pulse width modulation（SVPWM）
+烟温
+感应过电压
+固态开关
+环氧浇注
+防跳回路
+合成试验
+阻抗
+电磁发射
+Buck converter
+端电压
+电流测量
+supervisory control system
+insulating material
+热力性能
+load control
+WiMAX
+运行中
+SMES
+数据网络
+cost allocation
+公告号
+智能电表
+nonlinear load
+水轮机转轮
+softswitch
+起动特性
+load prediction
+coal combustion
+evaporative cooling
+弱磁
+无烟煤
+simulation model
+喘振
+汽蚀
+需方管理
+继电保护信号
+香港照明学会
+动作次数
+主变中性点
+方向高频保护
+电压矢量脉宽调制
+端部发热
+最优变目标控制
+internal fault simulation
+和膏
+Flux-switching
+carrier phase-shifted SPWM
+resonance mechanism
+相量测量装置（PMU）
+计划停电
+power construction enterprise
+外网等值
+winding distortion
+power system state estimation
+电压空间矢量PWM
+风溪河流域
+电磁力波
+intelligent electronic device （IED）
+Furnance transformer
+相间距离保护
+Interruptible load
+internal cooling water
+组合波发生器
+有或无继电器
+Hainan Power Grid
+TA断线
+硅橡胶伞裙
+带电线路
+内蒙古电网
+VPI绝缘
+大容量试验
+动作次数约束
+电网络法
+DC biasing
+current source rectifier
+XLPE电缆绕组
+用电客户
+flexible AC transmission systems （FACTS）
+retail electricity market
+分闸时间
+grid dispatching
+平衡化补偿
+配电线载波
+islanded operation
+Magnetizing inrush current
+断线谐振
+高压侧电源
+LCC谐振
+control performance standard （CPS）
+牵出特性
+sub-synchronous resonance（SSR）
+contingency screening
+external fault
+large receiving-end grid
+trip rate
+故障测距装置
+main equipment protection
+Bearingless motors
+硅橡胶合成绝缘子
+optimal reclosing time
+optical fiber protection
+MABUCHI
+terminal difference
+substation integrated automation
+交直流并联输电
+Bearingless induction motor
+动态相量法
+气体绝缘金属封闭开关设备（GIS）
+Interior point method
+高压并联电容器组
+No-load test
+高压厂用电
+静态继电保护
+电抗法
+支路交换法
+动态安全评估
+earth wire
+zero-sequence mutual inductance
+superconducting magnetic energy storage（SMES）
+External rotor
+功率因数/校正
+HVDC converter station
+绿色电网
+配电网馈线自动化
+交直流混联系统
+电力系统潮流
+Power transmission line
+辅助蒸汽系统
+稀土永磁无刷直流电动机
+Shanghai power grid
+水涂粉
+leading phase operation
+ERTU
+backup power switchover unit
+PV节点
+modal interaction
+稳定绕组
+PWM-ON-PWM
+《关于办理盗窃电能案件的意见》
+变压器箱
+sampled value
+striking distance
+transmission expansion
+重合闸方式
+无功/电压
+重瓦斯保护
+electricity demand forecasting
+眩光指数
+Jiangsu Power Grid
+粤东电网
+同杆双回路
+harmonics compensation
+架空绝缘配电线路
+单层绕组
+double-circuit line
+电磁解环
+防爆电机行业
+loading margin
+扇形导体
+frequency bias coefficient
+共振机理
+on-load tap changer（OLTC）
+四碱式硫酸铅
+主泵电机
+PM machine
+pollution test
+短路电动力
+bus fault
+energy-saving dispatching
+全站失压
+draft fan
+双星形接线
+分坑
+atmospheric pressure non-thermal plasma
+coordinate control system
+保护灵敏度
+端部固定
+F—C回路
+unbalanced voltage
+under frequency load shedding
+单双层绕组
+起始放电电压
+灵活交流输电系统（FACTS）
+电磁暂态仿真程序
+真空自动重合器
+Connection symbol
+切换回路
+开通角
+coal firing boiler
+数字化电网
+primary air pressure
+Substation automation
+耐污性能
+触头弹跳
+故障暂态信号
+运行统计
+屏蔽套损耗
+转子一点接地保护
+有机绝缘
+变压器装配
+侵入波
+无死区控制
+每极每相槽数
+相间功率控制器（IPC）
+在线校核
+芯棒脆断
+定子接地故障
+波形对称
+铁心退火
+TA极性
+power frequency parameter
+实时电力市场
+equal area criterion
+等离子点火燃烧器
+家用断路器
+pollution withstand voltage
+automation of distribution network
+柔性功率调节器
+直线超声波电动机
+strand breakage
+超高频检测
+交直流输电
+spring mechanism
+stochastic assessment
+zero sequence mutual inductance
+lightning shielding failure
+局放检测
+电力数据网
+次同步谐振（SSR）
+无熔丝电容器
+premature capacity loss
+ground flash density
+explosion proof motor
+无刷直流电机（BLDCM）
+auxiliary contact
+电池储能
+videoconference system
+电力市场运营系统
+microprocessor_based protection
+限流式断路器
+综合年费用
+metal oxide surge arrester（MOA）
+slot leakage reactance
+Linear synchronous motor
+secondary cable
+交流低压
+Short term load forecasting
+圆排机
+telecontrol protocol
+串补线路
+limiting measure
+电容电流测量
+stringing construction
+暂态稳定计算
+超短期负荷预报
+smart distribution grid
+gas insulated substation（GIS）
+Armature reaction
+空载长线
+线损精细化
+输电可靠性裕度
+双金属元件
+外熔断器
+static var generator（SVG）
+Fossil-fired power plant
+demand side management （DSM）
+numerical protection
+光通维持率
+高级调度中心
+TOV
+超超临界压力机组
+全封闭组合电器（GIS）
+grid operation
+Doubly salient motor
+瞬态饱和
+电量计费系统
+保护动作分析
+Arc suppression coil
+demand side response
+局放试验
+低压电抗器
+three phase power flow
+家用及类似场所用断路器
+VDCOL
+Balance transformer
+stress control tube
+晶闸管投切电容
+分相电流差动保护
+传输阻塞
+持续运行电压
+变结构耗散网络
+Hubei power grid
+fault current limiter（FCL）
+两层土壤
+合闸时间
+去磁曲线
+interconnection benefit
+复合漆包线
+直流线路保护
+动态相量模型
+double configuration
+高频闭锁保护
+Rated voltage
+表面场强
+高压侧电压控制
+ferromagnetic resonance linewidth
+厂级监控信息系统（SIS）
+可用传输能力
+generation right
+three-phase PWM rectifier
+面向通用对象的变电站事件
+automation device
+母线负荷预测
+谐波源模型
+substation planning
+断路器电容器
+谐波源用户
+大跨越线路
+composite load model
+变压器有载调压
+多分辨形态梯度
+eigenvalue analysis method
+区域用电量
+导线布置
+SSZ
+摩托车电池
+闭环试验
+permanent magnet linear synchronous motors
+快速暂态
+滑动轴承
+洁净煤技术
+对地绝缘电阻
+相绕组
+变频起动
+access network
+power electronic
+智能单元
+连续排污
+flame detection
+阻抗电压
+照明行业
+electric railway
+control center
+electromagnetic design
+漏风系数
+多种产业
+state maintenance
+complex wavelet
+热刺激电流
+洗衣机电机
+导通电阻
+接地故障保护
+磷酸盐处理
+照明标准
+核电设备
+燃油加油机
+NTP
+abrasion
+electric field intensity
+光通量
+设计选型
+高频开关电源
+Smith预估器
+负载特性
+器件
+碾压混凝土
+主回路
+布袋除尘器
+电磁参数
+desulphurization
+翻车机
+科技情报网
+背压
+加工中心
+防止措施
+frequency tracking
+防垢
+三相电动机
+发电效率
+驱动器
+超速保护
+高效电机
+earth resistance
+导电杆
+lighting control
+hysteresis control
+雷击电磁脉冲
+奥里油
+贵州电网
+continuation method
+灰水
+高压异步电动机
+燃机电厂
+高压绝缘
+检修人员
+low load
+超临界压力
+直流励磁机
+current detection
+德州仪器
+三相绕组
+软件锁相环
+flywheel energy storage
+EMI filter
+拉线
+同步数字系列
+补偿电流
+热管
+microcontroller
+remote monitoring
+二极管
+energy storage
+ZigBee
+仿真研究
+ERP
+节电器
+DMS
+应急电源
+AC
+信息家电
+充放电
+在线诊断
+交交变频
+电气技术
+功率模块
+有功损耗
+运动控制系统
+industrial boiler
+控制电源
+子站
+矿井提升机
+overvoltage protection
+Current
+风电产业
+TMN
+高耗能
+控制电缆
+anthracite
+兆欧表
+magnetic field
+RCD
+fault isolation
+采集终端
+low temperature sintering
+RoHS
+拉西瓦水电站
+stainless steel tube
+超导发电机
+汽水分离器
+空气开关
+反接制动
+coal blending
+electrode materials
+煤粉仓
+自动调节
+拓扑分析
+接近开关
+particle swarm optimization algorithm
+安全生产管理
+μC/OS-Ⅱ
+FCS
+电视机
+diagnosis
+transducer
+磁性材料
+计数器
+设备检修
+field test
+programmable controller
+稳压电源
+路灯
+configuration software
+expert system
+工业锅炉
+铁氧体
+electromagnetic field
+遥控器
+冗余
+比电容
+矿热炉
+伺服驱动器
+stable operation
+distribution systems
+精确线性化
+机组振动
+缺相运行
+集中补偿
+微机型
+modeling
+crack
+测功机
+配电室
+中压变频器
+电气参数
+舵机
+自整角机
+蒸汽轮机
+前馈补偿
+粒子群优化
+电力机车
+PDA
+reconfiguration
+feedback linearization
+机会约束规划
+DAS
+脉冲变压器
+阻垢
+rough set
+粒子群算法
+reverse osmosis
+电子皮带秤
+commutation
+electric motor
+thermal efficiency
+power source
+过载保护
+智能仪表
+自动控制
+热泵热水器
+exergy
+芯棒
+低速
+化成
+锅炉改造
+自动开关
+cascade control
+低温烧结
+联轴器
+position control
+吹灰
+绝缘强度
+烧嘴
+水位计
+水轮机组
+电缆隧道
+inductor
+breakdown voltage
+magnetizing current
+远方保护
+demand side management（DSM）
+W形火焰锅炉
+导线排列
+给水泵组
+暂态电能质量
+sensitive equipment
+雷击故障
+通道配置
+自承式光缆
+同杆双回
+小龙潭电厂
+户外高压隔离开关
+bus bar protection
+变电站配置语言
+排油注氮
+可调光
+击穿机理
+绝缘状况
+配电网自动化系统
+非直接接地系统
+fossil-fired unit
+购电费用
+大七孔电站
+Huaneng Yuhuan Power Plant
+离子流密度
+电解二氧化锰（EMD）
+电晕损失
+combustion control system
+静态安全约束
+不对称负荷
+W火焰
+断路器灭弧室
+暂态饱和
+sodium polysulfide
+可中断负荷管理
+架空地线复合光缆
+机电暂态
+stator flux orientation
+直流局部放电
+pulverized coal system
+火检探头
+异频法
+同期系统
+neutral point voltage
+扩径导线
+线路器材
+串联电容补偿装置
+输电电价
+cascaded multilevel inverter
+participation factors
+reactance ratio
+镉电极
+large transformer
+临汾供电分公司
+tiny-oil ignition
+Electric Power System
+交直流并联系统
+管理线损
+干式电力变压器
+零起升压
+电压稳定极限
+轴封漏汽
+复合外套避雷器
+火泥熔接
+水内冷
+广场照明
+pole and tower
+electromagnetic loop
+屏蔽绕组
+pollution flashover voltage
+储能电池
+过电流继电器
+电缆支架
+燃煤示范电厂
+HV XLPE power cable
+虚拟阻抗
+辐射网
+零序功率
+小型直流电动机
+动态无功
+热控设备
+加氧处理
+电热老化
+预防性试验规程
+Permanent magnet linear synchronous motor
+切缸
+operation and control
+摆动燃烧器
+fault circuit selection
+单端暂态量保护
+oil gun
+功率倒向
+Silin Hydropower Station
+受端
+双背压
+static load model
+pump turbine
+云电外送
+电力架空光缆
+power transmission and distribution
+多相感应电机
+谐振网络
+Hydro-generator
+馈线终端
+Zn/Ni battery
+超（超）临界机组
+电网设备
+入地电流
+电容器额定电压
+三电平直流变换器
+transient based protection
+电气主设备
+电流误差
+小信号建模
+二氧化锰电极
+金属技术监督
+microwave station
+电力系统建模
+stator ground fault
+Lead wire
+电磁电器
+平行集束导线
+无功优化控制
+复合外套
+温差电致冷组件
+雷电冲击电压
+发电厂设计
+大截面电缆
+distribution network system
+控制循环锅炉
+电流纵差保护
+快速瞬变过程
+泄漏比距
+盐密值
+导线温度
+高频交流环节
+分列运行
+电压无功自动控制
+微机差动保护
+中点钳位
+输电开放
+non-solidly earthed network
+劣化绝缘子
+integrated substation automation
+小岛运行
+暂态量
+conductor selection
+母线失压
+electromagnetic voltage transformer
+phasor measurement unit(PMU)
+预期购买
+谐振控制器
+power flow algorithm
+中型高压电机
+无刷直流发电机
+直流接地故障
+通流改造
+电化学浸渍
+一机多模
+电池内压
+main electrical wiring
+电力自动化系统
+动合触点
+组塔
+turbine-driven feed pump
+Composite insulator
+dead-time effects
+乏气送粉
+高压厂用变压器
+启停调峰
+曲靖电厂
+平衡牵引变压器
+扩展等面积法
+surge protective devices
+智能操作票
+three-phase power flow
+双分裂导线
+深循环寿命
+盘山发电厂
+on-load tap changer
+security and stability control system
+透平型发电机
+main protection configuration scheme
+顺序控制程序
+回路改进
+县调自动化
+电力建设市场
+市场清算电价
+配电模式
+torque ripples
+CPS标准
+transformer bushing
+optimal multiplier
+电抗参数
+sintered Nd-Fe-B magnet
+低磷酸盐
+潮流跟踪法
+open-phase
+灾变防治
+轻瓦斯保护
+radial network
+绝缘受潮
+Market power
+overhead ground wire
+transmission expansion planning
+grounding switch
+多运行方式
+高自然功率
+DC contactor
+EDTA清洗
+排汽装置
+generator excitation system
+大型地网
+振铃电路
+doubly-fed machine
+汽轮发电机定子
+故障气体
+高压
+超标
+状态观测器
+机械工业
+技术特点
+reliability
+现场试验
+换热器
+数学形态学
+专用集成电路
+冷却方式
+全数字
+电磁铁
+remote control
+parallel
+机电一体化
+动态性能
+wavelet
+废旧家电
+煤燃烧
+电气安装
+油烟机
+角焊缝
+耐热钢
+CAD
+绿色电力
+双回路
+OTDR
+混凝土面板堆石坝
+network management system
+电磁制动器
+异常分析
+耐久性试验
+谐波污染
+design features
+topology
+灵敏度
+中压配电
+接线方案
+peak-load regulation
+Insulation oil
+电力结构调整
+电网建设项目
+excitation transformer
+实际线损
+单片机电路
+变电站直流系统
+灭磁电阻
+烟气换热器
+笼型感应电动机
+暂态零序电流
+sequence of events
+无功功率控制
+compensation performance
+铁磁共振线宽
+推力头
+电力交易中心
+电磁接触器
+corrective control
+静态负荷模型
+runback
+二次回路压降
+电磁锁
+阻抗元件
+嵌线工艺
+power supply scheme
+独立发电厂
+rotor flux
+auxiliary problem principle
+联络变压器
+弧触头
+购电成本
+transient overvoltage
+供电单位
+电工专用设备制造业
+三峡水电厂
+额定工作电压
+flashover characteristic
+General Packet Radio Service（GPRS）
+cable compound
+low NOx combustion
+测功法
+大轴弯曲
+power generation equipment
+Power Transformer
+成膜胺
+单端反激式
+开闭站
+SEI film
+permanent magnet motors
+induction furnace
+通流间隙
+保护接地线
+电压失稳
+氢电导率
+绝缘盒
+炉顶密封
+electric vehicle （EV）
+generator model
+OVATION
+落煤管
+steam turbine unit
+relay protection device
+通电延时
+low pressure cylinder
+altitude correction
+FSSS系统
+汽机基础
+农电网络
+flux weakening
+current transformer（CT）
+调容变压器
+zinc oxide arrester
+互为备用
+家电品牌
+electrolyte additive
+功率继电器
+power system transient stability
+上海电力
+制动电流
+集合式并联电容器
+杆塔结构
+无轴承异步电动机
+withstand voltage test
+贝瑞隆模型
+有限转角
+调峰调频
+潮流方程
+双进双出
+用电秩序
+炉水泵
+农电资产
+真空开关柜
+变电站监控
+四管泄漏
+transient calculation
+现场交流耐压试验
+神头二电厂
+输电费用
+机组调试
+电动螺丝刀
+同期合闸
+brushless dc motor
+前推回代
+grounding net
+harmonic loss
+气体火花开关
+CoOOH
+充电功率
+电联接
+反事故
+限流式熔断器
+超高压汞灯
+output impedance
+配变容量
+竞标策略
+调度电话
+间接空冷系统
+热稳定校验
+negative plate
+液态排渣炉
+angle stability
+非同期
+face rockfill dam
+欠电压
+级联多电平逆变器
+三角形接线
+直流系统接地
+过激磁
+single-phase-to-ground fault
+单机无穷大系统
+zinc anode
+carbon content in fly ash
+模型水轮机
+微机距离保护
+voltage balance
+虚拟电阻
+电力企业经营
+架空绝缘电缆
+电气系统模块库
+输电网络规划
+标准电容器
+grid-connection
+Low frequency oscillation
+释放电压
+白色家电
+隔爆型电气设备
+thermal power station
+electric power transformer
+带负荷测试
+双向直流变换器
+光纤差动
+容载比
+Buck-Boost
+交-交变频调速
+high-frequency channel
+return stroke
+电力信息网络
+动稳定
+斜坡补偿
+Distribution automation
+非特征谐波
+大板梁
+轴流转桨式水轮机
+高能耗变压器
+error code
+主触头
+power supply enterprises
+供电区域
+quality of electric energy
+cell performance
+Voltage regulator
+state evaluation
+概率评估
+平衡电抗器
+IEC standard
+开关厂
+field-oriented control
+peak load shifting
+low voltage ride through
+小电网
+给水流量
+牵引变电站
+电力电子变换器
+电气间隙
+感应调压器
+盘式电机
+绝缘电阻值
+二次电流
+《电力体制改革方案》
+最大风能追踪
+统一调度
+球形氢氧化镍
+电动机效率
+“绿色照明”
+TWACS
+光纤以太网
+炉内脱硫
+指示仪表
+顺序控制系统
+高压绝缘子
+烧毁原因
+single phase grounding
+投入率
+wind speed forecasting
+过负荷保护
+转供电
+loss reduction
+微水
+接触电势
+电力金具
+thermal control system
+炭棒
+馈线保护
+荧光灯镇流器
+电力集团公司
+speed-sensorless
+四管
+magnetic field analysis
+投光灯
+基本电价
+整流模块
+密封蓄电池
+ice accretion
+combined heat and power
+真空滤油机
+光伏阵列
+氧还原
+copper clad laminate
+设计风速
+潜油泵
+弧光接地
+自投
+火检
+surge arrester
+active power factor correction
+干扰观测器
+电压传输比
+电器附件
+推挽
+dielectric loss factor
+蝴蝶阀
+风力发电厂
+programmable logic controller （PLC）
+家电生产企业
+故障录波装置
+impregnating varnish
+升压变换器
+oscillation mode
+多业务传送平台
+load curve
+洁净煤发电
+harmonic currents
+培训仿真
+热网加热器
+synchronous generators
+中央信号
+发电机运行
+间接空冷
+frequency response analysis
+equivalent impedance
+solid oxide fuel cell （SOFC）
+中点电位平衡
+compensation strategy
+doubly-fed generator
+磁力起动器
+可观测性分析
+放电深度
+炉膛安全监控系统
+tower foundation
+学习型班组
+屏蔽服
+电弧特性
+远动终端
+模糊性理论
+分马力电机
+电紧张
+变压运行
+铁损试验
+Pt/C
+低频方波
+瓦温
+多业务传输平台
+solar power generation
+阀门管理
+充油式
+受热面管
+电量电价
+分散补偿
+新型绝缘材料
+配风方式
+condensate polishing
+保护角
+edge element
+zero sequence voltage
+电弧故障
+electrical energy quality
+磁密
+三次谐波电流
+绝缘料
+交易计划
+精装修
+adaptive protection
+single phase grounding fault
+over voltage protection
+调压方式
+high voltage frequency converter
+工业以太网技术
+送电
+peak current control
+electric power grid
+cable fault
+无源性控制
+electric bike
+凝结水处理
+联合循环电站
+发电机定子绕组
+系统集成
+选用
+老电厂
+permanent magnet generator
+起动控制
+光传输网
+combustion regulation
+斩波电路
+compact fluorescent lamp
+极化磁系统
+钢筋混凝土电杆
+excitation inrush current
+power system harmonics
+钢球磨
+耐电压强度
+特种变压器
+操作箱
+四川电力
+水汽质量
+停电损失
+Transmission lines
+bias combustion
+surge protective device
+舌簧继电器
+开关拒动
+d-q变换
+high voltage converter
+negative-sequence current
+培训仿真系统
+锌银电池
+PT二次压降
+staged combustion
+phasor
+电流跟踪控制
+直流保护
+直流高压
+输灰系统
+装配压力
+Space vector
+低压配电屏
+direct methanol fuel cell （DMFC）
+voltage grade
+magnetic bias
+负荷中心
+thyristor controlled series compensation
+省级电网
+expansion planning
+active power filters
+开关电源变压器
+排汽温度
+电力营销管理
+齿谐波
+space vector modulation（SVM）
+多电平变流器
+multilevel inverters
+转子偏心
+water-cooled wall
+三相短路电流
+建筑电气设计
+汽门控制
+抽出式
+家电工业
+真机试验
+commutation torque ripple
+欧式箱变
+embedded Ethernet
+transmission technology
+耐热铝合金导线
+电价模型
+cogeneration power plant
+电流斩波
+残流
+定位筋
+交流电气传动
+工频电场强度
+vector fitting
+price bidding
+比率差动保护
+农村水电站
+gas turbine power plant
+电动汽车电池
+公用电网
+铁芯变压器
+不停电电源
+不舒适眩光
+中国家电产业
+变压器内部故障
+Neutral point
+hydroelectric generator
+调差
+fault components
+电机冲片
+power supply company
+耒阳电厂
+超导磁储能
+漏电抗
+小干扰
+generation company
+用电分析
+BITS
+平圩电厂
+漏磁系数
+voltage stress
+进店费
+输煤程控
+peak regulation
+Sensorless control
+强迫冷却
+pumped-storage
+多速电动机
+高压工程
+三相四桥臂
+ice coating
+容性设备
+等效焓降
+impulse voltage generator
+热工控制
+测控单元
+电力工程造价
+双边合同
+gas-turbine
+overmodulation
+触头压力
+combustion technology
+annealing furnace
+主设备
+电流回路
+谐波功率
+机电类
+glare
+真空开关管
+冰蓄冷空调
+滤波装置
+可编程逻辑
+frequency regulation
+爆炸危险场所
+热缩材料
+寄生参数
+常闭触点
+电线电缆产品
+specific capacity
+辅助接点
+energy meter
+预付费电能表
+家电商品
+remote meter reading
+State estimation
+充电方法
+中性线断线
+扣式电池
+热保护器
+动力配煤
+谐波滤波器
+商业运行
+gel electrolyte
+太阳热水器
+电动机转速
+示范窗口
+insulation test
+直流变频
+变压器绝缘油
+电流谐波
+叶片
+PLC控制系统
+system identification
+H∞控制
+温度补偿
+储能
+家庭网络
+电气线路
+稳压
+driving circuit
+并网控制
+optimized operation
+电子变压器
+current sharing
+auxiliary power
+wind power system
+optical cable
+软开关技术
+forward converter
+喷燃器
+boiler water
+电机技术
+space voltage vector
+wall temperature
+单机容量
+electric energy measurement
+PWM整流
+交交变频器
+combustion diagnosis
+分布式能源系统
+VSCF
+低压无功补偿
+交流输电
+阳极
+柴油发电机
+拓扑结构
+切换
+特性曲线
+torque
+数字滤波
+价格战
+微机监控系统
+编程器
+卖场
+热稳定
+电流源
+reliability index
+烘炉
+直流调速系统
+峰度
+dynamic stability
+time delay
+可靠性试验
+功率放大器
+过渡过程
+operating mode
+分布式控制系统
+软测量
+管理
+electrical contact
+磁性槽泥
+平衡容器
+点检定修
+CEMS
+pulse power
+机心
+电路拓扑
+大坝安全
+民用电
+fault simulation
+clean coal technology
+空冷塔
+配风
+ionic conductivity
+汽车照明
+saddle-node bifurcation
+ADRC
+overcurrent
+automatic meter reading
+lightning rod
+频敏变阻器
+容量选择
+PSpice
+mutual inductance
+engineering geology
+electricity consumption
+水能资源
+纹波
+Design
+勘测
+overhaul
+洁净度
+不锈钢管
+白炽灯
+行程开关
+标准装置
+磁悬浮轴承
+标准化作业
+state monitoring
+交流异步电动机
+spread spectrum communication
+Servo system
+缩略词
+热处理
+sensor
+参数优化
+energy conservation
+测试仪
+多目标优化
+安全经济运行
+Tabu搜索
+整流桥
+协调优化
+电池市场
+炉墙
+故障保护
+接触器线圈
+误码
+风力发电站
+冷热电联供
+auxiliary equipment
+合环
+large capacity
+零序电流互感器
+横向磁场
+尾水管
+计划检修
+object-oriented
+散热
+强化传热
+single-chip microcomputer
+energy efficiency
+水电
+广域网
+通信网
+阀门
+石灰石
+参数计算
+ADO
+安全防护
+fluidized bed
+低功耗
+电源系统
+manufacturing process
+工程学会
+效益分析
+Reliability
+magnetic saturation
+循环倍率
+零电压
+核电发展
+半桥
+电位梯度
+一点接地
+感应炉
+智能变送器
+economy
+protection
+运行控制
+光电编码器
+step motor
+经济性分析
+恒功率
+power unit
+heating furnace
+lightning arrester
+调制解调器
+视频监控
+企业文化
+safety
+传热
+combustion characteristics
+tension control
+绕线式异步电动机
+自动切换
+功能块
+产品型号
+soft start
+扭振
+免维护
+半导体照明
+PWM control
+滑环
+频率控制
+noise
+热处理炉
+补焊
+网络控制系统
+技术经济分析
+电气系统
+安全性能
+surface modification
+燃烧诊断
+交流电压
+digital control system
+照明方式
+潜水电泵
+化学水处理
+饱和电抗器
+组网方案
+condition based maintenance
+insulation material
+立式加工中心
+Speed control
+水位测量
+告警
+economical operation
+高炉煤气
+光伏电池
+数字锁相环
+控制装置
+运算放大器
+荧光粉
+启动方式
+蜗壳
+接触不良
+温度传感器
+粉煤灰
+安全生产工作
+发热
+低电压
+集中供热
+data communication
+chromatographic analysis
+蓄热式
+浪涌保护器
+音响系统
+gasification
+剩磁
+红外检测
+自动补偿
+触发脉冲
+最小二乘支持向量机
+网络通信
+阻燃
+Battery
+消弧
+运行故障
+程控系统
+锌粉
+电池材料
+coal gasification
+PASS
+性能分析
+optimal control
+CFD
+地理信息系统
+嵌入式
+防腐
+液压系统
+触摸屏
+机电产品
+fly ash
+机电设备
+补偿器
+无人值守
+空压机
+远程控制
+test method
+system integration
+保护
+南博会
+能源效率标识
+甲醇渗透
+盘车
+真空压力浸渍
+压接
+blended coal
+钢包精炼炉
+generating set
+photovoltaic cell
+结温
+电力资源
+变压器经济运行
+“西电东送”工程
+通信通道
+超导线圈
+低速性能
+架线
+stator core
+接触电位差
+负载系数
+照度均匀度
+switching frequency
+冷热电联产
+PDH
+ethernet
+充电机
+switching
+无触点
+simulink
+本质安全
+非晶合金
+Oil leakage
+触电死亡
+漏电保护装置
+直流力矩电机
+小火电
+green lighting
+声共振
+锅炉炉膛
+电力调度自动化
+traveling waves
+voltage level
+剩余电量
+路灯照明
+super-capacitor
+BOP
+核相
+恒流充电
+超导变压器
+DVD机
+设备容量
+循环稳定性
+电感储能
+浓相
+更正系数
+harmonic resonance
+石灰石-石膏法
+洗净度
+electromagnetic interference（EMI）
+battery management system
+纵联差动保护
+保护线
+permanent magnet synchronous motor(PMSM)
+变桨距
+公司系统
+双速电动机
+光伏水泵
+stray capacitance
+permanent-magnet synchronous motor
+一次风速
+无速度传感器矢量控制
+容量计算
+High voltage
+智能断路器
+frequency control of motor speed
+滞环
+master station
+完善化
+Permanent magnet
+床温
+steel tower
+single phase
+nickel hydroxide
+小湾水电站
+电子束焊机
+speed governing
+风光互补
+大功率LED
+节能变压器
+电机驱动系统
+disturbance observer
+Fuse
+通信接口
+冷却水系统
+热老化
+燃油系统
+小经验
+电弧喷涂
+负荷计算
+软启动器
+电阻
+信息融合
+智能型
+grid
+事故处理
+模糊控制器
+数学模型
+故障原因
+牛顿法
+accident analysis
+servo control
+节约用电
+construction technology
+transient process
+forced cooling
+中线电流
+电厂设备
+aerodynamic field
+电压线圈
+setting value
+电力工程建设
+低负荷运行
+高光效
+common-mode voltage
+双向工频通信
+frequency tracing
+operation maintenance
+electric performance
+peak load
+机床业
+油膜涡动
+油处理
+steam drum
+电力紧缺
+电工电器
+磁性元件
+surge current
+condition evaluation
+电子家电
+杂散电容
+电机系统
+热电冷联产
+bismaleimide
+电力法
+电压损耗
+双馈感应电机
+绝缘处理
+脉冲充电
+zinc powder
+磁路计算
+电力滤波器
+有功电流
+除盐系统
+误差测试
+switch mode power supply
+spectral leakage
+冰箱业
+波轮
+气体放电光源
+集资办电
+保护算法
+SPWM inverter
+用电管理系统
+漏抗
+stator resistance
+water wall tube
+开关变压器
+充电电流
+除冰
+定期检修
+哈尔滨电机厂有限责任公司
+clock synchronization
+集箱
+harmonic measurement
+智能调度
+冷藏室
+induced current
+speed estimation
+交直流
+额定容量
+感应电势
+回路电阻
+集中抄表系统
+soil resistivity
+显色指数
+电机轴承
+法拉第效应
+Equivalent circuit
+压水堆
+磁轴承
+浪涌电流
+冲击负荷
+Tabu search
+变频装置
+多机系统
+洁净煤
+前照灯
+能效
+西门子公司
+印刷电路板
+失效率
+真空系统
+恒流源
+功率控制
+可编程逻辑器件
+小波包变换
+控制技术
+neural networks
+Capacitance
+配置
+electric power systems
+不停电
+温度继电器
+低压大电流
+充电控制器
+arc erosion
+oxygen electrode
+循环流化床燃烧
+通流能力
+气体扩散层
+common mode voltage
+RSD
+蒸汽吹灰器
+浓淡分离
+AC/DC converter
+运行事故
+电力电子变压器
+wet desulphurization
+power quality disturbance
+transient voltage
+复卷机
+灭磁开关
+power construction
+架空输电线
+lithium cobalt oxide
+三相电压不平衡
+电磁兼容标准
+insulation monitoring
+暂态性能
+virtual DCS
+LG电子
+集合式
+热电比
+sinusoidal pulse width modulation
+调距桨
+stator flux
+Electronic ballast
+发电机电压
+OTN
+傅里叶算法
+双馈电动机
+混沌振荡
+booster fan
+巡视检查
+开关跳闸
+start-up mode
+电力营销系统
+安全管理工作
+实时控制
+特高频
+电池管理系统
+RoHS指令
+AC servo motor
+AC servo
+on-line monitoring system
+定子电流
+均压
+control loop
+性能计算
+通信系统
+heat exchanger
+串行通讯
+数据采集系统
+光环境
+closed-loop control
+高可靠性
+ignition
+有效值
+电池组
+PID调节
+magnetic property
+实时操作系统
+Kalman filter
+控制算法
+转换器
+故障判断
+品牌
+硅橡胶
+相位
+模态分析
+parameter optimization
+support vector machine
+负荷控制系统
+电力传输线
+数字电源
+转子钢
+负荷优化分配
+超温爆管
+全自动滚筒洗衣机
+电力节能
+气力输灰
+液流电池
+跳闸事故
+安全保证体系
+抄表收费
+短期负荷预报
+电磁分析
+超速试验
+城市电网建设
+空调销售
+抗扰度试验
+TRV
+高温螺栓
+规范化管理标准
+meter reading system
+启动电源
+insulated gate bipolar transistor
+pulverized coal fired boiler
+用电稽查
+电厂水处理
+电能表校验
+同轴连接器
+前置泵
+flexible AC transmission system（FACTS）
+刚强度
+锌酸钙
+可倾瓦
+强励
+back EMF
+概率潮流
+容量电价
+Power cable
+变电站接地网
+容量恢复
+phasor measurement
+船舶电力系统
+SHEPWM
+事故预案
+水力除灰
+small disturbance
+automatic voltage regulator
+无刷励磁机
+Short-circuit current
+乌江渡水电站
+介质损耗角正切
+单绕组
+电气制造
+水平照度
+小型二次电池
+凸极同步电机
+脱离器
+检修公司
+外护套
+air cooling system
+整定电流
+shaft vibration
+洗涤容量
+容错性能
+输变电系统
+turbine-generator set
+电力系统故障
+Cycloconverter
+国有电力企业
+充油设备
+无功补偿技术
+贵州省电力公司
+闪变仪
+hydraulic turbine governor
+Park变换
+三次谐波电压
+TLS-ESPRIT
+AC machine
+串联电容器
+PSpice仿真
+大连机床集团
+交错控制
+steam turbine rotor
+混凝土振动器
+超导电机
+电厂设计
+hydraulic power plant
+开发组织
+circulating fluidized bed（CFB）
+等效电荷法
+箱变
+电力隧道
+直流燃烧器
+breakdown strength
+connection modes
+admittance matrix
+permanent magnet synchronous motor （PMSM）
+charge-discharge performance
+节点电压
+隔爆
+碰摩
+electromagnetic properties
+特性试验
+电视市场
+combustion control
+gas mixture
+热电联供
+FANUC
+实时多任务操作系统
+均衡充电
+安全措施
+natural gas
+QoS
+multi-objective optimization
+装备制造业
+等离子体
+全氢冷
+power transmission from West China to East China
+wide-area control
+transmission and transformation equipment
+槽楔松动
+FC+TCR
+Hybrid stepping motor
+plasma ignition device
+hysteresis band
+配变监测系统
+电源接入
+Industrial sewing machine
+internal fault current
+power producer
+primary equipment
+砼杆
+protection information
+瞬时过电压
+抽象通信服务接口
+最优潮流计算
+LED luminaire
+anti-galloping
+继电保护运行
+condensing unit
+East China Grid
+多平衡节点
+remote tripping
+Permanent magnet generator
+带电处理
+Compact transmission line
+叉梁
+电力系统分区
+膜纸复合
+干式电抗器
+reluctance synchronous motor
+电力系统模块
+power customer
+arc tube
+Metallized film
+conductor temperature
+电阻不平衡
+多相输电
+功率方向
+pulse current method
+ALA+PM
+分闸过电压
+低频信号注入
+输电瓶颈
+光纤纵差
+损耗曲线
+绝缘配置
+低磷酸盐处理
+交直流互联电网
+主汽管
+不完全纵差保护
+Dynamic reactive compensation
+air-core reactor
+gas insulation
+贫液式
+滚筒式冷渣器
+无汞碱性电池
+特定消谐技术
+load uncertainty
+doubly fed induction generator （DFIG）
+negative sequence component
+arc-suppression
+失步断面
+电压相位
+phase-mode transformation
+正压型
+直流固体继电器
+STLPORT
+铜基触头材料
+AVC system
+电自动控制器
+大工业用户
+permanent magnetic actuator（PMA）
+带负荷检验
+击距系数
+increased-safety motor
+SCADA/EMS/DMS/MIS
+外部短路
+modal series
+最优励磁控制
+进水受潮
+贵州东风发电厂
+Overheat fault
+PSCAD仿真
+abstract communication service interface
+电气设备标准
+power plant automation
+高压长线路
+real-time market
+polyimide films
+dynamic reactive power
+动作负载试验
+model runner
+小接地系统
+中小家电企业
+电流限幅值
+实时监控信息系统
+事故筛选
+谐波屏蔽
+stator ground fault protection
+自适应距离保护
+网状无纬带
+序电流
+composite insulation
+低温快固化
+金属铠装
+electrochemical impregnation
+harmonic state estimation
+Grounding transformer
+PSCAD simulation
+节点导纳方程
+HV frequency converter
+synchrophasor
+PSD-BPA
+负载电流前馈
+生极板
+变压器抗短路能力
+interruptable load
+contingency screening and ranking
+rock bolt foundation
+pivot layout
+sub-synchronous resonance （SSR）
+转换性故障
+电气继电器
+phasor measurement units（PMU）
+complex torque coefficient method
+主网
+外绝缘配置
+电压举升技术
+Gas relay
+line loss delicacy
+铁芯松动
+购电模型
+峰谷时段
+年计算费
+并联混合型有源滤波器
+DC voltage control
+内熔丝电容器
+dynamic power quality
+通风槽板
+纤维镍电极
+导线展放
+Switching overvoltage
+柳州电网
+low-voltage power distribution
+静态电压稳定裕度
+CT断线
+绝缘斗臂车
+投标组合
+battery energy storage system
+specific discharge capacity
+接触器式继电器
+Hubei Power Grid
+感应子电机
+anode-supported
+kV line
+contingency ranking
+永磁铁氧体材料
+construction of conservancy and hydropower project
+功角曲线
+极限诱导分岔
+广域继电保护
+反污
+组屏设计
+电力调度通信
+electricity value equivalent （EVE）
+沟通三跳
+four-phase power transmission
+阻尼间隔棒
+interturn protection
+Available transfer capability
+YB系列电机
+六氟化硫绝缘
+绿色煤电
+《电池快讯》
+magnetizing curve
+正极活性物质软化
+middle voltage
+Ni Cd battery
+电网调度运行
+power system dispatching
+自并励系统
+套管末屏
+magnetic slot wedge
+调速给水泵
+gas-insulated switchgear（GIS）
+Switched reluctance generator
+Low-voltage electrical appliance
+可控串联补偿（TCSC）
+CuW/CrCu
+PMBLDCM
+Reluctance motor
+恒速风电机组
+多极旋变
+分组容量
+倍流
+power dispatch data network
+吴泾电厂
+Furnace transformer
+现场干燥处理
+cross regulation
+初期容量
+电力系统互联
+多馈入直流系统
+环网供电单元
+unified power flow controller （UPFC）
+视在放电量
+随机预估
+faulty phase selection
+inter-turn insulation
+启备变
+Anhui Power Grid
+Speed adjustment system
+混合式断路器
+管型开关
+small steam turbine
+开断器
+open-phase running
+动静叶
+绕组排列
+under-voltage load shedding
+PWM pulse
+非全相振荡
+V形串
+断路器操动机构
+变压器后备保护
+earthing switch
+electric bicycle battery
+镉镍蓄电池组
+循环耐久能力
+mutual capacitance
+防爆安全性
+three-phase four-leg inverter
+输电线故障
+polluted insulator
+peaking operation
+锂锰电池
+Advanced Dispatch Center
+Load modeling
+最低动作电压
+直流线路故障
+thyristor controlled series capacitor（TCSC）
+daily peak load
+TPSC
+数字电网
+支路势能法
+超临界燃煤机组
+Winding resistance
+备用需求
+subsynchronous resonance（SSR）
+nuclear power unit
+碳纤维复合芯导线
+最大短路电流
+Concentrated winding
+现场交接试验
+玻璃棉隔板
+极控
+极板固化
+触发间隙
+并联中值电阻
+feedwater control
+resonant controller
+锅炉主控
+交流泄漏电流
+adjustment and test
+Phasor measurement unit（PMU）
+继电保护及故障信息系统
+synthesis load model
+Short-circuit strength
+relay protection signal
+输电系统开放
+铁心绝缘
+conductor tension
+电瓷避雷器
+复用保护
+Qinghai power grid
+Induction voltage regulator
+电压稳定性指标
+匝间短路故障
+图模一体化
+PT break
+冲击电压试验
+热稳定电流
+disturbance identification
+直升机巡线
+real time digital simulation
+磁极偏移
+Power supply and demand
+定子单相接地保护
+substation retrofit
+通用电能质量控制器
+TXP
+all vanadium redox flow battery（VRB）
+TOU price
+solventless impregnating varnish
+molded case circuit breaker
+串联电抗率
+道路灯具
+switchgear equipment
+static synchronous compensator(STATCOM)
+长棒型瓷绝缘子
+王季梅
+直通状态
+dynamic voltage restorer （DVR）
+发电机进相
+整定计算方法
+耐冷冻剂漆包线
+中性点保护间隙
+输电费用分配
+Corrugated type tank
+three-phase imbalance
+直流闭锁
+reactive power voltage
+electrical trees
+Recovery voltage
+Electromagnetic design
+抗EMI滤波器
+Fractional slot
+localization of parts and components
+phase advance operation
+security correction
+地面画印
+GCS型
+新型高压直流输电
+离心铸铝
+控制与保护开关电器
+电晕起始电压
+网络等值法
+Jiangxi power grid
+冷补焊
+微分方程算法
+电容型套管
+再建电压
+交直流互联系统
+充气柜
+变压器引线
+高频收发信机
+向量场正规形
+双极闭锁
+Axial field
+leading phase
+试验示范工程
+波阻抗方向继电器
+干荷电
+电缆绕组
+实时数字仿真器（RTDS）
+Electricity markets
+“黑启动”试验
+电缆试验
+陡波前过电压
+接地试验
+inductance model
+HV equipment
+Turboset
+静态安全域
+农排电费
+battery market
+复合序网
+钢板机座
+拉线模
+双回路铁塔
+excitation inrush
+偷跳
+typical specification
+在线滤油装置
+Series compensation
+化成制度
+暂态误差
+medium-speed pulverizer
+coreless
+transient-based protection
+双断点
+capacitor voltage divider
+射流刚性
+海拉瓦技术
+阻塞成本
+电流互感器（CT）
+误上电
+大规模电网
+leady oxide
+short circuit fault current limiter
+ZnO surge arrester
+高频距离保护
+动态电压稳定
+冲击耐受电压
+Ability to withstand short circuit
+电网潮流
+TV断线
+impulse current generator
+污耐压
+TPLAN
+Primary battery
+HV winding
+voltage withstand test
+非线性状态PI控制
+屏蔽式异步电动机
+场路结合法
+线路路径
+line stringing under tension
+全钒液流电池（VRB）
+聚酯漆包线
+氧化物避雷器
+高频保护装置
+lightning performance
+缝隙煤槽
+CPS-SPWM
+GIS substation
+network dispatching
+Ultra-High Voltage grid（UHV）
+双端不同步
+double housing planer
+电力调度交换机
+Heat rate
+steam soot blower
+叠频法
+超高压发电机
+锌镍蓄电池
+变换器/双管正激
+wide area information
+凝结水精处理系统
+银氧化物系触头材料
+AC/DC hybrid transmission system
+亲水电极
+cascading outage
+supercritical power unit
+预鉴定试验
+gap-pickup
+上网关口
+lagging leg
+high voltage direct current （HVDC）
+Hydraulic Turbine
+低磁钢板
+power system dynamics
+Controllable reactor
+纯十八胺
+关口计量
+Unbalance protection
+communication-capable
+高频脉冲直流环节
+输电网开放
+电价分类
+高精度FFT法
+Phasor measurement unit
+零序参数
+零序方向
+single-core cable
+杆塔试验
+船体燃烧器
+有功安全校正
+Impulse test
+Save material
+digitized power plant
+低谐波绕组
+Silicon steel sheet
+area control error （ACE）
+继电器标准
+permanent faults
+transient voltage security
+open circuit voltage（OCV）
+electric metering
+风压不均匀系数
+UHV power grid
+铝芯电缆
+Three level inverter
+Hypersim
+Composite fiber Optic overhead Ground Wire（OPGW）
+超导故障电流限制器
+高压试验室
+carrier protection
+产品有效期
+高压交联聚乙烯绝缘电力电缆
+限制过电压
+hybrid AC/DC systems
+合闸操作
+mercury free battery
+接地网改造
+Xinjiang power grid
+负载导则
+time-domain finite element method
+平衡绕组
+谐振直流环节逆变器
+high voltage power cable
+PAR灯
+floating charge voltage
+断路器合闸电阻
+第三道防线
+输灰管路
+比率制动特性
+电扳手
+high voltage direct current transmission
+转换选择器
+heaters
+fiber differential protection
+供电单元
+fault section location
+自适应噪声抵消技术
+arc chute
+变损率
+Ferroresonance
+超导储能（SMES）
+intelligent switchgear
+导线电晕
+磁悬浮开关磁阻电动机
+resistance reducing measure
+水电接头
+合金内氧化
+防冻融冰
+电压中断
+PM Motor
+Power Line Carrier（PLC）
+短期扰动
+parallel transmission lines
+闪络判据
+closed-loop test
+time-stepping FEM
+圆形煤场
+UHV grid
+高温过热
+紧凑式分流回灰换热器
+死区保护
+thermoelectric cooling module
+sulfur electrode
+telecommunication network for electric power system
+equivalent salt deposit density（ESDD）
+滑动式拉线机
+自动电压控制系统
+双馈电机调速
+disconnect switch
+覆冰厚度
+protection circuit
+变压器铁芯
+差动
+经济活动分析
+system stability
+electric system
+power amplifier
+代换
+三维温度场
+power balance
+施工方法
+输出功率
+eddy current
+供热
+interconnection
+频率测量
+LMI
+模糊PID控制
+MCGS
+密封结构
+Electric field
+calculation
+设备选型
+浙江省电力公司
+开关表
+电压比
+平均电价
+刮板捞渣机
+水电站运行
+混合有源电力滤波器
+振荡中心
+黑起动
+电力产品
+耐热等级
+optimal dispatching
+调峰电源
+heat economy
+水力除灰系统
+虚拟磁链
+电力安全管理
+electric field analysis
+outage
+traction battery
+real-time digital simulation
+转子接地
+放电曲线
+转子绝缘
+cascade hydropower station
+永磁磁体
+单调谐滤波器
+permanent magnet synchronous machine
+过电压保护装置
+tie line
+压力释放装置
+烧结NdFeB磁体
+阀式避雷器
+自动准同期装置
+loss of excitation
+grounding method
+doubly salient permanent magnet motor
+微机五防系统
+整体煤气化
+线圈端部
+二次线圈

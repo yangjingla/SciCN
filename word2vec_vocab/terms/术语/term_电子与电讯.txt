@@ -1,0 +1,10000 @@
+FPGA
+OFDM
+WCDMA
+TD-SCDMA
+家庭影院
+中兴通讯
+运营商
+LTE
+正交频分复用
+电信运营商
+下一代网络
+有线电视网络
+城域网
+EPON
+北电网络
+软交换
+electron technology
+DSP
+IPTV
+智能网
+机顶盒
+HSDPA
+GaAs
+数据业务
+CDMA
+单片机
+邮政企业
+智能天线
+移动运营商
+波分复用
+光突发交换
+电信企业
+信道估计
+焦平面列阵
+NGN
+MIMO
+GaN
+中国电信
+WiMAX
+SOI
+无线电管理
+数字电视
+第三代移动通信
+QoS
+ASON
+DWDM
+播放机
+增值业务
+CMOS
+电磁散射
+相位噪声
+non-metallic inorganic material
+无线电监测
+接入网
+合成孔径雷达
+软件无线电
+码分多址
+MOSFET
+WDM
+超宽带
+GSM
+中国移动
+CPLD
+本地网
+VHDL
+channel estimation
+HDTV
+宽带
+SDH
+环绕声
+电视发射机
+GMPLS
+认知无线电
+光通信
+VoIP
+爱立信
+半导体激光器
+密集波分复用
+IP多媒体子系统
+功率放大器
+自动交换光网络
+有线数字电视
+中国联通
+UMTS
+MPLS
+现场可编程门阵列
+MEMS
+ATM
+inorganic non-metallic materials
+超低音
+MOCVD
+光纤激光器
+偏振模色散
+电磁兼容
+第三代移动通信系统
+锁相环
+移动通信
+SiGe
+诺基亚
+无机非金属材料
+VLSI
+色散补偿
+放大器
+数字集群
+HBT
+MSTP
+多用户检测
+Turbo码
+电信业务
+信息产业部
+电子对抗
+MMIC
+optical communication
+HFC
+MESFET
+HgCdTe
+GPRS
+电信网
+光码分多址
+BiCMOS
+IP电话
+DVB
+低功耗
+GPON
+cognitive radio
+光网络
+phase noise
+核心网
+ASIC
+quantum optics
+CATV
+半导体市场
+radar
+开关电源
+脉冲压缩
+宽带接入
+laser techniques
+异步转移模式
+CMTS
+覆铜板
+PTN
+切换台
+LabVIEW
+USB
+误码率
+数字信号处理器
+RFID
+ISAR
+DVB-T
+运动补偿
+有线广播电视
+单频网
+光子晶体
+IMS
+高清
+电子战
+access network
+高清晰度电视
+FTTH
+通信电源
+电信市场
+OTN
+低噪声放大器
+UWB
+MIMO-OFDM
+smart antenna
+ARM
+LCD
+频率规划
+移动互联网
+光纤通信
+传输网
+安全播出
+网络演进
+WLAN
+移动IP
+网络融合
+无源定位
+硬盘播出
+HARQ
+广电网络
+直放站
+上海贝尔
+控制平面
+音箱
+TD-LTE
+波束形成
+印制电路板
+掺铒光纤放大器
+有线电视系统
+噪声系数
+ITU-T
+DDS
+无线传感器网络
+无源光网络
+摩托罗拉
+弹性分组环
+synthetic aperture radar
+音响器材
+OFDMA
+EDFA
+光开关
+互联互通
+光传送网
+CMMB
+Analog IC
+多声道
+微带天线
+半导体光放大器
+智能光网络
+微控制器
+PON
+FFT
+QPSK
+外延层
+SoC
+量子光学
+分子束外延
+RCS
+网管系统
+光纤光学
+BER
+通信企业
+LDMOS
+HFC网络
+FDTD
+LTCC
+LMDS
+embedded system
+阿尔卡特
+红外焦平面阵列
+视频服务器
+集成光学
+有线电视
+线性调频
+信息安全
+传送网
+七号信令
+electronic technology
+光接收机
+DOA
+激光器
+邮电部
+量子阱
+无线电管理机构
+地面数字电视
+全光网
+ADSL
+嵌入式系统
+AlGaN/GaN
+MAC
+光波导
+阵列信号处理
+电信管理网
+有线电视网
+fiber laser
+多业务传送平台
+无线通信
+激光治疗
+碲镉汞
+信息安全产业
+交换机
+矩量法
+非线性光学
+宽带业务
+QAM
+硬盘播出系统
+红外探测器
+MCU
+广播电视
+投影机
+压控振荡器
+laser technique
+software radio
+fiber Bragg grating（FBG）
+电信运营企业
+HEMT
+无线接入网
+频率合成器
+pulse compression
+半导体产业
+target detection
+电子技术
+光子晶体光纤
+微波单片集成电路
+DOA estimation
+中国半导体产业
+digital TV
+TETRA
+信号完整性
+无线接入
+集成电路设计
+多媒体业务
+BGA
+时域有限差分法
+扬声器系统
+光致发光
+LDPC码
+调音台
+异质结双极晶体管
+OLED
+网络安全
+接通率
+移动性管理
+IRFPA
+网络优化
+多输入多输出
+声表面波
+DVB-C
+integrated optics
+互耦
+MBE
+运动估计
+发射机
+基站
+IP
+扬声器
+RPR
+DS-CDMA
+通信业
+PWM
+optical burst switching
+朗讯科技
+毫米波
+InGaAs
+移动数据业务
+四波混频
+信道编码
+以太网
+同步数字系列
+数字波束形成
+光节点
+数字信号处理
+三网融合
+集成电路产业
+TMN
+softswitch
+单芯片
+OCDMA
+视频编码
+逆合成孔径雷达
+ONU
+电荷泵
+数据广播
+相控阵雷达
+机卡分离
+IP城域网
+phased array radar
+通信学
+SIP
+室内分布系统
+迭代译码
+dispersion compensation
+阵列天线
+SAR
+光电探测器
+音响系统
+大气光学
+有线电视台
+宽带无线接入
+PLL
+光电子学
+路由器
+飞利浦
+移动智能网
+半导体
+集成电路
+扩声系统
+语音编码
+InP
+非线性编辑系统
+HSUPA
+自动播出系统
+虚拟仪器
+红外图像
+电视节目
+空中接口
+光纤放大器
+TFT-LCD
+wavelet transform
+数字音频广播
+DSLAM
+舰载雷达
+多量子阱
+数字视频广播
+运算放大器
+表面贴装技术
+全台网
+photonic crystal
+“国家点火装置”
+HSPA+
+全业务
+机载雷达
+PCB
+测向
+photoluminescence
+蓝牙
+PHEMT
+LDPC
+电信级
+IP over WDM
+optical network
+数字机顶盒
+DOCSIS
+光交叉连接
+直接序列扩频
+V-BLAST
+LCoS
+通信对抗
+杜比数字
+CWDM
+液晶电视
+网络规划
+卫星通信
+nonlinear optics
+前级放大器
+家庭网络
+固体激光器
+欧姆接触
+信噪比
+AVS
+双包层光纤
+光发射机
+芯片组
+PMD
+electromagnetic scattering
+无线局域网
+光分组交换
+地面数字电视广播
+数字调音台
+界面态
+noise figure
+国家广播
+流量工程
+STB
+字幕机
+逻辑分析仪
+多址干扰
+目标跟踪
+邮政业务
+片上系统
+SiGe HBT
+转播车
+移动通信市场
+广电
+数字音频
+EMC
+PAPR
+中国网通
+CCD
+液晶显示器
+TDMA
+光纤光栅
+调制器
+音频编码
+fiber optics
+多普达
+信令
+optical switch
+高清电视
+击穿电压
+本地传输网
+广播电视机构
+行波管
+异质结
+Turbo code
+专用集成电路
+目标检测
+GPS
+DOA估计
+接入服务器
+Electromagnetic scattering
+网络运营商
+条件接收系统
+beamforming
+DiffServ
+分前端
+EOC
+无线资源管理
+多协议标签交换
+PHS
+移动电视
+宽带码分多址
+TDD
+波达方向估计
+非均匀性校正
+高电子迁移率晶体管
+功率控制
+印制板
+解码器
+Turbo codes
+array signal processing
+非线性编辑
+AV放大器
+小波变换
+烽火通信
+德州仪器
+LFM
+airborne radar
+半导体器件
+移动通信系统
+手机电视
+射频识别
+双向改造
+播控系统
+atmospheric optics
+T-DMB
+virtual instrument
+信号处理
+VCO
+photonic crystal fiber
+电信
+目标识别
+化学机械抛光
+NGOSS
+短消息中心
+OADM
+电信服务
+motion compensation
+DMB-T
+高斯光束
+多媒体通信
+广播电视事业
+T-MPLS
+广播影视
+盲均衡
+wavelength conversion
+IP网络
+杂波抑制
+手机市场
+室内覆盖
+音频工作站
+扬声器单元
+深能级
+受激布里渊散射
+平板显示
+超晶格
+DVB-H
+LED
+iterative decoding
+next generation network
+Target tracking
+mobile IP
+载噪比
+被动调Q
+无线接入系统
+microstrip antenna
+电子学会
+单模光纤
+VCSEL
+可测性设计
+分组传送网
+CDMA手机
+媒体资产管理
+lasers
+数字音频工作站
+播出系统
+智能手机
+智能卡
+电视节目制作
+多业务
+动态带宽分配
+输出电平
+OAM
+话务量
+小灵通
+阵列波导光栅
+双极晶体管
+光电对抗
+频谱分析仪
+中国电信集团公司
+天线
+拥塞控制
+运营支撑系统
+FTTx
+DVD播放机
+PCI总线
+模拟集成电路
+TCP/IP
+电视技术
+VPN
+本地多点分配业务
+EV-DO
+空时分组码
+雷达散射截面
+中国电信业
+DTV
+处理器
+手机
+氮化镓
+混响时间
+载波同步
+蜂窝移动通信
+跳频
+光放大器
+半导体设备
+华为公司
+OBS
+多协议标记交换
+半导体技术
+MIMO雷达
+target recognition
+半固化片
+HSPA
+《电子世界》
+互补金属氧化物半导体
+固定无线接入系统
+相控阵
+passive location
+直接数字频率合成
+以太网无源光网络
+导通电阻
+高功率
+高压变频器
+贴片机
+调制识别
+条件接收
+骨干网
+虚拟演播室
+探测器列阵
+波长转换
+时钟恢复
+无线电管理局
+红外焦平面
+信令网
+上海技术物理研究所
+波达方向
+MMSE
+路由
+FIFO
+介电性能
+光束质量
+breakdown voltage
+EDGE
+RRU
+光纤陀螺
+封装
+电子元器件
+通信市场
+HFC网
+短消息业务
+TDOA
+FMC
+导频
+半导体行业
+LTE-Advanced
+码分多址联接
+扩频通信
+数字用户线
+光接入网
+本地电话网
+频谱效率
+视频点播
+光学设计
+电信网络
+解决方案
+误比特率
+色散
+移动通信网
+satellite communication
+network coding
+光纤Bragg光栅（FBG）
+功率器件
+CMOS工艺
+MC-CDMA
+SMT
+干线放大器
+quality of service
+中国邮政
+砷化镓
+自动测试系统
+非线性失真
+激光二极管
+网络电视
+大唐电信
+传输流
+电子管放大器
+mutual coupling
+射频集成电路
+semiconductor optical amplifier
+光纤光缆
+EDA
+motion estimation
+宽带网络
+Wi-Fi
+orthogonal frequency division multiplexing
+路由协议
+卷积码
+SIMOX
+网络编码
+InGaN
+optical waveguide
+晶圆
+圆极化
+音响
+PDP
+cooperative diversity
+光电子器件
+移动增值业务
+卫星接收机
+循环平稳
+PSTN
+二极管激光器
+AES/EBU
+Channel estimation
+数字广播
+付费电视
+网络处理器
+高频头
+铝电解电容器
+电信业
+带通滤波器
+photodetector
+雷达组网
+多入多出
+optoelectronics
+FEC
+激光雷达
+国际光学工程学会
+OXC
+线性调频信号
+智能网业务
+LXI
+语音识别
+NFC
+通信技术
+ATM网络
+semiconductor laser
+multicast
+多孔硅
+全固态发射机
+环绕声系统
+帧中继
+power amplifier
+无线应用协议
+数字接收机
+网络管理
+光纤接入网
+多载波
+光孤子
+反辐射导弹
+高速下行分组接入
+国产手机
+全业务运营
+移动业务
+移动网络
+mobile communication
+可编程逻辑器件
+OLT
+计费
+城域传送网
+LVDS
+Radar
+故障检修
+前向纠错
+数字集群系统
+光纤到户
+Mobile communication
+TCP
+SDL
+中国电子
+系统容量
+下一代互联网
+循环前缀
+低密度奇偶校验码
+垂直腔面发射激光器
+分频器
+肖特基势垒
+音频系统
+码率控制
+APON
+SDRAM
+插入损耗
+OTDR
+Integrated circuit
+参考设计
+器件模拟
+掉话
+串扰
+雷达目标识别
+微机电系统
+target tracking
+fiber Bragg grating
+协议栈
+调制解调器
+交叉相位调制
+通信行业
+自适应调制
+LNA
+PDH
+器件
+IMT-Advanced
+光纤同轴电缆混合网
+移动WiMAX
+会议电视
+安捷伦科技
+共面波导
+深亚微米
+业务支撑系统
+data acquisition
+信息安全产品
+虚拟演播室系统
+读出电路
+雷达截面
+COFDM
+PECVD
+协作分集
+雷达对抗
+调谐器
+时延
+多径
+接口电路
+SNR
+热设计
+普遍服务
+消光比
+IPSec
+ZigBee
+电源管理
+Gaussian beam
+SONET/SDH
+有线电视事业
+Wavelet transform
+电信运营
+欺骗干扰
+通信协议
+方向图
+以太无源光网络
+媒体网关
+农村通信
+通用多协议标签交换
+数字有线电视
+电信日
+移动接收
+匹配滤波器
+DRM
+frequency synthesizer
+闪存
+倒装芯片
+数据通信
+泰克公司
+speech coding
+广播电视网络
+可调谐
+媒体接入控制
+频率合成
+VXI总线
+系统芯片
+互动电视
+节目制作
+WCDMA网络
+下变频器
+录像机
+A/D converter
+OSS
+Synthetic Aperture Radar （SAR）
+固网
+虚级联
+热载流子效应
+电子节目指南
+MIMO radar
+congestion control
+立体声
+UTRAN
+PLC
+网关
+遗传算法
+field emission
+广播电视节目
+逐行扫描
+多普勒频率
+low noise amplifier
+移动台
+多芯片组件
+ADC
+数字通信
+相控阵天线
+呼叫中心
+同步数字体系
+编码器
+Verilog HDL
+滤波器
+IP核
+电子政务建设
+全光网络
+光子带隙
+Target detection
+fiber and waveguide optics
+信令链路
+Microstrip antenna
+中波发射机
+polarization mode dispersion
+雷达成像
+VxWorks
+EMI
+扩频
+下一代网
+fiber optic cable
+引线键合
+均衡器
+协作通信
+缩微摄影技术
+红外
+入侵检测
+optical fiber communication
+模拟电视
+功放
+快速热退火
+空间目标
+音质
+PCI
+genetic algorithm
+端到端
+隔离度
+时分复用
+FSK
+变频器
+接收机
+SiC
+微处理器
+A/D转换器
+空时编码
+MPEG
+电磁干扰
+DCT
+MAN
+光刻
+跳频序列
+低音扬声器
+分集
+无铅焊料
+AODV
+AlGaN
+直播卫星
+MOVPE
+二极管泵浦
+InGaAsP
+电源抑制比
+单片集成
+LD泵浦
+ultra-wideband
+wireless sensor network
+边界扫描
+宽带接入网
+编解码器
+video coding
+胆机
+CAN总线
+跳频通信
+移动终端
+数字电视节目
+平板显示器
+混频器
+场发射
+数码相机
+Synopsys
+彩屏手机
+航空电子
+IP网
+接入技术
+光器件
+自适应滤波
+DAB
+detection probability
+快闪存储器
+海杂波
+光刻胶
+国际电联
+邮政金融
+自相位调制
+邮政储蓄
+波分复用（WDM）
+用户管理系统
+通信测试
+色散补偿光纤
+光电二极管
+DQPSK
+纤维与波导光学
+EGPRS
+SDH/SONET
+玻璃钝化
+broadband
+SOC
+微电子机械系统
+物理层
+bit error rate
+帧同步
+电流模式
+无绳电话机
+线性复杂度
+外延生长
+通信管理
+组网
+互连线
+spectrum sensing
+世界电信
+发射分集
+LPCVD
+可调谐激光器
+芯片尺寸封装
+共缆传输
+aluminum electrolytic capacitors
+Schottky barrier
+AOI
+HFC network
+MOEMS
+链路预算
+传输线
+输出功率
+芯片
+无线本地环路
+光信噪比
+DRFM
+空时码
+光缆
+光电子技术
+code division multiple access
+radar cross section
+数字录像机
+McBSP
+beam quality
+光因特网
+Software radio
+电信研究
+超短光脉冲
+杜比定向逻辑环绕声
+驱动电路
+SNMP
+LDPC codes
+W-CDMA
+电缆调制解调器
+矢量网络分析仪
+短波通信
+微带线
+有线网络
+低温共烧陶瓷
+数字电视机顶盒
+radar imaging
+敏感器
+固态功放
+电信级以太网
+天线座
+MQAM
+广播电视技术
+城域传输网
+导通孔
+electron beam lithography
+network convergence
+中国移动通信集团公司
+wavelength division multiplexing
+液晶投影机
+光纤连接器
+激励器
+数字电视广播
+雷达
+平板电视
+infrared image
+电致发光
+金帆奖
+EWSD交换机
+个人通信
+粒子滤波
+无线网络规划
+衍射光学元件
+传统运营商
+DSSS
+GSM-R
+音频功率放大器
+肖特基二极管
+DVB-S
+JTIDS
+分析与检修
+元器件
+通信产业
+异步传输模式
+效能评估
+英国电信
+嵌入式
+无线网络
+红外成像制导
+调频发射机
+背光源
+数字下变频
+发烧友
+FDTD method
+自适应光学
+通信
+笔记本电脑
+演播室
+通信网
+音频信号
+华为
+中断概率
+红外成像系统
+预失真
+语音增强
+阈值电压
+资源预留协议
+频谱管理
+Adhoc网络
+S参数
+数据融合
+DVD机
+半导体工业
+国际通信
+fiber grating
+可编程
+上海电信
+液相外延
+国家广电总局
+无线接入技术
+反舰导弹
+整体转换
+traffic grooming
+虚拟专用网
+wireless communication
+承载网
+MOS器件
+用户接入网
+光纤传感器
+DWDM系统
+反馈抑制器
+光分插复用器
+MUSIC
+SOPC
+影碟机
+塑料光纤
+衰落信道
+载流子浓度
+Ethernet
+内匹配
+ESD
+频率估计
+RS码
+Linux
+Target recognition
+channel coding
+MMDS
+CDMA网络
+跨层设计
+频谱感知
+窄带干扰
+数字视频
+ISDN
+英特尔
+频谱仪
+峰均功率比
+mobility management
+定时同步
+功放模块
+InSb
+移动电话
+大屏幕彩电
+时分多址
+network security
+ISUP
+IGBT
+laser diode
+单脉冲雷达
+大客户
+磁控溅射
+signal processing
+频偏估计
+cryptography
+GPIB
+crosstalk
+自动目标识别
+移动数据
+微蜂窝
+数据采集
+multiuser detection
+大气湍流
+电话网
+矢量量化
+判决反馈均衡器
+无铅钎料
+CORBA
+半导体制造
+家庭网关
+STBC
+码间干扰
+OEIC
+ATM交换机
+Windows
+加解扰
+无线电发射设备
+卫星移动通信
+吞吐量
+光探测器
+高增益
+光交换
+红外摄像机
+频率综合器
+差分跳频
+片上网络
+LDPC code
+少子寿命
+分支器
+电磁兼容性
+封装技术
+chirp
+自由电子激光器
+GMSK
+AVS标准
+通信行业标准
+对比度
+图像压缩
+组播
+LED显示屏
+衍射效率
+Ad Hoc
+电信公司
+low power
+时分双工
+信道分配
+MLCC
+空时处理
+DFB激光器
+LPE
+数字签名
+data fusion
+DMA
+光互连
+PSRR
+数据速率
+dielectric properties
+Signal processing
+全固态
+生存性
+optical design
+网络解决方案
+信息光学
+频谱利用率
+半导体工艺
+SPI
+模数转换器
+硅基液晶
+软交换网络
+VPLS
+随机接入
+audio coding
+NGB
+智能天线技术
+电信增值业务
+视频信号
+温度补偿
+区分服务
+收发器
+像素
+综合业务数字网
+电子封装
+多目标跟踪
+laser
+光正交码
+空间光通信
+邮政发展
+正交幅度调制
+单声道
+电信管制
+自由空间光通信
+光时分复用
+TD-SCDMA系统
+broadband wireless access
+wideband
+等级保护
+Cable Modem
+前端机房
+倒装片
+加解扰系统
+技术设施建设
+ROF
+解调
+接口
+quantum well
+帧结构
+无线定位
+缩微技术
+LMS
+Bluetooth
+DTTB
+非对称数字用户线
+ATSC
+timing synchronization
+信息战
+卫星广播
+HDLC
+移动数据通信
+Parlay
+工作电解液
+WAP
+antenna array
+图像编码
+视频通信
+混合集成电路
+移动梦网
+宽带用户
+HLR
+故障诊断
+交织器
+Ad Hoc network
+自适应波束形成
+EBSD
+卡尔曼滤波
+前置放大器
+wireless sensor networks
+管芯
+电子组装
+移动通信产业
+空时自适应处理
+LFM signal
+卫星地球站
+CFAR
+模拟电路
+optical fiber
+多径衰落
+TDM
+lidar
+ROADM
+界面陷阱
+七号信令网
+分组话音
+流媒体
+布尔函数
+一致性测试
+分组域
+MPLS-TP
+SiGeHBT
+用户放大器
+最小均方误差
+分组交换
+保密通信
+电路设计
+西门子
+业务控制点
+交叉增益调制
+手机厂商
+电子产品可靠性
+汇接局
+CMOS process
+固定无线接入
+播出
+中间件
+clutter suppression
+家用投影机
+声表面波滤波器
+有线电视信号
+宽带通信
+邮电
+波峰焊
+serial communication
+准分子激光
+电子干扰
+Verilog
+路由算法
+武汉邮电科学研究院
+modulation recognition
+无线ATM
+消费电子
+BOSS
+移相器
+GSM系统
+Ad hoc
+天线阵
+低密度校验码
+多晶硅
+Inverter
+UART
+光电集成电路
+EoC
+反应离子刻蚀
+一维距离像
+多播
+发光二极管
+输出电压
+预编码
+光缆线路
+简单网络管理协议
+缩微品
+二元光学
+移动代理
+视频压缩
+optical packet switching
+WDM光网络
+农村支局
+宽带雷达
+分布反馈激光器
+数字转播车
+服务提供商
+共振隧穿二极管
+核心网络
+动态信道分配
+带隙基准
+handoff
+信号分选
+受激拉曼散射
+天线选择
+语音业务
+电子束曝光机
+智能业务
+统计复用
+device simulation
+音响市场
+接人网
+RWA
+光分路器
+转交地址
+界面态密度
+HFET
+Ka频段
+GaAs/AlGaAs
+semiconductor lasers
+铁通
+CATV系统
+切换
+红外成像
+SAW
+出货量
+无线市话
+chip microcomputer
+网络中心战
+连接器
+图文电视
+交互电视
+接入
+动目标检测
+SIM卡
+ohmic contact
+干扰效果
+无源干扰
+卫星导航
+应急通信
+播放器
+数据传输
+调频广播
+图像融合
+杰尔系统公司
+高功放
+current collapse
+HFSS
+宽带网
+驱动程序
+串行通信
+调度算法
+设备器材
+非致冷
+受激喇曼散射
+电信产业
+bandgap reference
+SoPC
+GaAs/GaAlAs
+spectrum efficiency
+斯巴克
+舞台机械
+电视数字化
+switching mode power supply
+业务融合
+electronic warfare
+载波恢复
+OTDM
+空分多址
+Array signal processing
+MPSK
+电子陷阱
+mobile Internet
+自愈环
+雷达信号
+interleaver
+UPS
+声码器
+电信管理
+北京电信
+wet etching
+无人机
+仿真
+蜂窝系统
+Smart antenna
+虚拟环绕声
+波长变换
+综合接入
+SFN
+收视费
+WDM-PON
+卫星通信系统
+不对称数字用户线
+double-clad fiber
+Code division multiple access
+RSVP-TE
+GGSN
+无线光通信
+光通信技术
+自组网
+演进策略
+CMOS IC
+面发射激光器
+号码携带
+自动播出
+IC CAD
+semiconductor technology
+optical communications
+业务提供商
+激光技术
+综合业务
+EPG
+SPIHT
+保偏光纤
+时间同步
+blind equalization
+组网方案
+调制传递函数
+速调管
+information processing technology
+数字家庭
+无铅化
+光功率
+光传输
+home network
+VDMOS
+正交调制
+电子束光刻
+呼叫控制
+CDN
+CDMA系统
+自适应天线
+适配器
+动态范围
+宽带综合业务数字网
+cooperative communication
+地杂波
+outage probability
+分集接收
+eTOM
+掺铒光纤
+作用距离
+flat panel display
+数字水印
+印制电路
+软切换
+electroluminescence
+光纤通道
+准分子激光器
+会议电视系统
+PLD
+干扰抑制
+science popularization
+预付费业务
+上行通道
+LCAS
+Altera
+密码学
+多普勒频移
+数字调制
+MUSIC算法
+数字版权管理
+检测概率
+传输设备
+电荷耦合器件
+新业务
+步进电机
+防火墙
+偏馈天线
+IPQAM
+负荷分担
+optical transport network
+光纤光栅（FBG）
+多路复用器
+anti-jamming
+激光熔覆
+带宽
+汽车电子
+同频干扰
+微波功率晶体管
+DSNG
+Femtocell
+凤之声
+WDM optical network
+干涉仪
+综合网管
+Viterbi译码
+高分辨距离像
+复用器
+等离子体显示
+ARQ
+电子信息产业
+电子设计自动化
+EEPROM
+porous silicon
+InGaAsP/InP
+RESURF
+电子管功放
+SACD
+SOVA
+小区重选
+AWGN
+DTMB
+polarization mode dispersion（PMD）
+栅氧化层
+光纤耦合
+符号同步
+T/R组件
+OPNET
+MANET
+雷达信号处理
+业务收入
+传输矩阵
+图像传感器
+fault diagnosis
+中频采样
+interference cancellation
+power device
+带隙基准源
+digital television
+误码
+带宽分配
+image coding
+信号检测
+蓝牙技术
+数模转换器
+blind source separation
+D/A转换器
+分配网络
+UHV/CVD
+扩声
+场致发射显示器
+TS流
+光分插复用
+多用户分集
+鉴权
+杂散
+雪崩光电二极管
+Semiconductor laser
+丢包率
+信道容量
+magnetron sputtering
+液晶显示
+TWT
+broadband access
+退火
+jamming
+非晶硅
+VOD
+CAN bus
+集成电路设计业
+激光告警
+最大比合并
+information optics
+电视业务
+extinction ratio
+阻塞率
+自适应均衡
+功率MOSFET
+脉宽调制
+密集波分复用（DWDM）
+网上广播
+clock recovery
+set-top box
+球栅阵列封装
+移动多媒体广播
+Lead-free solder
+云计算
+VLAN
+离子注入
+EPLD
+speech enhancement
+实时操作系统
+ultrastructure
+抗干扰
+广播电视数字化
+shipborne radar
+频率复用
+模拟器件
+field emission display
+information security
+邮政局
+PCI bus
+中波广播发射机
+有线电视前端
+以太网业务
+蜂窝数字分组数据
+数字声音广播
+城域以太网
+A/D转换
+放大模块
+移动软交换
+光纤余长
+GSM网络
+channel capacity
+image registration
+直接数字频率合成器
+FED
+移动通信公司
+RAKE接收机
+ATE
+ULSI
+网络容量
+邮电通信
+power allocation
+峰均比
+氧沉淀
+charge pump
+光子学
+恒模算法
+光端机
+耦合效率
+低通滤波器
+电源管理芯片
+啁啾光纤光栅
+晶圆代工
+拖曳式诱饵
+基站天线
+SAW滤波器
+多载波码分多址
+WiMax
+电信发展
+SGSN
+光调制器
+BIST
+frequency estimation
+传播模型
+直接数字合成
+压电陶瓷
+超大规模集成电路
+electromagnetic compatibility
+光刻设备
+DVB-C标准
+cdma
+播控中心
+音响企业
+电视转播车
+多波束天线
+signal processor
+广播电视信息
+transmit diversity
+carrier synchronization
+晶体管
+电子产品
+太阳电池
+通用分组无线业务
+无线寻呼
+邮政
+自动增益控制
+VSAT
+海底光缆
+spread spectrum
+波导
+光学系统
+error concealment
+多径干扰
+光链路
+unequal error protection
+长期演进
+进网许可证
+自动测试设备
+广东电信
+邮件处理中心
+可制造性设计
+MBMS
+IP业务
+电子侦察
+B-ISDN
+Ad Hoc网络
+intelligent network
+image fusion
+射频
+逆变器
+Kalman filter
+CORDIC
+非易失性存储器
+广播电视系统
+下行链路
+Millimeter wave
+optical soliton
+SRAM
+村村通
+数据链
+IP core
+VDSL
+国家信息安全
+转换器
+人脸识别
+image compression
+固网智能化
+TD SCDMA
+半导体业
+彩色电视发射机
+空间复用
+业务预测
+低温多晶硅
+宽频带
+快速傅里叶变换
+STAP
+SCTP
+星载SAR
+electronic countermeasure
+solid-state laser
+网络整合
+广电网
+S-CDMA
+无线宽带接入
+传输零点
+反射面天线
+基板材料
+话音业务
+红外诱饵
+TETRA系统
+D类放大器
+视讯业务
+助焊剂
+信号发生器
+rate control
+软交换技术
+移动支付
+Ku波段
+杜比数码环绕声
+TH-PPM
+Reflow soldering
+中心局体制
+数字切换台
+杰尔系统
+多媒体消息业务
+异质结双极型晶体管
+信息网络安全
+Premiere
+二维电子气
+信源编码
+内建自测试
+MUSIC algorithm
+微波介质陶瓷
+多值逻辑
+手机游戏
+particle filter
+cyclic prefix
+旁瓣抑制
+测距
+routing protocol
+speech recognition
+印刷电路板
+红外系统
+光致发光谱
+分组密码
+scheduling algorithm
+离散余弦变换
+antenna
+改善因子
+control plane
+频域均衡
+版图设计
+Image matching
+LDO
+joint detection
+Doppler frequency
+C波段
+CdZnTe
+便携式设备
+时延估计
+PZT
+谐振腔
+电视信号
+m序列
+digital watermarking
+routing algorithm
+分集增益
+UTD
+TDRSS
+有线广播电视网络
+解扰器
+色散位移光纤
+光无源器件
+系统级封装
+集群通信
+表面组装技术
+有机发光二极管
+富士通
+direction finding
+资费
+解调器
+电信技术
+X波段
+位同步
+业务平台
+机动目标跟踪
+手机用户
+图像配准
+接纳控制
+ZnSe
+供电器
+cyclostationarity
+光网络单元
+CATV网络
+服务质量
+漏电流
+threshold voltage
+以太网交换机
+差错控制
+数码产品
+光学薄膜
+用户数
+数字电视产业
+长周期光纤光栅
+移动多媒体
+电信改革
+EoS
+自动光学检测技术
+troposcatter communication
+IP电信网
+高标清同播
+SDH网
+下一代光网络
+内容计费
+IC design
+掉话率
+集成电路测试
+正交频分多址
+Interleaver
+封装测试
+业务运营
+低截获概率
+光以太网
+电信行业
+MCM
+thermal design
+光纤通信技术
+image processing
+振膜
+光纤布喇格光栅
+radar signal
+synthetic aperture radar（SAR）
+到达时间差
+双基地雷达
+录音通知
+吉比特无源光网络
+吉比特
+电信政策
+彩色电视机
+线性预测
+高频雷达
+Nd∶YAG
+smart antennas
+连续相位调制
+基区
+微电子
+phased array
+矩形波导
+光学器件
+lead-free solder
+multipath
+数字电视机
+data link
+国家邮政局
+匹配滤波
+业务发展
+电子管
+存储卡
+InGaAs/GaAs
+环绕声技术
+代理保险业务
+乡镇广播电视站
+焊膏
+电源技术
+宽带无线
+视频解码
+邮电企业
+恒虚警率
+网间结算
+位置更新
+软判决
+infrared detector
+Ad hoc网络
+frequency hopping
+杂波
+短波发射机
+通信新技术
+通用多协议标记交换
+单纵模
+波长路由
+关口局
+世界半导体市场
+Intel
+薄膜晶体管
+video compression
+UAV
+光电器件
+survivability
+网管
+DC-DC转换器
+CMOS technology
+再流焊
+空间光调制器
+信号源
+混合信号
+BSS
+sea clutter
+多模干涉
+current-mode
+射频功率放大器
+routing and wavelength assignment
+Multiuser detection
+上行链路
+组网方式
+有机电致发光
+Wireless communication
+insertion loss
+啁啾
+定向耦合器
+瑞利衰落
+图像匹配
+静电放电
+SPICE
+BST
+光刻技术
+电子元件
+birefringence
+PXI
+OMA
+音响产品
+carrier recovery
+外腔半导体激光器
+space-time code
+窄带干扰抑制
+EM scattering
+分析检修
+声光调Q
+比较器
+控制器
+光纤
+宽带城域网
+ambiguity function
+adaptive modulation
+stream cipher
+协处理器
+多天线
+声反馈
+蜂窝网
+digital signal processing
+High-voltage inverter
+光缆干线
+MER
+DVD-Audio
+Mutual coupling
+数字地面电视
+低音反射
+光电子行业
+TDS-OFDM
+excimer laser
+频率稳定度
+nonuniformity correction
+Vector quantization
+EBCOT
+软件无线电技术
+半导体封装
+phased array antenna
+电子制作
+移动卫星通信
+无线城域网
+optical receiver
+天馈系统
+MGCP
+PIN二极管
+粗波分复用
+信道模型
+IEEE
+cloud computing
+隐身技术
+参数提取
+功率分配
+CMP
+LabWindows/CVI
+光纤传输
+annealing
+throughput
+广播电视局
+图像质量
+单脉冲
+梳状滤波器
+电信资费
+signal integrity
+多径信道
+虚警概率
+无线信道
+通信业务
+Iub
+Flip chip
+电流崩塌
+移动核心网
+陶瓷-金属封接
+帧同步机
+铁电薄膜
+频率捷变
+系统级芯片
+FDTD方法
+TFT
+“村村通”
+发射区
+digital receiver
+高频地波雷达
+盲多用户检测
+UT斯达康
+光传输网
+双声道立体声
+混合信号示波器
+高速路由器
+硬切换
+声放大器
+载波间干扰
+数字电视发射机
+嵌入式操作系统
+状态机
+微机械
+xDSL
+IP技术
+音视频
+乘法器
+network management
+激光武器
+PSPICE
+电子专用设备
+蜂窝电话
+RAKE
+指针调整
+backlight
+High voltage inverter
+Rayleigh fading channel
+IntServ
+多层布线
+core network
+中国国际通信设备技术展览会
+牺牲层
+Frequency synthesizer
+超宽带通信
+掺饵光纤放大器
+DFT
+通信设备
+OTA
+焦平面阵列
+VSWR
+linear complexity
+运营支撑
+固相外延
+协同分集
+超低音扬声器
+甲类功放
+硬盘服务器
+下一代电信网
+ENUM
+集中监控
+电磁环境
+Synthetic Aperture Radar（SAR）
+解复用
+单片微波集成电路
+radar target recognition
+bistatic radar
+音频处理器
+多点控制单元
+铜互连
+多层陶瓷电容器
+回波损耗
+连续波
+signal detection
+routing
+化合物半导体
+ESPRIT
+天线罩
+环路滤波器
+MOM
+耳机
+碟片
+图像分割
+超微结构
+RF magnetron sputtering
+飞秒激光
+predistortion
+保护倒换
+anti-ship missile
+会话初始协议
+相位共轭
+红外制导
+衍射光学
+cross-layer design
+单片集成电路
+电子电路
+焦平面
+信息通信技术
+会议录
+IC卡
+介质谐振器
+有源干扰
+通信干扰
+parameter extraction
+功率合成
+空间谱估计
+intrusion detection
+硬件描述语言
+矢量控制
+后期制作
+刻蚀
+移动节点
+暗电流
+脉冲位置调制
+解码芯片
+多相滤波
+quantum cryptography
+数字滤波器
+变换器
+光纤布拉格光栅
+南方高科
+set top box
+圆片级封装
+光学光刻
+惠威
+管理平面
+固定网
+赝配高电子迁移率晶体管
+串行接口
+复杂可编程逻辑器件
+sol-gel法
+AMC
+atmospheric turbulence
+驻波比
+Ka波段
+电路交换
+array antenna
+自聚焦
+数字电视标准
+宏模型
+集群通信系统
+地球站
+millimeter wave
+键合
+阻抗匹配
+延迟线
+摩尔定律
+移动网
+焊点
+MTD
+surface acoustic wave
+无源雷达
+存储器
+接入方式
+无铅
+滤波器组
+dynamic range
+多址接入协议
+时分同步码分多址
+卫星电视接收机
+主导运营商
+外地代理
+功率增益
+超重低音音箱
+Internet protocol
+laser optics
+DFB laser
+transport stream
+半导体分立器件
+故障现象
+VerilogHDL
+电波传播
+微结构光纤
+业务运营支撑系统
+blind channel estimation
+发送分集
+wavelength division multiplexing（WDM）
+MUD
+有线传输
+广播电视设备
+AlGaInP
+等效电路
+二极管
+digital signature
+吴基传
+stimulated Brillouin scattering
+通信管理局
+无源元件
+自适应阵列
+电路与系统
+抛光液
+散射矩阵
+信息隐藏
+红外光学系统
+符号间干扰
+电流增益
+超宽带雷达
+技术维护
+琼斯矩阵
+call admission control
+EW
+S波段
+邮政普遍服务
+高音扬声器
+Phase noise
+asynchronous transfer mode
+millimeter-wave
+媒体访问控制
+ICI
+SPWM
+waveguide
+增益平坦
+频率同步
+电信监管
+蜂窝网络
+红外对抗
+电子束曝光
+叉指换能器
+汇聚层
+Motion estimation
+蓝牙产品
+CAMEL
+数字电视地面广播
+MATLAB
+MAC协议
+待机时间
+PPM
+开关电容
+CMOS图像传感器
+液晶屏
+物理光学
+phase shifter
+激光通信
+网络安全产品
+ZnO
+femtosecond laser
+自动测试
+软开关
+high power
+单电子晶体管
+广电行业
+接入层
+multiplexer
+倒装焊
+广播发射机
+远近效应
+广播电视网
+芯片设计
+天线方向图
+Ad hoc network
+SiP
+话务分析
+人机命令
+数据旁路
+波分多路
+数字放大器
+芯片规模封装
+全固态电视发射机
+C/CTB
+TD-MBMS
+农村有线广播
+光缆接头盒
+定位业务
+掩模版
+移动交换中心
+Wave soldering
+服务器
+ADS
+边缘检测
+demodulation
+滤波
+非线性效应
+DAC
+交换网络
+网络覆盖
+RAKE receiver
+fractional Fourier transform
+通信产品
+越区切换
+数字电视信号
+路径损耗
+表面贴装
+handover
+WPAN
+光纤通信系统
+光纤网络
+场效应晶体管
+电视机
+数字微波
+嵌入式软件
+DC/DC converter
+MAC protocol
+信号与系统
+数字移动通信
+网络架构
+电子行业
+数据网络
+秘密共享
+晶体振荡器
+邮政物流
+Photoluminescence
+驱动器
+多模光纤
+有限状态机
+传输网络
+密钥管理
+intelligent optical network
+分支分配器
+文献影像
+LMMSE
+乡镇有线电视
+FTTB
+调频同步广播
+异质结晶体管
+Low noise amplifier
+SHLR
+硬盘自动播出系统
+中国电信企业
+Optical fiber communication
+运维
+space-time processing
+刻录机
+YAG激光器
+服务供应商
+电信设备
+农村有线电视
+卫星转发器
+电信普遍服务
+通信保密
+all optical network
+passive optical network
+线性稳压器
+泵浦
+DS/CDMA
+通信运营商
+TTCN
+PD radar
+optical devices
+效果器
+环形振荡器
+回旋管
+电子战系统
+electronic reconnaissance
+同步数字序列
+网际协议
+光纤拉曼放大器
+有线电视技术
+无线数据业务
+multiple input multiple output
+monopulse radar
+音频
+数字射频存储器
+GSM基站
+电光调Q
+interworking
+应变层
+communication techniques
+RF IC
+有源相控阵
+ROIC
+自适应调制编码
+缝隙天线
+实时示波器
+保护间隔
+响应率
+付费频道
+位置管理
+无线个域网
+中红外
+FDD
+散射中心
+中国电信市场
+低噪声
+multi-user detection
+embedded
+μC/OS-II
+联合检测
+自适应滤波器
+blocking probability
+BPSK
+无线Mesh网络
+时差定位
+激光物理
+资源预留
+掩模
+干法刻蚀
+VXI
+LD
+视频处理
+显示技术
+数字示波器
+laser cladding
+星敏感器
+通信发展
+Operational amplifier
+clutter
+光纤接入
+OSPF
+闪速存储器
+金卡工程
+告警
+super-resolution
+AlN
+RSVP
+Antenna
+功率因数校正
+ZnO薄膜
+速率方程
+digital signal processor
+特性阻抗
+机身
+量子点
+Hough变换
+温度传感器
+交换结构
+同步整流
+network architecture
+运动目标检测
+时钟同步
+接收天线
+神经网络
+Antenna array
+OSNR
+磷化铟
+Rake接收机
+波束赋形
+range profile
+FPGA实现
+微微网
+IC设计
+RIE
+激光光学
+航空电子系统
+光通信系统
+网间互联
+微多普勒
+瑞利衰落信道
+双向寻呼
+CATV network
+STN-LCD
+移动通信企业
+QAM调制
+多媒体音箱
+Softswitch
+frequency offset estimation
+Nd:YAG
+DC/DC
+异构网络
+doping
+链路
+移动电话用户
+GFP
+移动用户
+寻呼机
+室内覆盖系统
+话务模型
+节目技术质量
+播出服务器
+光子技术应用
+BICC
+总线
+纠错编码
+宏蜂窝
+全光开关
+Turbo乘积码
+symbol synchronization
+数字功放
+avionics
+缩微工作
+光纤带
+移动通信领域
+MRTD
+跳频信号
+Blackfin
+无线智能网
+超短脉冲
+数字高清晰度电视
+移动自组织网络
+AdHoc网络
+核心路由器
+成像光谱仪
+输入阻抗
+分布式
+容灾
+光纤传输系统
+硅化物
+bluetooth
+光存储
+场板
+中国网通集团
+电信网络管理
+电信服务质量
+air interface
+adaptive filtering
+Charge pump
+IP承载网
+人眼安全
+回传通道
+AIGaAs
+TDDB
+HRRP
+数字荧光示波器
+承载业务
+手机制造商
+模拟微波
+电子元件行业
+EWSD
+TT&C system
+matched filter
+雷达网
+匹配网络
+block cipher
+机动目标
+adaptive optics
+Protel
+故障定位
+WSN
+SC-FDMA
+赛宝
+塔顶放大器
+QFN
+服务等级协定
+粘结片
+S-parameter
+监听扬声器
+数据广播业务
+Semiconductor process
+metro network
+IP化
+gain
+串口通信
+负载均衡
+并行处理
+程控交换
+数字存储示波器
+高亮度
+时隙
+增益
+无绳电话
+现场直播
+频段
+伪随机码
+软件测试
+互通
+复用
+a-Si
+全固态激光器
+广电总局
+电流传送器
+passive radar
+wireless location
+自对准
+安捷伦科技公司
+binary optics
+传播常数
+VISA
+功率晶体管
+业务应用
+邮电管理局
+Speech recognition
+Jones matrix
+铁电液晶
+欠采样
+adaptive beamforming
+热退火
+视频业务
+数字卫星接收机
+optical access network
+波束成形
+地面广播
+美国国家半导体公司
+割接
+maneuvering target tracking
+盲估计
+寻呼
+量子通信
+DSL
+Motion compensation
+I-V特性
+内容提供商
+宽带信号
+mobile agent
+infrared
+IC
+filter
+fiber amplifier
+网络互通
+复接器
+星载合成孔径雷达
+被动锁模
+三阶色散
+Superlattice
+质心干扰
+编码增益
+thin film transistor
+增益饱和
+干扰机
+Σ-Δ调制器
+光电子
+数字锁相环
+谐振器
+液晶显示模块
+天线阵列
+接地
+bandpass filter
+背投电视
+photonic crystals
+CAN
+SOA
+锂离子电池
+可视电话
+硅单晶
+硬盘录像机
+DC/DC变换器
+中国移动通信
+超分辨
+蓝牙耳机
+driving circuit
+vector quantization
+通用移动通信系统
+GoTa
+single mode fiber
+Semiconductor Laser
+数字移动电话
+短沟道效应
+SINR
+阵列处理
+验证平台
+红外导引头
+功率合成器
+数字同步网
+功率代价
+edge detection
+有源滤波器
+resonator
+JTAG
+数字电路
+bandwidth
+power control
+transmitter
+数据仓库
+新媒体
+RS code
+失效机理
+网络公司
+高性价比
+超连续谱
+会议电视网
+窄线宽
+微型显示器
+Ku频段
+群速度色散
+广播电视传输网
+鉴频鉴相器
+连续时间滤波器
+IC test
+TT&C
+峰值平均功率比
+音色
+信息产业发展
+湿法腐蚀
+光刻机
+眼图
+视频检索
+ATM网
+MSK
+CTI
+快速算法
+无线网状网
+wireless access
+卫星接收天线
+可编程逻辑
+到达角
+加扰
+有源矩阵
+盲信道估计
+禁带宽度
+绝缘体上硅
+接入控制
+光纤耦合器
+转发器
+双极器件
+数字传输系统
+卷积交织
+红外焦平面探测器
+现代雷达
+InGaAs/InP
+固网运营商
+PoC
+无线城市
+PMOSFET
+最大输出电平
+骨干传输网
+电吸收调制器
+光子晶体光纤（PCF）
+Plasma display panel
+金属-氧化物-半导体场效应晶体管
+压限器
+DVB-T标准
+半导体产业链
+导引头
+偏振度
+数字摄像机
+QoS路由
+色散特性
+MF-TDMA
+国际通信展
+数字阵列雷达
+新兴运营商
+杜比实验室
+液晶盒
+ARPU
+双向HFC网络
+有机电致发光器件（OLED）
+双向HFC
+μClinux
+取样频率
+雷达截面积
+mobile TV
+超视距雷达
+应答机
+Rake receiver
+心理声学模型
+量子级联激光器
+UNI
+宽带应用
+laser physics
+光纤延迟线
+direction of arrival
+网络与信息安全
+等离子体显示器
+后向散射
+automatic test system
+输出变压器
+染料激光器
+四阶累积量
+信息安全保障
+传输控制协议
+移动自组网
+laser technology
+Kalman filtering
+电子镇流器
+face recognition
+液晶
+image segmentation
+电视台
+激光退火
+电脑灯
+互联网业务
+压制干扰
+Video coding
+噪声指数
+消费电子产品
+电子测量技术
+rail-to-rail
+基站控制器
+DCN
+米波雷达
+monopulse
+CODEC
+阿尔卡特公司
+宽带放大器
+摄像头
+振荡器
+设备市场
+低温烧结
+运动矢量
+时域有限差分
+数码摄像机
+adaptive
+电子器件
+探地雷达
+RTP
+视频传输
+网络管理系统
+全球移动通信系统
+modulator
+示波器
+定时器
+SMS
+目标探测
+上变频器
+MOS结构
+Sun公司
+Lead-free
+Blind equalization
+光计算
+分光比
+同步网
+固态发射机
+modulation classification
+CD唱机
+无线电业务
+线缆调制解调器
+optical switching
+相位编码
+弯曲损耗
+衍射光栅
+激光晶体
+frame synchronization
+图象编码
+通信保障
+WAPI
+合成孔径雷达（SAR）
+RF
+场致发射
+time synchronization
+PID
+temperature compensation
+A/D
+μC/OS-Ⅱ
+feature extraction
+四川联通
+AlGaN/GaN HEMTs
+bidirectional transformation
+干法腐蚀
+beam steering system
+信息名址
+S/PDIF
+光缆网
+NEBS
+PDSN
+coherent jamming
+蓝光碟
+Edge detection
+摩托罗拉公司
+电离层
+模糊函数
+SCDMA
+介质膜
+卫星通信网
+Beamforming
+CATV网
+光隔离器
+战术数据链
+声像定位
+PN sequence
+CSP
+计费系统
+传输特性
+电磁屏蔽
+multimedia communication
+MTF
+截止波长
+等离子体显示板
+宽带天线
+IrDA
+signal sorting
+蓝光光盘
+限幅放大器
+交叉连接
+腔内倍频
+卫星移动通信系统
+通信系统
+DTMF
+信息家电
+媒体网关控制器
+全光通信网
+舞台技术
+第四代移动通信系统
+LP-MOCVD
+固定移动融合
+自动播控系统
+PMOS
+中国国际广播电视信息网络展览会
+AlGaN/GaN HEMT
+光泵浦
+极化角
+媒体处理器
+噪声整形
+联通CDMA
+LD-pumped
+芯片级封装
+PtSi
+最大似然检测
+reflector antenna
+朗讯科技公司
+全光波长转换
+LAN
+PSpice
+科技司
+过采样
+最大似然估计
+白光LED
+固定电话
+AGC
+液晶显示屏
+高性能
+多线程
+现场总线
+FIR滤波器
+热释电
+secret sharing
+电力线通信
+D/A converter
+信息通信
+访问控制
+frequency synchronization
+信干比
+邮政综合计算机网
+数字无绳电话
+tunable laser
+第三代移动通信技术
+卫星广播电视
+半绝缘
+超辐射发光二极管
+数字用户环路
+自适应均衡器
+Ka-band
+微波滤波器
+锗硅
+ISAR imaging
+DCF
+Moment method
+脉冲多普勒雷达
+双波段
+microphone array
+SaaS
+试验网
+军事通信
+Clutter suppression
+光联网
+ubiquitous network
+无线网络优化
+indoor coverage
+有源区
+微波功率器件
+AHB
+光通信设备
+微组装
+虚拟无线电
+网元管理系统
+混合ARQ
+色散斜率
+二极管泵浦固体激光器
+多媒体处理器
+hot carrier effect
+无线电设备
+点目标
+并矢格林函数
+IP network
+CMOS image sensor
+电池充电器
+双极化
+InSAR
+information hiding
+定位精度
+数字下变频器
+梯度折射率
+AWG
+万兆以太网
+结温
+认证协议
+Hough transform
+程控交换机
+激光测距
+Matlab
+等离子体
+AES
+保护电路
+频率响应
+独立分量分析
+电子测量
+采样率
+硅片
+互调干扰
+福禄克公司
+数字电视技术
+应用服务器
+聚酰亚胺
+信令监测
+电源净化器
+Ho:YAG laser
+导弹告警系统
+on-resistance
+INtess
+浅结
+传送平面
+SOI技术
+中波广播
+OVPN
+HFC接入网
+数据广播平台
+MOS
+脉冲宽度调制
+diffraction efficiency
+电子邮政
+有线电视业
+多层印制板
+动中通
+光纤布拉格光栅（FBG）
+维特比译码
+circular polarization
+势垒高度
+方向图综合
+广电局
+缩微胶片
+查找表
+等离子显示器
+电解电容器
+ISI
+摄象机
+传输系统
+集成电路制造
+移动通信发展
+wire bonding
+测向系统
+IDCT
+非线性编辑设备
+波长分配
+邮政经营
+NETD
+iDEN
+阈值电流
+GMTI
+T/R module
+location management
+可测试性设计
+邮区
+内容保护
+AFM
+视频会议系统
+英特尔公司
+LS
+方块电阻
+思科
+jitter
+半导体材料
+MTI
+大气激光通信
+物理光学法
+光线路终端
+音响技术
+信道化接收机
+adaptive equalization
+IGMP
+precoding
+cable modem
+基音检测
+分组调度
+cyclostationary
+Xilinx
+电路
+版权保护
+集群系统
+参考价格
+视频监控
+短消息
+语音信号
+诺基亚公司
+IN
+PSK
+微电子封装
+中心局
+Mobile IP
+传输矩阵法
+双电层电容器
+功分器
+训练序列
+音频放大器
+均匀圆阵
+multicast routing
+嵌入式处理器
+protocol
+电子标签
+读写器
+通用串行总线
+大规模集成电路
+微波器件
+GNSS
+占空比
+控制电路
+网络电话
+量子效率
+数字程控交换机
+电子政务
+QoS routing
+无线宽带
+ADPCM
+小目标检测
+混合集成
+大气传输
+coupling efficiency
+video communication
+石英光纤
+radiation pattern
+目标特性
+Power control
+量子涨落
+RF power amplifier
+电流模
+模拟集群
+PaaS
+infrared focal plane arrays
+HF radar
+optical wireless communication
+挠性板
+jamming effect
+天线分集
+数字交叉连接
+运动估值
+机载火控雷达
+率失真优化
+ITU
+话务统计
+RoF
+ASIC设计
+DVCPRO
+增值业务平台
+移动市场
+差分群时延
+万利达
+嵌入式Linux
+实时处理
+半导体超晶格
+正交频分复用（OFDM）
+模块电源
+接入解决方案
+高集成度
+光纤同轴混合网
+HomePNA
+固定电话网
+大气波导
+rate equations
+ISAR成像
+数字机
+radar network
+XML
+路由选择
+数据关联
+充电器
+主动网络
+相位调制
+光电特性
+operational amplifier
+single chip microcomputer
+ECCM
+CORDIC算法
+Image coding
+OFDM系统
+RFIC
+对数周期天线
+微带贴片天线
+流水线
+RISC
+声道
+远程监控
+高清晰度
+固件
+终端
+图像采集
+自适应
+互连
+实时性
+卫星电视
+PIC单片机
+分辨率
+半导体激光器（LD）
+电视台数字化
+半导体光电器件
+广播电视监测
+信令转接点
+packet transport network
+Dual tone multifrequency
+家庭基站
+: Radio call-up
+Phonic remind.
+Rework
+安全解决方案
+流密码
+伪随机序列
+Image segmentation
+呼叫转移
+UKF
+通信服务
+箔条
+phase modulation
+多载波调制
+fading channel
+电子工业
+纠错码
+光谱学
+SVPWM
+OPNET仿真
+GSMBE
+光城域网
+广西电信
+化学汽相淀积
+射频连接器
+antenna pedestal
+supercontinuum
+色散管理孤子
+比接触电阻
+双频手机
+高密度互连
+有线电视传输
+Σ-Δ modulator
+AMOLED
+业务交换点
+块效应
+i-mode
+全IP
+变容管
+PCI接口
+dark current
+平板显示技术
+Heterojunction
+L-band
+吞吐率
+普遍服务基金
+高通
+防火墙产品
+space target
+EDMA
+LD pumped
+Face recognition
+antenna selection
+Infrared image
+手机产业
+听音室
+Nd∶YAG激光器
+盲波束形成
+端面泵浦
+扰码
+Quantum well
+北京邮电大学
+DLP投影机
+激光损伤
+CableModem
+毫米波雷达
+大功率LED
+馈源
+摄录机
+HPI
+双折射
+屏蔽效能
+FIR filter
+signals and systems
+arrayed waveguide grating
+硬盘阵列
+数字多媒体广播
+FLEX
+伪码捕获
+多业务传输平台
+电信重组
+timing recovery
+stimulated Raman scattering
+信息通信业
+数字调幅广播
+Semiconductor device
+螺旋电感
+相干解调
+频率啁啾
+表面势
+MB-OFDM
+集成电路企业
+resilient packet ring
+conditional access
+压缩编码
+内插
+solar cell
+碳化硅
+厂商
+CM
+语音信号处理
+interference suppression
+表面安装技术
+VXIbus
+constant modulus algorithm
+multiple access interference
+误码性能
+反射谱
+CDMA技术
+干扰信号
+调制解调
+反射镜
+ISP
+ultrasonic motor
+雷达系统
+移动通信网络
+通信网络
+高保真放大器
+室内分布
+轨到轨
+综合接入网
+安全优质播出
+BWA
+多芯片封装
+Hybrid IC
+Bipolar transistor
+Σ-Δ调制
+数字电路倍增设备
+平板裂缝天线
+晶圆级封装
+后级放大器
+业务节点
+超深亚微米
+缺陷地结构
+低信噪比
+微波电路
+UHF
+mobile communications
+磁盘阵列
+成像系统
+信息融合
+quantum dot
+波分复用器
+刻蚀速率
+数字解调
+背景抑制
+比特分配
+polarizer
+chromatic dispersion
+连续波雷达
+反聚束效应
+各向异性腐蚀
+photonic bandgap
+流水线结构
+Viterbi decoding
+可变增益放大器
+服务质量（QoS）
+SDH网络
+准相位匹配
+蜂窝移动通信系统
+信令协议
+Rapid thermal annealing
+HF communication
+量子阱激光器
+光学双稳态
+会话发起协议
+因特网电话
+互联星空
+可调谐滤波器
+等离子体显示屏
+输出端子
+DLTS
+thin film
+数字信号
+传输速率
+无线互联网
+光放大
+电子测量仪器
+SDP
+空间分集
+激光探测
+夏普
+频率选择表面
+多径效应
+抗扰度
+DBA
+太阳能电池
+ACELP
+邮政报刊发行
+真空微电子学
+CTIA
+CABAC
+网状网
+radio resource management
+空间激光通信
+DXC
+多晶硅薄膜晶体管
+WMAN
+fiber delay line
+位置区
+IPoverWDM
+频谱监测
+数字电视系统
+个人通信系统
+通道失配
+功率管理
+光纤线路
+HDMI
+本地代理
+TD-SCDMA标准
+Image processing
+说话人识别
+LBS
+光纤色散
+网元
+数字电视接收机
+SIP协议
+聚焦离子束
+立体电视
+表面安装
+光时域反射仪
+RTD
+flash memory
+即时通信
+隔行扫描
+电话簿
+DC-DC
+射频磁控溅射
+微细加工
+spread spectrum communication
+电子辐照
+光谱响应
+LSP
+FIR
+network optimization
+middleware
+弹道导弹
+quantum key distribution
+单载波频域均衡
+radar signal processing
+频率选择性衰落
+microwave dielectric ceramics
+deception jamming
+Quality of service
+laser weapon
+turbo codes
+接触电阻率
+能量检测
+面板
+自适应算法
+Ad hoc networks
+PN序列
+分数阶傅里叶变换
+L波段
+高音
+DC/DC转换器
+投影显示
+帧内预测
+DC-DC converter
+移动通信技术
+interferometer
+电路板
+安全策略
+显示器
+发光效率
+Reliability
+量子点激光器
+媒体矩阵
+adaptive array
+塑封器件
+环境光学
+甲类放大器
+UWB SAR
+新闻直播
+MOS电容
+单模光导纤维
+码率
+光纤链路
+短波信道
+单量子阱
+等效串联电阻
+Speech coding
+有线运营商
+器件模型
+Q-switch
+PD雷达
+光调制
+对等网络
+communication protocol
+低功耗设计
+网络设备
+embedded Linux
+多信道
+光线追迹
+BCH码
+交互式电视
+衬底温度
+透明导电薄膜
+紫外探测器
+预警机
+热成像系统
+制程
+convolutional code
+超级VCD
+DDFS
+天线测量
+航迹关联
+“小灵通”
+语音压缩
+嵌入式微处理器
+Image fusion
+YAG
+微透镜
+多层板
+高功率微波
+模拟开关
+测试平台
+激光焊接
+ACIR
+小区间干扰
+同步码分多址
+综合脉冲孔径雷达
+文献影像技术
+激光放大器
+gate oxide
+optical code division multiple access
+实时计费
+谱域法
+power penalty
+品尼高公司
+电缆组件
+Fiber laser
+LAS-CDMA
+迭代检测
+寻呼业务
+移动交换机
+静电感应晶体管
+爱特梅尔
+虚拟运营商
+CSCF
+LMDS系统
+PMC-Sierra
+音频电路
+双归属
+物联网
+liquid crystal
+PKI
+极化
+tracking
+数据包
+意法
+探测概率
+orthogonal frequency division multiplexing（OFDM）
+折射率分布
+电话业务
+微波传输
+speech signal
+大功率
+同轴电缆
+红外烟幕
+微波管
+wireless mesh network
+长波红外
+直流特性
+干线网
+ground clutter
+开关稳压器
+多媒体广播
+总控系统
+服务质量保证
+SC-FDE
+metropolitan area network
+four-wave mixing
+CPW
+输入电平
+分组网络
+编码正交频分复用
+器件结构
+非球面
+微加工
+时频分析
+系统公司
+uClinux
+传感器网络
+偏振
+相位误差
+辐射特性
+音响效果
+手机支付
+星间链路
+OSD
+Ohmic contact
+缩微
+数字电位器
+视频采集
+语音处理
+薄层电阻
+LBO
+多载波CDMA
+光束整形
+邮政服务
+频率步进
+NLOS
+对角加载
+pitch detection
+绿光激光器
+有效折射率
+国际漫游
+TINA
+网络游戏
+准视频点播
+有机薄膜电容器
+Microwave tube
+链路容量调整方案
+选择性焊接
+上行同步
+ISDB-T
+移动交换
+多媒体信息业务
+charge to breakdown
+HAPS
+光传送网络
+电路信息
+Fading channel
+TD-HSDPA
+E-UTRAN
+电缆分配系统
+泛在网
+PSI/SI
+LTE-A
+A接口
+TDD-CDMA
+HEMTs
+被叫集中付费
+电子装联技术
+基于以太网的无源光网络
+偏振模色散（PMD）
+电信业务市场
+多频道
+链路自适应
+Turbo均衡
+无线接口
+GaAs MESFET
+XPM
+鳍线
+MQW
+码率分配
+Juniper
+DFB
+free space optical communication
+无线LAN
+有线电视综合信息网
+IP multimedia subsystem
+微光学元件
+SAW filter
+音响设备
+抗蚀剂
+水声通信
+ATM network
+development analysis
+LMS算法
+自组织网络
+有机电致发光器件
+LMS algorithm
+orthogonal frequency division multiple access
+红外光电探测器
+Transmit diversity
+阿尔贡
+移动多媒体通信
+器件特性
+闪光灯泵浦
+红外医学
+综合智能网
+相干光通信
+Ku-band
+小区选择
+GaN HEMT
+硅外延层
+硅直接键合
+RISC微处理器
+模拟IC
+国家广电总局科技司
+BBU
+无线接入网络
+环氧塑封料
+声频功率放大器
+垂直腔半导体光放大器
+光缆通信系统
+波分复用无源光网络
+光掩模
+邮政营销
+网间互连
+农村邮政支局
+爱立信公司
+密钥协商
+electronic packaging
+级联码
+逻辑器件
+PPPoE
+光纤收发器
+幅相误差
+声表面波器件
+缺陷模
+图像复原
+认证中心
+遥控器
+digital watermark
+method of moment
+测试系统
+网络建设
+关键帧
+independent component analysis
+wireless network
+截止频率
+亮度
+电话机
+成像算法
+多径传播
+部分传输序列
+中国联通公司
+plasma display panel
+网格编码调制
+信号设计
+电视接收
+滑盖
+双模手机
+距离像
+高功率激光器
+多速率
+FET
+数据通信网
+通信建设
+网络分析仪
+双工器
+测试生成
+PN码
+量子密码
+去噪
+高阶累积量
+实时时钟
+雷达抗干扰
+光子晶体波导
+碰撞电离
+photoluminescence（PL）
+传送流
+多注速调管
+相干合成
+photonic crystal fiber（PCF）
+散射通信
+differential frequency hopping
+多级维纳滤波器
+Digital communication
+有线电视联网
+光交换机
+预倾角
+FPGA器件
+网同步
+激光大气传输
+空时格码
+minimum mean square error
+节目平台
+ADSS光缆
+扫频仪
+欺骗式干扰
+红外辐射
+neural network
+混沌同步
+红外传感器
+LED display
+银行卡
+编码调制
+CIC滤波器
+IC卡应用
+spectral subtraction
+三维面形测量
+邮政市场
+动目标显示
+路测
+ballistic missile
+spectrum management
+通信电源系统
+拉曼光纤放大器
+平面光波导
+RF MEMS
+BCH
+Q开关
+光互联网
+sensor
+激光头
+network management system
+ionosphere
+太赫兹
+量子信息
+channel model
+偏振态
+故障排除
+相位匹配
+state machine
+汽车音响
+语言清晰度
+数值孔径
+CPCI
+干涉合成孔径雷达
+辐射发射
+计算机病毒防治
+耦合模理论
+反隐身
+GSM手机
+电源监控
+光孤子通信
+增补频道
+noise jamming
+晶闸管
+data association
+无铅压电陶瓷
+抖动
+信道
+频率资源
+分集技术
+前面板
+混频
+聚合物光纤
+quantum information
+superlattice
+base station
+VHDL语言
+无线通信技术
+MBWA
+资费套餐
+Rayleigh channel
+ESD protection
+MOS structure
+全IP网络
+数字音频接口
+稀布阵
+光学双稳性
+多晶硅发射极
+通用成帧规程
+MHP
+同密
+《电信法》
+帧中继业务
+SNCP
+中国移动多媒体广播
+民族通信产业
+测试成本
+磷扩散
+无线用户环路
+双异质结
+光纤用户环路
+曲率补偿
+蜂窝移动通信网
+全波分析
+农话
+SIGTRAN
+optical Internet
+multiuser diversity
+修改器
+streaming media
+透过率
+盲源分离
+第四代移动通信
+薄膜晶体管液晶显示器
+flip chip
+安桥
+片式元器件
+拉曼放大器
+ATM networks
+复合制导
+VBR
+亮度信号
+SystemC
+radar system
+协议测试
+量子噪声
+网络生存性
+局数据
+Synthetic aperture radar
+光纤网
+耗尽层
+铁通公司
+直扩信号
+USB接口
+光纤Bragg光栅
+oscillator
+decoder
+仿真器
+公钥基础设施
+electronic equipment
+自适应门限
+纤维光学
+双模
+视频解码器
+软硬件协同设计
+高动态
+音频格式
+长波长
+defect mode
+gateway
+RSA
+温度测量
+色散管理
+信道状态信息
+CDPD
+Internet of things
+分数傅里叶变换
+波形设计
+数字付费电视
+扩频码
+junction temperature
+dry etching
+电子光学
+网络运营
+周期序列
+空时分组编码
+激光测距机
+电信用户
+micromachining
+orthogonal frequency division multiplexing(OFDM)
+放音
+路由交换机
+仪器仪表
+wavelet
+盲检测
+喇曼散射
+应用光学
+电光效应
+铁电存储器
+communication network
+Raman scattering
+microcontroller
+光缓存
+极紫外光刻
+Analog-to-digital converter
+混沌扩频序列
+冷阴极荧光灯
+松套管
+调制带宽
+CobraNet
+摆位
+时钟提取
+短波广播
+readout circuit
+半导体产品
+业务量疏导
+调制掺杂
+城域光网络
+IP电话业务
+有限反馈
+Parameter extraction
+超辐射
+coherent integration
+带隙基准电压源
+色散渐减光纤
+偏振控制器
+个人通信网
+应变硅
+通信运营企业
+相参积累
+电声技术
+分配网
+direction-of-arrival
+赋形波束
+WIN
+城域网建设
+bandgap voltage reference
+wireless mesh networks
+IaaS
+SOI结构
+广播卫星
+ITO
+多光谱
+盲信号分离
+半实物仿真
+块匹配
+网络体系结构
+space-time coding
+零树编码
+BGP
+设计工程师
+智能功率模块
+video server
+WiFi
+DBF
+模/数转换器
+soft switch
+任意波形发生器
+ISA总线
+信息安全技术
+photonic band gap
+红外遥控
+高保真
+校准
+synchronization
+CRT
+音乐厅
+双口RAM
+SAN
+调制
+IFFT
+光纤预制棒
+业务质量
+机柜
+无线覆盖
+frequency offset
+数字通信系统
+接入系统
+场发射显示器
+紫外激光
+应用电路
+调Q
+heterojunction
+interconnection network
+视听室
+Viterbi algorithm
+linear frequency modulation
+结深
+method of moments
+亚毫米波
+液晶光阀
+语音质量
+投影电视
+通信安全
+明基
+复合腔
+光传输网络
+多业务网络
+working electrolyte
+数据广播系统
+medium access control
+microwave dielectric ceramic
+SONET
+钛宝石激光器
+射频开关
+子空间分解
+self-phase modulation
+stepped frequency
+音响工程
+IP多播
+IETF
+测辐射热计
+三坐标雷达
+电视服务
+直播系统
+摩托罗拉半导体
+最大似然
+SAR图像
+掺杂
+性能分析
+场效应管
+amplifier
+直接转矩控制
+模糊控制
+功耗
+receiver
+无损压缩
+覆铜箔板
+热载流子
+WMN
+multiple-input multiple-output
+NMS
+弱小目标
+Ka band
+波束扫描
+energy detection
+有条件接收
+功放机
+ADI公司
+Field emission
+侧面泵浦
+矩阵光学
+EMM
+LIGA
+wafer bonding
+gain saturation
+电信产品
+DS-UWB
+脊波导
+卷积编码
+激光切割
+GPS接收机
+time-frequency analysis
+Laser
+三星电子
+电源电压
+CPU
+IBOC
+Voltage controlled oscillator
+接入平台
+多载波系统
+IC测试
+未来移动通信
+电信大客户
+MoCA
+电子显微学报
+Ⅲ族氮化物
+基带处理器
+数字电视前端
+Nakagami fading
+县级有线电视
+射频拉远
+非编网络
+Outage probability
+低相位噪声
+传播预测
+数字包封
+wideband code division multiple access
+边际网
+Multipath fading
+平行缝焊
+Electronic assembly
+会议电视业务
+激射波长
+光缆结构
+IC tag
+Solder paste
+CPCA
+合法侦听
+非零色散位移光纤
+数值模式匹配
+分组数据业务
+编解码
+lithography
+白平衡
+国际电信联盟
+数据压缩
+减反射膜
+微通道板
+假目标
+可寻址
+激光陀螺
+谱相关
+分布式系统
+视频会议
+RS编码
+transport network
+线天线
+线性分组码
+信噪比估计
+距离模糊
+路由策略
+Viterbi decoder
+雷达接收机
+diagonal loading
+相干斑
+德国电信
+锑化铟
+high power laser
+quantum fluctuation
+微测辐射热计
+光功率计
+system capacity
+coupling coefficient
+自由电子激光
+华硕
+Bootloader
+电力电子器件
+高精度
+quantum dots
+数据网
+DSP Builder
+合成器
+脉冲重复频率
+带通采样
+计数器
+时频分布
+可信计算
+图像增强
+spectroscopy
+集线器
+脉冲激光
+Zigbee
+环境试验
+成品率
+光工作站
+DMB-T标准
+数字播控系统
+Cellular digital packet data
+日本电报电话公司
+CW测试
+mobile WiMAX
+小区覆盖
+爱迪德
+PCB industry
+读出集成电路
+超薄栅氧化层
+三重播放
+高反压
+Superluminescent Diode
+MobileIP
+GaAs HBT
+Semiconductor Materials
+击穿电荷
+多媒体家用平台
+mobile reception
+公共接入平台
+多媒体数据广播
+MHEMT
+NPT-IGBT
+LC VCO
+多媒体家庭平台
+Digital IC
+播出机
+~+信息战
+n-MOSFET
+T-shaped gate
+传输网络公司
+Iu-Flex
+CNGI
+高重复频率
+无源探测
+高带宽
+小数分频
+虚拟演播室技术
+失调电压
+混沌通信
+邮政通信
+数字电视市场
+辐射源识别
+中国铁通
+光参量振荡器
+数字音频信号
+network centric warfare
+差分检测
+TI
+电源
+显示屏
+参数估计
+多普勒
+组合导航
+红外隐身
+lossless compression
+Signal detection
+光耦合器
+iSCSI
+傅里叶变换
+衰减器
+作战效能
+烟幕
+Nd
+功能测试
+离散对数
+TEMPEST
+液晶显示器件
+PCB设计
+正交解调
+射频前端
+手持设备
+互联网接入
+路由优化
+雷达干扰
+看门狗定时器
+数字控制
+数码摄影
+quality factor
+录音
+wireless optical communication
+电信运营公司
+天馈线
+湖南电信
+码号资源
+光通信网
+电信条例
+无线传声器
+Rail-to-Rail
+快速跳频
+话音质量
+共享风险链路组
+垂直腔
+OTU
+高重复率
+导频污染
+立体声放大器
+软交换设备
+nonlinear optical loop mirror
+ECR-PEMOCVD
+光通信产业
+应用场景
+多量子阱结构
+直播车
+认知无线电网络
+ΣΔ调制器
+反向链路
+交换芯片
+decision feedback equalizer
+信息化小区
+有线电视网络管理
+光缆接续
+Microchi
+调制格式
+Parlay/OSA
+Turbo equalization
+用户管理
+Silicon
+误差分析
+DC-DC变换器
+自聚焦透镜
+low noise
+无线通信系统
+broadband network
+锁模
+direct sequence spread spectrum
+频移键控
+DDN
+激子
+色度色散
+光无线通信
+high resolution range profile
+反型层
+TFT LCD
+matrix optics
+光电子集成电路
+数字蜂窝
+PN码捕获
+VoD
+通话系统
+Mobile communications
+数字信道化
+移动信道
+智能外设
+RVM
+捷变频
+微波功率放大器
+coherent demodulation
+用户接入
+海底光缆系统
+术语释义
+codec
+蜂窝IP
+预付费用户
+截获概率
+极化SAR
+直接调制
+multiple access protocol
+有源层
+GEPON
+直拉硅
+关守
+高密度封装
+光纤喇曼放大器
+干扰温度
+fiber coupling
+infrared optical system
+集中维护
+球栅阵列
+异构无线网络
+forward error correction
+多址技术
+微波测量
+Digital signal processing
+倍频器
+He-Ne激光
+access control
+中国广播电视
+physical optics
+扩频序列
+微波集成电路
+电讯
+Boolean function
+环境应力筛选
+white LED
+扩音机
+表面态
+气敏性能
+判决反馈
+无线系统
+DRAM
+多址接入
+恒虚警
+行输出变压器
+数字压缩
+AAA
+谐振频率
+数据采集系统
+无线技术
+DVD
+密码技术
+CdTe
+微电子学
+CMA
+实时图像处理
+射频电路
+中继
+Ion implantation
+有效载荷
+infrared imaging
+低电压
+中国互联网
+leakage current
+移动电子商务
+感知无线电
+peak-to-average power ratio
+ring oscillator
+贴片天线
+红外图像序列
+transcoding
+中国电信集团
+函件业务
+多媒体短信
+非编
+高阶压缩
+化学氧碘激光器
+infrared focal plane array
+非编系统
+分频网络
+光电子产品
+移动互联网业务
+封装基板
+Chirp
+标准清晰度电视
+移动通信产品
+信元丢失率
+Si衬底
+边缘路由器
+SiGe/Si
+数据率
+跨阻放大器
+分立器件
+全光波长变换
+DSDV
+雷达信号分选
+真空电子
+流量控制
+以太网接入
+焊盘
+呼叫接纳控制
+媒体资产
+radar netting
+Characteristic impedance
+移动通信有限公司
+中波红外
+全数字接收机
+SFDR
+外延片
+数字匹配滤波器
+spaceborne SAR
+圆锥扫描
+无线自组织网络
+泛在网络
+ad hoc
+分组无线网
+电子攻击
+自适应天线阵
+抗辐射加固
+sensor network
+电迁移
+相位补偿
+卫星系统
+超低功耗
+Radon变换
+RADIUS
+倍频
+综合业务网
+UT斯达康公司
+门阵列
+PCF
+集成电路工艺
+非制冷
+Adhoc
+干扰抵消
+广播电视中心
+混合组网
+分束器
+带状线
+wireless channel
+ultra wideband
+green laser
+无线电电子学
+红外目标
+上行信道
+responsivity
+Thermal design
+大唐电信科技股份有限公司
+multi-carrier
+信号电平
+模拟前端
+肖特基接触
+接收器
+光电耦合器
+无线电频率
+Rayleigh fading
+protocol stack
+正弦脉宽调制
+数字生活
+光电经纬仪
+电容器
+密钥
+A/D conversion
+位置服务
+maneuvering target
+多用户干扰
+error resilience
+Mobile agent
+商情
+电视公司
+大气透过率
+因特网协议
+多媒体通信网
+synthetic aperture radar(SAR)
+电子技术应用
+通信质量
+CMIP
+physical layer
+HDSL
+低副瓣
+无线数据通信
+网络测量
+数字集成电路
+手机电池
+有源噪声控制
+光电性能
+密码分析
+多波束
+安全产品
+lead-free piezoelectric ceramics
+在系统可编程
+phase-locked loop
+analog circuit
+彩信
+CMOS集成电路
+感兴趣区域
+相关检测
+驱动电源
+field programmable gate array
+能带结构
+扩展频谱
+moving target detection
+motion vector
+慢波结构
+多跳
+LDP
+速率控制
+设备厂商
+通孔
+环形腔
+molecular beam epitaxy
+电话普及率
+encoder
+吸波材料
+卡拉OK
+电视媒体
+FBG
+微弱信号检测
+HLA
+电源模块
+image restoration
+半导体激光
+双向传输
+彩屏
+移动通信业务
+开关电容滤波器
+采样速率
+通信公司
+偏振特性
+liquid crystals
+单片开关电源
+multipath fading
+通话时间
+photolithography
+loop filter
+双光子吸收
+specific capacitance
+wide-band
+舰载
+分数阶Fourier变换
+芯片制造
+无线话筒
+电源设备
+介电常数
+图像去噪
+鲁棒性
+赛普拉斯半导体公司
+Integrated Optics
+电子装联
+室内光缆
+平滑演进
+延时播出
+积层法
+混合信号测试
+WDMA
+舰船电子工程
+搜索窗
+全光波长转换器
+数字基带
+Verilog-A
+激光器市场
+光纤孤子通信
+简单IP
+PCB行业
+WLP
+COB
+衬底电流
+受激布里渊散射（SBS）
+无线市话系统
+plasma display
+双极集成电路
+SERDES
+pMOSFET
+静电扬声器
+Nakagami衰落
+双向HFC网
+固态化改造
+挠性印制板
+电路交换网
+时域均衡
+彩色显像管
+磁性能
+印制线路板
+网络性能
+encryption
+XPS
+虹膜识别
+红外探测
+TS
+电信局
+数字电影
+网络仿真
+伺服系统
+业务创新
+蓝光
+译码器
+router
+身份认证
+video processing
+IP phone
+阻挡层
+传输损耗
+adaptive threshold
+PL
+电视频道
+VGA
+接入点
+adaptive filter
+semiconductor
+电源电路
+寄存器
+频率分辨率
+repeater
+spectrum analyzer
+发散角
+强激光
+信息处理技术
+电性能
+维纳滤波
+脉宽
+ultra-wideband(UWB)
+服务水平协议
+半速率
+量子阱红外探测器
+电路域
+波控系统
+同步开关噪声
+双向网络
+交互业务
+光电子集成
+cross-phase modulation
+有线电视HFC
+four wave mixing
+微显示器
+裸芯片
+光传输设备
+DVB-RCS
+无线IP
+频分双工
+光进铜退
+Vacuum interrupter
+MPCP
+邮储业务
+DVB标准
+脉冲无线电
+挠性覆铜板
+光伏探测器
+低频扬声器
+台站管理
+双频网
+电流反馈放大器
+optical device
+集群移动通信
+电路与器件
+image enhancement
+并行测试
+all-optical network
+SDH设备
+CHINANET
+bit allocation
+电信工程
+improvement factor
+测评认证
+network survivability
+协同通信
+FPGA implementation
+非稳腔
+载波频偏
+激光引信
+coherent detection
+频谱检测
+蓝芽技术
+步进频率
+转码
+digital beam forming
+ridge waveguide
+光电集成
+X射线双晶衍射
+X射线光刻
+平板扬声器
+电磁带隙
+无线基站
+信道化
+VOP
+Microstrip
+第三代移动通信标准
+high gain
+passive jamming
+光学非线性
+导频信号
+淀积速率
+电力半导体器件
+LFMCW
+指控系统
+雷达辐射源
+有条件接收系统
+ABR业务
+突发模式
+光缆工程
+联合变换相关器
+离子束刻蚀
+NCO
+宽带服务
+BREW
+流量识别
+电信分公司
+距离分辨率
+压缩态
+网管中心
+Absorbing boundary condition
+optical amplifier
+媒体资产管理系统
+resonant tunneling diode
+Sony公司
+monolithic integration
+压缩域
+玻纤布
+视盘机
+通信侦察
+广播电视覆盖
+动态频谱接入
+overlay network
+广播技术
+multipath channel
+Radar imaging
+飞秒激光器
+diversity gain
+视频磁头
+分组网
+突发通信
+单载波
+DECT
+有线电视管理
+会议电视终端
+dynamic spectrum access
+运动图像专家组
+热仿真
+AVS-M
+扩展电阻
+spiral inductor
+架空光缆
+FWM
+N-ISDN
+SID
+放大自发辐射
+雷达散射截面积
+语音编解码
+EDA工具
+非线性编辑网络
+水平极化
+code acquisition
+PHS网络
+卫星音
+有机薄膜晶体管
+PCBA
+带状光缆
+multimode interference
+主声道
+C-V characteristics
+偶极子天线
+PVR
+解码板
+管理信息模型
+硅集成电路
+NRZ
+音频解码
+Method of moment
+蓝光激光器
+fiber Raman amplifier
+电流模式滤波器
+电视跟踪系统
+标记交换路径
+space-time block code
+pretilt angle
+数字卫星电视
+二次缺陷
+末制导雷达
+coding gain
+ECL电路
+业务运营商
+MOS device
+瞬态干扰
+二次雷达
+螺旋天线
+录音室
+信号质量
+semiconductor device
+KTP
+平板显示器件
+集团客户
+近场测量
+infrared imaging system
+RHEED
+子空间跟踪
+业余无线电
+decoy
+视频播放
+视频输出
+移动流媒体
+AdHoc
+布线
+测试仪器
+丝网印刷
+single-chip microcomputer
+温度特性
+switching power supply
+thin films
+贝尔实验室
+算术编码
+智能电话
+GLONASS
+多晶硅薄膜
+显示卡
+蓝牙模块
+管壳
+卫星直播
+音乐播放
+邮政储蓄业务
+现场可编程逻辑阵列
+电缆电视
+整体平移
+SLM
+电信基础设施
+译码算法
+信号子空间
+线阵列
+电解铜箔
+氮化硅
+失效分析
+secure communication
+来电显示
+shielding effectiveness
+ethernet
+噪声抑制
+load balancing
+系统解决方案
+串行通讯
+ECM
+模板匹配
+数控振荡器
+蓝牙设备
+boundary scan
+性能管理
+lead-free
+群签名
+无线连接
+I-V characteristics
+satellite navigation
+电子设备
+DVB-H标准
+非编网
+嵌入音频
+码速调整
+MSC Pool
+VOD业务
+输出光功率
+S band
+ADTB-T
+Ceramic to metal seal
+IDFT
+薄栅氧化层
+无源光接入网
+光纤联网
+packet loss probability
+solid state transmitter
+多业务交换
+中国电子质量管理协会
+virtual radio
+EPON+LAN
+红外图像增强
+通信工程标准
+线路放大器
+FuTURE
+量子阱红外光电探测器
+附加业务
+沟道区
+deep submicron
+TISPAN
+CCGA
+深亚微米器件
+演进路线
+模块放大器
+光虚拟专用网
+FRR
+二级存储
+综合接入系统
+补充业务
+TD-HSUPA
+电信发展规划
+LMSD
+设备供应商
+移动设备
+探测距离
+显示器件
+He-Ne laser
+信号传输
+电源系统
+Web服务
+FLASH
+网络改造
+牌照
+copyright protection
+千兆以太网
+蓄电池
+SIR
+自动对焦
+灯光系统
+interconnect
+微波辐射计
+卫星网络
+光电子产业
+MAI
+基带
+clock synchronization
+reverberation time
+sensor networks
+光强分布
+parameter estimation
+电子信息产品
+存储容量
+electrical properties
+短波
+监控系统
+MSC
+逻辑综合
+iris recognition
+transmission network
+VXI bus
+DSP/BIOS
+Doppler shift
+双通道
+robustness
+功率因数
+data transmission
+主板
+激光烧蚀
+传声器
+谐波
+ad hoc networks
+跨导
+掺杂剂
+密钥分配
+pn结
+fiber optic gyroscope
+directional coupler
+RLC
+training sequence
+EVM
+杜比
+传播损耗
+bandwidth allocation
+片式元件
+K分布
+灯丝电压
+基片集成波导
+数字中频
+商业信函
+混响
+鉴相器
+APD
+线性度
+心电信号
+超分辨率
+TOA
+双晶衍射
+激光干扰
+CORDIC algorithm
+Adaptive optics
+数字音频技术
+有线电视产业
+LCOS
+激光直写
+蓝牙系统
+IF sampling
+红外干扰
+图形发生器
+无线寻呼系统
+超光谱
+频带利用率
+智能平台
+anisotropic etching
+时钟发生器
+Cadence
+光纤直放站
+闪耀光栅
+手机设计
+相关免疫
+非均匀校正
+Lithography
+low power design
+CA系统
+测试仪表
+雷达目标
+差分放大器
+热透镜效应
+Tm
+tunable filter
+杂质浓度
+温度传感
+机载电子设备
+MAP算法
+近场光学
+高斯脉冲
+无铅焊接
+模拟示波器
+空间平滑
+Data fusion
+双音多频
+相移
+安全服务
+超级电容器
+调制技术
+性能评估
+MODEM
+calibration
+电阻率
+GaAs衬底
+注入电流
+偏置电路
+应变量子阱
+Handover
+无线应用
+AlGaAs
+硅外延
+反隐身技术
+邮资明信片
+frequency agility
+data broadcasting
+运营企业
+重低音
+蜂窝移动电话
+宽带CDMA
+子带编码
+音频输出
+骨干网络
+non-uniformity correction
+集成电路封装
+宽带市场
+IRST
+multiprotocol label switching
+业务功能
+电视演播室
+CW
+PDLC
+平面波展开法
+锁存器
+video on demand
+移动基站
+Nd:YAG激光
+MoM
+数字录音
+PTCR
+手机制造
+密码算法
+光子技术
+IGCT
+inverter
+有限元法
+sol-gel method
+JPEG
+finite state machine
+Nd:YAG laser
+fiber optic sensor
+Galileo
+ALOHA
+逻辑电路
+sol-gel
+消费者
+混沌序列
+噪声干扰
+光收发模块
+热光效应
+分布式天线系统
+VOA
+时钟数据恢复
+录音师
+自组织网
+抛光速率
+高功率放大器
+双频段
+德州仪器公司
+电信运营业
+格状编码调制
+角跟踪
+集邮业务
+彩色PDP
+微光学
+all optical networks
+电信法
+optical networks
+VDMOSFET
+VQ
+用户驻地网
+电话手机
+保护器件
+联合信源信道编码
+CRBT
+大功率半导体激光器
+wavelength assignment
+Photodetector
+CCFL
+telecom network
+silk screen printing
+数/模转换器
+极化合成孔径雷达
+脉冲重复间隔
+Phased array radar
+聚合物分散液晶
+杂散抑制
+AOTF
+推出
+加密
+adaptive algorithm
+消光系数
+线路板
+scheduling
+放大电路
+测试仪
+频率偏移
+电信部门
+光纤损耗
+晶体管放大器
+网络质量
+专用通信网
+rate equation
+一维光子晶体
+SCSI
+辐射方向图
+散射参数
+TEM
+Design for testability
+广播发射台
+OSS/BSS
+Adaptive modulation
+ASTN
+信号调度
+电子管功率放大器
+多功能业务
+电视灯光
+LOBS
+商函业务
+折射率结构常数
+LLID
+村通工程
+雷达成象
+amplified spontaneous emission（ASE）
+DMB-TH
+收支差额
+外调制器
+WAC
+Wafer
+槽栅PMOSFET
+ETSI
+PINT
+McWiLL
+电信终端
+动态频谱管理
+SDH微波
+coherent combination
+农村邮政市场
+IPTV业务
+共享通路保护
+长途局
+邮政邮购
+IP服务质量
+CENTREX
+光导探测器
+用户端设备
+软件通信体系结构
+frequency-hopping communication
+telecom power supply
+spurious
+Photodetectors
+全介质自承式光缆
+音响产业
+有源驱动
+NNSF
+长途电话网
+JAIN
+多路传输器
+MXF
+Current mode
+音箱摆放
+射频调制器
+用户盒
+网络展览会
+GaAs FET
+微波毫米波
+可重配置
+虚通道
+正交空时分组码
+telecom operator
+光纤接头
+分布式小卫星
+红外光学
+通信管道
+GaAs单晶
+VBLAST
+环氧模塑料
+chirped fiber grating
+光致发光（PL）
+Android
+ultrashort pulse
+用户环路
+误码测试
+LCD driver
+冲淡干扰
+固话
+视频切换
+光标记交换
+optical parametric oscillator
+radar receiver
+音频处理
+电视节
+semiconductor optical amplifier（SOA）
+模块局
+p-GaN
+扬声器箱
+全波光纤
+数字演播室
+演播室灯光
+ALU
+半导体可饱和吸收镜
+PFC
+chaos
+互操作
+线阵CCD
+call center
+dielectric property
+安全协议
+可编程器件
+SAR image
+数字媒体
+ZnO thin film
+锁相环路
+原子力显微镜
+SLA
+定位算法
+真空微电子器件
+electroluminescence（EL）
+电信法规
+ASIC design
+惠威集团
+IWF
+TD-SCDMA system
+photonic crystal fibers
+调幅广播
+频响范围
+LSCMA
+平面近场测量
+直接隧穿
+字幕系统
+新闻演播室
+场限环
+移动数字电视
+光通信市场
+垂直腔面发射激光器（VCSEL）
+optical burst switching（OBS）
+光交叉连接器
+wireless Mesh network
+摩托罗拉手机
+光控取向
+公用电信网
+Wireless communications
+inter-cell interference
+采样/保持电路
+eigen matrix
+模拟/数字转换器
+Avionics
+杂波图
+承载网络
+side information
+缺陷能级
+硅圆片
+slot antenna
+空时信号处理
+interference temperature
+功率附加效率
+光孤子传输
+IP over DWDM
+半导体激光器阵列
+硬盘
+预付费
+终端设备
+可焊性
+掺杂浓度
+Routing
+analog-to-digital converter
+time delay estimation
+peer-to-peer
+位错密度
+电感器
+BIT
+Modem
+pipeline
+DDoS
+复杂电磁环境
+邮政部门
+微带
+Doppler
+硬件实现
+nonlinearity
+Fourier transform
+远程控制
+测控系统
+脉冲宽度
+fuzzy control
+客户经理
+EWB
+盲分离
+Labview
+TCM
+equivalent circuit
+热阻
+激光加工
+Interne
+智能交通系统
+single chip
+interpolation
+无线
+频谱
+智能化小区
+湿法刻蚀
+Multicast
+呼叫
+开关管
+主机板
+网通
+microstrip
+NiosⅡ
+光折变晶体
+调频连续波
+science communication
+Infrared detector
+最大声压级
+CompactPCI
+跟踪雷达
+phase matching
+PN code
+光耦合
+雷达发射机
+全国大学生电子设计竞赛
+反应溅射
+多媒体信息服务
+PTT
+信息网络中心
+光纤水听器
+非易失性
+运放
+硅衬底
+隧道技术
+DSR
+network planning
+被动测距
+NIOS
+电视播出
+编辑观
+嵌入式应用
+ultra wide band
+模场直径
+delay line
+S parameter
+一般性问题
+Fourier transform profilometry
+Microelectronics
+卫星数字
+differential detection
+信杂比
+射线跟踪
+CIC filter
+antenna pattern
+切换器
+天线结构
+LFM信号
+时间码
+optical interconnection
+Viterbi
+MIPS
+卫星导航定位
+双极型晶体管
+视频编码器
+无线电技术
+return loss
+DLP
+Image restoration
+FastICA
+电光调制器
+微透镜阵列
+跨层
+MPLS VPN
+光折变效应
+信息产业
+网络犯罪
+移动商务
+疗效观察
+单片机应用
+莫尔条纹
+参考价
+热像仪
+refractive index
+光栅
+support vector machine
+阵列
+software testing
+UPnP
+Bent函数
+coplanar waveguide
+多径衰落信道
+清洗行业
+S-box
+high-power LED
+光纤器件
+media access control
+无线电频谱资源
+传感器管理
+激光系统
+Orthogonal frequency division multiplexing
+肖特基势垒二极管
+非视距
+resource reservation
+到达角估计
+无线链路
+转播
+扩频技术
+CMOS电路
+语音通信
+小提琴协奏曲
+Viterbi算法
+discrete logarithm
+ranging
+低音
+Adaptive filtering
+optical storage
+用户交换机
+traffic model
+电视发展
+专用网
+自动聚焦
+测量精度
+light scattering
+liquid crystal display
+图像重建
+广播电台
+恒流源
+品质因数
+探测器
+高频开关电源
+故障管理
+调制方式
+wireless LAN
+信号处理器
+商业模式
+电脑市场
+CCD相机
+精确制导
+自动化测试
+业务模型
+增值电信业务
+intra prediction
+电压模式
+AON
+旁瓣对消
+Kerr介质
+芯片封装
+模式匹配法
+limiting amplifier
+X-band
+拾音
+误符号率
+动感地带
+MOS场效应管
+sidelobe suppression
+跨导运算放大器
+OLEDs
+电波暗室
+激光头组件
+数字集群通信系统
+波长调谐
+增益谱
+偏振器
+激光对抗
+digital beamforming
+液晶板
+active jamming
+Input impedance
+傅里叶变换轮廓术
+相位调制器
+detection range
+光模块
+time difference of arrival
+整数变换
+inverse synthetic aperture radar
+blind multiuser detection
+控制信道
+RAKE接收
+DPCA
+多传感器
+现场可编程门阵列（FPGA）
+Lidar
+等离子电视
+彩铃
+通信领域
+综合布线
+代理服务器
+干扰源
+金刚石薄膜
+小波分析
+温度控制
+电磁辐射
+频率范围
+fiber lasers
+低音喇叭
+多基地雷达
+布局布线
+恒虚警检测
+基带处理
+SNR estimation
+流控制传输协议
+光电导开关
+多普勒调频率
+业务类型
+非线性调频
+直接存储器存取
+zerotree coding
+多协议
+自动功率控制
+节目包装
+WDM网络
+CR-LDP
+频率控制字
+optical coupling
+语音拨号
+舞台设备
+音圈
+平均捕获时间
+thermal imager
+sacrificial layer
+点对多点
+主动网
+调制盘
+内插滤波器
+量子相干
+集成电路设计企业
+Ultra-wideband
+通信用
+continuous phase modulation
+CD播放机
+LED驱动器
+非视距传播
+全球通信
+focal plane array
+MEDICI
+interface states
+带宽管理
+AMBA
+频谱资源
+静态时序分析
+无线寻呼业务
+便携式产品
+Solar Cell
+space-time block codes
+三星手机
+RTL
+laser radar
+应用程序接口
+光学元件
+电子纸
+跟踪算法
+消费类电子产品
+loudspeaker
+激光制导
+蔡氏电路
+外观设计
+GaInNAs
+延长放大器
+光控相控阵雷达
+GSM/DCS
+高速上行分组接入
+network equipment building system
+地面无线电视
+片上电感
+多线切割
+PT-IGBT
+CM-IMS
+数字微波接力系统
+public address
+视音频系统
+传输网管
+混合信号电路
+SDCCH
+Mounter
+centralized supervision and control
+套刻精度
+交调比
+Al electrolytic capacitors
+FH sequence
+TOA/TDOA
+自动交换光网络(ASON)
+吸附表面波
+覆盖规划
+多媒体短消息
+亚微米器件
+通用宽带无线接入
+地面广播系统
+微波学报
+多带正交频分复用
+栅电流
+信令接口
+GaAs PHEMT
+路由波长分配
+Si/SiGe
+媒资系统
+城域波分
+自对准技术
+无源光纤网
+信令分析
+自动X-射线检测
+BCMCS
+收录系统
+三重扩散
+光纤到楼
+腔体滤波器
+PBB
+寻呼信道
+演进方案
+音响业
+移动城域网
+骨干层
+MSC pool
+E-DCH
+long term evolution
+绝缘层上硅
+光纤带光缆
+城域以太网论坛
+Harmonic retrieval
+宽带接入服务器
+Circuit and System
+测试接收机
+Heterojunction bipolar transistor
+数字激励器
+Iub接口
+PoS
+GaAs-AlGaAs
+Infrared Detector
+信令点
+x射线光刻
+线路卡
+寻呼成功率
+Iu接口
+Phototransistor
+用户
+VC++
+通信机房
+电子商务
+超短波
+网络互连
+模拟乘法器
+系统仿真
+subspace
+离散傅里叶变换
+高速缓存
+ATS
+体系结构
+加密算法
+piezoelectric ceramics
+谱估计
+CVD
+Neural network
+收音机
+RoHS
+氢化非晶硅
+group signature
+头盔显示器
+局域网仿真
+emergency communication
+视频格式
+调谐
+SVD
+miniaturization
+非线性滤波
+中国市场
+ANSYS
+侧面波
+自相似业务
+宽带无线通信
+钬激光
+服务质量路由
+全球微波接入互操作性
+个人通信业务
+光电流谱
+硅表面
+Linear complexity
+coupled mode theory
+和频
+China Telecom
+接头盒
+光码分多址（OCDMA）
+微波功率模块
+星载天线
+SOI MOSFET
+网络扩容
+安全多方计算
+数字分量
+邮政综合网
+数字功率放大器
+diversity reception
+Integrated optics
+电缆调制
+modulation identification
+NGN网络
+CeBIT
+BAN逻辑
+专线业务
+激光直接成像
+小区搜索
+相移掩模
+自适应天线阵列
+Wavelength division multiplexing
+CA
+Hadamard matrix
+硅基
+digital demodulation
+声光调制器
+RED
+constellation
+有源功率因数校正
+卫星电视广播
+Intel公司
+无卤
+脉冲激光器
+Rijndael
+ODN
+景象匹配
+飞利浦公司
+multipath effect
+量子密钥分配
+引线框架
+自动光学检测
+中频数字化
+交叉耦合
+ferroelectric thin film
+录象机
+无线自组网
+序列密码
+终端产品
+控制芯片
+发射台
+位置信息
+admission control
+费米能级
+无线电干扰
+MIMO系统
+组网技术
+nonlinear effect
+短时傅里叶变换
+广播电视台
+Information security
+视频流
+noise
+资源分配
+触发器
+模数转换
+子波变换
+电子枪
+功率谱密度
+光折变
+标准单元
+multiple access
+蒸发波导
+video retrieval
+nonlinear distortion
+low SNR
+CVSD
+Pentium
+有机发光器件
+Analog circuit
+微波成像
+home gateway
+误差放大器
+pattern synthesis
+光电阴极
+DoS
+多描述编码
+超宽带天线
+MAX+PLUSⅡ
+channel equalization
+抛物面天线
+回流焊
+被动定位
+高级加密标准
+MFCC
+SINS
+引脚
+业务
+机器视觉
+Intranet
+电子结构
+Kalman滤波
+英寸
+设备驱动程序
+NAT
+人脸检测
+polarization
+Power device
+Yb:YAG
+TCAD
+Microwave imaging
+固态功率放大器
+传输损伤
+线性功率放大器
+浮体效应
+资费政策
+光学双稳
+subcarrier allocation
+输入端子
+spatial multiplexing
+移动宽带无线接入
+位置业务
+cooperative spectrum sensing
+飞利浦半导体公司
+导弹告警
+对流层散射通信
+非相干检测
+LCD TV
+Slow wave structure
+降压转换器
+降雨衰减
+ISDN业务
+应用处理器
+报刊发行业务
+数字卫星电视接收机
+contention resolution
+地域通信网
+MUDS
+phase retardation
+渐近波形估计技术
+彩电机壳
+中继群
+PBGA
+光纤到家
+relay selection
+三阶交调
+公共交换电话网
+场强预测
+硅双极晶体管
+pSOS
+DQDB
+wavelength routing
+非线性晶体
+立体视频
+Systolic array
+DoCoMo
+中继选择
+硼扩散
+原子光学
+electrolytic capacitors
+传声增益
+交换矩阵
+信令流程
+业务信道
+宏分集
+modulation format
+战术通信
+数据流
+PSD
+Feature extraction
+隐马尔可夫模型
+数字卫星
+电子制造
+标签交换路径
+数字录音机
+向列相液晶
+瞬时测频
+WAP网关
+功率集成电路
+家乡代理
+非线性介质
+IP Core
+同步时钟
+移动通信设备
+雷达数据处理
+二元光学元件
+voltage reference
+ad hoc网络
+plastic optical fiber
+移动通信业
+decimation
+自适应编码调制
+成像器
+直接序列
+high power LED
+运算跨导放大器
+Nd:YAG激光器
+敌我识别
+纳米压印
+有线广播
+DSP处理器
+dynamic bandwidth allocation
+laser communication
+空分复用
+太赫兹波
+市话网
+噪声等效温差
+heterojunction bipolar transistor
+electromagnetic environment
+电子支付
+高分辨率
+调度
+数学形态学
+系统集成
+激光诱导
+video transmission
+无线上网
+透射谱
+low-power
+控制字
+active noise control
+SPI接口
+寄生电容
+几何光学
+语音芯片
+双频
+数据传输速率
+可靠性预计
+chaotic synchronization
+传真机
+稳压电源
+薄膜
+image matching
+以太网技术
+grid computing
+automatically switched optical network
+OTG
+多用户MIMO
+光突发交换（OBS）
+精细线路
+IP骨干网
+数字信号处理机
+BiCMOS device
+secret communications
+微波组件
+邮政经济
+陶瓷管壳
+HSOPA
+GaAs表面
+邮政社区服务
+UFPA
+负载牵引
+逻辑信道
+融合业务
+业务互通
+卷积器
+双栅MOSFET
+书架式扬声器
+Flip Chip
+信号干扰噪声比
+网络接通率
+业务识别
+cell reselection
+cognitive radio（CR）
+声频工程
+干扰协调
+频率抖动
+多芯片
+视频编码标准
+DigiSuite
+digital wrapper
+农村邮政
+通信业发展
+宽测绘带
+邮电工业
+数据轮播
+片式电阻器
+OOC
+Quantum Well
+PSWF
+ECL circuit
+DVD视盘机
+全光再生
+移相掩模
+电信转型
+环球仪
+授权管理信息
+下变换
+工业激光器
+多功能电话机
+扬声器阵列
+媒体接入控制层
+SCDMA系统
+external cavity
+调幅发射机
+链路损耗
+multiple quantum wells
+chaotic spreading sequences
+ADSS cable
+电压检测器
+宽带卫星
+通信事业
+《中邮专送广告》
+STTD
+描述定义语言
+Bistatic SAR
+Automatic focusing
+片式电容器
+digital subscriber line
+功放组件
+EDA技术
+中值滤波
+电缆
+散热器
+安全机制
+时尚
+通信接口
+话筒
+隐身
+家用电脑
+系统指标
+Nonlinear optics
+HP公司
+四象限探测器
+钢琴协奏曲
+循环相关
+channel allocation
+建声设计
+multi-input multi-output
+provable security
+宽带IP
+radar net
+光导开关
+子载波分配
+自动频率控制
+vector network analyzer
+耦合波方程
+热晕
+third-order dispersion
+单电源
+定时恢复
+Porous Silicon
+Speech enhancement
+OSA
+抠像
+电视设备
+HF ground wave radar
+voltage controlled oscillator
+机载SAR
+地面动目标检测
+一致性几何绕射理论
+SDMA
+频谱分配
+融合网络
+前向纠错编码
+rain attenuation
+co-channel interference
+电力电子
+无线电通信
+网络攻击
+压电性能
+热插拔
+记录介质
+语音信箱
+到达时间
+firewall
+多通道
+Delphi
+单片机系统
+数字证书
+CMOS器件
+ITO薄膜
+技术体制
+ESM
+scientific literacy
+无线通信网
+旋转变压器
+bootloader
+科学传播
+客服中心
+互联网数据中心
+多路径效应
+门限方案
+波片
+微驱动器
+satellite communications
+彩铃业务
+传声器阵列
+收发信机
+trust model
+光学变焦
+天线设计
+激光医学
+支持向量机
+全球定位系统
+侦察
+磁带
+low voltage
+chip
+low power consumption
+入侵检测系统
+电路分析
+雷达技术
+Package
+SDR
+SI
+cache
+超薄
+光学材料
+piezoelectric properties
+camouflage
+frequency synthesis
+快速退火
+媒体服务器
+电视字幕
+定向天线
+Flash存储器
+seeker
+echo cancellation
+mobile ad hoc network
+coaxial cable
+微腔
+数字微镜器件
+开关电流
+离子注入机
+石英谐振器
+全息光学元件
+超宽带技术
+载频
+pulse laser
+communication countermeasure
+波长转换器
+automatic target recognition
+applied optics
+射频溅射
+显示设备
+数据中心
+光电技术
+电话号码
+干扰效果评估
+session initiation protocol
+数字电源
+communication jamming
+sensor management
+MicroBlaze
+airborne SAR
+数字集群通信
+包交换
+MPLS技术
+超宽带合成孔径雷达
+二次击穿
+邮政电子商务
+复接
+内容分发网络
+听音环境
+电子质量
+sound reinforcement system
+SDH技术
+高速集成电路
+电子抗干扰
+ACK
+optical waveguides
+turbo码
+电信建设
+subspace decomposition
+多芯片模块
+激光染料
+电光特性
+LPI
+业务提供
+宽带IP网
+数字预失真
+Optical design
+约束路由
+振幅平方压缩
+光学参量振荡器
+分配放大器
+spectral efficiency
+音频接口
+可变光衰减器
+功率半导体器件
+热焦距
+移动信息化
+压敏材料
+SPICE模型
+信息安全市场
+数字电视的发展
+SyncML
+frequency chirp
+QPSK调制
+IP传真
+Access network
+divergence angle
+静态电流
+焊点可靠性
+BOSS系统
+K-distribution
+网路结构
+经营分析系统
+Iterative decoding
+移动性
+fast algorithm
+高可靠性
+互联网发展
+YAG激光
+电子束蒸发
+熵编码
+钛酸钡
+MTBF
+移动计算
+multiplexing
+循环码
+舞台灯光
+防空导弹
+C/N
+传输
+quantum communication
+Synthetic Aperture Radar
+交叉敏感
+计算机通信网
+移动电话系统
+MPEG标准
+真空开关管
+数字特技
+总控
+Nd∶YAG laser
+火控雷达
+风廓线雷达
+库仑阻塞
+驱动芯片
+p-n结
+DPI
+媒体播放器
+全向天线
+real-time
+Simulink
+电阻温度系数
+存储单元
+RSSI
+图像水印
+光纤传感
+DLL
+无线数据传输
+变压器
+邮政速递
+旁瓣
+零中频
+集团用户
+压缩感知
+OFDM system
+天波超视距雷达
+laser crystal
+自组织生长
+线性预测编码
+高次模
+MIMO systems
+整流模块
+多址
+脊形波导
+视频素材
+跃迁几率
+传导发射
+广播电视工作
+立体声耳机
+移动电话市场
+packet switching
+数字移动通信系统
+片上总线
+多光子电离
+能量恢复
+热透镜
+应用材料
+tunable
+通用异步收发器
+anti-radiation missile
+carrier frequency offset
+BST薄膜
+波纹喇叭
+读卡器
+高斯混合模型
+超高频
+分布式算法
+计算机安全
+channel state information
+频率选择性衰落信道
+flip-chip
+用户网络接口
+phase-coded signal
+平板天线
+千兆比以太网
+焦平面器件
+前向链路
+ARPU值
+light-emitting diodes
+电源噪声
+software defined radio（SDR）
+有源相控阵雷达
+卫星电视直播
+自掺杂
+self-similar traffic
+高速数据业务
+Rayleigh衰落信道
+直扩
+free electron laser
+放大转发
+multipole method
+Airborne radar
+有源电感
+呼叫接入控制
+背景灯
+芯片市场
+空中下载
+anti-stealth
+Microwave measurement
+降雨率
+fiber ring laser
+音响领域
+数字移动通信网
+Wideband
+成像器件
+microdisplay
+静电保护
+旁瓣电平
+location algorithm
+波束空间
+IR decoy
+JFET
+SoC设计
+passively Q-switched
+DMOS
+VHDL-AMS
+氮氧化硅
+自适应跳频
+NMOS
+音场
+破坏性物理分析
+综合业务数字网（ISDN）
+电子测试
+业务网
+双栅
+闩锁效应
+OOK
+STiMi
+升压转换器
+电流传输比
+分布式干扰
+非制冷红外焦平面阵列
+speech compression
+下一代网络（NGN）
+标清
+optoelectronic device
+optical measurement
+通信线路
+phase unwrapping
+中国信息产业
+DMT
+软件产业
+硬盘驱动器
+缓存
+模拟器
+摄像机
+MPLSVPN
+无线传输技术
+单模
+分组交换网
+视频信号处理
+有机半导体
+GDOP
+information warfare
+ATM技术
+单片
+航天测控
+网守
+CDR
+DVI
+电视广播
+专业情报
+网络智能化
+数据挖掘
+多处理器
+带隙
+非均匀采样
+厚膜
+高阶统计量
+中小企业信息化
+GPRS网络
+integrated navigation
+金嗓子
+惯性约束聚变
+α稳定分布
+显卡
+频率补偿
+direct digital synthesis
+线性反馈移位寄存器
+IKE
+电力电子技术
+中国通
+device driver
+处理增益
+supercapacitors
+相干信号
+数据加密标准
+变容二极管
+密钥托管
+以太网控制器
+功率管
+可编程片上系统
+高光谱图像
+radome
+激光打标
+显示器市场
+业务开发
+PowerPC
+接入网技术
+data service
+总谐波失真
+容量
+功率
+企业网
+可扩展性
+anomaly detection
+FSM
+拨号上网
+高速数据传输
+振荡电路
+天线增益
+光学常数
+equalizer
+信号重构
+正交频分复用(OFDM)
+Channel capacity
+billing
+heterogeneous network
+F-P腔
+投影管
+混合自动重传请求
+肖特基结
+场发射显示
+frequency hopping communication
+link budget
+轨对轨
+晶粒间界
+线性阵列
+POCSAG码
+波前传感器
+外量子效率
+熔融拉锥
+边界扫描测试
+channel mismatch
+KTP crystal
+相位编码信号
+宽带多媒体
+waveform design
+GPS干扰
+卫星电视接收
+space diversity
+demultiplexer
+低压差分信号
+数据通信业务
+半带滤波器
+分层空时码
+blind estimation
+电视跟踪
+载波跟踪
+TDOA location
+Atmospheric turbulence
+optical filter
+SAE
+路由与波长分配
+key distribution
+adaptive antenna
+long-period fiber grating
+全差分
+color filter
+光传输系统
+二维光子晶体
+Radar cross section
+servo system
+Windows CE
+金属化
+性能表现
+Ad Hoc networks
+DPSK
+信令网关
+Low power
+强制访问控制
+伪卫星
+现场可编程逻辑门阵列
+频点
+冷板
+PIN diode
+压敏电阻器
+组合电路
+组合音响
+热释电探测器
+音源
+导航战
+功率计
+图像通信
+浮充电压
+客户服务中心
+digital filter
+快速傅立叶变换
+algorithm
+coded cooperation
+电路技术
+AC-PDP
+集成电路行业
+Stratix
+WFQ
+菲涅尔反射
+SRLG
+Laser Diode
+线路编码
+lightpath
+RF-MBE
+步进机
+氮化硅膜
+沟道长度
+高平均功率
+infrared imaging guidance
+SITH
+多媒体消息
+laser diode array
+可编程网络
+低角跟踪
+球形译码
+抗误码
+laser diode（LD）
+连接损耗
+Surface mount technology
+可运营
+红外激光器
+窄禁带半导体
+多媒体视讯
+国际电信
+optical code division multiple access（OCDMA）
+传统电信
+综合业务平台
+single frequency network
+IP接入网
+卫星电视接收天线
+热载流子退化
+通信电子战
+Radar signal processing
+网络转型
+Deep level
+field plate
+RRC
+optical fiber communication technology
+金属氧化物半导体场效应晶体管
+量子电子学
+信息业务
+UPT
+deflection routing
+cross phase modulation
+S parameters
+全耗尽
+阵列波导光栅（AWG）
+Orthogonal Frequency Division Multiplexing （OFDM）
+短消息系统
+WIMAX
+超荧光
+软交换机
+自适应光学系统
+超高斯光束
+Z-Wave
+rate allocation
+通用个人通信
+数字解码器
+迫零
+optical modulator
+光纤环形镜
+Circular polarization
+ATM信元
+混合自动重传
+frequency domain equalization
+后期制作系统
+天调网络
+CMOS射频集成电路
+HONET
+USIM
+缩微影像
+digital channelization
+DWDM技术
+调制光谱
+二极管抽运
+剧场建设
+WAP业务
+gamma correction
+Cooperative diversity
+无线摄像机
+S-band
+Asynchronous transfer mode
+常见故障
+information fusion
+key management
+编程器
+特征提取
+基准电压
+佳能
+氮化铝
+linear prediction
+清洗技术
+IP组播
+非线性系数
+音乐播放器
+主动队列管理
+chaos synchronization
+piezoelectric actuator
+电视转播
+Semiconductor
+广播节目
+打印机
+image denoising
+互操作性
+MCM-C
+盒式录像机
+快速调度
+光电负阻器件
+S-DMB
+Kink效应
+光交叉连接设备
+third generation mobile communication system
+p-MOSFET
+SiGe BiCMOS
+用户板
+TD-PRS
+吉比特以太网
+MPλS
+衬底驱动
+进网管理
+基站维护
+节目传输
+polishing rate
+光通信产品
+固定宽带无线接入
+共振隧穿器件
+在线计费
+soft handover
+载波干涉
+IRCCD
+节目参考时钟
+毫米波集成电路
+试验局
+视频投影机
+仪器测量与计量
+微电子材料
+网络制播
+垂直腔表面发射激光器
+家用录象机
+OPTera
+CADENCE
+电信运营图
+半导体设备和材料
+short channel effect
+寻呼区
+EASE
+共平面波导
+镓扩散
+MSM-PD
+Adaptive antenna array
+互补金属氧化物半导体工艺
+空气桥
+微蜂窝基站
+编辑录像机
+LDD MOSFET
+小波包调制
+水平空间频率
+开放移动联盟
+非编制作网
+ZXPCS
+垂直空间频率
+光调制度
+超高速电路
+内部水汽含量
+SystemVerilog
+集约模型
+用户电平
+反向噪声
+EB结
+Micro-Doppler
+膺配高电子迁移率晶体管
+电子产品编码
+shared-path protection
+离散多音调制
+制播网络
+经时击穿
+载波聚合
+虚拟用户交换机
+双极工艺
+分组业务
+音调控制
+协议分析
+多媒体应用
+data mining
+异质外延
+spatial smoothing
+检测性能
+epitaxial growth
+宽波束
+激光显示
+相关双采样
+near space
+conformance testing
+ferroelectric thin films
+超电容器
+steganalysis
+大动态范围
+bit synchronization
+星载
+IP交换
+偏置电流
+电流镜
+wavelength converter
+数字化电视
+笔记本电脑市场
+microstrip line
+会话初始化协议
+Viterbi译码器
+Optical communication
+基带信号
+时间线
+直播室
+Kerr medium
+数字影院
+Internet接入
+功率半导体
+Nios
+convolutional codes
+TCP/IP协议
+数字滤波
+网络通信
+红外技术
+一体机
+UDP
+故障分析
+RTOS
+digital control
+impedance matching
+effectiveness evaluation
+寻呼台
+智能家居
+双向可控硅
+Image compression
+阈值
+多核
+GPS receiver
+基板
+传输距离
+升压变换器
+bit error ratio
+circular array
+扬声器组
+无线电骚扰
+射频微机电系统
+WCDMA系统
+phase conjugation
+共模反馈
+双包层光纤激光器
+判决门限
+ION
+注水算法
+联邦通信委员会
+radar transmitter
+邮政网络
+cross-layer
+干扰对消
+NIT
+路由和波长分配
+dispersion management
+量子密钥分发
+Boolean functions
+分数低阶矩
+放大器电路
+electronic countermeasures
+射频电缆
+相干积累
+low-density parity-check codes
+初始啁啾
+Passive location
+点播电视
+FDMA
+音频解码器
+色度信号
+少子扩散长度
+PHS系统
+接收机灵敏度
+子载波间干扰
+芯片测试
+峰平比
+视频处理器
+阵列校正
+Bit error rate
+相关免疫函数
+最佳信号
+Secure communication
+Rake
+SDTV
+信干噪比
+BTS
+radar countermeasure
+sum-product algorithm
+SPICE model
+optical isolator
+underfill
+湍流大气
+Electron optics
+监听耳机
+cognitive radio network
+特快邮件
+调频广播发射机
+噪声门
+Eb/No
+可调谐半导体激光器
+Circuit theory and design
+Optical Communication
+平行耦合线
+FOMA
+微分增益
+communication EW
+自动链路建立
+开关电流电路
+power gain
+栅控二极管
+stimulated Brillouin scattering（SBS）
+干扰抵消器
+基区宽度
+Semiconductor Lasers
+以太网帧
+多元红外探测器
+FTTX
+爱迪德公司
+传真业务
+等离子清洗
+播控
+焊盘设计
+低电源电压
+高光束质量
+栅长
+ITU-R
+在线计费系统
+可重构光分插复用器
+全业务接入网
+侧面抽运
+Multiple-valued logic
+high electron mobility transistor
+IC process
+数字脉压
+预分频器
+M元扩频
+直播卫星电视
+数码音源
+T/R modules
+Ho:YAG激光
+dispersion managed soliton
+VoDSL
+LED backlight
+近远场变换
+频谱共享
+宽带无线技术
+传送层
+Space-time coding
+hybrid integration
+有源相控阵天线
+相干组束
+TH-BPSK
+Microstrip antennas
+Cabletron
+optical CDMA
+Multivalued logic
+广播影视技术新体系
+集中网管
+Light intensity distribution
+CBGA
+专用频率
+射频功放
+角度欺骗
+多声道环绕声
+intelligent networks
+MGW
+有机电致发光显示器
+薄膜电容
+关键面积
+金属磁粉
+金属半导体场效应晶体管
+分布布拉格反射器
+二极管泵浦激光器
+QPSK解调
+模拟分量
+copper interconnect
+PID控制
+键盘
+单晶炉
+endpoint detection
+复用技术
+transceiver
+短信业务
+microfabrication
+multi-path
+西安电子科技大学
+STP
+LFSR
+作战系统
+数码
+等离子
+测量系统
+耦合系数
+detector
+掌上电脑
+时钟
+开关变压器
+像增强器
+微缺陷
+集成电路技术
+时变信道
+广播系统
+相关器
+密钥交换
+network measurement
+厚膜电路
+节目内容
+导光板
+声源定位
+传导干扰
+数字全息
+PBT
+双线性对
+特征值分解
+全息术
+transmission spectrum
+功率模块
+移动存储
+农村信息化
+active network
+超混沌
+手机上网
+视频分割
+可配置
+实时信号处理
+液晶电视机
+硅材料
+计算复杂度
+DSP芯片
+电子政务系统
+HCI
+face detection
+数字系统
+平坦化
+分组语音
+彩色滤光片
+均匀线阵
+IDT
+bilinear pairing
+FPGA设计
+陶瓷封装
+高度集成
+微执行器
+静态随机存储器
+ferroelectric liquid crystal
+电视卡
+scattering center
+IVI
+Kerr effect
+multicarrier
+面天线
+脉冲展宽
+软判决译码
+公平算法
+混合电路
+多频段
+scalable video coding
+电信业务收入
+外腔
+移动Ad Hoc网络
+邮政管理
+垂直切换
+测试结构
+complex electromagnetic environment
+FPC
+converter
+业务管理
+microprocessor
+格林函数
+亚像素
+大电流
+任务调度
+故障处理
+温度系数
+temperature control
+变焦镜头
+wireless
+数字化改造
+MIB
+gas sensor
+量子线
+数字数据网
+技术演进
+彩电市场
+光机
+陶瓷电容器
+副载波
+平面显示器
+相干干扰
+毫米波技术
+PWM控制器
+beam forming
+DVD光盘
+天线系统
+半导体制冷器
+low temperature sintering
+oversampling
+输出特性
+过流保护
+视频系统
+流媒体技术
+在线测试
+可重构
+EPP
+scalability
+smart card
+digital communication
+虚拟专网
+磁光盘
+安全网关
+抗干扰性能
+短消息服务
+FPD
+image sensor
+滤波器设计
+dispersion
+通信工程
+运动检测
+printed circuit board
+accelerometer
+碳纳米管
+网格计算
+可靠性试验
+离散小波变换
+infrared radiation
+IP地址
+Petri网
+scattering
+数据安全
+子空间
+RAM
+通信卫星
+circuit design
+视音频
+字幕
+复位电路
+BOTDR
+视频对象
+卫星传输
+视频编解码
+图象传感器
+多路复用
+frequency divider
+电视会议系统
+高功率激光
+IR image
+Chua's circuit
+Infrared imaging
+intersymbol interference
+Gabor小波
+雨衰
+金盾工程
+回波抵消
+数据传输率
+晶格失配
+CTI技术
+网络业务
+工作频率
+CRC
+satellite
+polarized light
+计算机取证
+峰值信噪比
+Network management
+object tracking
+仰角
+VB
+航空电子技术
+医疗电子
+本振频率
+中子嬗变掺杂
+本地交换机
+星上处理
+宽带发展
+error-correcting codes
+卫星直播电视
+存储产品
+干线传输
+量子器件
+wave soldering
+Tracking algorithm
+音频编解码器
+紫外激光器
+联网通用
+箔条云
+end-pumped
+外调制
+Silicide
+联通新时空
+service level agreement
+电视发射台
+IC设计业
+aluminum electrolytic capacitor
+Field distribution
+业务冲突
+audio power amplifier
+数字通信技术
+横向滤波器
+广播影视工作
+电信业发展
+polarimetric SAR
+电视播出系统
+天线技术
+不等差错保护
+Method of moments
+旋转因子
+virtual concatenation
+optical buffer
+自脉动
+多业务平台
+虚拟阵列
+电真空器件
+多工器
+AT&T
+相移键控
+光交换技术
+高速寻呼
+polarization controller
+传输标准
+TOPSwitch
+MIMO信道
+有线电视网络系统
+InGaAlP
+回传
+功率容量
+optical orthogonal codes
+Cognitive radio
+高重频
+digital pulse compression
+设备提供商
+optical lithography
+失配位错
+Scene matching
+信息家电产品
+multimode fiber
+用户线
+active networks
+流量疏导
+polarization maintaining fiber
+宽带产业
+自动开关机
+归一化场地衰减
+综合接入设备
+multi-band
+链路管理协议
+量子保密通信
+差分调制
+gyrotron
+红外焦平面列阵
+Networks公司
+钡钨阴极
+高双折射
+红外器件
+optical fiber laser
+微引擎
+印刷天线
+科技公司
+二次谐波
+三网合一
+电工学
+最小二乘法
+大容量
+线材
+signal generator
+电位器
+耦合器
+modem
+ion implantation
+交织
+电子科技
+卡尔曼滤波器
+吸收边界条件
+高可用性
+speaker recognition
+微弱信号
+松下
+和积算法
+SED
+生产和服务
+色散缓变光纤
+电信竞争
+模场分布
+cellular network
+呼损
+Threshold voltage
+传输时延
+相位模糊
+beam propagation method
+frequency planning
+NGI
+space-time block coding
+UV-LIGA
+接入网络
+time slot
+县级电视台
+解码电路
+bipolar transistor
+低复杂度
+gain flatness
+背景预测
+DMB
+发光学
+differentiated services
+包层泵浦
+解扰
+无线激光通信
+平面波导
+直扩系统
+DPL
+blind beamforming
+Raman amplifier
+全球移动通信
+动态频谱分配
+点目标检测
+antenna arrays
+视频电话
+电子工程师
+有源箝位
+MAP algorithm
+LMP
+实时业务
+bit error rate（BER）
+时延抖动
+CAVLC
+CSMA
+无源器件
+注入锁定
+亮度控制
+数字压缩技术
+solid state laser
+测试测量
+瑞利信道
+光波分复用
+packet scheduling
+Interference suppression
+micro-Doppler
+bistatic SAR
+uplink
+network lifetime
+上升时间
+电子材料
+optical system
+热成像
+可编程控制器
+modulation
+设备制造商
+激光等离子体
+锁相
+雷达杂波
+microactuator
+激光传输
+业余电台
+唱机
+输出高电平
+电阻阵列
+天基雷达
+时钟抖动
+微机械加工
+信道建模
+PCNN
+网络可靠性
+短信中心
+频率源
+信息终端
+跳频技术
+AAC
+network processor
+公共广播
+A/D变换器
+前端系统
+宏单元
+城市电视台
+突防
+degree of polarization
+相干源
+Flash memory
+存储网络
+航迹起始
+开启电压
+键合强度
+视听技术
+声呐
+有源器件
+互联
+语音合成
+射频卡
+焊料
+real-time processing
+计算机网
+BSP
+高通滤波器
+GUI
+发射率
+伪距
+网络升级
+光电探测
+Packaging
+input impedance
+organic electroluminescence
+网络基础设施
+指挥控制系统
+光镊
+单向收费
+思科公司
+寻址
+自发辐射
+frequency stability
+计算机电话集成
+近红外
+清晰度
+铁电材料
+光子禁带
+m sequence
+演播厅
+Broadband
+Receiver
+地址码
+塑封
+ROM
+电磁泄漏
+折射率
+API
+家用电器
+最小二乘
+Cryptography
+封装工艺
+阻抗变换
+生物特征识别
+球差
+电流传输器
+pulsed laser
+IP协议
+高对比度
+电压驻波比
+色键
+钛酸铋钠
+Doppler frequency shift
+噪声模型
+optical transmission
+信任模型
+业务需求
+尖锐湿疣
+WinDriver
+专用芯片
+电视直播
+输入电压
+彩色显示器
+EPROM
+IVR
+信息对抗
+有限域
+laser welding
+网络信息安全
+temperature measurement
+亚太区
+software defined radio
+telecommunication network
+micropump
+相位延迟
+无线接入点
+信息技术设备
+通信标准
+化学气相淀积
+受激辐射
+耦合损耗
+建筑声学
+发射天线
+联通公司
+方舱
+FRAM
+光时域反射计
+比辐射率
+GSM/GPRS
+信号处理电路
+晶片
+调制度
+automatic test
+电子装备
+SPM
+中国电子商务
+实时传输协议
+物理研究所
+图像检索
+transmittance
+网络拓扑
+EPC
+anti-interference
+加速寿命试验
+preamplifier
+测试软件
+multiplier
+firmware
+传输函数
+串口
+自相关
+反射率
+MMS
+ECC
+etching
+整流器
+卫星天线
+optical amplifiers
+PIN管
+BCD工艺
+自适应对消
+concatenated codes
+Rayleigh衰落
+帧内编码
+单音干扰
+广东移动
+QoS保证
+mode-locked
+音频网络
+数字音频网络
+永久虚电路
+GaAs MMIC
+dynamic spectrum allocation
+索末菲积分
+ACPR
+双异质结激光器
+Tanner图
+委代办
+H膜
+业余无线电爱好者
+高保真耳机
+MPSK信号
+红光激光器
+平面螺旋电感
+direct tunneling
+超高真空化学气相淀积
+同步降压
+调制响应
+突发同步
+主动锁模
+成都电信
+归属位置寄存器
+光纤用户网
+“九七工程”
+无线资源分配
+Codec
+上海联通
+IP电视
+ATSC标准
+active inductor
+sphere decoding
+队头阻塞
+晶体管技术
+DAB接收机
+房间均衡器
+low sidelobe
+fully differential
+all optical wavelength conversion
+圆极化天线
+BRAS
+硅片直接键合
+大功率放大器
+VOQ
+交换路由器
+IFF
+PTAT
+Microstrip line
+容量规划
+拖线阵
+终端测试
+WDM networks
+跳频同步
+电信市场竞争
+空间对抗
+AlGaAs/GaAs
+邮递类业务
+Internet业务
+SHDSL
+Space-time processing
+大信号模型
+Optical fiber sensors
+功率电平
+下一代电信网络
+Luminous efficiency
+短沟道
+pilot signal
+meteor burst communication
+光刻系统
+偏振无关
+无铅焊膏
+智能功率集成电路
+功率预算
+transmission zero
+photoconductive switches
+三维封装
+《中华人民共和国电信条例》
+Parlay X
+呼叫处理
+低轨卫星
+激发态吸收
+光缆网络
+会话密钥
+微波网络
+VoiceXML
+输出级
+spatial light modulator
+射频芯片
+电解电容
+无线传感网
+警戒雷达
+rectangular waveguide
+电信新业务
+temperature sensing
+麦克风阵列
+VLIW
+radar clutter
+新器件
+IP over ATM
+autofocus
+目标模拟器
+optical fiber communications
+small target detection
+交接箱
+数字化过渡
+信息界
+雷达装备
+箔条干扰
+光电干扰
+分形天线
+组网雷达
+mobile ad hoc networks
+fiber-optic communication
+varistors
+分层图
+方向估计
+脉动阵列
+维特比算法
+干涉SAR
+超宽带（UWB）
+quantum teleportation
+conformance test
+移频干扰
+RF MEMS switch
+折叠腔
+Lasers
+仪器驱动器
+自热效应
+场致发射显示
+diffractive efficiency
+infrared decoy
+电子生产
+SHG
+QoE
+single electron transistor
+热风整平
+误帧率
+Breakdown voltage
+迭加态
+调制方式识别
+增益均衡
+JET
+PN code acquisition
+深能级瞬态谱
+transconductance
+检测前跟踪
+GaP
+脉冲激光测距
+瞬态极化
+反常色散
+媒质接入控制
+部分频带干扰
+空间功率合成
+软交换系统
+VLSI architecture
+无缝切换
+混合业务
+宽带上网
+动态源路由
+图示均衡器
+MOS场效应晶体管
+最小和算法
+Gaussian approximation
+initial chirp
+统一通信
+dielectric resonator
+微带天线阵
+Stark效应
+transparent conducting films
+静电感应晶闸管
+卫星光通信
+偏振模色散补偿
+diffractive optical element
+高速数据
+中国银行卡
+低分辨雷达
+Millimeter-wave
+PL谱
+单片式
+手征介质
+电光系数
+盲自适应
+码捕获
+接入网建设
+宽带接入市场
+双网结构
+喇叭线
+高层次综合
+地空通信
+range ambiguity
+反向漏电流
+软输入软输出
+video
+distributed
+硬件设计
+数据加密
+CRM
+Neural networks
+data compression
+circuit analysis
+双端口RAM
+雷达天线
+VOIP
+Radon transform
+Markov random field
+Crosstalk
+电滞回线
+安全操作系统
+发射极
+EMIF
+伪码
+dual-band
+moving target
+金属硅化物
+投影技术
+混响室
+覆盖网
+VCD影碟机
+子空间方法
+端子
+激光光斑
+laser detection
+FH
+linear array CCD
+Adobe
+国家信息化
+虚拟场景
+画面
+覆盖范围
+DDC
+电阻器
+集成块
+switch
+traffic engineering
+parallel processing
+变频
+散热
+PPP
+虚拟化
+定位技术
+current mode
+Digital watermarking
+Oscillator
+串行总线
+电视市场
+钛酸锶钡
+对数放大器
+手机辐射
+群时延
+荧光寿命
+embedded operating system
+数字接口
+微细加工技术
+数据链路层
+散射
+监视器
+综合布线系统
+QR分解
+VCD机
+electrostatic discharge
+photodiode
+地空导弹
+信息安全问题
+GPIB接口
+多路径
+组播路由
+铌酸锂
+电话用户
+光纤系统
+驱动电压
+drive circuit
+射频干扰
+半导体集成电路
+VxD
+总线控制器
+missile
+Vega
+投递员
+等效电路模型
+家电市场
+广播
+管理信息库
+RFID技术
+商用
+电力线载波
+pulse width
+自适应阈值
+D/A
+操作系统
+网络接口
+信息系统安全
+压敏电阻
+RLS
+公钥密码体制
+光纤技术
+HDL
+大气衰减
+COTS
+阻抗变换器
+频分复用
+发光器件
+fault management
+程控电话交换机
+马尔可夫随机场
+数字内容
+m-sequence
+Digital signal processor
+用户终端
+SSP
+稳频
+CSMA/CA
+Satellite communication
+辐射定标
+频偏
+speckle
+微电子器件
+wireless communications
+MIMO system
+防雷
+变频调速
+有限元分析
+单片机控制
+DWT
+silicon carbide
+D/A转换
+NAS
+功率密度
+ICT
+光学
+支局
+TOM
+LSR
+FIB
+广电系统
+物流业务
+fiber optic communication
+跳频图案
+photorefractive
+脉冲雷达
+gatekeeper
+无线设备
+静态存储器
+system on chip
+流星余迹通信
+quality of service（QoS）
+PCB design
+CSO
+爱立信手机
+频率分集
+光刻工艺
+调制不稳定性
+宽带化
+OPGW
+linewidth
+音量控制
+半导体存储器
+激光损伤阈值
+误码掩盖
+芯片生产
+long period fiber grating
+归属代理
+video encoder
+寄生效应
+纹波电流
+无线测试
+VCD视盘机
+high definition
+专用集成电路设计
+三星电子公司
+掺铒光纤放大器（EDFA）
+电压基准
+微波放大器
+斜坡补偿
+移动电话业务
+上载
+α-stable distribution
+无线运营商
+authentication protocol
+microstrip patch antenna
+电子工艺
+公用通信网
+specific contact resistance
+microcavity
+固定通信
+key exchange
+最大似然译码
+自适应阵
+PIM-SM
+voltage-controlled oscillator
+多相滤波器
+UMA
+电工学课程
+HomeRF
+上行信号
+极化分集
+高清晰度数字电视
+小信号增益
+coherent signals
+协议一致性测试
+阅读器
+SCM
+看门狗
+激光扫描
+数据处理
+Genetic algorithm
+继电器
+AWE technique
+注入光敏器件
+连接器技术
+Stencil
+clock generator
+波导结构
+大气与海洋光学
+平面结
+编号计划
+GSM/GPRS网络
+ICCAD
+MediaFLO
+光纤到路边
+DSM-CC
+瞬态退火
+Antenna measurement
+外引线
+high-k
+立方相GaN
+电子科技大学学报
+low phase noise
+透镜阵列
+太比特
+high repetition rate
+多媒体子系统
+Yb∶YAG
+焊料凸点
+数字调谐系统
+noncoherent detection
+HRPD
+Radiation hardening
+电容式触摸屏
+DSP implementation
+宽角扫描
+复用段
+双三极管
+data carousel
+radar servo system
+AM-OLED
+measurement and metrology
+WDM系统
+多普勒模糊
+帧定位
+光跃迁
+授权控制信息
+eye-safe
+电信业务量
+传播模型校正
+同步广播
+邮政网路
+弹性分组环(RPR)
+H-SiC
+optical transmission network
+负阻现象
+大功率发射机
+电话卡业务
+缩微影像技术
+压缩模式
+共址
+GSM网络优化
+可调激光器
+InGaP
+ITU-T建议
+光分插复用设备
+High gain
+化学机械平坦化
+BBU+RRU
+中国邮政企业
+DSOI
+upstream channel
+双频网络
+铒镱共掺
+前级
+九七工程
+Chirplet
+边缘节点
+运算复杂度
+多模干涉耦合器
+GaAsMESFET
+sidelobe cancellation
+atmospheric and ocean optics
+大功率电子管
+submarine fiber optic cable
+卫星ATM
+镇流电阻
+比特差错率
+分组传送
+频率均衡器
+符号率
+挠性印制电路板
+杂质浓度分布
+propagation prediction
+衬底噪声
+场序彩色
+无线广播电视
+正交码
+semiconductor saturable absorption mirror
+Y-branch
+农村有线电视网
+IP路由器
+接口局
+选择外延
+Wire bonding
+Logistic-Map
+DDS+PLL
+测量与计量
+optical phase conjugation
+RapidIO
+microwave power transistor
+提词器
+光散射
+加速度计
+近场
+数字信号处理器（DSP）
+线宽
+comparator
+拒绝服务攻击
+通信电缆
+可靠性增长
+weak signal
+内核
+电容
+MEMS器件
+Digital TV
+税控收款机
+比特率
+资费标准
+相位展开
+检测算法
+节点定位
+探测率
+ray-tracing
+片头
+数据线
+虚拟路由器
+power MOSFET
+Communication network
+红外光源
+bandgap
+粒子滤波器
+computer architecture
+关断时间
+无线传输
+linearity
+Pattern recognition
+数模混合
+混合信号集成电路
+FM-DCSK
+optical transmitter
+全业务经营
+MDCT
+active matrix
+小区广播
+非线性光波导
+扩频信号
+saturable absorber
+世界无线电通信大会
+数字无线
+microbolometer
+星间光通信
+波导激光器
+Skype
+宽视角
+阈下信道
+环路带宽
+periodic sequence
+跨导放大器
+Electronic product
+业务分类
+激光器阵列
+device structure
+待机模式
+市话电缆
+DVD—RAM
+交互式数字电视
+延迟锁相环
+手机软件
+CELP
+自动发现
+光纤传输网
+铁氧体移相器
+介观物理
+频率协调
+北电网络公司
+音响公司
+后付费
+高通公司
+instantaneous polarization
+输入排队
+粘片
+无线电事业
+平面天线
+TEM cell
+调光台
+卫星电视信号
+Current conveyor
+ECR-PECVD
+电视伴音
+LRM
+plasma stealth
+LED display panel
+ABCD矩阵
+phase calibration
+INAP
+喇曼光纤放大器
+barrage jamming
+超外差接收机
+Exchanges
+angle tracking
+比导通电阻
+散热设计
+bend loss
+IC工艺
+邮政绿卡
+分布式视频编码
+H-ARQ
+deceptive jamming
+自举开关
+Bandgap reference
+array antennas
+共建共享工作
+本振源
+场强仪
+测向误差
+Power electronics
+序列检测
+铜布线
+视频字符叠加
+自适应数字波束形成
+阵列偶
+业务宣传
+Dispersion characteristics
+埋层
+next generation Internet
+switching fabric
+调制分类
+地面接收设施
+显存
+电子支援措施
+声音制作
+封装形式
+软硬件协同验证
+ColdFire
+第二代电流传输器
+雷达信号模拟器
+电磁环境测试
+sidelobe level
+DFE
+DOCSIS标准
+Adaptive array
+接头损耗
+激光束
+电路模型
+electron microscopy
+红外热像
+circuit simulation
+微波通信
+电视系统
+半导体照明
+discrete cosine transform
+超导材料
+电路仿真
+空间分辨率
+铁氧体
+分配器
+STM
+电流源
+产业价值链
+HMM
+网络维护
+金鹏集团
+Surface Mount Technology
+光集成电路
+instrumentation measurement and metrology
+TS码流
+无线规划
+Parlay网关
+多业务承载
+甚高速数字用户线
+产生寿命
+软频率复用
+MOSFETs
+数字音频广播（DAB）
+线驱动器
+GPRS/IP
+XeOH
+组播业务
+RF connector
+electronic attack
+椭圆波束
+IP Multimedia Subsystem (IMS)
+近场通信
+砷化镓场效应晶体管
+Abis接口
+光纤CATV网
+下游键
+信令网络
+射频设计
+Doppler compensation
+电流崩塌效应
+GSM协会
+SiCOI
+laser diode array（LDA）
+多频网
+底面对准
+LIGBT
+节目特定信息
+载流子收集
+bipolar field-effect transistor theory
+本地多点分配系统
+城市有线电视网
+融合计费
+lead-free solder paste
+城域接入网
+HAWAII
+有线电视系统工程
+monotoneity
+下一代SDH
+proximity effect correction
+铝镓氮/氮化镓
+multi-carrier system
+微热辐射计
+盘形激光器
+低k介质
+optical link
+Current-mode CMOS circuits
+信息光电子
+数字微波传输
+叠层封装
+广州金鹏集团
+IP多媒体子系统(IMS)
+国际消费电子大展
+光学涂层
+高清转播车
+active phased array radar
+channel correlation
+双层多晶硅
+电视媒体经营
+耗尽型
+PDCH
+TUP
+放音系统
+AV器材
+波长控制
+HD Radio
+Electronic design automation
+号码携带业务
+传声器管
+移动数据网
+CS域
+microwave module
+differential group delay（DGD）
+演播室摄像机
+FGNGN
+电感电容压控振荡器
+码流分析
+Blind multiuser detection
+金属-氧化物-半导体
+PCB企业
+低压化学汽相淀积
+接入节点
+扩硼
+SALICIDE
+业务控制层
+播出安全
+fiber optic cable link
+MOSPAD
+增益放大器
+NBTI
+均衡放大器
+single-chip microcotroller
+Computer-generated holograms
+光神经网络
+BoD
+nMOSFET
+电视信号发生器
+DVB-S标准
+媒资管理
+发射机房
+并行干扰对消
+调频天线
+专线接入
+三维集成电路
+声重放
+高末级
+号码资源
+SOI technology
+红外探测器列阵
+SUPL
+等离子体损伤
+cooperative sensing
+光纤干线
+AVS-M标准
+wavelet packet modulation
+最高振荡频率
+复射线展开
+RF connectors
+模拟功放
+unified communication
+天线下倾
+超快激光器
+上下变换
+QAM调制器
+局域寿命控制
+硬盘自动播出
+Optoelectronic Devices
+高标清兼容
+埋沟
+Characteristic Measurement
+电路群
+C/CSO
+抖动性能
+网管接口
+相关衰落信道
+线路电平
+溅射
+即插即用
+PID control
+电子信息
+XRD
+增强型
+Data acquisition
+频率测量
+光电倍增管
+压电变压器
+表面钝化
+时域有限差分方法
+录制
+业务量
+electronic components
+接收系统
+微功耗
+峰值功率
+激光辐照
+拥塞
+数字万用表
+星座图
+脉冲激光沉积
+嵌入式实时操作系统
+业务模式
+语音提示
+数据总线
+网络层
+PSNR
+active queue management
+网络产品
+加速度传感器
+simulated annealing
+安全认证
+双绞线
+同步
+performance analysis
+溶胶-凝胶法
+对话框
+网络协议
+failure mechanism
+PCM
+光致抗蚀剂
+数据链路
+协议转换器
+密度矩阵
+自适应信号处理
+在线编程
+QOS
+protocol analysis
+clock
+applied mathematics
+陷波器
+IEC
+BLAST
+polysilicon
+激光散斑
+辐射骚扰
+Pspice
+导电胶
+supercapacitor
+开关稳压电源
+盲辨识
+电子战飞机
+蓝牙芯片
+OSI
+基准电压源
+Phase locked loop
+network evolution
+增益系数
+等离子体隐身
+信号解调
+单频
+路由技术
+动画短片
+现场可编程逻辑器件
+变换编码
+FOG
+RTT
+一体化网络
+导波光学
+信道均衡
+音质评价
+Spread spectrum communication
+频分多址
+radar emitter
+节目源
+电致发光器件
+TSM
+红外图象
+说话人确认
+声呐浮标
+Linear prediction
+near-field optics
+multi-service
+微光机电系统
+医学摄影
+卫星平台
+扩大机
+时钟频率
+数字视频接口
+内容安全
+结型场效应管
+communication power supply
+因特网接入
+击穿特性
+压敏陶瓷
+搜索雷达
+超微结构观察
+接入网关
+PIN光电二极管
+陶瓷基板
+background suppression
+high dynamic
+驱动单元
+DS-SS
+CRB
+免清洗
+航迹融合
+自适应传输
+ATM交换
+卫星数字电视
+音频文件
+宽禁带半导体
+电视标准
+detectivity
+radiometric calibration
+开关晶体管
+银浆
+SRP
+器件性能
+通信处理器
+红外诱饵弹
+MIS结构
+data collection
+相位
+electromagnetic interference
+denoising
+灵敏度
+按键
+power factor correction
+传输协议
+WEP
+GPIF
+前端设备
+氮化硅薄膜
+VHF
+RTA
+输入端
+电话网络
+光电导
+视频文件
+基音周期
+仪表放大器
+隐身飞机
+手机病毒
+LCD控制器
+通信信号
+PXI总线
+码分多址（CDMA）
+辐射温度计
+stealth technology
+通信能力
+pulsed laser deposition
+溶胶-凝胶
+万用表
+译码
+Web Service
+广域网
+计算机信息系统
+虚拟局域网
+grating
+器材
+equalization
+超小型
+端点检测
+量子计算
+副总裁
+electromagnetic shielding
+瞬时频率
+单总线
+整体解决方案
+电场分布
+moment method
+tag
+谐波电流
+红外导弹
+preamble
+子载波
+photorefractive crystal
+光缆系统
+相干探测
+NiSi
+FC-SAN
+laser display
+音频设备
+美国联邦通信委员会
+多速率信号处理
+DGS
+行波管放大器
+焦移
+抗扰度试验
+broadband antenna
+frequency diversity
+traffic identification
+长周期光栅
+下一代移动通信
+驻极体传声器
+psychoacoustic model
+实验网
+光子统计
+相关信道
+WAAS
+centroid jamming
+短信息业务
+symbol timing
+PCM/FM
+azimuth resolution
+netted radar
+应变补偿
+SCH
+通道均衡
+广播电视信号
+副载波复用
+老炼
+MSTP技术
+射频同轴电缆
+diversity technology
+噪声调频干扰
+光学天线
+PCI Express
+缩微摄影
+电视照明
+告警信息
+radar equipment
+区分业务
+Rectangular waveguide
+fiber dispersion
+排队机
+Finite-difference time-domain method
+quantum coherence
+soft handoff
+会话启动协议
+极化滤波
+optical switches
+红外干扰弹
+传真通信
+直接序列扩频通信
+broadband access network
+call control
+optoelectronic devices
+帧同步器
+星载雷达
+唱臂
+Multipath
+密封电池
+error correcting code
+Direction finding
+MFSK
+X-ray lithography
+CDMA system
+腐蚀工艺
+amplified spontaneous emission
+梳状滤波
+多点控制协议
+电信客户
+功率转换效率
+最小可分辨温差
+舞台机械设备
+灵敏放大器
+量子阱结构
+取样光栅
+对潜通信
+告警接收机
+Filter
+元件
+应用程序
+制造商
+phase locked loop
+表面波
+存储技术
+波形发生器
+会议系统
+image acquisition
+weak signal detection
+电磁脉冲
+测试设备
+temperature sensor
+滤光片
+红外热像仪
+reflectivity
+thermal resistance
+data communication
+奇异值分解
+家用
+转换效率
+异常检测
+谐波恢复
+point target
+bilinear pairings
+帧间预测
+高压硅堆
+闪烁存储器
+光纤熔接
+表面电场
+输出电路
+频响曲线
+蓝牙协议
+公用网
+差异化服务
+aliasing
+tactical data link
+小灵通业务
+前向散射
+Particle filter
+turbo code
+耦合阻抗
+调制特性
+CCK
+反激变换器
+radiated emission
+聚焦特性
+Inmarsat
+显示效果
+star sensor
+非球面透镜
+key escrow
+电光调制
+机载预警雷达
+density matrix
+Bandpass filter
+电化学电容器
+光纤干涉仪
+流媒体服务器
+低介电常数
+无线互联
+电子稳像
+企业解决方案
+激光合金化
+polymer optical fiber
+trusted computing
+通信链路
+ad hoc network
+大动态
+无线局域网络
+接收灵敏度
+S盒
+NIOSⅡ
+巡航导弹
+下一代
+模拟信号
+authentication
+超声电机
+低损耗
+机载
+DMD
+电致变色
+digital modulation
+应用市场
+彩色喷墨打印机
+多机通信
+激光辐射
+high birefringence
+IC市场
+SAW器件
+交互式业务
+third generation mobile communication
+金属-半导体场效应晶体管
+电信标准化
+有线电视放大器
+超快光学
+Cyclostationarity
+cross gain modulation
+灵巧干扰
+流水线ADC
+无线Mesh网
+零陷
+最大似然序列估计
+缩微拍摄
+automatic switched optical network
+模拟电路故障诊断
+channel decoding
+光纤CATV
+Traveling-wave tube
+智能剥离
+DX中心
+passive Q-switch
+SLIC
+语音寻呼
+节目存储
+伴音
+域间路由
+SAW device
+Optical switch
+地球站天线
+ultrashort optical pulse
+光纤产品
+波分多址
+测向设备
+波长路由器
+DC characteristics
+OPNET simulation
+干涉光刻
+移动客户
+波长稳定
+statistical multiplexing
+strained quantum well
+NRI
+driver IC
+Flat panel display
+多波长光源
+packet radio network
+网路组织
+跟踪接收机
+device performance
+differential modulation
+无线电规则
+挠性印制电路
+microwave photonics
+播出控制
+数字蜂窝系统
+实时编辑
+回波抵消器
+PESQ
+信息安全行业
+群时延差
+Parlay API
+降压变换器
+压延铜箔
+音频广播
+surveillance radar
+AUDIO
+非球面检测
+液晶驱动
+RACS
+自动请求重传
+双光子共振
+pairwise error probability
+谱域导抗法
+外围接口
+IRIG-B
+linear block codes
+number portability
+Noise figure
+DFH
+放大的自发辐射
+MOCCII
+链路管理
+rate-distortion optimization
+HF channel
+转换编码
+IP接入
+blind multi-user detection
+prescaler
+宽带匹配网络
+子电路
+NI-DAQ
+器件应用
+长周期光纤光栅（LPFG）
+VoATM
+话务控制
+深中心
+Coplanar waveguide
+degree of polarization（DOP）
+noise shaping
+预均衡
+半导体设备产业
+smart jamming
+Frequency divider
+低截获概率雷达
+波束指向
+氧化物电荷
+同轴腔
+会议终端
+多跳网络
+中波发射台
+集电区
+双芯光纤
+OTH radar
+broadband service
+airborne fire control radar
+低阈值
+县级台
+复用/解复用器
+distributed video coding
+直播卫星系统
+河南移动
+photonic crystal waveguide
+联通GSM
+呼叫建立
+data processing
+运营模式
+Image registration
+VME总线
+Power amplifier
+phase compensation
+计算全息
+强度调制
+路由表
+代价函数
+phase error
+品质因子
+能量转移
+谐波失真
+频率调制
+PTS
+椭圆曲线
+电源变压器
+高压电源
+非接触式
+LonWorks
+system architecture
+屏幕
+光学测量
+架构
+备份
+扫描探针显微镜
+polyimide
+Multisim
+DCS
+测向精度
+UBM
+multi-protocol label switching
+过流保护电路
+半绝缘砷化镓
+高k栅介质
+all-solid-state
+inter-symbol interference
+摄象管
+几何绕射理论
+激光致盲
+星际链路
+Radiation pattern
+imaging algorithm
+偏振相关损耗
+配置空间
+解复用器
+理想因子
+空域滤波
+业务网络
+银行卡产业
+积层多层板
+角闪烁
+Ion Implantation
+去耦电容
+广州电信
+ESPRIT algorithm
+垂直极化
+盲信源分离
+radar target
+电子防御
+中国网络通信有限公司
+带宽利用率
+direction-of-arrival estimation
+电磁兼容标准
+signal subspace
+高分辨雷达
+应急通信系统
+Frequency estimation
+传输平台
+IP复用
+array processing
+移动卫星
+DVD-ROM
+分组码
+专题资料
+可用带宽
+真空电子器件
+光致聚合物
+dipole antenna
+视频接口
+载干比
+tunnel junction
+channelized receiver
+soft decision
+阶跃恢复二极管
+encoder/decoder
+高深宽比
+数字音频水印
+预制棒
+抛光片
+He—Ne激光
+相位差变化率
+Fabry-Perot cavity
+双注入
+Array antenna
+network simulation
+多输入多输出系统
+功率放大
+量化误差
+射线追踪
+video conference
+WinCE
+视频点播系统
+灯光设计
+substrate temperature
+真机
+天气雷达
+透明导电膜
+light emitting diode
+编译码器
+TOD
+辐射计
+ZVS
+MiniGUI
+RTCP
+LDAP
+增值服务
+PDA
+高灵敏度
+image reconstruction
+扩展卡尔曼滤波
+median filter
+关键技术
+三阶互调
+调频收音机
+表面等离子体
+移动应用
+整流二极管
+距离估计
+背光
+semiconductor laser diode
+Q factor
+diode laser
+辐射探测器
+nonlinear coefficient
+激光化学
+field programmable gate array(FPGA)
+功放管
+LCD module
+laser marking
+定位服务
+digital audio
+短波电台
+fourth-order cumulant
+互连互通
+环行器
+telecom
+非线性薛定谔方程
+non-repudiation
+smoke screen
+噪声温度
+光发射
+卫星星座
+邻居发现
+分布式检测
+ISFET
+Congestion control
+二能级原子
+无线耳机
+STK
+false alarm probability
+压缩格式
+几何攻击
+交叉极化
+random access
+mobile communication system
+unmanned aerial vehicle
+红外遥控器
+electro-optic effect
+香港电讯
+光动力疗法
+马可尼
+异步
+并行接口
+有源
+双稳态
+电子书
+卫星导航系统
+光电检测
+PDM
+temperature coefficient
+移位寄存器
+网络存储
+迭代
+系统设计
+开关
+白光
+三维测量
+自愈
+信号分析仪
+气体激光器
+充电电流
+Transmission line
+铁路通信
+玻璃基板
+Encryption
+多媒体终端
+mobile network
+完全匹配层
+security protocol
+digital holography
+电学性质
+notch filter
+雅马哈
+SIFT
+cruise missile
+门电路
+测试信号
+Socket
+智能小区
+transmission line
+mixer
+多用户
+Fault diagnosis
+音乐会
+infrared stealth
+synchronous digital hierarchy
+signalling
+语音网关
+高速率
+CCSDS
+光学相干层析
+blind identification
+波分复用技术
+sidelobe
+量子隐形传态
+蜂窝通信
+赛门铁克
+三维动画软件
+仪器驱动程序
+窄带滤波器
+扩频系统
+服务器市场
+光纤电流传感器
+调谐范围
+综合电子信息系统
+LAPS
+vocoder
+高斯近似
+总剂量效应
+激光谐振腔
+quadrature demodulation
+monolithic
+path loss
+NLMS算法
+边界网关协议
+Mean Shift
+卫星信道
+军用电子元器件
+单站定位
+多功能开发
+磁化等离子体
+VRLA
+回差
+音乐节目
+shortwave
+芯片制造业
+Internet电话
+射频放大器
+移动管理
+内容分发
+integer transform
+SCP
+谐波检测
+Mesh
+公平性
+延时
+传递函数
+UML
+WLL
+时钟树
+平板显示器市场
+声光Q开关
+邮政商函
+解扩
+VoWLAN
+红外辐射强度
+embedded coding
+GVD
+Log-MAP算法
+多媒体通信终端
+space-based radar
+双极型
+ATM-PON
+总体布线
+用户号码
+多普勒补偿
+溶胶–凝胶法
+DAM
+high linearity
+limited feedback
+短波监测
+IR-UWB
+deinterleaving
+红外搜索
+视频对象平面
+wireless ad hoc network
+工艺映射
+短波天线
+角度调谐
+digital array radar
+用户终端盒
+local oscillator
+面向连接
+Dispersion compensation
+FR
+直流转换器
+无源互调
+放大器设计
+PBG
+灰度掩模
+宽带IP城域网
+IRD
+干信比
+视频摄像机
+视频解决方案
+上行干扰
+信号情报
+微腔激光器
+极化散射矩阵
+宽带内容
+移动因特网
+video decoding
+阈电压
+二相编码
+金属栅
+包裹业务
+图形转移
+公共信息网络安全监察
+广义互相关
+原始数据压缩
+Ku band
+声光可调谐滤波器
+偏射路由
+TDI-CCD
+稀疏信道
+MCL
+transimpedance amplifier
+多轨录音
+GPIO
+射频模块
+硅器件
+Adaptive beamforming
+光码分复用
+增益误差
+早期反射声
+光纤有线电视
+He一Ne激光
+自干扰
+ESD保护
+毫米波天线
+fiber gratings
+封接强度
+high-power laser
+航空无线电
+ISM频段
+二相码
+electronic jamming
+通信制造业
+多声道环绕
+半导体测试
+DPSSL
+one-dimensional photonic crystal
+γ校正
+BITS
+wireless ATM
+业务驱动
+空时块码
+无线电运动
+硬件抽象层
+slow light
+distributed jamming
+SPW
+业务生成环境
+超宽带无线通信
+语音检测
+电荷泵锁相环
+固定网络
+光学滤波器
+阈值电流密度
+电子系统设计
+四川电信
+MLSE
+E类放大器
+hot carrier
+存储深度
+优先级
+拉曼散射
+在系统编程
+网络广播
+反垃圾邮件
+可编程门阵列
+ITIL
+场分布
+网络流量
+透射电子显微镜
+固态继电器
+相位测量
+军事应用
+power management
+多波长
+serial interface
+mobile terminal
+分形编码
+quantum efficiency
+迭代算法
+衍射
+随机共振
+telecommunication
+矫顽力
+高斯分布
+MSComm
+resolution
+driver
+Chaos
+EKF
+无线网卡
+high-power
+左手材料
+图像序列
+互联网协议
+布里渊散射
+Mie scattering
+ASE
+姿态测量
+计算机系统结构
+稳定平台
+弱信号
+多媒体信息
+电压比较器
+Annealing
+工作原理
+ODBC
+监测系统
+双光子
+quantum entanglement
+光致发光光谱
+IDE
+interleaving
+静电驱动
+电磁兼容设计
+嵌入式设备
+闪存盘
+组装技术
+发光中心
+PCMCIA
+限幅
+标校
+射频收发器
+image watermarking
+相关特性
+QuartusⅡ
+临近空间
+NetFlow
+全息存储
+varistor
+放像机
+chirp signal
+上转换发光
+超重低音
+错误隐藏
+发射电路
+video segmentation
+OMAP
+彩色图像
+迁移率
+SSL
+垃圾邮件
+distributed system
+Calibration
+低频
+价格战
+光脉冲
+USB interface
+激活能
+linear CCD
+小目标
+网络连接
+public key infrastructure
+MCT
+工艺模拟
+cryptanalysis
+FSO
+look-up table
+Fast algorithm
+防空系统
+IP multicast
+反射损耗
+laser ranging
+用户使用
+安全体系结构
+VOD系统
+威胁评估
+stealth
+科电子
+压电振子
+用户线路
+探测器组件
+邮政速递业务
+光刻版
+译码转发
+声频系统
+机会频谱接入
+光纤无线通信
+分复用
+ultra-low voltage
+高速数字用户线
+自发辐射因子
+光学邻近效应校正
+GaAsSb
+无条件安全
+条件接收技术
+编码协作
+基区电阻
+单位增益
+视音频服务器
+CD—R
+planar coil
+雷达目标检测
+邮储中间业务
+Microwave circuit
+孤子传输
+模拟电路设计
+呼叫流程
+付费节目
+MSAN
+Microstrip patch antenna
+开放业务接入
+FM广播
+Electronic components
+名址信息
+counterspace
+投影曝光
+先进封装技术
+Laser warning
+终端适配器
+大功率发光二极管
+CES大展
+cold shield
+HFC宽带综合信息网
+信道模拟器
+增值电信
+制播一体化
+LPDA
+甚短距离
+空闲模式
+channel shortening
+通信运营
+electroabsorption modulator
+音响师
+PLMN
+磨角
+下一代服务
+曝光设备
+carrier Ethernet
+switch fabric
+SiGeC
+PHS无线市话
+电信主管部门
+solid phase epitaxy
+multi user detection
+Television tracking systems
+字冠分析
+超高频射频识别
+智能卡芯片
+laser trimming
+回波消除
+方正旌旗
+基本速率接口
+TD_SCDMA
+angle deception
+多媒体短信业务
+M-ary spread spectrum
+iDEN系统
+准同步数字系列
+碳膜电位器
+波带交换
+time division duplex
+spectrum sharing
+语音信箱系统
+邮政枢纽
+传送网络
+半模基片集成波导
+red laser
+社区邮政
+固定通信网
+电致发光显示
+扬声器设计
+数字MMDS
+频率使用
+telecommunication operator
+同轴扬声器
+定向棱镜谐振腔
+数字硬盘
+厅堂扩声
+控阈技术
+热载流子注入
+整流天线
+宽带交换机
+调制样式识别
+测试工程师
+光学相关器
+显示芯片
+触发功能
+复用设备
+IR imaging system
+Chaotic communication
+Pn结
+慢波线
+运营市场
+ODS清洗
+assembly algorithm
+球不变随机过程
+Transconductance
+对消比
+电子管发射机
+floating body effect
+手征导纳
+卫星业务
+multi-user diversity
+条形激光器
+数字播出系统
+无线通信设备
+电子对抗设备
+传送多协议标签交换
+聚束SAR
+数字视频广播（DVB）
+Gyrotron
+Sonic
+液态源
+寻呼企业
+Blind estimation
+逆合成孔径雷达（ISAR）
+管道光缆
+RZ
+laser weapons
+timing offset
+frequency mixing
+公用交换电话网
+混音器
+CCSA
+光谱线宽
+气密封装
+信道衰落
+NTTDoCoMo
+开关功率变换器
+可靠性物理
+长途传输网
+LED背光源
+Satellite Communications
+optical proximity correction
+VCC
+单晶片
+自相位调制（SPM）
+智能网系统
+Wavecom
+双色探测器
+最大似然序列检测
+分接器
+过取样
+本地网管
+AXI
+PCB市场
+CPFSK
+CSPF
+第三代移动通信网
+Principle of Superposition
+业务种类
+异质结界面
+HB-LED
+ATM业务
+MSPP
+wideband radar
+Slot antenna
+瞬时测频接收机
+光缆自动监测系统
+倒换
+激光辐照效应
+掺杂分布
+organic thin film transistor
+移动号码携带
+反向复用
+业务引擎
+极化匹配
+power combiner
+移动虚拟网络运营商
+损伤分布
+步进光刻机
+clutter map
+偏振不灵敏
+突发数据包
+Method of Moments
+CCBN
+半导体泵浦固体激光器
+Modelsim
+SPI串行接口
+子空间原理
+语音压缩编码
+semiconductor material
+heterostructure
+track initiation
+网络能源
+ZVZCS
+USSD
+eigenvalue decomposition
+折射指数
+微波站
+ABR service
+战术互联网
+插损
+Active filter
+analog multiplier
+Pulse compression
+IP QoS
+bus controller
+卫星组织
+pulse position modulation
+数据转换器
+PSoC
+ultra-wide band
+atmospheric transmittance
+matched filtering
+通话费
+evaporation duct
+direction of arrival estimation
+microlens array
+模式耦合
+布图
+KDP晶体
+NTP
+图像认证
+红外特征
+手机价格
+GSM网
+智能控制
+热电偶
+Web服务器
+工控机
+多级维纳滤波
+CRLB
+AMBE
+Orthogonal Frequency Division Multiplexing（OFDM）
+特快专递邮件
+codebook
+时隙分配
+Moving target detection
+应力双折射
+分布式基站
+quantum wire
+接力切换
+电视直播卫星
+曝光机
+合路器
+orthogonal frequency-division multiplexing
+VHS录像机
+综合电子战
+微带滤波器
+电流模式电路
+汉明相关
+超宽带无线电
+小额支付
+spectrum allocation
+面形测量
+载流子寿命
+pulse Doppler radar
+符号定时同步
+HDCD
+气动光学
+漂移区
+low-noise amplifier
+雷达终端
+超短激光脉冲
+个人手持电话系统
+双折射光纤
+下一代通信网络
+电子百强
+激光冲击波
+source coding
+距离徙动
+光脉冲压缩
+pyroelectric detector
+策略服务器
+激光二极管阵列
+phase mask
+业务提供者
+constant false alarm rate
+宽带传输
+pulse radar
+莱斯衰落
+planar array
+扬声器振膜
+macromodel
+广东联通
+收视维护费
+密钥分发
+简单高效
+频率步进雷达
+space-borne SAR
+伪造攻击
+中国网络通信集团公司
+高亮度LED
+雷达伺服系统
+余弦调制滤波器组
+移动Internet
+current gain
+选择性映射
+环形变压器
+medical optics and biotechnology
+放大器增益
+power amplifiers
+多普勒参数估计
+载波频率偏移
+信号调理器
+ADS仿真
+三能级原子
+平流层通信
+上变频
+固态器件
+secure multi-party computation
+可变比特率
+宽频段
+视频产品
+高光谱成像
+卡塞格伦天线
+LCD驱动
+准连续
+对准系统
+focused ion beam
+真空微电子
+偏振控制
+InGaP/GaAs
+液晶彩电
+带通信号
+多极法
+公共广播系统
+深空网
+有源诱饵
+有源天线
+Silicon wafer
+频率干扰
+quadrature amplitude modulation
+dense wavelength division multiplexing
+Schmitt trigger
+最大似然准则
+多目标检测
+压电陀螺
+商用化
+激光工程
+quadrature modulation
+障壁
+FFT/IFFT
+增益开关
+Klystron
+雷达高度表
+纳米器件
+传输方式
+脉冲噪声
+error control
+舰艇
+全息图
+计算机通信
+腔体
+interface circuit
+红外热成像
+radio frequency
+闪光灯
+微电子技术
+反射系数
+fault detection
+缓冲层
+认证
+接口设计
+热敏电阻
+悬臂梁
+商务
+Photoshop
+串行
+编译器
+管理解决方案
+精密机械
+工作电压
+simulator
+数据采集卡
+Simulation
+电机控制
+extinction coefficient
+Virtual instrument
+MATLAB仿真
+electronic component
+玻色-爱因斯坦凝聚
+激光功率
+互联网安全
+arithmetic coding
+钝化工艺
+串行外设接口
+半导体芯片
+network traffic
+互连技术
+便携设备
+Image denoising
+粒子模拟
+高温超导薄膜
+threshold scheme
+塑料封装
+电子罗盘
+MSR
+APFC
+数字化战场
+automatic gain control
+group delay
+band gap
+功能验证
+Mach-Zehnder interferometer
+wireless local area network
+数码管
+大功率晶体管
+soft-switching
+点扩散函数
+变焦
+浮点运算
+松下公司
+电子学
+数据交换
+高斯白噪声
+PML
+Anti-jamming
+Bandwidth
+设计工具
+D触发器
+sheet resistance
+中断服务程序
+网络测试
+功能键
+互联网应用
+信号线
+解模糊
+soft switching
+计算机仿真
+COM
+电子证据
+小功率
+多谐振荡器
+布线系统
+电子产业
+零电压开关
+temperature field
+回声消除
+高能激光武器
+相位特性
+频谱混叠
+LEO
+pyroelectric
+集成电路卡
+银行卡业务
+DSP实现
+循环谱
+分簇算法
+Soldering
+chaff
+跳时
+comb filter
+信息安全保障体系
+交互多模型
+指挥控制
+电视产品
+功率分配器
+双栈
+digital down conversion
+Laser diode
+阵列信号
+全光通信
+逻辑单元
+全球信息栅格
+测试图
+相位校正
+AC/DC
+solder joint
+weather radar
+基态能量
+单粒子翻转
+spontaneous emission
+laser drilling
+电子密码锁
+speech processing
+均匀性
+镜头边界检测
+背投影
+DVD-RAM
+阻塞概率
+寻呼业
+广电产业
+oxygen precipitation
+差分解调
+MELP
+红外光纤
+direction-finding
+OQPSK
+网络吞吐量
+帧存储器
+spatial filter
+环形激光器
+OAN
+差错控制编码
+成像制导
+机载激光武器
+常模算法
+VLF
+RSD
+耦合波
+gas sensing property
+无线电频谱
+激光制导武器
+Symbian
+ESPRIT算法
+Routing algorithm
+AKA
+space-time adaptive processing
+个人机
+可变增益
+媒体接入控制协议
+语音集成电路
+电压转换
+eye diagram
+焊点形态
+激光钻孔
+nanofabrication
+寻呼市场
+序列偶
+卫星传送
+EDCF
+通信应用
+告警系统
+光学引擎
+数字锁相
+数字音响
+深空通信
+range resolution
+ADS软件
+胆甾相液晶
+超窄带
+合成孔径雷达(SAR)
+radar cross section(RCS)
+子孔径
+array calibration
+CCD摄象机
+远端站
+Electronic packaging
+Mobile Internet
+超声键合
+蚁群算法
+光学性质
+SIMS
+工程数学
+存储区域网络
+损伤阈值
+发光管
+氦氖激光
+噪声特性
+中间业务
+multiplex
+KTP晶体
+频率分配
+steganography
+施密特触发器
+GPU
+内容管理
+声压级
+显像管
+失效率
+数模转换
+ray tracing
+智能交通
+vector control
+传统媒体
+融合
+个性化
+可靠性工程
+市场规模
+光电传感器
+方位角
+diffraction
+resistivity
+影片
+多层膜
+power supply
+遥感图像
+信息化
+CCD摄像机
+无线电缆
+电话耦合器
+速度过冲
+FemtoCell
+Placement machine
+业务能力服务器
+成帧器
+非制冷红外探测器
+光插分复用器
+generalized elliptic integrals
+Microwave device
+微带谐振器
+MOS工艺
+干扰共存
+drawing tower
+双极互补金属氧化物半导体器件
+解交织
+IP数据广播
+出线率
+传输机房
+网络与交换
+十进计数器
+空时格形码
+直通模式
+真对数放大器
+塑封微电路
+超薄氧化层
+printed electronics
+Optical Waveguide
+《激光与红外》
+回声消除器
+分布式语音识别
+生瓷带
+adaptive cancellation
+光层保护
+全球数字广播
+IPoE
+代位式
+圆形传输线模型
+短消息终端
+放大器级联
+网络接入安全
+区域锁定
+ultra thin gate oxide
+双向机顶盒
+up-converter
+MVL
+透明光网络
+衍射微透镜
+min-sum algorithm
+电声指标
+Digital modulation
+Sample/hold circuit
+MSSR
+传统电信网络
+高清演播室
+闭环发射分集
+通信测量
+bipolar code
+MIMO channels
+Nonuniform sampling
+Selective Soldering
+SAR ADC
+churning
+纵光学声子模
+印制电子
+数字播控
+Ec/Io
+宽带卫星通信
+外延层电阻率
+同轴开关
+可见光激光二极管
+array pairs
+串行控制
+信号链路
+光解码器
+穿透损耗
+optical transmission systems
+天线小型化
+光电子市场
+软入软出
+PDSOI
+光性能监测
+Cutting machine.
+相位掩模板
+光载无线
+输出网络
+Wave Soldering
+xPON
+模拟手机
+multipath channels
+MSC Server
+异质结场效应晶体管
+FDSOI
+色散位移单模光纤
+LTE/SAE
+CommunicAsia
+PIN diodes
+相干区
+带式扬声器
+链路负荷
+高速光传输
+有源集成天线
+电气测试

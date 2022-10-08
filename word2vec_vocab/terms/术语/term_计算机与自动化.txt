@@ -1,0 +1,10000 @@
+Windows
+Chinese information processing
+显卡
+中文信息处理
+芯片组
+PLC
+CORBA
+显存
+电子政务建设
+单片机
+无线传感器网络
+超频
+XML
+computer application
+刻录机
+入侵检测
+FPGA
+遗传算法
+笔记本电脑
+网络安全
+处理器
+QoS
+文件夹
+驱动程序
+genetic algorithm
+现场总线
+Web服务
+DSP
+华硕
+TCP/IP
+HLA
+Linux
+中国计算机
+数据仓库
+嵌入式系统
+显示卡
+Agent
+中间件
+金融电子化
+Intel
+主板
+刻录速度
+鲁棒性
+Petri网
+故障诊断
+自适应控制
+访问控制
+Visua
+金融信息化
+CIMS
+数字签名
+鲁棒控制
+UML
+应用程序
+embedded system
+fault diagnosis
+DCS
+LabVIEW
+IPSec
+电子政务
+英特尔
+线性矩阵不等式
+工作流
+fuzzy control
+多媒体音箱
+Delphi
+FoxPro
+多线程
+CSCW
+程序员
+金融电脑
+路由器
+微软
+模糊控制
+ARM
+打印速度
+关联规则
+合成孔径雷达
+数据挖掘
+分布式系统
+adaptive control
+data acquisition
+移动机器人
+服务器
+VLSI
+ODBC
+拥塞控制
+CAN总线
+RBAC
+对话框
+Image Segmentation
+液晶显示器
+SNMP
+信息安全
+Petri net
+TMIS
+CAN
+预测控制
+PowerBuilder
+防火墙
+投影机
+robustness
+USB
+路径规划
+intrusion detection
+高层体系结构
+非线性系统
+VPN
+Network Security
+人脸识别
+JSP
+软件测试
+SOAP
+多变量系统
+并行处理
+GPRS
+wireless sensor network
+语音识别
+predictive control
+文本分类
+PKI
+神经网络
+机器翻译
+data mining
+network security
+mobile robot
+并行算法
+播放器
+VXI总线
+蚁群算法
+目标跟踪
+内存
+纯平显示器
+中国计算机学会
+显示器市场
+网络游戏
+congestion control
+virtual instrument
+Pentium
+VB
+LMI
+运动估计
+分布交互仿真
+农业信息化
+分布式
+数据大集中
+scheduling
+通信协议
+workflow
+Oracle
+wireless sensor networks
+共享软件
+robot
+网络控制系统
+engineering graphics
+快捷方式
+Java
+VxWorks
+杀毒软件
+可编程控制器
+VHDL
+显示芯片
+移动代理
+ADO
+任务调度
+robust control
+fieldbus
+JDBC
+TCP
+Web
+主动网络
+选项卡
+负载均衡
+wavelet transform
+入侵检测系统
+串行通信
+OpenGL
+serial communication
+虚拟仪器
+软件体系结构
+移动计算
+Mobile agent
+政府网站
+机器学习
+COM
+彩色激光打印机
+OLAP
+DIS
+multicast
+汽车音响
+离散事件动态系统
+Intranet
+nonlinear systems
+资源管理器
+实时操作系统
+access control
+ASP.NET
+Intrusion detection
+变结构控制
+load balancing
+PID
+小波变换
+彩色喷墨打印机
+汉字系统
+OPC
+软件过程
+文本文件
+打印机
+注册表
+Web Services
+对等网络
+面向对象
+UNIX
+离散事件系统
+调度
+仿真
+WWW
+Network management
+CPLD
+C语言
+Data mining
+Struts
+EJB
+盘片
+microcontroller
+WINDOWS
+支持向量机
+路由协议
+屏幕保护程序
+低功耗
+Web service
+调度算法
+软件市场
+model checking
+reinforcement learning
+CAN bus
+synthetic aperture radar
+路由算法
+浏览器
+ASP
+path planning
+智能控制
+face recognition
+software architecture
+实时系统
+移动Agent
+网上银行
+LDAP
+Web Service
+系统辨识
+wireless sensor networks（WSNs）
+纹理映射
+MIS
+rough set
+mobile agent
+VXIbus
+neural network
+MPLS
+数据融合
+图像分割
+电子商务
+DVD刻录机
+WebGIS
+数码相机
+极点配置
+多Agent系统
+网格计算
+MODIS
+machine translation
+PID控制
+Intrusion Detection
+RSA
+自动测试系统
+数据采集
+Modal logic system K
+tableau method
+中文定义
+Ethernet
+多处理机系统
+Socket
+向量空间模型
+VC++
+数字水印
+控件
+组件
+并行计算
+LonWorks
+康柏
+Feature Extraction
+WinCC
+ORB
+Petri nets
+并发控制
+scalability
+网络处理器
+卡尔曼滤波
+按钮
+Network security
+Fuzzy control
+DDE
+调制解调器
+笔记本电脑市场
+XPath
+工程图学
+化学量传感器
+负载平衡
+digital signature
+LabWindows/CVI
+代理服务器
+Nonlinear systems
+家用电脑
+网络管理
+组态软件
+台式机
+系统调用
+批处理文件
+实时性
+Workflow
+前置机
+目标识别
+软件产业
+状态反馈
+体绘制
+软件企业
+硬盘
+Face Recognition
+Middleware
+fault tolerance
+Embedded System
+Kalman filter
+image segmentation
+时滞系统
+Scalability
+服务器市场
+NDVI
+身份认证
+Web services
+应用服务器
+data fusion
+DCT
+RTI
+以太网
+驱动器
+MEMS
+HTML
+CD—ROM驱动器
+SQL
+传感器网络
+agent
+DTD
+中国电子商务
+PCI
+PCI总线
+工业机器人
+路由
+Congestion control
+嵌入式
+容错
+中文术语
+系统仿真
+操作系统
+Hibernate
+电视卡
+蓝光光盘
+DCOM
+设备驱动程序
+公钥基础设施
+VoIP
+可扩展性
+飞行控制
+喷墨打印机
+MCU
+数字信号处理器
+电子政府
+并行工程
+显示器
+MAC
+natural language processing
+GPU
+Remote sensing
+ActiveX
+UCDOS
+Computer image processing
+PDM
+安全策略
+Sun公司
+Norton
+VXI bus
+Borland
+文件名
+Fieldbus
+分布式数据库
+Interne
+普通用户
+clustering
+Algorithm
+分布式仿真
+客户／服务器
+IKE
+data warehouse
+machine learning
+software testing
+Cache
+变频器
+修改注册表
+化学会
+惠普
+iSCSI
+KQML
+微处理器
+密钥管理
+ATM
+object-oriented
+英文术语
+接口
+MANET
+SoC
+管理信息系统
+ZigBee
+Informix
+middleware
+微计算机应用
+扩展内存
+文档
+电子支付
+效能评估
+笔记本
+motion estimation
+feature extraction
+CRT显示器
+线程
+软件复用
+集散控制系统
+routing algorithm
+子目录
+计算机安全
+自组网
+广义系统
+FoxBASE
+UNIX系统
+游戏玩家
+support vector machine
+协同设计
+Multicast
+电脑市场
+distributed interactive simulation
+robust stability
+Simulation
+工具栏
+客票系统
+task scheduling
+Transputer
+视频编码
+计算机支持的协同工作
+政府门户网站
+计算机生成兵力
+软件重用
+信息融合
+grid computing
+可信计算
+任务栏
+BGP
+输入法
+广义预测控制
+垃圾邮件
+CGI
+文件系统
+Clustering
+DDoS
+数据中心
+SOA
+LCD显示器
+高速缓存
+启动盘
+Authorware
+工控机
+网关
+输出反馈
+区分服务
+聚类
+MVC
+Web服务器
+Prolog
+Scheduling
+Winsock
+并行编译
+可扩展标记语言
+分布式虚拟环境
+嵌入式软件
+粒子滤波
+边缘检测
+Servlet
+GSM
+CAPP
+总线
+中间业务平台
+DiffServ
+银行卡业务
+信息隐藏
+multi-agent system
+数据结构
+移动自组网
+IDS
+软件工程
+VRML
+工业以太网
+语义Web
+scheduling algorithm
+SCADA
+Encryption
+CD-R
+DOS命令
+大容量硬盘
+不确定系统
+半实物仿真
+信息抽取
+PVM
+秘密共享
+字符串
+鲁棒稳定性
+SAR
+剪贴板
+最优控制
+.NET
+neural networks
+Digital Signature
+安全协议
+步进电机
+信任模型
+computational geometry
+Synthetic aperture radar
+PID control
+Client/Server
+数据交换
+关系数据库
+特征抽取
+UDDI
+水电工程地质
+《计算机与农业》
+GPS
+硬盘容量
+自然语言处理
+network coding
+linear matrix inequality
+service composition
+播放机
+机箱
+图像检索
+B/S
+中文信息
+游戏
+FMS
+CMM
+Face recognition
+临时文件
+Epson
+互联网企业
+汇编语言
+缓存
+algorithm
+digital watermarking
+人脸检测
+碰撞检测
+产品数据管理
+分布式计算
+中文Windows
+texture mapping
+安全操作系统
+Office
+低端
+统一建模语言
+组播
+PWM
+线性系统
+微型电脑应用
+EXE文件
+网络编码
+ontology
+自校正控制
+Wireless sensor networks
+信号处理
+普适计算
+嵌入式Linux
+银行卡
+机动目标跟踪
+VV&A
+中国互联网
+sensor
+nonlinear system
+视频文件
+手写汉字识别
+串口通信
+quality of service
+高可用性
+飞行仿真
+flight control
+显示效果
+TMN
+迭代学习控制
+点击
+并行数据库
+Distributed
+现场可编程门阵列
+Wavelet transform
+时延
+消息传递
+system identification
+windows
+target tracking
+STEP
+μC/OS-Ⅱ
+多目标跟踪
+注册表编辑器
+控制面板
+routing protocol
+Nonlinear system
+DDR内存
+中国图象图形学报
+本体
+SQL Server
+DeviceNet
+Genetic algorithm
+电脑
+模糊神经网络
+政务信息化建设
+Web挖掘
+数据窗口
+远程监控
+无线网络
+OLE
+Neural Network
+DOS应用程序
+Mobile Agent
+UAV
+编译器
+有限状态机
+模型检测
+query processing
+Netfilter
+查询优化
+粗糙集
+Interoperability
+元数据
+内存价格
+API函数
+Authentication
+VLAN
+数码产品
+计算几何
+semantic Web
+peer-to-peer
+grid
+属性约简
+数据流
+虚拟化
+自适应
+开发者
+variable structure control
+滑模控制
+RFID
+语言模型
+DoS
+右键菜单
+光盘复制
+state feedback
+多播
+服务组合
+神州数码
+基于图像的绘制
+键盘鼠标
+μC/OS-II
+软件可靠性
+JavaScript
+测控系统
+QoS routing
+Builder
+作战仿真
+分布式交互仿真
+distributed system
+虚拟专用网
+图形加速卡
+趋势科技
+VLIW
+C++
+学习算法
+企业信息化
+邮件服务器
+Pattern Recognition
+Association rules
+网格简化
+DLL
+反病毒软件
+查询处理
+隐马尔可夫模型
+蓝牙
+扩展名
+多处理机
+纹理合成
+particle swarm optimization
+无人机
+数字证书
+speech recognition
+地理信息系统
+formal verification
+分布对象
+汉字识别
+QoS路由
+Ontology
+软测量
+RMI
+软件度量
+工作流管理系统
+SDRAM
+网上支付
+倍速
+Java语言
+通信
+HTTP
+Data Mining
+RoboCup
+视频播放
+支付系统
+cache
+网络银行
+Word
+parallel algorithm
+交换机
+multivariable system
+移动存储
+半月回
+linear matrix inequality（LMI）
+particle filter
+电子政务系统
+DirectX
+嵌入式操作系统
+自动测试设备
+Neural network
+Matlab
+串行通讯
+Reinforcement learning
+计算机视觉
+实时数据库
+旅行商问题
+虚拟机
+软件流水
+软构件
+套接字
+Kerberos
+Quality of service
+Target tracking
+协同过滤
+描述逻辑
+configuration software
+面向对象技术
+体系结构
+中国软件企业
+PROFIBUS
+组态
+software reuse
+image fusion
+WLAN
+MIB
+办公自动化
+Machine Learning
+异常检测
+快捷键
+组合导航
+网络仿真
+实时仿真
+Robustness
+communication protocol
+反病毒
+软件工程师
+个人电脑
+控制器
+多目标优化
+Access control
+OFDM
+命令行
+电子商务网站
+模板匹配
+sensor network
+Web mining
+Object-oriented
+Mobile computing
+逻辑程序设计
+非真实感绘制
+金融科技
+MPEG
+text classification
+压缩文件
+OGSA
+edge detection
+MFC
+作战效能
+数据传输率
+程序设计语言
+数据通信
+firewall
+FFT
+Novell
+mesh simplification
+output feedback
+动态链接库
+DBMS
+图像融合
+association rules
+API
+参考价格
+自然语言理解
+运动补偿
+矢量量化
+测试软件
+工程数据库
+networked control systems
+humanoid robot
+播放软件
+分布式哈希表
+MATLAB
+ERP
+图像压缩
+开发人员
+拼音输入法
+内存条
+DVD-ROM
+彩色打印机
+security protocol
+parallel processing
+智能手机
+智能卡
+MODEM
+图象编码
+打印质量
+WSDL
+PC市场
+Networked control systems
+SSL
+数控系统
+DMA
+XSLT
+多媒
+实时通信
+子商务
+ATM网络
+键盘缓冲区
+无线局域网
+decentralized control
+图象压缩
+音箱
+存储过程
+对比度
+鼠标
+几何约束
+CA
+椭圆曲线
+下载
+InSAR
+EPSON
+sensor networks
+Parallel algorithm
+Vega
+文本聚类
+adaptive
+text categorization
+边界网关协议
+视频检索
+OWL-S
+激光打印机
+对等网
+Virtual reality
+Speech Recognition
+铁路信息化
+掌上电脑
+INTEL
+multicast routing
+trust model
+texture synthesis
+mobile computing
+服务发现
+face detection
+Embedded system
+商用电脑
+multivariable systems
+计算机病毒
+Hough变换
+embedded
+MPI
+heuristic algorithm
+离散对数
+主动队列管理
+网格服务
+data stream
+Linear matrix inequality
+数据备份
+CAD
+Visual C++
+High level architecture（HLA）
+媒体世界
+金融电子化建设
+global property
+手机市场
+Image coding
+intelligent control
+键盘
+机器人控制器
+GSM-R
+ATE
+image compression
+RISC
+VXI
+计算机图形学
+气体传感器
+微控制器
+客户端
+target detection
+real-time system
+接纳控制
+数据并行
+SIMD
+LaserJet
+即时通讯
+Routing
+SIP
+数据采掘
+多智能体
+ant colony algorithm
+Database
+Data Warehouse
+gas sensor
+数据压缩
+进程代数
+子目录名
+Software architecture
+AH
+singular systems
+加密
+系统集成
+LOD
+呼叫中心
+Firewall
+解耦
+工作流模型
+UNIX操作系统
+image registration
+虚拟现实
+防空导弹
+电子化建设
+Feature Selection
+motion capture
+ADO.NET
+温度补偿
+微内核
+词性标注
+ICMP
+Ad Hoc网络
+移动IP
+高清
+生物传感器
+计算机动画
+Jini
+监控系统
+闪存盘
+启发式算法
+飞利浦
+collaborative design
+artificial intelligence
+information security
+Genetic Algorithm
+知识表示
+厂商
+菜单栏
+CD-RW
+discrete event systems
+概念格
+Ad Hoc network
+明基
+光存储
+软件公司
+解决方案
+optimal control
+基于内容的图像检索
+anomaly detection
+Component
+多传感器
+数据模型
+GIS
+Windows系统
+Fault diagnosis
+RSVP
+容错控制
+Edge detection
+fault detection
+iFIX
+联机分析处理
+指令级并行
+distributed
+networked control system（NCS）
+进化算法
+相关反馈
+智能家居
+interoperability
+Mobile robot
+时态数据库
+常规内存
+Access Control
+SAR图像
+线性矩阵不等式（LMI）
+文件头
+群签名
+Ajax
+network management
+四核
+可伸缩性
+RTP
+前面板
+数字家庭
+SCSI
+光驱
+uncertain systems
+决策树
+XACML
+离散时间系统
+遥感图像
+版权保护
+自适应滤波
+互操作
+IP地址
+PROFIBUS-DP
+Ticketing and Reservation System
+赛门铁克
+language model
+漫步者
+离散系统
+image processing
+非线性控制系统
+离散余弦变换
+足球机器人
+中小企业信息化
+软盘驱动器
+JAVA
+密钥
+feature selection
+H_∞控制
+RTOS
+多智能体系统
+real-time
+电信运营商
+concurrent engineering
+存储产品
+Network Management
+强制访问控制
+Netscape
+Multi-agent system
+家用投影机
+刷新频率
+声表面波
+Search engine
+流媒体
+视景仿真
+图像配准
+Data fusion
+网络化制造
+分散控制
+第三方支付
+network processor
+组合优化
+Image segmentation
+农业专家系统
+volume rendering
+collaborative filtering
+DEBUG
+针式打印机
+汉字编码
+ASIC
+测试用例
+散热片
+Grid
+WindowsNT
+Voodoo
+association rule
+XENIX系统
+Profibus
+target recognition
+Information security
+Information Security
+Chord
+AOP
+快速算法
+PROLOG
+实时控制
+Association Rules
+Parallel processing
+网络化控制系统
+双击
+企业用户
+政府信息化
+菜单项
+SOPC
+mass customization
+资源预留
+模式识别
+运营商
+FCS
+远程控制
+图形学
+MiniGUI
+Windows NT
+数据集成
+程序变换
+image based rendering
+COM文件
+HowNet
+数据仓库系统
+片上系统
+即插即用
+事务处理
+evolutionary algorithm
+爱国者
+collision detection
+人机交互
+Multi-agent
+VxD
+Wireless sensor network
+PID控制器
+串空间
+数据传输
+并行程序设计
+InTouch
+secret sharing
+内存管理
+vector space model
+Bluetooth
+遥操作
+像素
+政府信息化建设
+显示汉字
+政府系统
+中国软件产业
+视觉伺服
+富士施乐
+客户机
+客户机/服务器
+提示符
+Samsung
+WAP
+数据库文件
+软件产品
+OPNET
+CompactPCI
+Intel公司
+Adobe
+仿真系统
+摄像头
+Image Retrieval
+RSA算法
+状态估计
+非线性控制
+image restoration
+解耦控制
+MySQL
+Windows CE
+机器人控制
+networked control system
+气敏元件
+光纤传感器
+信息集成
+椭圆曲线密码体制
+双线性对
+函数优化
+基于角色的访问控制
+信息安全产业
+steganalysis
+Metadata
+敏捷制造
+目标检测
+LAN
+pervasive computing
+Knowledge discovery
+WindowsXP
+计算机支持协同工作
+high level architecture
+细节层次
+motion compensation
+networked manufacturing
+SPIHT
+流形学习
+dynamic scheduling
+硬盘驱动器
+武器系统
+磁盘阵列
+观测器
+GUI
+Web应用
+WDM
+公用软件
+编辑需要
+综合业务系统
+压缩软件
+Vector quantization
+SystemC
+片上网络
+图象匹配
+包过滤
+死锁
+genetic algorithms
+Excel
+active network
+缓冲区溢出
+汉字输入
+simulated annealing
+Active network
+Agricultural information
+商业银行
+简单网络管理协议
+汉字输入法
+图像编码
+特征选择
+实用程序
+网络攻击
+DOS系统
+CGF
+系统文件
+Mobile IP
+免费软件
+几何约束求解
+多机系统
+DHT
+故障检测
+信任管理
+分组密码
+计算机用户
+Verilog
+protocol
+单元格
+面向对象数据库
+简单多边形
+建模与仿真
+数据安全
+用户
+AODV
+闪存
+PCTOOLS
+IT市场
+分布式多媒体
+dynamic output feedback
+加密软件
+扩充内存
+安装程序
+图像匹配
+音质
+CMOS
+Wireless Sensor Network（WSN）
+Parallel Algorithm
+IDL
+μClinux
+HLA/RTI
+geometric constraint
+吞吐率
+TSR程序
+Digital Watermarking
+information fusion
+MAS
+组件对象模型
+打印头
+文件服务器
+IIS
+自定义
+concurrency control
+encryption
+software engineering
+多机器人系统
+electronic nose
+外置
+PXI总线
+Bézier曲线
+边界扫描
+NetWare
+高速网络
+网络打印机
+参数估计
+母盘制作
+情报指挥控制系统
+《电子商务》
+数据流分析
+形式化验证
+下载软件
+Deep Web
+Image fusion
+农村信息化
+数学形态学
+Expert system
+ActiveX控件
+可靠性预计模型
+Anycast
+Key management
+图形卡
+智能体
+网络通信
+混合编程
+任务分配
+parameter estimation
+数字信号处理
+object tracking
+图象分割
+Protocol
+电子联行
+Vector Space Model
+局部搜索
+移动数据库
+编辑器
+Ad hoc networks
+distributed algorithm
+隐写分析
+密码协议
+图形用户界面
+中间业务系统
+程序设计环境
+同城清算系统
+UDP
+进化计算
+组播路由
+time delay
+EAI
+iterative learning control
+Computer Vision
+discrete-time systems
+覆盖网络
+implicit surface
+data aggregation
+分布式控制系统
+数码摄像机
+Access
+光盘驱动器
+立体匹配
+微型机
+性能提升
+learning algorithm
+router
+可重构
+sliding mode control
+字符识别
+KDD
+时间Petri网
+非单调推理
+单击
+仿人机器人
+光盘产业
+媒体播放器
+PHP
+芯片
+routing
+Hough transform
+适配器
+Rough Set
+OWL
+消息队列
+文本框
+robot controller
+术语管理系统
+SPDOS
+MapInfo
+接口电路
+Cookie
+多机器人
+Machine learning
+备份文件
+mobile ad hoc network
+TSP
+手机
+无线网卡
+signal processing
+NDIS
+推荐系统
+多媒体电脑
+HMM
+WSN
+双核
+real-time scheduling
+Reinforcement Learning
+银行计算机系统
+虚拟内存
+正交频分复用
+distributed computing
+光盘片
+编译优化
+手写笔
+Computer graphics
+软件业
+示例学习
+方正科技
+特征提取
+trusted computing
+ad hoc network
+光学变焦
+level of detail
+硬盘分区表
+Architecture
+子句
+任务管理器
+干扰解耦
+预取
+软件版本
+客户/服务器
+ORACLE
+自动测试
+parallel computing
+演绎数据库
+根目录
+fiber Bragg grating（FBG）
+计算机工程
+工业控制
+PCI bus
+多处理器
+互联网公司
+手机游戏
+工业控制计算机
+Kalman filtering
+工具软件
+高级语言
+仿真器
+temporal logic
+触觉传感器
+Lucene
+空间索引
+作战系统
+客户机／服务器
+决策支持系统
+OSPF
+频繁项目集
+state estimation
+Multi-Agent
+目录服务
+vector quantization
+富士通
+HMI
+网上银行业务
+DSS
+Robust control
+Router
+凸壳
+Web日志
+Honeypot
+协处理器
+remote sensing
+安全解决方案
+分区表
+人机界面
+滤波
+C/S
+贝叶斯网络
+Equipment support
+驱动程序安装
+video coding
+微软公司
+移动互联网
+generalized predictive control
+accelerometer
+彩色图像
+形式化方法
+多Agent
+液晶屏
+视频点播
+CRM
+粒子群优化
+粒子群优化算法
+分簇
+T-S模糊模型
+存储设备
+节点定位
+手势识别
+DEDS
+JMS
+RTP/RTCP
+图象处理
+企业应用集成
+temperature compensation
+银行业务
+电子商务解决方案
+强化学习
+SVG
+虚拟样机
+Association rule
+压缩包
+AdaBoost
+design pattern
+IP电话
+Adaptive
+Image Processing
+视频会议系统
+组态王
+数据库安全
+构件检索
+母盘
+子文件夹
+信息安全技术
+process algebra
+文件大小
+Quality of Service
+overlay network
+匿名通信
+刻录技术
+liveness
+候选关键字
+存折打印机
+Singular systems
+进程通信
+码率控制
+视图
+SPI
+JPEG
+动态输出反馈
+Proxy
+系统资源
+WebServices
+拒绝服务攻击
+evolutionary computation
+入侵容忍
+认证协议
+非最小相位系统
+实时绘制
+Digital watermark
+鲁棒镇定
+时间同步
+Verilog HDL
+Object-Oriented
+多模型
+wireless communication
+load balance
+B/S模式
+决策支持
+玩游戏
+attribute reduction
+软件Agent
+distributed virtual environment
+Cisco
+游戏类型
+一致性测试
+computer animation
+半结构化数据
+任务规划
+OCR
+硬盘分区
+遥感影像
+自动机
+移动商务
+激光打印
+Modeling
+个性化
+image matching
+time synchronization
+Applet
+进化规划
+工作流引擎
+显示模式
+带宽分配
+AUV
+Snort
+Digital signature
+时钟同步
+integrated navigation
+知识发现
+金蝶
+执行器故障
+子目标
+软件开发人员
+音乐文件
+Quality of Service（QoS）
+体系结构描述语言
+Software Reuse
+Routing algorithm
+图形方式
+选购指南
+Distributed computing
+长城集团
+德州仪器
+Iptables
+clustering algorithm
+网络流量
+液晶电视
+动态调度
+JavaBean
+盲签名
+机器人视觉
+混杂系统
+DEM
+有限自动机
+反垃圾邮件
+relevance feedback
+中断服务程序
+秩距离码
+网上银行系统
+遥感
+证据理论
+数据加密
+PXI
+Ada
+分布交互式仿真
+Concurrency control
+术语学
+密码技术
+随机Petri网
+testability
+client/server
+description logic
+service discovery
+Explorer
+image coding
+矢量控制
+PDA
+SAR image
+多核
+流量工程
+可调度性
+Time-delay systems
+商用PC
+反病毒产品
+Rough set
+RAID
+网络存储
+FIFO
+DVD+RW
+Serial communication
+家庭网络
+安全漏洞
+组策略
+步态识别
+数据集中
+电磁散射
+automatic test system
+Edge Detection
+single chip processor
+分类器
+PROLOG程序
+机群文件系统
+DVENET
+图形工程
+Metasynthesis
+remote sensing image
+扫描仪
+开发工具
+CAD/CAM
+virtual reality
+deadlock
+数据库服务器
+互操作性
+分布参数系统
+应用程序接口
+服务机器人
+Apache
+workflow model
+A/D转换
+Routing protocol
+Motion estimation
+DirectSound
+拓扑控制
+OpenMP
+解压缩
+teleoperation
+WTLS
+气体传感器阵列
+NP-hard
+文件加密
+灾难备份
+Information retrieval
+uClinux
+USB接口
+algebraic Riccati equation
+系统托盘
+PC服务器
+maneuvering target tracking
+雷达目标识别
+Adaptive control
+超文本
+TCP/IP协议
+彩色打印
+LEACH
+测试生成
+主引导扇区
+wavelet
+一体机
+未建模动态
+文件长度
+图形处理
+并行计算机
+DOM
+三角网格
+Java虚拟机
+文档对象模型
+滑动模态
+information retrieval
+Web数据库
+流量控制
+self-tuning control
+DNA computing
+Windows环境
+兼容机
+rate control
+数据包
+调度策略
+ARP
+温度传感器
+JXTA
+PSTN
+XKMS
+东芝笔记本电脑
+knowledge discovery
+人工免疫系统
+多主体系统
+production scheduling
+multi-agent
+人工智能
+隐私保护
+Delaunay triangulation
+主动数据库
+Web日志挖掘
+内模控制
+ATS
+动态矩阵控制
+分布式操作系统
+ToolBook
+IFAC
+Ada语言
+虚拟企业
+形式验证
+硬盘空间
+均值漂移
+寄存器
+企业网
+中断向量
+CIDF
+支付平台
+多媒体产品
+自校正控制器
+Load balancing
+Target recognition
+企业级
+模拟器
+存储管理
+Unix
+云模型
+文件传输
+SVM
+Sensor networks
+同源异形
+指挥控制通信系统
+MSC Patran
+网络测量
+可执行文件
+Informix数据库
+Natural Language Processing
+例程
+电源接口
+运动捕获
+多媒体应用程序
+UPS市场
+协议分析
+Neural Networks
+message passing
+组通信
+移动对象
+simple polygon
+双线性映射
+FoxBASE+
+Association Rule
+温度控制
+密钥协商
+无源定位
+robot control
+远程过程调用
+自动分词
+时间复杂性
+布尔函数
+Predictive control
+视频分割
+Peer-to-Peer
+软件保护
+计算机取证
+FrontPage
+墨盒
+安全模型
+time-delay
+information hiding
+下拉菜单
+密码
+数据依赖
+Macintosh
+光盘软件
+网络激光打印机
+local search
+多代理
+逻辑综合
+Software reuse
+拓扑发现
+nonlinear control
+device driver
+性能分析
+清华同方
+biosensor
+Neural networks
+商务
+数据库管理系统
+中国软件业
+收藏夹
+NAT
+游戏软件
+运动目标检测
+控制系统
+电脑配件
+超标量
+声霸卡
+超媒体
+DNA计算
+防病毒软件
+system call
+Particle Swarm Optimization（PSO）
+网络入侵检测
+波达方向估计
+雷达目标
+自校正调节器
+镜像文件
+隐式曲面
+PID controller
+field bus
+软件人才
+脉冲压缩
+术语标准化
+H∞控制
+image retrieval
+JIAJIA
+：output
+Tableau
+Distributed virtual environment
+informatiory forecast
+Frequent itemsets
+计算机用户协会
+网络操作系统
+Data warehouse
+政府信息公开
+数据类型
+现场总线控制系统
+BACnet
+network measurement
+打印机市场
+刀片服务器
+video retrieval
+Information Retrieval
+Profibus-DP
+software reliability
+安全机制
+消费者
+WEB
+推理机
+计算机仿真
+计算机集成制造系统
+ADSL
+数据源
+文件类型
+IP multicast
+系统集成商
+Missile
+DAG
+刷新率
+生产调度
+virtual environment
+工业自动化
+业务系统
+中国移动
+隐藏文件
+联网通用
+工艺映射
+metadata
+网格
+文本挖掘
+software process
+hidden Markov model
+分布式算法
+软件构件
+下一代网络
+卡尔曼滤波器
+robust stabilization
+分布式应用
+代理签名
+Wavelet Transform
+computer vision
+IC卡
+事件驱动
+分布计算
+BIOS
+磁盘驱动器
+即时通信
+XQuery
+workflow management system
+堆栈
+guaranteed cost control
+块匹配
+network topology
+computer graphics
+AES
+面板
+Internet/Intranet
+子进程
+SAT问题
+对象请求代理
+flight control system
+模型检查
+分布式问题求解
+内存芯片
+multiprocessor
+解释器
+电信管理网
+加密算法
+linux
+搜索引擎
+Flight control
+安腾
+WinRAR
+模式匹配
+触发器
+光学分辨率
+政务信息化
+雷达信号
+聚类算法
+Ad Hoc networks
+RED
+OSI
+跨层设计
+速率控制
+软件代理
+存储系统
+智能交通系统
+去噪
+密码学
+设计与实现
+PowerPoint
+key management
+query optimization
+机群系统
+仿真平台
+时变系统
+网络性能
+时序逻辑
+资源发现
+VISA
+超级解霸
+formal method
+C++Builder
+智能代理
+ObjectARX
+product design
+内存控制器
+Object-oriented database
+HD-COPY
+Overlay network
+时滞理论
+接口处理器
+Logic programming
+H_∞ control
+查询语言
+网络中心战
+automata
+Netwar
+gas sensor array
+下载地址
+手写板
+规格说明
+阵列信号处理
+工具条
+气敏特性
+HVS
+obstacle avoidance
+苹果电脑
+对象模型
+动态数据交换
+IP组播
+奇异系统
+高端
+VFP
+测试用例生成
+瑞星公司
+分布式实时系统
+硬盘参数
+可测试性设计
+Weapon system
+渐近稳定性
+过程建模
+Remote sensing image
+Decision tree
+局部网络
+收敛性
+Feature extraction
+OA
+服务质量
+IT厂商
+绿色软件
+位处理器
+gait recognition
+奔腾处理器
+制表符
+JVM
+data compression
+Photoshop
+无盘工作站
+图像复原
+Information fusion
+geometric modeling
+切换系统
+高斯混合模型
+家庭影院
+无线通信
+异构数据库
+Kalman滤波
+模糊规则
+混沌序列
+分辨率
+dBASE
+语义Web服务
+极大代数
+加密方法
+元模型
+ISAPI
+机器视觉
+motion control
+移动办公
+embedded Linux
+distributed control system
+LCD
+汉字库
+time-delay systems
+视频网
+保性能控制
+水下机器人
+仿射变换
+virtual enterprise
+agile manufacturing
+工业控制机
+Knowledge representation
+算术编码
+CD—ROM
+线性调频
+车载导航
+农业信息技术
+飞行控制系统
+视频对象
+代数Riccati方程
+农业信息服务
+指挥控制
+自动程序设计
+VoD
+Client／Server
+Identity Authentication
+安装驱动程序
+Admission control
+软件自动化
+高级综合
+program slicing
+服务质量（QoS）
+属性文法
+SPIN
+cryptographic protocol
+模拟退火算法
+优先级
+fuzzy neural network
+distributed simulation
+多协议标签交换
+罗克韦尔自动化
+湿敏元件
+容错性
+机器人系统
+Robot
+电脑硬件
+中文平台
+智能规划
+扫描仪市场
+进程迁移
+手写体汉字识别
+软件下载
+计算机控制
+备份
+倒立摆
+信息家电
+ETL
+使用技巧
+多边形
+Cluster
+存储结构
+computational complexity
+英寸
+企业信息化建设
+企业资源计划
+动画
+增强现实
+设备驱动
+办公软件
+控制算法
+控制与决策
+复制商
+软件体系结构描述语言
+区域数据中心
+MSC Adams
+抽象逻辑结构图
+Java芯片
+Web使用挖掘
+电子商务应用
+协议栈
+网络产品
+台式
+锁相环
+启发式搜索
+半监督学习
+approximation algorithm
+virtual human
+映像文件
+蠕虫病毒
+automated reasoning
+admission control
+模拟退火
+医院信息系统
+异构计算
+chinese information processing
+相似组合系统
+IT培训
+Microchi
+选择菜单
+用户协会
+Information hiding
+结构辨识
+Evolutionary algorithm
+长文件名
+形式化描述
+支付网关
+Web usage mining
+WPS文件
+对角优势
+线程池
+地空导弹
+增量学习
+Semantic Web
+数字相机
+通讯协议
+information extraction
+语义网
+图像加密
+弹出式菜单
+WorldFIP
+覆盖算法
+Hypermedia
+银行信息系统
+访问模式
+软件销售
+分散镇定
+电脑公司
+软件维护
+大幅面
+耳机
+状态机
+MSComm控件
+Image compression
+工作流管理
+智能机器人
+吞吐量
+T-S模糊系统
+Grid computing
+Simulation system
+SSL VPN
+存储虚拟化
+声音文件
+Search Engine
+ARQ
+自动文摘
+光盘刻录机
+product data management
+Security
+电子商务发展
+image denoising
+存储卡
+数据处理
+AutoCAD
+定时器
+MAC协议
+频繁模式
+Word文档
+设计模式
+反舰导弹
+IP核
+语音编码
+软件行业
+图像去噪
+加速比
+Rough集
+柔性制造系统
+计算机教育
+FOXBASE
+measurement and control system
+DoDAF
+磁盘子系统
+Eigenface
+WPS系统
+群机系统
+instruction level parallelism
+基于图象的绘制
+MASIF
+PDES
+并发程序设计
+IT企业
+文件共享
+exponential stability
+佳能
+fault-tolerance
+集线器
+ECC
+联想集团
+interpolation
+医学图像
+Smith预估器
+Modeling and simulation
+密钥分配
+Intrusion detection system
+程序切片
+能量有效
+增量式更新
+CMIP
+大硬盘
+安装软件
+非线性系统辨识
+DVD-RAM
+通存通兑
+虚拟盘
+authentication protocol
+image-based rendering
+逻辑盘
+奇异摄动系统
+超长指令字
+装配序列规划
+multi-robot
+约束网络
+network lifetime
+DWT
+RDBMS
+网卡
+关键字
+网络拓扑
+pressure sensor
+Image processing
+数据文件
+decoupling
+observer
+relational database
+IP
+时滞
+OOP
+Backstepping
+控制芯片
+杂波抑制
+discrete logarithm
+mobile IP
+抽象数据类型
+间谍软件
+网络管理员
+reconfigurable
+双线性系统
+邮件系统
+CASE
+array signal processing
+银行卡市场
+零磁道
+反馈镇定
+Software Component
+Distributed interactive simulation
+多移动机器人
+操作语义
+组播通信
+串匹配
+FIPA
+连续媒体
+鼠标驱动程序
+Linear matrix inequalities
+金融信息化建设
+纯平面显示器
+指纹匹配
+COM+
+离散小波变换
+语义模型
+图形工作站
+计算语言学
+下一代互联网
+group signature
+无线连接
+group communication
+雷达成像
+grid service
+基于内容
+安全产品
+SAX
+逆向工程
+网络地址转换
+随机系统
+电子货币
+模型参考自适应控制
+群体智能
+time complexity
+concept lattice
+多值逻辑
+combinatorial optimization
+surface reconstruction
+虚拟装配
+数据库应用
+最短路径
+socket
+频繁项集
+模糊逻辑
+高性价比
+software component
+分布式处理
+互连网络
+连接池
+计算机犯罪
+金山词霸
+computer aided process planning
+可测性设计
+FEC
+恶意代码
+半物理仿真
+翻译软件
+应用层组播
+功能键
+信噪比
+reverse engineering
+multi-sensor
+五笔字型
+Apriori算法
+信息产业部
+视频压缩
+TTCN
+并发程序
+图象理解
+设备管理器
+互模拟
+管理软件
+智能仪表
+单点登录
+virtual assembly
+学习控制
+Multimedia
+服务器端
+WinCE
+object model
+RADIUS
+数据手套
+移动运营商
+图片文件
+拨号网络
+回调函数
+stereo matching
+BIT
+移动agent
+时变时滞
+参数摄动
+机动目标
+动态负载平衡
+RDO
+超立方体
+固件
+下载速度
+疑难解答
+时态逻辑
+机载雷达
+Web数据挖掘
+双核心
+Bootloader
+Chinese word segmentation
+网络接口
+SET
+COM/DCOM
+stereo vision
+用户界面
+operating system
+VOD
+面向对象方法
+Agricultural informatization
+月旦评
+Text Categorization
+输入码
+银行计算机
+parallel database
+Evolutionary Computation
+产品支持
+系统板
+响应时间
+插件
+空间数据库
+机顶盒
+template matching
+网络广告
+汉字显示
+语音合成
+基金会现场总线
+散热效果
+打印机驱动程序
+故障注入
+平面显示器
+通信机制
+软硬件协同设计
+underwater vehicle
+网吧
+software metrics
+C语言实现
+外频
+数据划分
+packet loss
+STUN
+解压卡
+Information Extraction
+打开文件
+统计语言模型
+packet classification
+程序委员会
+Ad hoc network
+FORTRAN
+WinSock
+计算机体系结构
+智能Agent
+多协议标记交换
+MCGS
+自校正
+feature recognition
+蜜罐
+rough sets
+核函数
+粒子群算法
+SMS
+SQLServer
+状态观测器
+二叉树
+位图
+CAGD
+linear systems
+运动规划
+查询扩展
+trust management
+分簇算法
+基础矩阵
+帧内预测
+服务匹配
+零知识证明
+前向安全
+几何攻击
+RMON
+MIMO
+容错技术
+low power
+图标
+移动设备
+附网存储
+显示属性
+组合键
+IP traceback
+连续语音识别
+Infranet
+索引结构
+分布式测控系统
+软件厂商
+cross-layer design
+实时监控
+decision tree
+冗余
+应用程序窗口
+Wizcon
+~+层次分析法
+Message passing
+Software Process Improvement
+像素渲染
+System-level fault diagnosis
+相似度
+IBR
+高端服务器
+unmodeled dynamics
+Information Hiding
+线性多变量系统
+Load Balancing
+安全多方计算
+CD—RW
+ARCNET
+能量高效
+多播路由
+零树编码
+运动矢量
+中文之星
+构件库
+microprocessor
+FTP
+camera calibration
+可编程逻辑器件
+诺基亚
+Dreamweaver
+无线上网
+Software Engineering
+Digital watermarking
+归纳学习
+网络设备
+隧道技术
+倍速驱动器
+支付清算
+程序设计方法学
+B~+树
+小字库
+车载主机
+part-of-speech tagging
+AspectJ
+计算机学会
+银行数据仓库
+信贷管理系统
+自动目标识别
+ASTER
+等级保护
+人工生命
+移动电子商务
+XSL
+Microprocessor
+奇异值分解
+决策表
+汉字处理
+火控系统
+应用系统
+网络协议
+二值化
+Pattern recognition
+近似算法
+数据共享
+高层体系结构（HLA）
+嵌入式应用
+属性证书
+fault injection
+安全软件
+软件开发环境
+火力分配
+激光打印机市场
+电子相册
+鲁棒自适应控制
+文本过滤
+作战模拟
+雷达信号处理
+resource discovery
+discrete event system
+移动支付
+Novell网络
+AdHoc网络
+AAA
+定性仿真
+网络计算
+convex hull
+软件安装
+系统管理员
+image encryption
+swarm intelligence
+fuzzy neural networks
+检查点
+buffer management
+低音喇叭
+Model checking
+Distributed simulation
+硬盘接口
+anonymous communication
+系统级故障诊断
+Texture mapping
+Macromedia
+组密钥管理
+IP多播
+导航功能
+光盘格式
+恶意程序
+实时软件
+DES
+temperature control
+backstepping
+automatic test
+物理隔离
+目标探测
+乘法器
+开发环境
+DirectShow
+gateway
+UART
+GPIB
+计算机集成制造
+流水线
+射频识别
+软件质量
+Information System
+实时
+句法分析
+Fault Diagnosis
+Simulink
+RPC
+纹理分析
+图像恢复
+递归
+controller
+modeling
+三角剖分
+adaptive filtering
+输出调节
+横切关注点
+Video coding
+non-photorealistic rendering
+BenQ
+Pervasive computing
+协议一致性测试
+内核
+finite state machine
+RTLinux
+Ad hoc网络
+纹理分割
+异步传输模式
+Unicode
+object recognition
+manifold learning
+中间业务
+电子钱包
+mean shift
+real-time rendering
+protocol analysis
+邮件过滤
+test case
+Fault detection
+H ∞ control
+MIME
+多处理器系统
+态势评估
+资源预留协议
+多agent系统
+教育行业
+中断处理程序
+电子商务平台
+业务流程
+虚拟环境
+黑客攻击
+CMMI
+active queue management
+Control system
+空间数据
+EM算法
+digital watermark
+时间复杂度
+PXI bus
+命令按钮
+摩尔定律
+Bézier curve
+生物特征识别
+COTS
+无线路由器
+游戏市场
+计算机世界
+TinyOS
+Case-based reasoning
+元搜索引擎
+网络电话
+DHTML
+Delaunay三角剖分
+图形处理器
+Ad Hoc
+data collection
+knowledge representation
+无损压缩
+STD总线
+asymptotic stability
+内存驻留程序
+互关联后继树
+网络寿命
+连通支配集
+Porting
+测试码
+COBOL
+bisimulation
+性能势
+汉字终端
+Gnutella
+机架式服务器
+五笔输入法
+Web service composition
+Mean Shift
+微指令
+内容安全
+音频文件
+hash
+word sense disambiguation
+copyright protection
+四叉树
+小波分析
+路由选择
+异常处理
+CMAC
+车牌定位
+TCP协议
+CSMA/CD
+光纤通道
+简单对象访问协议
+DataSocket
+trajectory tracking
+国产软件
+空间机器人
+IPC
+机器人技术
+伺服系统
+可编程序控制器
+QNX
+CCED
+boundary scan
+SMIL
+electromagnetic scattering
+网上证券交易
+汉字字形
+结构学习
+Time-delay
+形式概念分析
+自学习
+SAN
+PSO
+simulator
+当前目录
+流量模型
+synthetic aperture radar（SAR）
+Navigator
+Knowledge Discovery
+linear matrix inequality （LMI）
+Intrusion Detection System
+机内测试
+汉字内码
+博客
+参数辨识
+system integration
+读卡器
+B-spline
+FSM
+主界面
+AVS
+虚拟设备驱动程序
+控制流
+定性推理
+逻辑程序
+steganography
+新浪
+人类视觉系统
+WCDMA
+CBR
+虚通道
+图象拼接
+Distribute
+Computer security
+Software agent
+software pipelining
+Multicast routing
+IA服务器
+平均寻道时间
+N-gram
+数据库机
+IP Multicast
+阈值
+SMTP
+soft sensor
+刻录
+数据管道
+安全体系结构
+block matching
+文件分配表
+混合高斯模型
+Radar
+基础架构
+peer-to-peer network
+missile
+软件过程改进
+嵌入式Internet
+multithread
+参考模型
+数据一致性
+fuzzy controller
+Object
+EDA
+模糊推理
+最小二乘法
+功能强
+粒计算
+目录项
+flight simulation
+页面设置
+删除文件
+内容过滤
+Gabor小波
+干涉合成孔径雷达
+指令集
+导航软件
+多数据库系统
+测试性
+Industrial Ethernet
+数据过滤
+改装车
+超级用户
+Browser
+CBIR
+network traffic
+模糊辨识
+Formal method
+压缩域
+欠驱动系统
+data dependence
+实达电脑
+同时镇定
+网上银行服务
+DICOM
+B样条曲线
+PageRank
+dynamic matrix control
+分布式对象
+高性能计算
+conceptual design
+虚拟现实建模语言
+电脑游戏
+CCD
+信用卡
+server
+供应链管理
+配置文件
+并行测试
+TCP友好
+清算中心
+字节码
+Smart card
+联想电脑公司
+Button
+provable security
+摄像机定标
+XENIX
+网构软件
+混合动态系统
+替换算法
+商务应用
+可信平台模块
+防火墙系统
+C/C++
+Foxmail
+Design Pattern
+传感器市场
+Qtopia
+Distributed Database
+函数式语言
+中间人攻击
+模糊控制系统
+mutual information
+视频传输
+信息模型
+能控性
+差错控制
+temperature sensor
+中文姓名识别
+特显功能
+Text Classification
+注册表修改
+Function Optimization
+Rule Extraction
+dynamic fuzzy sets
+DVD产品
+Flight control system
+结构描述文件
+金融行业
+网络计算机
+相似性度量
+双口RAM
+MapObjects
+SQLite
+incremental learning
+Windows DNA
+软件开发商
+品牌机
+软件加密
+多任务
+multi-objective optimization
+主机
+免疫算法
+注册表文件
+音频编码
+桌面系统
+信息安全产品
+CryptoAPI
+词义消歧
+非单调逻辑
+LZW
+可重构计算
+INFORMIX
+电话银行
+硬盘主引导记录
+CMOS设置
+开放源代码
+分布式拒绝服务攻击
+自组织网络
+NP完全问题
+发布/订阅
+波束形成
+Web服务组合
+Trust
+微波辐射计
+主机板
+传输控制协议
+proxy signature
+汉字操作系统
+索引文件
+互联网应用
+JavaBeans
+数据总线
+光照模型
+版本管理
+轨迹跟踪
+滑动窗口
+Web server
+COM组件
+Path planning
+DES算法
+TSP问题
+QOS
+句柄
+用户使用
+Observer
+一次性口令
+SAML
+微机电系统
+WebService
+Hash函数
+影像融合
+平板电脑
+问题求解
+流程工业
+sliding window
+中文分词
+Real-time
+Turbo
+机身
+B样条
+global optimization
+Strand space
+内存规格
+FoxPr
+utoCAD
+解释学习
+Combat simulation
+~+决策支持系统
+identity authentication
+渐近稳定
+传统企业
+bilinear pairings
+启动菜单
+JNDI
+conformance testing
+Markov决策过程
+FP-tree
+transaction processing
+IDE接口
+回归测试
+模糊集
+序列模式
+异步
+测试平台
+主动防御
+串级控制
+PC机
+运动控制
+用户认证
+文字识别
+对等计算
+作业车间调度
+semi-supervised learning
+JSF
+硬件
+Java Applet
+ant colony optimization
+并联机器人
+邮箱
+fast algorithm
+故障恢复
+Java技术
+农业信息
+超分辨率
+Intemet
+局域
+机械手
+模糊控制器
+Effectiveness evaluation
+手持设备
+exception handling
+汉字字模
+动态补偿器
+多属性决策
+网上购物
+矢量化
+动态联盟
+分布式控制
+VisualC++
+蓝牙技术
+system architecture
+双硬盘
+程序生成器
+MMOG
+prefetch
+Artificial Life
+江民公司
+MSC Marc
+measurement & control system
+复选框
+output regulation
+IT认证
+实时CORBA
+SAT problem
+InfiniBand
+备注字段
+LQ inverse problem
+位宽
+数据采集系统
+组件技术
+报表
+高光谱
+Signal processing
+姿态控制
+克隆选择
+Distributed system
+pole assignment
+图像水印
+出货量
+ISA总线
+Sybase
+特征结构配置
+拨号上网
+workflow management
+指数稳定性
+FF
+冲突检测
+公文流转
+网页
+component
+基本块
+逻辑驱动器
+Attribute Reduction
+microkernel
+Error concealment
+聚集查询
+High availability
+指令调度
+汉字打印
+操作系统安全
+自动生成器
+VESA
+Sender
+容错计算
+中间语言
+BAN逻辑
+Toshiba
+medical image
+个人主页
+数据开采
+virtual machine
+cloud model
+JTAG
+感兴趣区域
+图像置乱
+内存容量
+非线性预测控制
+快速排序
+Software Architecture
+置乱
+JDOM
+Script
+视频监控
+子程序
+Linux操作系统
+过程模型
+data model
+面向服务架构
+Windows操作系统
+约简
+数控加工
+product family
+纹理分类
+彩屏
+图像平滑
+跨平台
+网络世界
+intelligent agent
+Schema
+modeling and simulation
+chaos
+function optimization
+XML Schema
+GML
+令牌
+internal model control
+编程技巧
+CD-R光盘
+CRL
+ERP市场
+合谋攻击
+交易中间件
+H-infinity control
+外部命令
+location management
+secure multi-party computation
+Windows程序
+Biometrics
+雷达高度计
+Bloom filter
+DOCSIS
+多媒体播放器
+自动更正
+协同软件
+scheduling policy
+人脸动画
+Winamp
+编程模型
+弹出菜单
+交流网
+key distribution
+主引导程序
+Attitude control
+network simulation
+相控阵雷达
+TDMA
+消息中间件
+pattern recognition
+intrusion detection system
+变化检测
+数码影像
+data processing
+语义
+Session
+Encrypt
+index structure
+一致性维护
+VoiceXML
+防火墙产品
+路由策略
+DVD播放机
+IGMP
+低级格式化
+IVI
+Windows应用程序
+基音检测
+实时任务
+签密
+实模式
+雷达截面
+无源性
+biped robot
+西门子
+Web application
+特征匹配
+云计算
+软交换
+套装
+多分辨率
+智能传感器
+汉化
+数字城市
+data exchange
+约束满足问题
+软件学院
+Cryptography
+内建自测试
+系统芯片
+McBSP
+端口扫描
+粒子系统
+手机用户
+串行接口
+人工神经网络
+Controller
+单芯片
+real-time systems
+reliable multicast
+Qos
+排队网络
+PostScript
+二值图象
+硬件产品
+BPEL
+队列管理
+深度图像
+封装
+fault-tolerant control
+Web页面
+SOCKET
+编译程序
+商务智能
+uncertain system
+协作
+散热器
+外观设计
+协议转换
+数据网格
+电子商务市场
+插值
+权限
+鲁棒稳定
+信息安全保障
+位平面
+序列号
+BDI
+concurrency
+并行性
+optical flow
+并行化
+终端服务器
+误用检测
+content-based image retrieval
+模型转换
+嵌入式处理器
+VGA
+异步通信
+BDE
+二值图像
+blind source separation
+file system
+T-S fuzzy model
+ant algorithm
+会话
+中国电信
+Oracle数据库
+性能表现
+道路提取
+显示设备
+多路径路由
+武器装备体系
+默认
+variant design
+dynamic load balancing
+ISFET
+程序理解
+Corel
+条件随机场
+上位机
+桌面
+Gateway
+关键帧
+反馈线性化
+pattern matching
+聊天室
+Knowledge base
+cryptography
+多媒体通信
+CDMA
+网络体系结构
+资源调度
+SQL语句
+Radon变换
+数据分布
+权限管理
+RTCP
+内存变量
+最小二乘方法
+BP算法
+Sybase数据库
+network attack
+CFAR
+PGP
+环境遥感
+内外部分
+video segmentation
+可测试性
+反编译
+expert system
+Spring
+化学传感器
+加速度计
+SOC
+计算机系统
+控制打印机
+规格说明语言
+电子联行系统
+高分辨率图形
+高倍速
+ViaVoice
+MSC Nastran
+图形核心系统
+入口参数
+元计算系统
+计算机农业应用
+中国联通
+实时调度
+区域生长
+artificial immune system
+信息化建设
+Fuzzy Control
+高光谱遥感
+计算复杂度
+正则表达式
+约束优化
+industrial control computer
+mathematical morphology
+新品
+专家系统
+参数化设计
+software test
+evolutionary programming
+兴趣度
+ICAI
+彩色显示器
+Computer vision
+Server
+网络公司
+大中华区
+设计自动化
+ORM
+netfilter
+Q学习
+Target detection
+密钥交换
+废弃物管理
+计算技术研究所
+拒绝服务
+fault-tolerant
+Ad hoc
+网络互连
+robust
+运动检测
+供应链
+仿真模型
+Image registration
+英特尔公司
+软件开发过程
+早熟收敛
+基于内容的检索
+八叉树
+Novell网
+数字高程模型
+system simulation
+PMI
+仿人智能控制
+自由软件
+Object oriented
+CPU市场
+域间路由
+Traveling Salesman Problem（TSP）
+非线性组合系统
+Face Detection
+Flight simulation
+存储市场
+扇区数
+NOW
+块效应
+实达铭泰
+应用生成器
+原始套接字
+杀病毒软件
+ntranet
+compiler optimization
+Distributed Computing
+Antiaircraft missile
+DNS
+并行计算模型
+飞控系统
+mobile agents
+测试序列
+驻留内存
+分布处理
+扩展分区
+MS—DOS
+Intelligent agent
+视频会议
+三维模型检索
+微型计算机系统
+software agent
+视频摘要
+程序验证
+ATM networks
+axiomatic design
+query expansion
+汉语自动分词
+脉动阵列
+共享存储
+Virtual environment
+covert channel
+Congestion Control
+中断调用
+模糊传感器
+测览器
+主动网
+刻录光盘
+服务器平台
+OSGi
+多用户卡
+联机分析处理（OLAP）
+通用报表
+INI文件
+面向Agent
+移动存储器
+PC厂商
+零拷贝
+计算机网络
+performance analysis
+schedulability analysis
+实化视图
+图象文件
+Evolutionary programming
+图标文件
+multi-path routing
+屏幕生成器
+Secret sharing
+high level synthesis
+父进程
+schedulability
+RTF
+LQ逆问题
+BDI模型
+IDE硬盘
+pose estimation
+weapon system
+各向异性腐蚀
+bandwidth allocation
+性能评估
+编程语言
+MIDAS
+梯形图
+虚拟人
+EM algorithm
+规则提取
+spatial database
+处理机
+存储介质
+corpus
+光纤Bragg光栅
+CIM
+elliptic curve
+图形文件
+网络视频
+Thread
+共享内存
+地图匹配
+topology control
+Q-learning
+discernibility matrix
+robot vision
+列表框
+NetBIOS
+光盘刻录
+Speech recognition
+丢包率
+数字指纹
+ACDSee
+大型机
+概念层次
+Multi-thread
+interconnection network
+energy-efficient
+特征造型
+摩托罗拉
+数值仿真
+校园网
+tabu search
+电子书
+抗干扰
+Dijkstra算法
+物料清单
+image enhancement
+计算机信息系统
+控制网络
+image sequence
+捷联惯导系统
+门限方案
+约束满足
+打印程序
+字段名
+materialized view
+MAPI
+autopilot
+Adaboost
+微操作
+robustness.
+Technique application
+软件过程建模
+Superscalar
+次程序
+Formal methods
+智能科学与技术
+Misuse detection
+Covert channel
+NORTON
+Service discovery
+晶片机
+iRMX
+Data parallelism
+优化编译器
+Web application server
+分布交互仿真技术
+异构
+广域网
+正版软件
+Web应用程序
+Particle Swarm Optimization
+Object Oriented
+互斥
+计算机领域
+磁带机
+前向神经网络
+Transaction
+ISP
+商业智能
+财务软件
+仪器仪表
+PC
+data integration
+MES
+interrupt
+轨迹规划
+网络电视
+application server
+信道估计
+传输协议
+万维网
+动态网页
+事务
+温度测量
+知识管理
+数据清洗
+存储区域网络
+URL
+ControlNet
+multi agent system
+SSL协议
+信用卡业务
+Gaussian mixture model
+虚拟服务器
+鼠标器
+内存数据库
+UKF
+embedded software
+细分曲面
+面向方面编程
+农业信息资源
+构件组装
+门限签名
+qualitative simulation
+游戏机
+变送器
+串行口
+throughput
+多用户
+data communication
+自动化系统
+电子邮件系统
+sliding mode
+信息增益
+MSComm
+ArcIMS
+authentication
+互信息
+有向图
+Modbus
+蠕虫
+整数规划
+红外图像
+黑客
+网民
+指纹识别
+Particle swarm optimization
+WindowsCE
+灾难恢复
+thread
+传输速率
+声卡
+指挥控制系统
+动态口令
+multisensor
+时滞相关
+步行机器人
+测试系统
+加热炉
+跟踪控制
+说话人识别
+NAS
+ANSYS
+关系型数据库
+kernel function
+微粒群算法
+heuristic search
+企业建模
+trajectory planning
+Java程序
+主动节点
+工作流系统
+角色模型
+应用程序开发
+自动播放
+AQM
+写保护
+Image matching
+SCORM
+高分辨距离像
+图形模式
+点阵汉字
+步态规划
+Wireless network
+堡垒主机
+Operating System
+缓存管理
+装配机器人
+现代时间序列分析方法
+打印效果
+能量有效性
+多分辨率模型
+企业管理软件
+biometrics
+TCP／IP
+产品配置
+motion planning
+活动目录
+时间戳
+Electronic Commerce
+小波神经网络
+对象
+易用性
+mobile Agent
+按键
+特征融合
+分布式人工智能
+目标文件
+MMX技术
+改装技术
+bilinear pairing
+汉字编码方案
+品牌电脑
+超级节点
+移动性管理
+content based image retrieval
+位操作
+systolic array
+软件类型
+系统还原
+环境变量
+数据库产品
+网络入侵检测系统
+RTSP
+应用层多播
+输出跟踪
+大集中
+checkpoint
+DMIS
+系统总线
+时间自动机
+Streaming Media
+动态连接库
+支撑向量机
+语义分析
+支持度
+国民经济信息化
+避障
+error compensation
+智能节点
+屏幕
+电子政务安全
+Spatial data
+电子商城
+signcryption
+Watermarking
+版面分析
+统计机器翻译
+WS-Security
+服务器应用程序
+家用市场
+Face detection
+核心业务系统
+MS-DOS
+手语识别
+Security model
+中国软件
+笔记本计算机
+NetMeeting
+octree
+提示信息
+链接分析
+复杂产品
+软件能力成熟度模型
+information integration
+导弹
+evidence theory
+身份验证
+电子鼻
+Support Vector Machine
+object oriented
+计数器
+日志文件
+软件配置管理
+路由表
+传输速度
+Python
+金卡工程
+feature modeling
+LONWORKS
+产生式系统
+heuristic
+Mathematical morphology
+real-time simulation
+NGN
+以太网交换机
+Apriori algorithm
+蓝光
+Modem
+wireless network
+专家控制
+中断向量表
+软解压
+批处理程序
+连续查询
+constraint network
+simultaneous stabilization
+移动自组网络
+multicast communication
+客户应用程序
+窗口函数
+查杀
+forward security
+statistical machine translation
+Medical image
+研究性学习活动
+银行信息化
+信息与控制
+倒排文件
+Diffserv
+Trust model
+D-Link
+热电偶
+语料库
+Electronic commerce
+decoupling control
+正则化
+仿真技术
+中文输入法
+moving object detection
+block cipher
+特征脸
+打印针
+topology discovery
+Apriori
+Thinning
+处理单元
+马尔可夫随机场
+software design
+中断
+教育信息化
+机电一体化
+三层结构
+fuzzy logic
+时间约束Petri网
+光盘企业
+CD—R
+水平扫描频率
+GBK
+Learning from examples
+data placement
+计算机学报
+工具集成
+Gopher
+符号执行
+语义角色标注
+卫星仿真
+railway informatization
+反动态跟踪
+铁路计算机应用
+路由稳定性
+Multi-Objective Optimization
+HomePage
+Topology control
+客户/服务器应用
+EBMT
+MSFlexGrid控件
+软件考试
+Expert System
+离线浏览
+Process modeling
+Networked control system
+视频编辑软件
+滑动模
+实时事务
+非线性离散系统
+恢复文件
+Multiprocessor system
+热切换
+Wireless Sensor Network(WSN)
+RealPlayer
+Comdex
+Digital Certificate
+提示行
+PLC控制
+ISDN
+Labview
+图像增强
+single-chip computer
+triangulation
+Flash
+代理
+液晶显示屏
+配准
+软件外包
+电源管理
+嵌入式计算机
+self-tuning
+智能网
+SSH
+工控软件
+Simulation model
+功能块
+城域网
+机器人学
+中国工商银行
+车牌识别
+软件工具
+MapX
+Test generation
+Database security
+缓冲区管理
+inter-domain routing
+metacomputing
+随机多变量系统
+极点配置问题
+信息资源网建设
+MQSeries
+计算机免疫系统
+指称语义
+核心电压
+汉英机器翻译
+文件关联
+AMD公司
+特种打印机
+解压软件
+Internet连接
+子结点
+彩色桌面系统
+虚拟座舱
+下拉列表框
+隐通道
+Learning Algorithm
+代价模型
+component retrieval
+高分辨率
+帧中继
+匹配算法
+功能测试
+IT产业
+Driver
+Petri Net
+distributed object
+主引导记录
+Sniffer
+分布式拒绝服务
+盗版软件
+scientific visualization
+目标特征
+形式化分析
+security architecture
+TM图像
+high availability
+硬件配置
+迭代函数系统
+双通道
+pipeline
+异构系统
+弧焊机器人
+MIDP
+有向无环图
+力反馈
+模型驱动
+宏病毒
+active contour model
+extensible markup language
+运动控制器
+攻击者
+高速数据采集
+混合系统
+polygon
+数据复制
+参数整定
+模糊系统
+E-commerce
+时尚
+千兆位以太网
+源代码
+网络安全技术
+VSM
+软件设计
+大规模定制
+网络服务
+证券公司
+streaming media
+演化算法
+实时处理
+兼容性
+门户网站
+产品设计
+激光头
+fundamental matrix
+KNN
+教育软件
+异构数据源
+MAC protocol
+卫星网络
+线性调频信号
+role-based access control
+存取控制
+frequent itemsets
+系统设计
+情感计算
+双足机器人
+阈值选取
+消息处理
+IT服务
+移动应用
+源文件
+“开始”菜单
+可重构制造系统
+制造资源
+应用层
+无线传感网络
+应用软件
+NAT-PT
+机器人足球比赛
+Preprocessing
+ad hoc networks
+客户端软件
+空时自适应处理
+航空电子
+temporal database
+logic synthesis
+complex product
+机器翻译系统
+汉字信息
+基础自动化
+Grid Computing
+图象检索
+对象链接与嵌入
+面向方面
+性能管理
+Interrupt
+Web log mining
+error concealment
+列打印机
+微星
+商业自动化
+磁盘空间
+农业信息化建设
+situation assessment
+测试成绩
+multi agent
+U-Boot
+publish/subscribe
+集散控制
+particle system
+表单
+ARP欺骗
+爱立信
+纠错码
+数据关联
+Web GIS
+pole placement
+linear matrix inequalities
+传感器
+navigation
+加密技术
+信号检测
+制造执行系统
+多媒体应用
+traveling salesman problem
+传统媒体
+AJAX
+ASP技术
+不确定时滞系统
+多级安全
+privacy preserving
+文件结构
+离散广义系统
+套装软件
+LOTOS
+仪器驱动程序
+data streams
+腕力传感器
+多重签名
+Thresholding
+service grid
+会话初始协议
+说话人确认
+H~∞控制
+滞后系统
+逻辑模拟
+π演算
+Volume rendering
+Software reliability
+Segmentation
+软件项目
+Gabor滤波器
+quality function deployment
+Portal
+RSS
+satellite communication
+葡萄糖氧化酶
+smart card
+曲面重建
+word segmentation
+frequent pattern
+反走样
+排序算法
+反汇编
+hybrid systems
+Qt/Embedded
+clock synchronization
+NFS
+打印服务器
+Qt
+CUDA
+全国计算机等级考试
+transducer
+region growing
+FDDI
+anisotropic diffusion
+OLE DB
+软件开发
+Data acquisition
+数据集市
+初始化
+监控软件
+重新启动
+动态规划
+digital signal processor（DSP）
+虹膜识别
+角点检测
+vectorization
+Linux系统
+几何校正
+特征空间
+Visual Basic
+时间片
+Embedded Linux
+Attack
+shared memory
+engineering database
+WSNs
+切换到
+HP公司
+编队控制
+硬盘数据
+最佳分辨率
+会计核算系统
+T-S fuzzy systems
+program analysis
+工作站网络
+动态反馈
+时钟中断
+并行处理机
+Anomaly detection
+Visual simulation
+assembly modeling
+逻辑分区
+Motion Estimation
+动态语言
+电子政务平台
+镜头分割
+SGML
+可靠控制
+斑点噪声
+肤色模型
+无线应用协议
+软件需求
+LQR
+丢包
+大屏幕显示器
+model transformation
+Image retrieval
+声学研究所
+blind signature
+电子地图
+RBF神经网络
+串口
+图像采集
+多变量
+wavelet transformation
+CAN Bus
+induction motor
+麦克风
+软件技术
+宽带
+邮件
+数据字典
+多代理系统
+制造业信息化
+C++ Builder
+全局收敛性
+Internet
+误差补偿
+digital signal processor
+电子签名
+知识获取
+攻击
+安全服务
+电子战
+feedback linearization
+Serial Communication
+Hash function
+局域网
+Embedded
+科学计算可视化
+企业信息系统
+vector control
+geometric constraint solving
+Vector space model
+ECN
+Windows CE.NET
+BSP模型
+全屏幕
+反跟踪
+图象序列
+satisfiability
+路径表达式
+interconnected systems
+robust identification
+自动图文集
+系统文件夹
+包分类
+PCI Express
+Real-Time
+Real-time system
+目标盘
+容错计算机
+SCSI硬盘
+拟人机器人
+Complex network
+最大分辨率
+国产服务器
+微程序设计
+多功能卡
+Machine translation
+直方图
+进程间通信
+中国信息化
+TIN
+Multithread
+远程医疗
+进程调度
+Studio
+异构性
+视觉导航
+政府信息
+OODB
+realtime communication
+Pattern Classification
+高级体系结构（HLA）
+程序名
+Manifold Learning
+仿真方法学
+程序综合
+Multivariable systems
+Wavelet image coding
+Data Access
+GIOP
+数据布局
+Text Clustering
+可扩缩性
+内涵缩减
+乱序执行
+CSCW（Computer Supported Cooperative Work）
+汉化技术
+Workstation cluster
+NUMA
+指令级并行性
+动态对话框
+航空测控技术
+pC++
+Behavior modeling
+NTree
+溅镀
+特征点
+架构
+BP algorithm
+自治系统
+Hopfield网络
+video compression
+singular system
+音响系统
+DOS
+Synchronization
+鲁棒H∞控制
+hierarchical
+用户接口
+性能测试
+逆系统
+光纤陀螺
+IPTV
+内联网
+弹道导弹
+petri net
+信息过滤
+存储容量
+水平集
+无线技术
+蚂蚁算法
+computer network
+日志
+数据恢复
+群决策
+面向对象设计
+并发
+TM
+反求工程
+process model
+粗集
+最小二乘支持向量机
+image watermarking
+GDI
+parallel programming
+computer architecture
+WinPcap
+包装器
+流明
+design structure matrix
+二次稳定
+键值
+气敏性能
+DVD光盘
+Real-time simulation
+JMX
+multipath
+毫米波雷达
+真彩色
+力觉临场感
+自适应阈值
+实体造型
+模型预测控制
+MVC模式
+EXCEL
+显示内存
+控制系统计算机辅助设计
+HTML文档
+Uncertain systems
+network simulator
+geometric reasoning
+JPEG-LS
+银行业务系统
+MSDOS.SYS
+图象变形
+LKM
+映象文件
+网络传真
+主引导区
+technology mapping
+人体动画
+票据打印机
+加密程序
+Ic卡
+无标定
+architecture description language
+总体布线
+feedback stabilization
+Switched systems
+浏览器/服务器
+并行系统
+显示缓冲区
+垃圾邮件过滤
+过程仿真
+启动系统
+计算机联锁
+中性载体
+DirectDraw
+node localization
+手眼协调
+Knowledge Representation
+operational effectiveness
+Software Testing
+RTAI
+Markov random field
+flight test
+汇编程序
+术语工作
+服务网格
+网络游戏产业
+基于身份
+应用服务提供商
+农业信息网
+无线自组网
+CIPS
+软件总线
+爱普生
+Chinese character recognition
+带宽
+数据转换
+变频调速
+Sliding mode control
+快速切换
+施耐德电气
+自动化测试
+WiMAX
+Variable structure control
+批处理
+数据同步
+互联网时代
+植被指数
+全局优化
+管理信息库
+戴尔
+radar
+几何造型
+网络应用
+knowledge acquisition
+位置服务
+数据相关
+character segmentation
+家用电脑市场
+hypercube
+几何推理
+约束求解
+SETUP
+switched systems
+下拉列表
+活动轮廓
+多项式矩阵
+细化算法
+网络打印
+入门级
+assembly sequence planning
+程序语言
+TreeView
+Steiner tree
+解码芯片
+CSCL
+网页分类
+可生存性
+visual servoing
+sequential pattern
+Intelligent Agent
+real time system
+设计结构矩阵
+deadline
+家庭网关
+HPI
+state machine
+speech coding
+自动识别
+数字仿真
+认证
+C/S模式
+知识表达
+软件无线电
+摄像机标定
+信息检索
+编码器
+distributed control
+单色显示器
+屏保
+FoxPRO
+Robust filtering
+prolog
+Agricultural informationization
+RDRAM
+文件目录项
+蓝光盘
+data dissemination
+Camera Calibration
+DR算法
+软件类别
+Mobile Computing
+并行离散事件仿真
+Software Agent
+多个操作系统
+dynamic description logic
+Production scheduling
+communication optimization
+用户模板
+Buffer overflow
+Function optimization
+IC CAD
+多机器人协调
+NOAA AVHRR
+内存块
+银行综合业务系统
+自然语言接口
+Operational effectiveness
+NHibernate
+SQLJ
+智能建筑
+存储器
+三维图形
+投影机市场
+information filtering
+上海热线
+金山公司
+并行仿真
+线性离散系统
+resource reservation
+电子政府建设
+流量识别
+ASAR
+时钟频率
+开放网格服务体系结构
+AVI文件
+handoff
+安全组播
+Neuron芯片
+内存映射文件
+公共对象请求代理体系结构
+航迹融合
+mobile ad hoc networks
+Warp
+软硬件划分
+bounding box
+开放数据库互连
+Globus
+嵌入式数据库
+FSK
+Communication protocol
+信息化项目
+Web Server
+virtual prototyping
+副总裁
+天线阵
+motion detection
+便携机
+Query
+text mining
+协同仿真
+图像序列
+手机上网
+industrial computer
+workspace
+可移植性
+活动轮廓模型
+product configuration
+水下航行器
+程序代码
+OO
+国产手机
+作业调度
+displacement sensor
+network protocol
+电子市场
+客户服务中心
+DAO
+bus
+change detection
+规则库
+ORACLE数据库
+Class
+气敏传感器
+回收站
+SQL server
+IDC
+神经元件
+VSIA
+Winzip
+SELinux
+音效卡
+Software metrics
+寻道时间
+DCCS
+~+神经网络
+Range image
+VAX
+循环不变式
+user behavior analysis
+二级高速缓存
+校核、验证与确认
+DataGrid控件
+path expression
+类型检查
+sentence alignment
+传值进程
+“天地对接”
+银行自助设备
+Concurrency Control
+ESQL/C
+调制/解调器
+显卡技术
+System call
+结点数
+模糊逻辑系统
+变焦
+network architecture
+VR
+谓词
+语义网络
+链码
+国际电子商务
+战术导弹
+自动识别技术
+网络信息安全
+力传感器
+重用
+engineering drawing
+进化策略
+裁剪
+视频采集
+工作站
+数值计算
+神经元网络
+互联互通
+低功耗设计
+镜头边界检测
+鲁棒预测控制
+CCDOS
+SUSAN
+Stereo vision
+Iterative learning control
+Honeynet
+PUSH
+differentiated services
+InternetExplorer
+VLSI设计
+radar target recognition
+无线自组织网络
+智能化农业
+Web Mining
+队列调度
+formal model
+美格
+网际
+插入图片
+光盘
+control system
+Visio
+便携
+干扰抑制
+process modeling
+径向基函数网络
+Domino/Notes
+移动平台
+消费电子
+feature matching
+Contourlet变换
+LAI
+类库
+Single-chip computer
+text clustering
+temperature measurement
+边缘提取
+Visualization
+VisualBasic
+remote control
+microcomputer
+合作伙伴
+VC
+lossless compression
+故障模型
+有限状态自动机
+视频水印
+板卡
+data grid
+Distributed System
+DVB
+图象增强
+频繁模式树
+HART协议
+缩略图
+描述语言
+位图文件
+Image restoration
+字处理软件
+机载计算机
+数据库记录
+硬盘主引导扇区
+公共对象请求代理结构
+瘦客户机
+多普达
+移动自组织网络
+隐写术
+变结构系统
+混合像元
+数据库系统
+脚本语言
+超级链接
+CNC
+hybrid system
+电子商务系统
+PACS
+shortest path
+禁忌搜索
+system design
+涡街流量计
+构件技术
+T-S model
+BSP
+线性预测
+Supply chain
+process control
+概念设计
+角色
+LINUX
+超链接
+嵌入式实时操作系统
+SQL语言
+Decoupling
+鲁棒控制器
+anonymity
+OLEDB
+field programmable gate array（FPGA）
+iris recognition
+多信道
+工厂自动化
+加权矩阵
+客户服务系统
+多传感器融合
+TTS
+网络机器人
+inductive learning
+BitTorrent
+Foxpr
+离散事件仿真
+motion vector
+无线Mesh网络
+HITS
+分形图像编码
+计算机辅助工艺规划
+dead reckoning
+路由优化
+Device driver
+随机早期检测
+钩子函数
+NOVELL
+CDN
+Nonlinear control
+输出接口
+discrete event dynamic system
+JADE
+工业自动化仪表
+面向对象语言
+安装盘
+形变模型
+视频解码
+面向对象程序设计
+独立分量分析
+信息提取
+数据预处理
+版本
+清屏
+命令行参数
+二级分行
+证券电子商务
+多指手
+个人机器人
+closed-loop stability
+微软拼音
+可靠组播
+sign language recognition
+WebSphere
+桌面操作系统
+建模误差
+实达集团
+显示器厂
+虚拟光盘
+consistency checking
+弹道仿真
+manufacturing grid
+traffic identification
+test case generation
+删除程序
+计算机免疫
+函数逼近
+A/D
+supply chain
+页面
+servo system
+直接转矩控制
+PDU
+电子商务企业
+电子病历
+预测函数控制
+expert control
+各向异性扩散
+信息安全管理
+分散控制系统
+数据立方体
+参数传递
+human-computer interaction
+Lyapunov function
+使用者
+多变量控制
+分布式存储
+气敏材料
+不完备信息系统
+联机事务处理
+Solaris
+相位噪声
+汉字输入方法
+敏感膜
+数据广播
+盲均衡
+计算机研究
+电子商务时代
+剪枝
+压力传感器
+多窗口
+服务选择
+BIOS设置
+项目调度
+Compiler
+共享存储器
+位置管理
+动态贝叶斯网络
+speaker verification
+ROLAP
+Distributed database
+关系数据库系统
+线性定常系统
+中文软件
+适配卡
+政府信息资源
+基于内容的视频检索
+信息熵
+B/S结构
+knowledge base
+case-based reasoning
+远程教学
+形式化
+复用
+support vector machine（SVM）
+Reliability
+多媒体光盘
+分词
+显示技术
+Google
+关键路径
+Rough sets
+premature convergence
+指令系统
+下拉式菜单
+热插拔
+网络软件
+System simulation
+frequent itemset
+服务供应商
+异步串行通信
+三维地形
+自适应逆控制
+硬件实现
+自抗扰控制器
+集成开发环境
+静音
+全球定位系统
+串口通讯
+系统安全
+VB.NET
+数据采集与处理
+formal concept analysis
+immune network
+Kodak
+安装系统
+会话密钥
+差错掩盖
+LNS
+高速缓冲存储器
+汉语分词
+二自由度控制
+nonlinear predictive control
+可满足性
+引导记录
+群组通信
+最大频繁项集
+自主移动机器人
+潜在语义索引
+Load Balance
+基层央行
+degree reduction
+传输率
+闪盘
+TCP-friendly
+故障字典
+facial animation
+五味瓶
+媒体接入控制
+国家信息化
+distributed database
+微型机器人
+颜色空间
+PIC单片机
+BP网络
+智能计算
+Domino
+机器人足球
+software quality
+华为
+企业上网
+数码
+数控
+商业信息化
+对象Web
+笔式用户界面
+通信优化
+description logics
+备份软件
+逻辑日志
+动态描述逻辑
+Evolutionary Algorithm
+Distributed application
+故障恢复控制台
+输入排队
+运动编辑
+率失真优化
+BLP model
+TCP friendly
+Buffer management
+BAN logic
+测试产生
+Tcl/Tk
+电站仿真
+Digital agriculture
+telerobot
+Mesh simplification
+插槽
+小应用程序
+ATPG
+Peer-to-peer
+JDK
+XYZ/E
+文件拷贝
+北大方正
+计算机网络安全
+存贮器
+等价类
+三层体系结构
+ATL
+image classification
+客户关系管理
+Computer network
+安全威胁
+T-S模型
+数据库访问
+背包问题
+领域本体
+应用平台
+配置管理
+综合业务
+PMAC
+协调控制
+single chip microcomputer
+单板机
+图形显示
+全文检索
+NURBS
+离散化
+端口
+网络与信息安全
+雷达网
+NOVELL网
+波达方向
+表情识别
+光线投射
+粒度计算
+threshold scheme
+实时多任务
+Bresenham算法
+natural language understanding
+网格安全
+层次聚类
+自动驾驶仪
+多维数据模型
+Support Vector Machine（SVM）
+adaptive threshold
+原型系统
+SET协议
+MCI
+channel estimation
+高性能
+OpenCV
+有色Petri网
+多路径
+Multi-Agent System
+recommendation system
+差分进化
+时滞依赖
+triangular mesh
+stochastic system
+MPP
+电梯群控系统
+服务器集群
+黑板模型
+industrial robot
+汉字信息处理
+防空作战
+mobile database
+Snake模型
+电脑硬盘
+数字滤波
+移动终端
+安全模式
+linear system
+相似度计算
+差别矩阵
+成员函数
+读写速度
+形状匹配
+区域填充
+通配符
+高光谱图像
+字根
+计算环境
+微程序
+遗留系统
+引导扇区
+细粒度
+调制识别
+可编程
+multi-thread
+网页制作
+故障定位
+惠普公司
+读写器
+workflow engine
+程序分析
+Classifier
+合同网
+汉字点阵
+思科
+session
+分布对象计算
+串行生产线
+交叉开关
+gesture recognition
+instrument driver
+软件封面
+progressive mesh
+功能调用
+decentralized stabilization
+可记录光盘
+Integrated navigation
+Security policy
+半导体生产线
+块匹配算法
+康柏公司
+比例导引
+选择性粘贴
+高级体系结构
+属性选择
+Security protocol
+gait planning
+按需路由
+报表生成器
+JDO
+可视角
+激励学习
+CSMA
+Security mechanism
+服务器技术
+mobility management
+data flow analysis
+数据分发管理
+直接写屏
+分布式对象计算
+硬件描述语言
+智能大厦
+simulated annealing algorithm
+manipulator
+用户对象
+gene expression programming
+多视图
+version management
+intrusion tolerance
+地址解析协议
+HTML语言
+向量化
+Flex
+准入控制
+虚拟光驱
+quadratic stability
+WAPI
+网络解决方案
+旁瓣抑制
+user profile
+网上邻居
+Delta算子
+纹理
+simulation system
+histogram
+迭代
+文档窗口
+Fractal image coding
+Text categorization
+阵列机
+XML查询
+EGA/VGA
+图形加速芯片
+中间代理业务
+Real-time communication
+自解压文件
+面向对象系统
+内核处理器
+TrueFFS
+大规模并行处理机
+系统分析员
+checkpointing
+家用PC
+宽带雷达
+报文分类
+NetEye
+Distributed Object
+内存卡
+多媒体PC
+高性能路由器
+绘图工具栏
+免费主页
+货票
+Path Planning
+Pattern Matching
+集群
+MODBUS
+ACL
+differential evolution
+交叉算子
+实时时钟
+SRAM
+演示文稿
+learning control
+可视化仿真
+Data model
+triangle mesh
+基于角色访问控制
+基于内容检索
+porting
+database security
+real-time database
+存储空间
+Modbus协议
+character recognition
+单总线
+光线跟踪
+电化学传感器
+持卡人
+互连
+CSP
+calibration
+触摸屏
+GA
+中关村
+复杂网络
+高精度
+machine learning.
+系统仿真学科
+视频缓冲区
+指针逻辑
+目标文件名
+Service composition
+Training simulation
+能力风暴
+AGP显卡
+机器人研讨会
+统计与科学数据库
+调度成功率
+高点阵汉字
+剑桥环
+领域建模
+FreeSWAN
+pointer logic
+Unsupervised Learning
+智能写作环境
+桥接成员
+异步消息
+Semi-structured data
+SEDRIS
+Logitech
+内部谓词
+局部代理
+CORBA/Web
+单系统映象
+NOMAD
+离群挖掘
+飞行仿真器
+STD-BUS
+批处理命令
+特技显示
+光流
+嵌入式技术
+电子银行业务
+远程方法调用
+安全联盟
+parallelization
+multi-core
+nonlinear system identification
+IIOP
+formal semantics
+FoxBASE~+
+直线提取
+打印机接口
+分布式计算机系统
+控件数组
+视频数据库
+免疫网络
+legacy system
+制造网格
+Decentralized control
+网格工作流
+路由查找
+TCP protocol
+演化硬件
+road extraction
+reconfigurable manufacturing system
+线程技术
+Digital Earth
+上网
+中国市场
+CAM
+parametric design
+immune algorithm
+HIS
+形状特征
+电容式传感器
+网易
+大批量定制
+公钥密码
+bluetooth
+库文件
+绘图机
+变型设计
+行为建模
+共享打印机
+H ∞  control
+随机大系统
+Z语言
+路由安全
+实达网络
+尺寸约束
+OpenGVS
+Web data mining
+基本内存
+可调度性分析
+JUnit
+magnetoresistive sensor
+液品显示器
+应用程序框架
+隐蔽通道
+推理系统
+MapReduce
+consistency maintenance
+类型库
+并行I/O
+分散鲁棒控制
+特征降维
+类型系统
+自动定理证明
+mode decision
+软件过程模型
+动作识别
+Delay-dependent
+移动PC
+secure operating system
+BP neural network
+Image understanding
+离散事件系统仿真
+数组元素
+Qualitative reasoning
+菜单生成器
+驱动器号
+DEBUG程序
+逻辑调色板
+模糊树模型
+HyperTransport
+目录名
+Mission planning
+Reliable control
+natural language interface
+Particle Swarm Optimization （PSO）
+PCX格式
+OCCAM语言
+Communication model
+Multi-target tracking
+代数规范
+纹理图象
+点阵字模
+硬件市场
+IA架构
+电流式
+句子对齐
+cluster file system
+collective communication
+Mobile ad hoc networks
+Local networks
+Frequent itemset
+CONFIG．SYS文件
+Computer architecture
+Neural
+优化内存
+rank distance code
+computer control
+断点续传
+单向函数
+task allocation
+Load balance
+Certificate
+image understanding
+国家信息安全
+IPsec
+网络安全产品
+mobile robots
+集成学习
+BLOB
+真实感图形
+计算机电话集成
+特征识别
+data structure
+粒子群
+灰度共生矩阵
+virtual instruments
+纹理特征
+镇定
+ERP系统
+查准率
+规则引擎
+软总线
+高对比度
+Alpha
+工作簿
+Token
+CANopen
+尺度空间
+B-spline curve
+航迹规划
+动态库
+SPOT
+CAR
+SIFT
+联邦成员
+动态重构
+数据绑定
+video transmission
+流量分析
+认知无线电
+阴影检测
+GDI+
+媒体中心
+数据丢失
+Operating system
+Windows平台
+associative memory
+super-resolution
+Geographic information system
+compiler
+计算复杂性
+蚁群优化
+微波遥感
+故障管理
+网上书店
+concurrent design
+搜索
+开发平台
+反馈控制
+automatic control
+人脸跟踪
+分布式网络管理
+软件汉化
+UPnP
+Video compression
+联机手写汉字识别
+访问服务器
+鼠标指针
+tactile sensor
+应用共享
+Fuzzy集
+前向纠错
+指控系统
+Elliptic curve
+数据挖掘工具
+Evidence theory
+anti-ship missile
+Linux平台
+WordNet
+商业用户
+手写识别
+消息映射
+Web log
+Wireless Sensor Networks
+最优调节器
+Workflow management system
+三维重建
+network communication
+图像拼接
+Management Information System
+Wavelet
+中间件技术
+自整定
+K-means
+数据完整性
+定位算法
+高性能计算机
+DDS
+decision support system
+接口技术
+工商银行
+fuzzy logic system
+多媒体同步
+基准测试
+Rough Sets
+negative selection
+memory management
+空间决策支持系统
+扰动分析
+基于实例的推理
+Netware
+IDE
+自适应观测器
+数据线
+上下文感知
+honeypot
+粒子滤波器
+我国银行业
+meta-model
+求交
+gas sensors
+Windows编程
+电脑音乐
+data filtering
+Adhoc网络
+多平台
+Graphics
+Riccati方程
+independent component analysis
+web services
+产品族
+Delaunay三角网
+互联网产业
+Hausdorff distance
+speech synthesis
+capacitive sensor
+reusability
+需求工程
+XML文档
+外部设备
+data association
+打印功能
+Parallel computing
+中国银行业
+光盘技术
+augmented reality
+Interface
+DHCP
+Inverter
+防病毒
+模糊聚类
+Genetic algorithms
+architecture
+Artificial intelligence
+仿真软件
+窗体
+web service
+图像质量
+机器人
+可用性
+通用串行总线
+Browser/Server
+tracking
+fuzzy inference
+multithreading
+real-time control
+手机支付
+逆合成孔径雷达
+Efficiency evaluation
+flight simulator
+密码保护
+运行频率
+电子商务安全
+多跳
+不确定非线性系统
+Polygon
+监督学习
+active database
+robust adaptive control
+鲁棒滤波
+路由技术
+电视会议系统
+高速以太网
+JAAS
+规则匹配
+热键
+DAI
+再励学习
+人机接口
+信息化
+政府上网
+代价函数
+IP core
+automatic testing
+传统相机
+Creator
+speedup
+压缩工具
+Image Matching
+系统菜单
+Radar altimeter
+游戏控制器
+能耗均衡
+特殊显示功能
+卫星音
+Android
+寄存器堆
+阈下信道
+Web应用服务器
+重路由
+continuous media
+DWR
+特征编辑
+中心服务器
+定性空间推理
+GL Studio
+WinAC
+Mobile Robot
+归纳逻辑程序设计
+Desktop
+恒虚警检测器
+覆盖控制
+FreeHand
+任务复制
+网卡驱动程序
+可信网络连接
+TCP Vegas
+无死锁
+自由飞行空间机器人
+调试器
+Query optimization
+data parallel
+篡改检测
+support vector machines
+人民银行
+Hopfield神经网络
+Interpolation
+屏幕显示
+微电子机械系统
+constrained optimization
+security policy
+Software engineering
+开发系统
+信息服务业
+鲁棒
+approximation
+自适应模糊控制
+无刷直流电机
+远程访问
+particle swarm optimization algorithm
+工作表
+互联网络
+Intelligent control
+DCT变换
+硬件结构
+adaptive fuzzy control
+电子对抗
+函数依赖
+dynamic link library
+MRPⅡ
+整体解决方案
+能量均衡
+清算系统
+OBDD
+caching
+数据库中间件
+散热风扇
+邮件病毒
+scalable
+Use Case
+文档处理
+HP VEE
+协议验证
+扩张矩阵
+无线鼠标
+传感器应用
+艺术字
+星载合成孔径雷达
+service selection
+网络制造
+鲁棒辨识
+DBSCAN
+自适应阵
+手机银行
+anycast
+NoC
+JSP/Servlet
+驱动软件
+标准键盘
+disturbance decoupling
+EZ-USB
+document clustering
+变异算子
+信息系统安全
+网络连接
+先进控制
+Message
+digital certificate
+新算法
+I/O
+方向图
+微机械
+fuzzy clustering
+木马
+伺服控制
+inverted pendulum
+数据抽取
+CTI
+gyroscope
+语音增强
+control network
+VHDL语言
+公钥
+图像
+Discrete logarithm
+入侵防御系统
+遥感分类
+LSR
+多通道用户界面
+欠驱动
+目标机
+Web Application
+CGI程序
+formal specification
+语料
+CLDC
+automaton
+application service provider
+Data stream
+力控
+网络诱导时延
+Aglet
+design for testability
+音乐格式
+形式方法
+光盘机
+数据隐藏
+双基地雷达
+访问列表
+中文操作系统
+distributed control system（DCS）
+零水印
+交换文件
+决策规则
+segmentation
+匿名性
+电信网
+用户模型
+模糊建模
+Support vector machines
+Struts框架
+FORTRAN语言
+信号量
+DGPS
+冲突消解
+电荷耦合器件
+分布式环境
+domain knowledge
+public key infrastructure
+属性重要性
+Hidden Markov Model
+高维数据
+HTTP协议
+思科公司
+测向
+AT命令
+木马病毒
+granular computing
+图像理解
+计算机产业
+wireless sensor network（WSN）
+计算机科学
+blind equalization
+代码生成
+用户程序
+DOA estimation
+数据库加密
+网上商店
+查全率
+新特性
+帮助文件
+VFW
+MUSIC
+蓝牙耳机
+产品经理
+动态数组
+飞行模拟器
+中断处理
+World Wide Web
+nonlinearity
+信息化工作
+real time
+数字版权管理
+文件转换
+key agreement
+hyperspectral
+用户行为
+低音
+局部特征
+信息网络安全
+反辐射导弹
+模型驱动架构
+Virtual prototype
+智能搜索
+ECA规则
+苹果公司
+线性复杂度
+语义检索
+特征点匹配
+制造系统
+排队论
+性能评价
+银行系统
+电子邮件服务器
+可扩展标识语言
+业务需求
+Lyapunov stability
+distributed systems
+Wi-Fi
+Javascript
+semantic analysis
+图像插值
+Hash
+企业应用
+term
+复杂可编程逻辑器件
+电脑技术
+C language
+测控技术
+恒压供水
+模糊熵
+粗集理论
+business process
+state observer
+machine vision
+人工免疫
+误差分析
+communication
+协同工作
+个性化服务
+扬声器
+迭代算法
+直线检测
+编辑点
+ESB
+软件安全
+PowerPC
+数据分发
+公式编辑器
+主动轮廓模型
+SIP协议
+RANSAC
+地址转换
+Information Integration
+petri nets
+QPSK
+并行机
+USB设备
+TDOA
+硬件加速
+LMI approach
+MIPS
+数码摄像
+JNI
+跨层
+SaaS
+JMF
+密码算法
+并行口
+互联网发展
+analog circuit
+词库
+管理信息系统（MIS）
+矢量图形
+并行遗传算法
+Email
+计算机辅助几何设计
+网络适配器
+脉冲耦合神经网络
+全球电子商务
+颜色直方图
+图形界面
+计算机辅助工艺设计
+转台
+particle swarm optimization（PSO）
+语法分析
+AVR
+管理解决方案
+Simulator
+多传感器信息融合
+单片机应用
+微处理机
+MTS
+E-government
+Voronoi图
+模糊PID控制
+Pipeline
+不变矩
+滤波器
+电液伺服系统
+unified modeling language
+soccer robot
+simulation platform
+服务提供商
+监控程序
+test system
+Genetic Algorithms
+系统配置
+四元数
+C++语言
+知识约简
+显示屏
+dynamic programming
+数据存储
+并行调试
+structural join
+显示窗口
+认证性
+parallel compiling
+银行信息化建设
+connected dominating set
+上下文无关语言
+显示字库
+realistic rendering
+VEGA
+Video segmentation
+WFQ
+type system
+replacement algorithm
+流机制
+重写系统
+Network processor
+印刷体汉字识别
+cache coherence
+Federate
+Trust management
+TURN
+QoS Routing
+口令字
+Hoare逻辑
+解压缩软件
+金融信息安全
+Agriculture information
+DCT系数
+qualitative spatial reasoning
+keyword search
+Web QoS
+软件体系结构风格
+移动梦网
+计算机信息系统集成
+电子邮件服务
+测试性设计
+distributed parameter system
+背景图片
+Multivariable system
+Trojan horse
+多分类器组合
+文件操作
+自适应处理
+Object model
+个人防火墙
+层次细节模型
+differentiated service
+数据包捕获
+文件型病毒
+时延约束
+格语法
+移动Ad hoc网络
+读出电路
+回车键
+EPSON公司
+Lossless compression
+Petri网模型
+运动分割
+spatial reasoning
+incomplete information system
+SoPC
+显示分辨率
+移动Ad Hoc网络
+动态逆
+Hash table
+离散时滞系统
+Computer animation
+微机械陀螺仪
+VMM
+移动预测
+Montgomery算法
+聊天软件
+主页空间
+可达树
+光突发交换
+NP-complete
+wormhole routing
+页面描述语言
+并行度
+Optical flow
+同步模型
+政务信息资源
+UMTS
+装配特征
+Web集群
+分布仿真
+图片框
+灾难备份系统
+攻击图
+主存
+IntServ
+代理服务器软件
+mandatory access control
+XScale
+空格键
+component composition
+SSM/I
+产品模型数据交换标准
+Distributed systems
+动态页面
+计算机安全管理
+FoxPro数据库
+VLSI design
+分布式多媒体系统
+Software process
+彩色屏幕
+图匹配
+性能优化
+个人计算机
+知识库
+security
+linearization
+知识工程
+并行
+推出
+混沌系统
+新版本
+spacecraft
+产生式
+security model
+TM影像
+误差模型
+MOSFET
+数据迁移
+clustering analysis
+公平性
+汇编语言程序
+fractal image coding
+音乐播放
+微型打印机
+解析器
+散列函数
+IPSEC
+平台软件
+用户兴趣模型
+WSRF
+pole-placement
+Traffic engineering
+仿真语言
+移动模型
+dynamic reconfiguration
+MSCOMM
+output tracking
+芯片设计
+energy efficient
+Data Integration
+联想记忆
+防火墙技术
+拓扑关系
+并行设计
+color image
+Artificial Intelligence
+存储技术
+专用集成电路
+电子邮件地址
+电路设计
+单片机系统
+Bayesian network
+脚本
+湿度传感器
+virtual prototype
+物流配送
+远程通信
+计费系统
+image reconstruction
+关系模式
+模糊PID
+播放
+适应度函数
+象素
+绑定
+漏洞扫描
+Authorization
+密码体制
+Multi-objective optimization
+PC总线
+语义相似度
+Snake
+骨干网
+服务程序
+闪速存储器
+TCP／IP协议
+EXPRESS
+radial basis function network
+非线性动态系统
+临场感
+图象重建
+安全域
+图像识别
+传递函数
+信息系统
+distributed processing
+Linux内核
+cryptanalysis
+中国剩余定理
+图像格式
+数据项
+哈希表
+仿真机
+shadow detection
+configuration management
+业务处理
+TCP/IP协议栈
+威胁评估
+eigenstructure assignment
+并行通讯
+传播模型
+可维护性
+智能组卷
+动态配置
+基因表达式编程
+use case
+指纹图像
+peer to peer
+软件园
+科学可视化
+嵌入式Web服务器
+JavaApplet
+流密码
+RCS
+软件框架
+domain ontology
+半导体
+数据库设计
+坐标变换
+fractal
+Web浏览器
+安全审计
+硬件平台
+电脑病毒
+信息科技
+主元分析
+PB
+仿真建模
+H∞ control
+链表
+爬壁机器人
+计算网格
+顺序控制
+光顺
+编程技术
+联想
+系统结构
+服务商
+随动系统
+数据仓库技术
+账号
+BMP
+information gain
+证据推理
+字符集
+权限控制
+公钥密码体制
+贪心算法
+传真机
+引导程序
+网络安全问题
+evolutionary strategy
+LwIP
+dimensionality reduction
+视觉跟踪
+指挥自动化系统
+主动测量
+敏感材料
+cooperative design
+工业PC
+交换结构
+文语转换
+数字农业
+curve design
+数据存取
+信息主管
+语音识别系统
+机器鱼
+功能验证
+WINCC
+Campus network
+统一身份认证
+数字媒体
+Relational database
+启发式规则
+惯性导航
+Information system
+trust
+实现方法
+electronic commerce
+singular value decomposition
+超大规模集成电路
+构件
+user interface
+格式转换
+DELPHI
+TCP/IP protocol
+智能仪器
+虚拟制造
+导航系统
+最小生成树
+软件平台
+小波分解
+模型库
+文件传送
+引导型病毒
+内存优化
+市场参考价
+圆检测
+Formalization
+scheduling algorithms
+互联网市场
+复杂工业过程
+Fault-tolerance
+自主机器人
+IPSec VPN
+双机系统
+Julia set
+分布式虚拟现实
+active learning
+BRDF
+存储网络
+NETWARE
+parallel test
+分布式入侵检测
+数据库模式
+scalar multiplication
+quality of service（QoS）
+multi thread
+cluster computing
+键盘接口
+Generalized predictive control
+关系数据库管理系统
+region of interest
+一阶逻辑
+银行电子化
+安全通信
+机器人发展
+大时滞
+黑客程序
+Internet／Intranet
+R树
+EDI
+推理
+地图数据
+冗余度机器人
+Machine Translation
+Mumford-Shah model
+TUXEDO
+实体化视图
+最大频繁项目集
+字符切分
+Contourlet
+BITBUS
+modern time series analysis method
+分布式信息系统
+结构程序设计
+clutter suppression
+EPIC
+shape modification
+选播
+汉字部件
+硬盘使用
+高性能服务器
+任务切换
+大型主机
+窗口系统
+信息安全策略
+direction-of-arrival estimation
+文档聚类
+aspect-oriented programming
+模糊动态模型
+High Level Architecture
+query language
+分页显示
+基于模型的诊断
+点模式匹配
+无线应用
+支付业务
+并行文件系统
+PIM-SM
+可擦写光盘
+对称密钥
+中文网址
+maximum entropy model
+无线键盘
+双端口存储器
+资源搜索
+信任链
+字符发生器
+置信界限
+动画文件
+音形码
+图像分类
+traffic control
+图象识别
+search engine
+spatial data
+IC card
+可编程逻辑控制器
+BOM
+无线
+小波图象编码
+Message Queue
+虚拟计算环境
+Scalable
+Tivoli
+图象工程
+系统依赖图
+Bandwidth allocation
+CD-R/RW
+智能回溯
+抽象解释
+X-Window
+汇编语言子程序
+standard for the exchange of product model data
+Event driven
+STREAMS
+JATLite
+终端打印机
+PentiumⅡ
+图文输出机
+客票发售
+光盘镜像
+空值环境
+distance field
+FoxBASE数据库
+Distributed artificial intelligence
+起始簇
+composite event
+motion editing
+Description logic
+MDBS
+约束数据库
+汉字放大
+pen-based user interface
+covering algorithm
+自动化科学与技术
+片上多处理器
+数据集中工程
+电话银行系统
+Active queue management
+DOS引导扇区
+冗余服务
+dependency grammar
+Query Optimization
+上内存
+电站仿真机
+Object Tracking
+Web cluster
+《超级解霸》
+Discrete event dynamic systems
+函数式程序设计
+Content based retrieval
+汉语句法分析
+AI planning
+Active database
+桥接芯片
+空车调整
+通信失效
+WS-BPEL
+立体菜单
+信息战
+remote monitoring
+model predictive control
+k-means
+production planning
+能力成熟度模型
+VOIP
+离散事件
+Blog
+版本控制
+计算机网
+纯滞后
+在线检测
+辨识
+LVS
+Decision Tree
+CD－ROM
+multiple model
+谱聚类
+遥感图像分类
+地址空间
+绝对稳定
+多变量控制系统
+Boolean function
+描述符
+computer supported cooperative work
+time delay system
+OMT
+蚁群系统
+应用解决方案
+共享文件夹
+Flow control
+板形控制
+密钥托管
+嵌入式设备
+超文本传输协议
+network-induced delay
+DBF文件
+竞争学习
+LMI方法
+AVHRR
+安全路由
+formation control
+LBS
+常用软件
+IMM
+数据控件
+视频格式
+朴素贝叶斯
+fairness
+wavelet analysis
+computer aided design
+计算机专业
+金山汉字系统
+DNSSEC
+增强式学习
+半监督聚类
+最长前缀匹配
+菜单系统
+元组空间
+CBSD
+POMDP
+图象融合
+Relation Database
+资金清算
+系统工具
+Internetware
+discrete event dynamic systems
+程序生成
+ISAKMP
+失效检测
+子句集
+远程调试
+参照完整性
+状态栏
+纯平显像管
+数码音乐
+Olympus
+同时定位与地图创建
+register file
+被管对象
+中文环境
+酒店管理系统
+Active contour
+逻辑环
+总体拥有成本
+帮助信息
+对象存储
+VIDEO
+ERP厂商
+SMTP服务器
+CeBIT
+uncertain linear systems
+Multiprocessor
+软部件
+动态HTML
+position sensitive detector（PSD）
+机器人机构
+文档模板
+wireless mesh networks
+代码生成器
+geometric attack
+鼠标光标
+polychromatic sets
+人工情感
+ALU
+constrained motion
+三角Bézier曲面
+DOS版本
+协同验证
+fixed modes
+Elliptic curve cryptosystem
+Heterogeneous Database
+UDP/IP
+Software Quality
+互联网
+命令
+synchronization
+图形数据库
+语句
+similarity measure
+雷达散射截面
+企业网络
+kernel
+遥感监测
+Client
+MAC地址
+面向服务
+Rough逻辑
+config uration software
+Process migration
+区间分割
+TOOLBOOK
+全局压缩
+Scheduler
+形式规约
+Image engineering
+scheduling success ratio
+FROA
+对话框模板
+Distributed programming
+Memory Management
+磁道接缝
+Time lag theory
+中国办公自动化
+门限控制
+人工智能。
+双通道内存技术
+parallel compiler
+并行编译器
+GeoAgent
+CSFQ
+Chinese Character Recognition
+部门级
+pointer analysis
+VLIW体系结构
+Intelligent Vehicle
+协商交换
+VXI plug&play
+CMOS信息
+Turbo PROLOG
+《计算机工程与应用》
+霍尼威尔计算机
+ModBus协议
+Fitness Function
+即时编译器
+Data Integrity
+Parallel debugging
+正向映射
+Decision making method
+Word表格
+parallelizing compiler
+Handwritten Chinese Character Recognition
+Heterogeneous computing
+数组私有化
+逆编译
+SMON
+图象拼合
+partial parsing
+机器翻译评测
+PVFS
+Dynamic routing
+面向目标程序设计
+O-O technology
+内存市场
+菜单
+视频服务器
+空间数据挖掘
+宽带接入
+短消息
+Sensor
+reputation
+曲面造型
+connectivity
+快速傅里叶变换
+Bayesian networks
+服务管理
+ArcObjects
+image scrambling
+并行程序
+矢量汉字
+resource scheduling
+low-power
+双机热备份
+network performance
+image interpolation
+多传感器数据融合
+multi-Agent
+Field Bus
+Dynamic programming
+并联机构
+industrial Ethernet
+Smart
+Extranet
+查找表
+智能教学系统
+WinDriver
+分布式防火墙
+点扩展函数
+LVDS
+曲线设计
+PL/SQL
+金融企业
+子菜单
+过程改进
+image mosaic
+Computer Network
+加速度传感器
+authorization
+transaction
+网络经济
+授权
+Support vector machine
+RS
+ESP
+自适应算法
+扩展卡尔曼滤波
+演化计算
+控制系统设计
+主板市场
+OLE自动化
+模块化设计
+磁带库
+基于实例推理
+多媒体定时器
+radar cross section
+high performance computing
+用户群
+数据业务
+爱普生公司
+政府上网工程
+image smoothing
+网络实名
+NOVELL网络
+矩阵不等式
+着色Petri网
+CORBA技术
+高级加密标准
+time-varying delay
+Data Structure
+线性代数方程组
+multidisciplinary design optimization
+network storage
+领域知识
+多准则决策
+Kingview
+Simulated annealing
+dBASEⅢ
+视频处理
+控制器设计
+conflict resolution
+可视化建模
+aeroengine
+分形编码
+LSP
+企业集成
+outlier detection
+浮点运算
+虚拟专用网络
+装配建模
+数据窗口对象
+Survivability
+CPCI
+moving target
+刀片式服务器
+守护进程
+Hypertext
+文档类型定义
+R-tree
+Messenger
+垃圾文件
+Spam
+software bus
+LDP
+一维距离像
+AES算法
+Neuron chip
+Steiner树
+电子支付系统
+最优控制问题
+姿态估计
+并行结构
+合成孔径雷达（SAR）
+异构网络
+复杂对象
+信息处理
+多操作系统
+攻击检测
+有穷自动机
+发汗冷却
+图片浏览
+作战效能评估
+本体学习
+汽车导航
+Personal
+无线传感网
+business process modeling
+家乡代理
+AUTOEXEC.BAT
+collaborative simulation
+重码
+EBCOT
+Tomcat
+Computer Control
+过程定义
+几何压缩
+radar imaging
+形式语义
+模糊C均值算法
+协议测试
+虚拟桌面
+继电反馈
+宽带用户
+训练仿真器
+小程序
+分组调度
+程序清单
+扫描码
+ECA rule
+评测报告
+打印机耗材
+Pocket
+仿真终端
+weighting matrix
+中断方式
+Web服务发现
+Hilbert曲线
+文件属性
+结点
+filter
+生存性
+质量功能配置
+多媒体信息
+搜索策略
+区间矩阵
+铂电阻
+无线互联网
+端到端
+核心交换机
+数据对象
+智能车辆
+主机系统
+traffic model
+通信模型
+索引表
+匹配滤波器
+点目标
+报表打印
+feature point
+应用代理
+时序电路
+中国金融业
+面向对象模型
+IAP
+彩显
+非线性观测器
+旋转变压器
+磁盘文件
+epipolar geometry
+applet
+State feedback
+multi-Agent system
+PID Control
+adaptive filter
+文件格式
+多媒体数据库
+系统性能
+fuzzy reasoning
+打开
+编辑软件
+科学计算
+超宽带
+搜索算法
+敏感元件
+数字滤波器
+Framework
+D-S证据理论
+指针
+图像重建
+计算技术
+分类规则
+ANFIS
+Hausdorff距离
+采样周期
+实时数据
+参数不确定性
+discrete cosine transform
+Fuzzy logic
+IP网络
+Ballistic missile
+Collision detection
+mobility model
+Decision Table
+分布式程序设计
+MPICH
+可满足性问题
+系统注册表
+名字服务器
+缓冲区溢出攻击
+PC平台
+商务软件
+Self-tuning control
+内容分发网络
+Cruise missile
+多协议
+COMD
+邮件程序
+self tuning control
+编辑文档
+Network simulation
+特征点跟踪
+Bloom Filter
+动态负载均衡
+容错机制
+规则生成
+Petri
+Multimedia communication
+模型驱动体系结构
+UIMS
+缺省逻辑
+avionics
+开始菜单
+普及计算
+移动计算技术
+替换策略
+Vector Quantization
+QoS（Quality of Service）
+cross-layer
+动态模糊逻辑
+universal approximation
+Precision agriculture
+动态避障
+H_∞范数
+Synthetic aperture radar（SAR）
+mass-spring model
+e-Business
+objectoriented
+硬盘启动
+序列模式挖掘
+增量式算法
+异步电路
+仿真网格
+网络应用程序
+TCAM
+Computer Virus
+递进网格
+图象数据
+数据库字段
+大系统
+亮度
+打印
+发布
+微型计算机
+数据管理
+微机控制
+Fuzzy neural network
+Riccati equation
+移动通信
+artificial neural network
+直接序列扩频
+内网
+大型数据库
+中文搜索引擎
+非线性误差
+机群
+模式分类
+航空发动机
+网格技术
+video
+Lyapunov函数
+硬件设计
+测控
+混沌同步
+incremental algorithm
+WCF
+散乱点
+HTML文件
+nonlinear control systems
+企业级应用
+防空兵
+CORDIC算法
+关联系统
+task schedule
+未知环境
+汉化软件
+离散对数问题
+对称加密
+schema matching
+BLP模型
+事件服务
+排版软件
+多普勒频率
+disturbance rejection
+Easy
+video object
+摄像机自标定
+网络管理软件
+Spacecraft
+反潜战
+multiprocessor system
+传感器融合
+运动参数估计
+硬件中断
+库函数
+subdivision surface
+Firmware
+synthetic aperture radar(SAR)
+多数据库
+术语辨析
+图像认证
+火旋风
+modal logic
+对象类
+network interface
+elliptic curve cryptosystem
+FreeBSD
+reliable control
+prototype system
+Hammerstein模型
+记录集
+分布式入侵检测系统
+Boosting
+电子银行
+收件箱
+内存分配
+无线互联
+MQ
+chemical sensor
+CICS
+地形匹配
+可编程片上系统
+性能评测
+磁道
+黑客入侵
+网闸
+Rough set theory
+nonlinear control system
+查询重写
+Data Exchange
+电子书阅读器
+命令格式
+径向基函数神经网络
+超级计算机
+图论
+网店
+边界点
+Active
+外包服务
+物理层
+频率估计
+partner selection
+文法
+real-time operating system
+电子出版系统
+Video
+微分对策
+Pareto最优解
+cloud computing
+Feature selection
+信息技术教育
+二进制翻译
+英汉机器翻译
+风扇设计
+NDSI
+基于模型诊断
+Anomaly Detection
+FOM/SOM
+计算机函授
+Premature convergence
+SIMD computer
+NP完全
+密钥树
+多尺度几何分析
+用户层通信
+program verification
+Tactical missile
+InSb-In
+DOS程序
+Unicast
+audio coding
+能达性
+安全保护等级
+视图维护
+显示程序
+Stereo matching
+semi-supervised clustering
+文件列表
+可达图
+大字符集
+Web预取
+Video retrieval
+Object-Z
+high level architecture （HLA）
+计算机生成兵力（CGF）
+能力成熟度模型集成
+Network interface
+分布式协调功能
+similar composite system
+Multiagent
+支付密码
+instruction scheduling
+Route planning
+TFIDF
+Myrinet
+nonmonotonic reasoning
+描述文件
+cartoon animation
+文法分析
+加密解密
+并发进程
+错误恢复
+广义非线性系统
+hand-eye coordination
+手写体字符识别
+口语对话系统
+汉字键盘输入
+virtual cockpit
+可调度分析
+嵌入式移动数据库
+QoS guarantee
+SIMD计算机
+Fuzzy control system
+压缩盘
+网站建设
+鲁棒估计
+编组站
+亮度温度
+虹膜定位
+OPC服务器
+串行总线
+增量更新
+IKONOS
+moving object
+网络用户
+人体工学
+时空数据模型
+模糊自适应控制
+时空数据库
+SOI
+实时多任务操作系统
+问答系统
+消息机制
+自由变形
+Campus Network
+影碟机
+Backup
+process industry
+SSO
+专用机
+排队模型
+data consistency
+双目视觉
+EEPROM
+fuzzy rule
+递阶控制
+哈希函数
+业务规则
+Trigger
+ERP项目
+虚拟世界
+虚拟局域网
+有限域
+HFC
+递推算法
+集散系统
+信息中心
+病毒
+convergence
+开放系统
+greedy algorithm
+Event
+下位机
+上下文
+可扩展
+Control System
+噪声抑制
+面向对象分析
+parallel
+收敛速度
+参数化
+content based retrieval
+测试脚本
+WebLogic
+ATM交换机
+TrueType字体
+identity-based cryptography
+Acrobat
+嵌入式GUI
+容错路由
+虚拟战场
+配置空间
+线性切换系统
+Swarm Intelligence
+Web服务描述语言
+EZW算法
+发送邮件
+active measurement
+Spatial data mining
+机器智能
+动态模糊集
+Digital certificate
+Symbian
+深亚微米
+程序管理器
+JBuilder
+Microwave remote sensing
+Guaranteed cost control
+Clustering algorithm
+relay feedback
+Simulation platform
+多Lyapunov函数
+eCos
+Watchdog
+视差图
+内部命令
+spam filtering
+指针变量
+Software Process
+补丁程序
+命名空间
+DOS环境
+并行虚拟机
+网站经营
+个体软件过程
+可用带宽
+严格正实
+对象建模技术
+multimedia synchronization
+多层递阶预报
+静态输出反馈
+parametric uncertainty
+Linear systems
+X Window
+滚动条
+Tuxedo
+combat simulation
+虚拟战场环境
+DVD-R
+packet scheduling
+梯度矢量流
+通信开销
+组播树
+手写体数字
+Computer simulation
+特征向量
+记事本
+测试程序
+虚拟主机
+WEP
+关联规则挖掘
+ISA
+Hook
+Geographical information system
+QR分解
+招商银行
+GPIB总线
+椭圆曲线密码
+incremental updating
+上下文无关文法
+在线支付
+游戏产业
+防空系统
+数据缓存
+threshold signature
+SINS
+service-oriented
+语义距离
+Software testing
+Turbo码
+Time delay
+speaker recognition
+异构数据
+集群系统
+survivability
+电子商务模式
+RUP
+工作流技术
+supervisory control
+公开密钥
+数码照片
+image recognition
+微电脑
+闭环系统
+用例
+semantic
+CPU
+可信性
+tracking control
+outlier
+集成平台
+贪婪算法
+模拟电路
+controllability
+安全认证
+网络环境
+系统开发
+查询
+dynamic calibration
+积分投影
+电子化服务
+屏幕保护
+PASCAL语言
+Julia集
+内存空间
+组装机
+motion controller
+认证服务器
+目标回波
+stream cipher
+Magic
+VRAM
+STK
+压缩格式
+Rijndael
+ILP
+景象匹配
+电梯群控
+WAV文件
+视频编辑
+SDL
+多种群
+微加速度计
+detection probability
+CASE工具
+最小覆盖
+访问数据库
+安全级
+群件
+单神经元
+public key
+Ant colony algorithm
+软件集成
+ESD
+EPON
+集成框架
+communication network
+数据库应用系统
+humidity sensor
+Information service
+ActiveX control
+键盘输入
+大容量
+MRP
+anti-interference
+SNR
+缓冲区
+全局稳定性
+超声波传感器
+虚拟组织
+信息系统工程
+A/D conversion
+虚警率
+性能监控
+自动推理
+agile supply chain
+Fuzzy inference
+检测概率
+容错系统
+IDEA
+reachability
+Premiere
+self-calibration
+固定模
+Throughput
+文件下载
+计算机系统安全
+FOXBASE+
+程序设计方法
+建模
+进程
+网络服务器
+甲骨文
+Markov chain
+不确定性推理
+背景音乐
+误码率
+队列
+结构化
+安全
+concept hierarchy
+硬实时
+embedded Internet
+惠普有限公司
+Mumford-Shah模型
+Boa
+自然码
+环境建模
+INTERBUS
+曲线演化
+sensor fusion
+mutation probability
+任务划分
+点焊机器人
+非阻塞
+免费邮箱
+multiagent
+NP难问题
+局部总线
+远程计算机
+进度条
+现代商业银行
+期望最大化算法
+安全缺陷
+传感器管理
+image authentication
+garbage collection
+插值曲面
+Supervised classification
+MOLAP
+data partition
+CD光盘
+低音扬声器
+对象技术
+ADSI
+Landsat TM
+数字变焦
+Pattern matching
+negative selection algorithm
+服务器地址
+鼠标键
+宽屏幕
+高维索引
+收款机
+城市信息化
+IBM公司
+抖振
+affine transformation
+Data Acquisition
+Combo
+智能家庭网络
+证书撤销列表
+测试数据压缩
+正区域
+纵横汉字
+Animator
+色彩量化
+布尔可满足性
+Resource reservation
+程序框架
+ship maneuvering
+虚拟硬盘
+machining feature
+协作过滤
+Peer-to-Peer network
+Delaunay Triangulation
+software rejuvenation
+寄存器传输级
+流量分类
+内存单元
+polarimetric SAR
+中断控制器
+未登录词识别
+human visual system（HVS）
+kNN
+Steganography
+应用程序的开发
+分词连写
+备份和恢复
+空间元数据
+多路复用器
+resource manager
+GeoStar
+空战仿真
+证券网络
+分形图象编码
+核属性
+运动估值
+指针分析
+手写体汉字
+定时存盘
+用户行为分析
+网上保险
+技术参考模型
+散热设计
+ASIC设计
+转接卡
+TCSEC
+多媒体信息检索
+fingerprint matching
+telepresence
+边界表示
+通道布线
+存储控制器
+public watermarking
+自主车
+Acegi
+报警关联
+图形硬件
+Unified Modeling Language（UML）
+汇编子程序
+理论计算机科学
+Cakewalk
+认知码
+票据清算
+多媒体信息处理
+Multimedia Communication
+Filter
+IEEE
+安全网关
+虚拟存储
+电子白板
+微粒群优化
+A*算法
+enterprise modeling
+电子现金
+RSSI
+可重用性
+融合算法
+包围盒
+凸多边形
+车间调度
+active contour
+最短路径算法
+multi-resolution
+动态补偿
+用户管理
+programmable controller
+TD-SCDMA
+码分多址
+genetic programming
+楼宇自动化
+CIH病毒
+调用
+峰值信噪比
+VSAT
+Hamming distance
+spatial data mining
+web mining
+case based reasoning
+Eclipse
+运算速度
+Windows API
+background subtraction
+decryption
+自动生成
+立体视觉
+逆变器
+技术支持
+偏微分方程
+复杂度
+模糊查询
+reconfiguration
+surface modeling
+亚像素
+非线性校正
+Fractal
+计算机控制系统
+human computer interaction
+IHS变换
+非线性时滞系统
+供需链
+computer security
+导购
+分布式对象技术
+密码分析
+动画效果
+音频水印
+智能主体
+embedded operating system
+图像修复
+动态查询
+盲检测
+XML schema
+数字地面模型
+体数据
+Image enhancement
+DTM
+通用分组无线业务
+单元测试
+Gabor filter
+超图
+物料需求计划
+整数小波变换
+核方法
+开源软件
+data cube
+神经元芯片
+扩张状态观测器
+传感器阵列
+索引
+源程序
+数据访问
+signal detection
+PPP
+统计学习理论
+Visual
+OGSA-DAI
+证券业
+数据包丢失
+Vulnerability
+Remote Control
+随机算法
+DCF
+case retrieval
+舰空导弹
+space robot
+SD卡
+ACD
+捷联惯导
+ensemble learning
+CPN
+方正奥思
+聚类有效性
+公钥加密
+商空间
+阻抗控制
+网络蠕虫
+test generation
+内存泄漏
+能力考核
+image inpainting
+汉字字符
+Hammerstein model
+switched system
+微机械陀螺
+软件可靠性模型
+激光陀螺
+成像光谱
+元组
+Fuzzy reasoning
+XHTML
+回溯算法
+NAND Flash
+混合语言编程
+调色板
+状态图
+java
+递归算法
+变结构
+文档管理
+拓扑结构
+引导学生
+fuzzy system
+系统建模
+域名注册
+测试工具
+fingerprint recognition
+intelligent system
+拥塞
+quaternion
+以客户为中心
+LMS
+访问控制列表
+图片
+Hough Transform
+生成算法
+Streaming media
+数据库查询
+beamforming
+故障模拟
+幻灯片放映
+fault tolerant control
+dual-port RAM
+XML语言
+注册码
+近似推理
+passive location
+光流场
+训练算法
+单元格区域
+后向散射系数
+新闻组
+DSP/BIOS
+特洛伊木马
+robot soccer
+参数曲面
+sonar
+无线宽带
+数据库软件
+图像合成
+Fingerprint Recognition
+serial production line
+DAC寄存器
+Parallel database
+路径空间
+随机连续系统
+高版本DOS
+频繁子树
+分布式共享存储系统
+Application layer multicast
+Intrusion tolerance
+光存储设备
+移动计算平台
+DOS内部命令
+Spatial index
+计算机仿真模型
+Electronic Payment
+字模点阵
+Text Filtering
+Dimensionality Reduction
+Medium Logic
+高级格式化
+User authentication
+AGP总线
+MIS开发工具
+Relevance Feedback
+文本结构分析
+机器可读
+Eudora
+Multiple attribute decision making
+江苏省分行
+别名分析
+Multicast communication
+证书权威
+grammatical inference
+Parallel computer
+Monte Carlo localization
+CHOICE
+生产存储控制
+TVGA卡
+Character Recognition
+Frequent Itemsets
+EISA总线
+Development tool
+Component library
+Temporal database
+Rule extraction
+系统托盘区
+运行文件
+routing space
+IP路由器
+驱动器盘
+intelligent sensors
+distributed measuring and controlling system
+可擦写
+测试场景
+多层C/S结构
+Workflow model
+银行网络安全
+Cabletron
+数据流计算机
+同城清算
+兼容性测试
+多QoS约束
+wideband radar
+Descriptor systems
+RISC芯片
+操作向导
+measurement and control software
+协同写作
+Volume Rendering
+abstract interpretation
+LOB
+帐户管理系统
+内显示器
+bilingual corpora
+铁路客票系统
+并行编程环境
+浮点
+Spatial database
+嗅探器
+工作流网
+Datawindow
+过滤规则
+复制服务器
+全光网
+SDAI
+Object-oriented programming
+Management Information System（MIS）
+Web安全
+分形压缩
+high-speed network
+WindowsDNA
+移动AdHoc网络
+闭环稳定性
+错误处理
+link analysis
+Finite state machine
+航路规划
+Character recognition
+反步法
+交互式遗传算法
+持久化
+虚函数
+总线标准
+图灵机
+会话初始化协议
+图形功能
+Web页
+Jasmine
+PROLOG语言
+μCLinux
+随机数发生器
+Password
+打印驱动程序
+攻防对抗
+计算机产品
+Network topology
+Aspect
+远程登录
+窗口
+等值线
+数据通讯
+产生式规则
+双语语料库
+handwritten character recognition
+伪造攻击
+操作系统内核
+CBTC
+工业以太网技术
+密码芯片
+对象标识
+分布对象技术
+Active Network
+NP hard
+force telepresence
+政务外网
+约束方差设计
+AIMD
+Windows版本
+真实感绘制
+strand space
+multipath routing
+奇异值特征
+ElGamal
+自主计算
+降阶观测器
+multicast tree
+ACK
+regression testing
+工具按钮
+打印文档
+MMX
+Cooperative design
+码本
+工作站机群
+multiple mobile robots
+雷达跟踪系统
+multilevel security
+机器人仿真
+多目标攻击
+C盘
+利盟
+打印队列
+fault dictionary
+视觉掩蔽
+微机应用系统
+多级互连网络
+parallel I/O
+YAFFS
+第三层交换机
+输入受限
+Parallel programming
+distributed problem solving
+移动代码
+提供商
+粒子群优化（PSO）
+zero-knowledge proof
+graph matching
+定性控制
+仿真框架
+relation schema
+交叉认证
+virtual channel
+timed automata
+Rate control
+服务端
+文件上载
+免费电子邮件
+Model predictive control
+Pareto optimal solution
+随机时延
+GridFTP
+WebAccess
+Artificial immune system
+敏捷方法
+Embedded Internet
+Hyperspectral
+program comprehension
+timer
+DSR
+ethernet
+NC
+企业电子商务
+文字处理
+POS
+小技巧
+分类算法
+网络编程
+数字校园
+数字地图
+wireless
+lifting scheme
+计算机基础教育
+最小二乘
+自动检测
+threshold
+二维条码
+宽带网络
+数字电路
+single-chip microcomputer
+转换器
+自适应遗传算法
+生物信息学
+网页设计
+光纤光栅
+故障现象
+通信接口
+适应度
+实时传输协议
+information system
+任务驱动
+RDF
+MIS系统
+静态分析
+功率控制
+数字化校园
+电容传感器
+能量函数
+genetic algorithm（GA）
+光电编码器
+Virtual instrument
+千兆以太网
+特征选取
+formal analysis
+可信计算平台
+WindowsAPI
+通用网关接口
+分布式管理
+NLP
+NIDS
+ControlLogix
+多径
+CMOS工艺
+job scheduling
+零树
+EZW
+通信控制器
+序列密码
+buffer overflow
+离群数据
+蜜网
+区位码
+应用服务
+large-scale systems
+supervised learning
+输入设备
+任务管理
+数字生活
+时间最优控制
+数码相片
+自主导航
+手机铃声
+E-learning
+critical path
+基于案例推理
+WML
+网络营销
+网上交易
+资源分配
+二手市场
+Knowledge Management
+敏捷供应链
+ultrasonic sensor
+制作工具
+Semantic
+车辆检测
+戴尔公司
+OOD
+hardware-in-the-loop simulation
+入侵检测技术
+DDK
+总线接口
+移动节点
+计算机应用系统
+scattered data
+LSB
+Web站点
+supply chain management
+非均匀有理B样条
+音乐播放器
+面向对象的程序设计
+交通控制
+词法分析
+电子证据
+finite automata
+拉格朗日松弛
+数据抽象
+conflict detection
+PPP协议
+知识重用
+多维数据库
+Network protocol
+地理空间数据
+投影技术
+Java Servlet
+医学图像处理
+多尺度分割
+覆盖网
+宏模型
+视频服务
+Evolutionary computation
+ASF
+formal description
+contourlet transform
+减摇鳍
+机器人足球赛
+Multiplier
+柔性机械手
+HDLC
+discrete-time system
+持久层
+相位相关
+Matcom
+对象关系映射
+自动登录
+机密性
+constraint satisfaction problem
+信任
+二次开发
+计算机辅助设计
+扬声器单元
+面向装配的设计
+控制字符
+姿态控制系统
+微分几何方法
+SCSI接口
+虚电路
+联想网络
+国产数据库
+Texture segmentation
+Artillery
+line clipping
+string matching
+约束传播
+Sensor network
+恢复软件
+磁盘碎片
+recommender system
+远程桌面
+map building
+Pole placement
+簇头
+时态数据
+EAServer
+LXI
+refactoring
+基于范例的推理
+擦写
+王文京
+原子性
+可靠多播
+image morphing
+（t
+Hilbert curve
+错误检测
+Data encryption
+服务质量保证
+LG电子
+播放时间
+医疗机器人
+alert correlation
+写入速度
+声表面波传感器
+DSN
+网络银行业务
+DNA编码
+class testing
+Component object model
+检索引擎
+多计算机
+Checkpoint
+semi-structured data
+和光集团
+IP多媒体子系统
+conditional random fields
+Predictive Control
+geometric constraints
+ad hoc
+多计算机系统
+文件管理器
+约束图
+信息化学习
+资源受限
+防毒软件
+Torpedo
+文本编辑器
+汉字输入系统
+径向基函数
+同步控制
+邮件列表
+关系代数
+particle filtering
+最大后验概率
+DOA
+网络监听
+标记语言
+公用电话网
+控制器局域网
+facial expression recognition
+pressure transducer
+嵌入式微处理器
+图像分解
+多维数据
+SPI接口
+Kernel
+vehicle routing problem
+工业过程
+实用技巧
+design patterns
+铁路信号
+焊接机器人
+汽车电子
+并行接口
+电子公文
+Data compression
+中国中小企业
+支撑环境
+Smith predictor
+measurement and control
+混沌映射
+single chip computer
+self-adaptive
+rough set theory
+陀螺仪
+录音
+看门狗
+水印
+数据驱动
+Vague集
+优化算法
+多输入多输出
+智能交通
+红外遥控
+离子选择性电极
+NET
+adaptive algorithm
+应用集成
+永磁同步电机
+IP address
+三维建模
+信号调理
+百度
+level set
+texture analysis
+视觉传感器
+helicopter
+量子计算
+工业控制系统
+Flash动画
+计算机图形
+音频
+位置控制
+氧传感器
+数字鸿沟
+工程地质
+服务型政府
+盲源分离
+自然语言
+delay
+状态监测
+扩展性
+数据保护
+CSS
+PID调节
+BASIC
+global convergence
+decision table
+Bytecode
+内存碎片
+调用机制
+样式单
+开放式网络计算
+启动封面
+错误概率上界
+主结点
+Architecture description language
+layered video multicast
+计算机实时仿真
+CEInet
+发布区
+Message Passing
+线索树
+Parallel Process
+数据并行语言
+字符流
+纹元
+Feature Clustering
+OLAP （online analytical processing）
+标定服务器
+Actuator failures
+Token ring
+controlware
+企业服务器
+Time series prediction
+多功能键盘
+Windows中文平台
+PMC模型
+自然语言界面
+CIG
+sing le-chip microcomputer
+putimage
+构件提取
+Blackboard model
+马尔可夫随机场（MRF）
+CIFS
+Semistructured data
+多边形拟合
+Route stability
+Level of detail
+尾指针
+VINT
+联合作战模拟
+Crossover probability
+nix系统
+software process modeling
+程序员考试
+virtual service
+peer-to-peer system
+客户／服务器模型
+Graphics engineering
+Debugger
+鼠标驱动
+分屏显示
+操作系统环境
+timing constraint Petri nets
+Autonomous Agent
+Internet打印
+内存系统
+微指令格式
+虫洞路由
+微代码
+Texture Analysis
+分布并行
+MPRN
+Operation simulation
+JSD方法
+fault tolerance.
+数据库文件结构
+过程工程环境
+Sequential pattern
+彩色汉字
+task parallelism
+pvm
+Feature Vector
+磁卡阅读机
+平滑放大
+graphics engineering
+美观准则
+迁移实例
+Weblink
+UML （unified modeling language）
+multimodal interface
+aiNet
+磁盘扇区
+DBLSPACE
+手写印刷体汉字
+Temporal data
+布尔表达式
+Handwritten Chinese character recognition
+Routing Algorithm
+I/O board
+三维可视化
+银行业
+SDH
+土地利用
+absolute stability
+指数稳定
+function approximation
+排队系统
+操作界面
+用户名
+扫描线
+登记咨询系统
+XML-RPC
+机器人传感器
+低级文件函数
+XCP
+倒排表
+形式化规约
+父结点
+机群操作系统
+保险电子商务
+概念扩充
+数据预取
+FoxMail
+广义时滞系统
+VPLS
+Zerotree coding
+MAS（Multi-Agent System）
+Microwindows
+CTCS
+pole-zero placement
+初级用户
+软件定时器
+命名实体
+Grid service
+DVD-RW
+华硕公司
+鲁棒跟踪
+SPKI
+Image Coding
+内存类型
+MEMS加速度计
+标签控件
+管理情报系统
+COMPAQ
+sliding modes
+port scanning
+FP-树
+多文档
+自主式移动机器人
+移动计算环境
+WSFL
+S/MIME
+动态二进制翻译
+文件分割
+LANs
+Application Server
+智能CAD系统
+分布交互仿真（DIS）
+打印机状态
+代理类
+有界扰动
+Concurrency
+robust stability.
+子类化
+行删除
+内存资源
+寻径算法
+超级流水线
+多总线结构
+媒体播放机
+大额支付
+VXI即插即用
+Cisco公司
+共享白板
+封装方式
+Particle swarm
+强实时
+关联应用
+Multi-attribute decision making
+鼠标拖动
+加密过程
+Hoare logic
+互连结构
+基准测试程序
+摄像机内参数
+命令参数
+抽象机
+Differentiated services
+Elastos
+Radar signal processing
+偏心控制
+工程语义
+深知识库
+Boolean satisfiability
+Alarm correlation
+FreeS/WAN
+Fingerprint recognition
+设备文件
+adaptive subdivision
+visibility culling
+realistic image synthesis
+sentiment classification
+Markov decision processes
+断言
+报表制作
+XMLHTTP
+command and control
+长相关
+设备描述表
+训练集
+杂货铺
+NP-hard problem
+DMA控制器
+Change detection
+营业网点
+人脸定位
+Land surface temperature
+hidden Markov model（HMM）
+Wiener模型
+网络保险
+electronic tongue
+WAP网关
+用户登录
+末制导
+foundation fieldbus
+数据库引擎
+软件支持
+ontology learning
+ZMP
+实时以太网
+几何失真
+压阻
+升阶
+variational design
+IP Core
+屏幕图形
+WFMS
+Hardware-in-the-loop simulation
+Group decision making
+超视距雷达
+skin color model
+虚拟内窥镜
+用户密码
+故障覆盖率
+SMV
+多径路由
+Memory management
+pitch detection
+菜单程序
+Object-oriented technology
+Delta operator
+关键帧提取
+IT部门
+Submarine
+几何连续
+概念相似度
+grid workflow
+符号识别
+带隙基准
+控制命令
+Rough集理论
+握手协议
+computer integrated manufacturing
+Mysql
+双环网络
+基于图像的建模
+Fault-tolerant
+manufacturing resource
+重命名
+彩色扫描仪
+diagonal dominance
+本体映射
+Texture analysis
+商业软件
+二进制文件
+并发性
+强跟踪滤波器
+shape matching
+spatial index
+建模工具
+autonomous underwater vehicle
+K-means算法
+Bresenham algorithm
+JPEG compression
+广义特征值问题
+homography
+函数调用
+物化视图
+完整性约束
+错误隐藏
+交互式多模型
+核心路由器
+无线局域网络
+串口扩展
+消息驱动
+运动捕捉
+软件发展
+物理地址
+Communication network
+NiosII
+LiDAR
+背景建模
+query rewriting
+实用软件
+CC-Link
+PNN
+规则抽取
+健壮性
+热敏电阻器
+合成器
+delay-dependent
+交换式以太网
+crossover operator
+qualitative reasoning
+双处理器
+重定向
+类测试
+feature fusion
+边界检测
+自助服务
+动态路由
+电话语音卡
+主页制作
+feature space
+机器人手臂
+MTF
+能观性
+C语言程序
+企业服务总线
+Data Fusion
+域名解析
+资源定位
+Snake model
+属性重要度
+中值滤波
+新功能
+网络管理系统
+模数转换器
+层次模型
+SIMULINK
+ArcGIS
+data storage
+personalization
+小波网络
+event
+网络通讯
+网络监控
+模型检验
+工作频率
+fuzzy sets
+E-Commerce
+网络拥塞
+语音处理
+容灾
+外网
+并行通信
+speckle
+Digital library
+数据库应用程序
+应用需求
+量子遗传算法
+在线辨识
+generalization ability
+parallel mechanism
+.NET框架
+Robust
+单播
+三角化
+manufacturing system
+NC machining
+信息基础设施
+图形识别
+CAN-bus
+Bezier曲线
+adapter
+cascade control
+certificate
+远程故障诊断
+分布式结构
+酶电极
+微机
+解密
+采样
+歌曲
+Role
+线性化
+无线传输
+考试系统
+web
+计算机通信
+Express
+Node
+discretization
+数字识别
+搜狐
+Print
+Command
+INTRANET
+中国零售业
+Bandwidth
+网桥
+分页
+decision rule
+数字娱乐
+Lotus Domino/Notes
+邮件合并
+微传感器
+image database
+算法复杂度
+hash function
+透视投影
+离线编程
+软件容错
+产品线
+散热系统
+artificial life
+管道机器人
+电脑系统
+工程图纸
+中国电子
+Zigbee
+multiobjective optimization
+evolutionary algorithms
+实时数据采集
+神经网络集成
+计算机基础
+campus network
+均衡器
+高阶累积量
+临界区
+inverse kinematics
+.Net
+proxy server
+chaotic synchronization
+视频捕捉
+数据聚类
+discrete time system
+彩屏手机
+网站服务器
+帧间预测
+CA公司
+无线网状网
+便携式电脑
+航空像片
+discrete event simulation
+信道分配
+批文件
+空间关联规则
+数据调度
+令牌环
+文档分类
+制程
+trustworthiness
+文件保护
+satellite network
+Bézier curves
+IP交换
+代理缓存
+苹果电脑公司
+load-balancing
+RTX
+software process improvement
+网络文件系统
+application layer multicast
+最小实现
+watershed transform
+用户注册
+Particle filter
+Binary image
+Web开发
+联邦滤波
+Groupware
+quadratic stabilization
+冷连轧
+空间复杂度
+杨元庆
+流水线结构
+AC inverter
+控制流图
+PostgreSQL
+渐进传输
+key escrow
+structure learning
+数据报
+面向对象的方法
+Bagging
+PRINT
+serial port
+行业信息化
+global stability
+集成电路
+PCA
+链接
+attack
+AI
+信号采集
+办公自动化系统
+算法分析
+传感器技术
+网络系统
+我国电子商务发展
+K-means algorithm
+MIMO-OFDM
+Bluetooth technology
+交叉熵
+编辑距离
+网络防火墙
+软PLC
+车辆导航
+PPPoE
+视频分析
+ebXML
+PCI Bus
+OpenSSL
+打印技术
+域名服务器
+MDS
+特殊字符
+XML document
+扩展标记语言
+滚动规划
+μC/OS
+农业网站
+手写输入
+财务管理软件
+目标分配
+ETM+
+SDP
+表空间
+网络时延
+CSMA/CA
+动态网站
+海量存储
+software maintenance
+与上月相比
+Network performance
+交互协议
+王峻涛
+Mobile robots
+fault-tolerant routing
+inverted file
+向量量化
+Crossbar
+logic program
+多通道交互
+查询程序
+服务器领域
+码率分配
+structural liveness
+CPU占用率
+MIMO nonlinear systems
+High level architecture
+记录号
+centre manifold
+dynamic fuzzy logic
+JESS
+数据流管理系统
+Group decision-making
+自动存盘
+兴趣管理
+Java本地接口
+Portability
+移动传感器网络
+右键
+randomized algorithm
+隧道模式
+wireless ad hoc network
+data distribution management
+第四代语言
+基于图像绘制
+Fuzzy Neural Networks
+test data compression
+计算机稽核
+中国银联
+human animation
+音色库
+Frequent Itemset
+递阶辨识
+北电网络
+functional verification
+BSP model
+OMG
+协议实现
+IT咨询
+蓝色激光
+回滚段
+vxWorks
+Web caching
+编辑状态
+dissipative control
+源认证
+地学知识
+Real time system
+图象图形
+耗散控制
+子窗口
+ForceControl
+distributed real-time system
+锚节点
+相关网址
+软件过程能力
+Rough Set理论
+Network traffic
+对象变量
+开关机
+程序设计语言教学
+实例学习
+DAML+OIL
+Parallel Processing
+Radar target recognition
+复印功能
+视频捕捉卡
+数据分配
+防火墙软件
+大工业过程
+模运算
+可信软件
+文本显示
+软件复杂性
+uncertain data
+Chaos
+画面
+管理系统
+power system
+船舶操纵
+BIST
+定理证明
+CorelDraw
+存储区域网
+multitask
+组合查询
+frequency estimation
+EPLD
+Sobel算子
+ARM处理器
+不确定性系统
+Manipulator
+鸿雁
+软件服务
+混合遗传算法
+综合集成
+控制理论
+service-oriented architecture
+特征模型
+自适应滤波器
+最优路径
+主菜单
+SVPWM
+information entropy
+数字地球
+Optimal control
+backup
+模拟量
+Access数据库
+工程图
+外资银行
+海量数据
+模型简化
+数据库操作
+Lagrangian relaxation
+断针
+DataGrid
+evolvable hardware
+数据重构
+系统漏洞
+文化算法
+Internet服务
+对象/关系映射
+印刷工业
+NT服务器
+闭环供应链
+音乐网站
+散列
+设计和实现
+高感光度
+基于规则
+大规模并行处理
+自主访问控制
+空间推理
+交互多模型
+虚警
+进程管理
+神经网
+系统盘
+安全套接层
+hyperspectral image
+光学字符识别
+分布式数据挖掘
+L-system
+天线方向图
+automatic target recognition
+平板扫描仪
+Binarization
+驻留程序
+WPKI
+递归调用
+数据库技术
+电力系统
+品牌
+格式化
+binary tree
+三角形网格
+混沌加密
+液位测量
+Redundancy
+图像显示
+地理信息
+粗糙集理论
+工作空间
+案例推理
+虚拟实验室
+Java消息服务
+协议工程
+handwritten Chinese character recognition
+bilinear map
+virtual battlefield
+验证算法
+环签名
+管理软件市场
+农业信息体系
+工程CAD
+端系统
+Nonlinear System
+LON
+AGENT
+temporal reasoning
+SAR imagery
+显示文件
+Simulation modeling
+自动批处理文件
+wireless sensor networks（WSN）
+语义缓存
+嵌套事务
+fuzzy processing time
+播放列表
+wireless sensor networks(WSNs)
+二次镇定
+Trie树
+Mobile ad hoc network
+软实时
+交互式多模型算法
+构件软件
+图像旋转
+Java编程
+瘦客户端
+多功能打印机
+测绘信息
+反垃圾邮件组织
+汉字输入方案
+多峰函数优化
+编程序
+新惠普
+motion segmentation
+寄存器分配
+应用网关
+SID
+geometry compression
+event detection
+marshalling station
+cluster head
+combat system
+中文处理
+geometric continuity
+面向对象的数据库
+形式描述
+表项
+BDI model
+Trie
+机器人工业
+机器人手爪
+浏览器软件
+研究性学习课程
+多重数字签名
+DDoS攻击
+Scheduling algorithm
+Unix操作系统
+Notebook
+智能ABC
+仿真计算机
+EZW algorithm
+服务计算
+group key management
+verifiable secret sharing
+红外导引头
+传感器故障诊断
+引导盘
+多媒体创作
+文本方式
+同时多线程
+part of speech tagging
+Hybrid systems
+豪杰公司
+组播安全
+signature verification
+弹性匹配
+network intrusion detection
+无模型控制方法
+派生类
+ECDSA
+高层次综合
+Image Recognition
+NP难
+routing security
+high-dimensional data
+会话识别
+可验证秘密共享
+GDMO
+基表
+dynamic feedback
+卫星通信
+车辆路径问题
+System identification
+SOM
+全景图
+测距
+优化调度
+modem
+效能分析
+知网
+综合自动化
+模糊模型
+驱动电路
+电磁兼容
+主分量分析
+Automation
+开关电源
+A/D转换器
+中小企业
+thinning
+智能终端
+RTU
+电子设计自动化
+Decision support system
+solid modeling
+吸引域
+ABR
+Fairness
+全局最优
+inverse system
+time-delay system
+产品模型
+证券交易
+伙伴选择
+制造资源计划
+Radon transform
+增值业务
+行业应用
+重装
+应用框架
+图像文件
+藏文
+confidentiality
+多核处理器
+物理内存
+智能变送器
+regular expression
+HSV
+Phone
+可重用
+project scheduling
+force feedback
+介质访问控制
+Timer
+GCC
+single sign-on
+系统恢复
+美国在线
+task assignment
+构件模型
+ARP协议
+VBScript
+熵编码
+接口标准
+轮式移动机器人
+WAN
+simulation modeling
+距离变换
+PIM
+event-driven
+hyperspectral remote sensing
+Online
+移动网络
+远程测控
+multiresolution
+模糊Petri网
+Real time
+轮廓跟踪
+数据库连接
+内容管理
+industrial control
+智能天线
+域名系统
+燃烧控制
+水平集方法
+参数曲线
+process planning
+intelligent sensor
+现代控制理论
+波分复用
+图像传感器
+泛化能力
+intelligent building
+电子数据交换
+等高线
+CAD系统
+office automation
+classifier
+parameterization
+数据采集卡
+线阵CCD
+称重传感器
+三维重构
+disturbance attenuation
+菜单设计
+故障预报
+网页内容
+僵尸网络
+学生模型
+descriptive geometry
+fractional Fourier transform
+makespan
+object-oriented database
+Lyapunov method
+数据库知识发现
+intelligent vehicle
+人工势场
+系统复杂性
+静态图像
+千兆
+稀疏表示
+robot manipulator
+首席信息官
+交换网络
+飞行模拟
+Internet应用
+业务过程
+特征码
+装箱问题
+嵌入式实时系统
+图片格式
+S盒
+仿生机器鱼
+Fault tolerance
+县支行
+electrochemical sensor
+映射
+VBA
+平台无关模型
+通讯簿
+多色集合
+Self-similar
+heterogeneous network
+RosettaNet
+传输时延
+文本自动分类
+visual masking
+Protégé
+Decryption
+证券行业
+高精度定时
+输入估计
+Java virtual machine
+distributed network management
+星型模式
+在线帮助
+汉字笔划
+Multi-agent systems
+文件复制
+告警关联
+CAAD
+Virtual Machine
+content-based
+定量反馈理论
+Flexible manipulator
+QoS约束
+嵌入式浏览器
+Z-元件
+微陀螺
+building automation system
+NAT穿越
+主密钥
+hierarchical optimization
+柔性版印刷机
+图象变换
+HTTP protocol
+model-based diagnosis
+SOCKS
+multi-resolution model
+否定选择算法
+子带编码
+available bandwidth
+Video Coding
+遥感影像分类
+key exchange
+命名服务
+异构数据集成
+多媒体演示
+microsensor
+电视跟踪
+MAPX
+model decomposition
+定理机器证明
+WfMS
+六维力传感器
+LQ问题
+dependence analysis
+autonomous robot
+自底向上
+Cookies
+反跟踪技术
+模糊加工时间
+多线程编程
+Artificial Immune System
+语言实现
+双种群
+政务工作
+徐少春
+ballistic missile
+标量乘法
+service matching
+专业版
+multi-resolution modeling
+Data communication
+浮点数
+高清电视
+字符分割
+极限编程
+ERP实施
+dSPACE
+图像变形
+几何变换
+领域模型
+FOXPRO
+路径跟踪
+View
+多机通信
+multiple attribute decision making
+空间数据仓库
+neural network ensemble
+滑模变结构控制
+serial port communication
+导航仪
+Agent技术
+冗余技术
+选项
+磁盘
+System integration
+模糊函数
+实时传输
+无线接入
+编译
+认证中心
+系统可靠性
+解码器
+计算机应用技术
+detector
+线性度
+SCM
+变焦镜头
+information model
+电机控制
+PLD
+软件架构
+知识管理系统
+数字视频
+observability
+visual servo
+偏序关系
+拓扑网络
+Virtual machine
+code generation
+人工神经网
+Digital Watermark
+Linear system
+evidence reasoning
+Citect
+图形打印
+current statistical model
+DES algorithm
+字符编码
+网络演算
+多余力
+散列表
+语义互操作
+SAR images
+自治水下机器人
+range profile
+shot boundary detection
+video encoding
+透明代理
+traffic prediction
+光盘市场
+design reuse
+Web缓存
+电脑农业
+Land cover
+用户数据报协议
+Discretization
+graph cut
+链路层
+ad hoc网络
+协作模型
+实视图
+水声对抗
+视频卡
+同步算法
+系统级设计
+formal language
+人工智能语言
+metamodel
+数码相机产品
+双向联想记忆
+电子CAD
+Knowledge Acquisition
+特种机器人
+递阶优化
+声调识别
+多语种
+超线程技术
+multi-robot system
+笔迹鉴别
+航空电子系统
+WindML
+文本检索
+quantum computing
+video-on-demand
+备注文件
+显示存储器
+CONWIP
+DoS攻击
+驱动开发
+复合文档
+VToolsD
+packet capture
+传递对准
+递推辨识
+monitoring system
+故障分析
+风扇
+计算机辅助制造
+E-Mail
+调度问题
+soft measurement
+multiple models
+集成服务
+灰度级
+data distribution
+SDG
+群智能
+T-S fuzzy system
+避碰
+soft sensing
+信息网格
+文字处理软件
+DOS操作系统
+数字摄影测量
+多媒体创作工具
+Data exchange
+knowledge reduction
+自适应控制器
+自行火炮
+robust controller
+模态逻辑
+web server
+相似性测度
+技术与应用
+凸包
+非线性滤波
+智能控制系统
+邻域
+电子杂志
+内部网络
+分级分布
+动态服务组合
+内部码
+聚类学习
+系统进程
+计算机杂志
+OEM模型
+Non-fragile control
+狭义遗传算法
+资金清算系统
+regional pole placement
+Map database
+CAINONET
+外壳程序
+用户接口管理系统
+PLN网络
+转帐系统
+文本摘要
+Self-propelled gun
+多媒体视频卡
+软件agent
+X控件
+WWW文档
+PASSWORD
+联机交易
+Topology discovery
+stroke extraction
+Clonal Selection
+Image warping
+主从表
+Prolog程序
+Materialized View
+similartaxis
+误删文件
+OPC UA
+音频视频
+WAE
+话者模型
+Object-Oriented Technology
+广义归结
+通信原语
+Mogent
+《软件学报》
+指令集模拟器
+Web搜索
+Post-WIMP
+SIR-C
+UUCP
+策略迭代
+硬盘文件
+XML Parser
+Common Gateway Interface（CGI）
+IP分类
+分枝界限
+Image smoothing
+任务并行
+规则矩阵
+keyword extraction
+Cross-layer
+concurrent programming
+迁移工作流
+单字节
+模板分解
+Chinese-English machine translation
+快速格式
+图象质量评价
+BACnet/IP
+Middle-ware
+数据局部性
+数据读写
+GLB
+语音命令
+软件过程改善
+Priority queue
+QoS协商
+网络激光打印
+保存文件
+广义分散系统
+屏幕程序
+ATA接口
+子表达式
+syntactic parsing
+随机提前检测
+Block cipher
+Mandatory access control
+市场估价
+名字空间
+Artificial life
+runtime infrastructure
+I/O调度
+SPKI/SDSI
+ModBus protocol
+Quality of Service （QoS）
+图规划
+WOSA
+任务迁移
+元数据服务器
+CDSA
+Text clustering
+High Level Architecture （HLA）
+SLCCA
+中国人民银行广州分行
+Distributed multimedia
+分布计算机系统
+Fuzzy Entropy
+C语言开发
+Session key
+太极计算机公司
+HLR/VLR
+Microtek
+Relational algebra
+中西文兼容
+Online Analytical Processing
+内码转换
+故障单元
+调度长度
+continuity property
+离散MRAC
+Mobile Database
+capacitive humidity sensor
+自私节点
+TII
+disk cache
+同时极点配置
+逻辑最小化
+邻居发现协议
+加密协议
+元类
+上下文菜单
+自然计算
+type checking
+PentiumPro
+轻型目录访问协议
+iPlanet
+robust H-infinity control
+KINK
+导航菜单
+Blu-ray
+提交协议
+本体合并
+集成能力成熟度模型
+symbolic execution
+票据自动清分系统
+Shellcode
+Modelsim
+dynamic walking
+programmable logic controller（PLC）
+系统服务
+稳定裕度
+fuzzy systems
+similarity search
+遥控机器人
+仿生机器人
+Copyright protection
+certificate authority
+Wrapper
+SNMP协议
+Portlet
+RAS
+inertia weight
+DPCM
+行业网
+packet filter
+texture classification
+Workstation
+JPEG压缩
+direction finding
+资源文件
+Adaptive filtering
+TLS
+海信
+ATLAS
+数据场
+混杂模式
+GDSS
+控制律
+空间聚类
+XMLHttpRequest
+MRAC
+千兆网
+反推
+arithmetic coding
+方位估计
+逻辑分析仪
+finite element
+金融业
+脉宽调制
+字符
+智能决策支持系统
+决策分析
+实体模型
+Web database
+多媒体
+接口设计
+Agriculture
+system modeling
+Virtual Reality
+RBF neural network
+电脑操作系统
+stochastic Petri net
+IT管理
+信念修正
+图象恢复
+autonomous mobile robot
+CORDIC
+成像算法
+Teaching Reformation
+消隐算法
+maneuvering target
+color transfer
+推广卡尔曼滤波
+无线模块
+Internet security
+WebServer
+可信网络
+algorithm complexity
+Hidden Markov Model（HMM）
+Bézier曲面
+表格处理
+WinGate
+Queue
+H∞性能
+underwater robot
+多描述编码
+分布式GIS
+Corpus
+调试程序
+VCL
+类文件
+电子投票
+随机Hough变换
+IPX协议
+Combinatorial optimization
+结构奇异值
+线性时滞系统
+information grid
+自动升级
+Output feedback
+创新公司
+数据库对象
+柔性机器人
+局部线性嵌入
+IETM
+口令认证
+区域极点配置
+curve reconstruction
+实时数据库系统
+诊断推理
+电磁波散射
+PSoC
+case representation
+方向场
+supply chains
+动态校准
+推理算法
+集群计算
+未登录词
+农业信息网络
+主机安全
+接入控制
+ZigBee协议
+数据通路
+基于行为
+航迹关联
+信息安全风险评估
+network monitoring
+射频卡
+虚拟仪表
+重启
+watermarking
+网络行为
+creative design
+性能价格比
+CLIPS
+.net
+aero-engine
+图形仿真
+数字控制器
+quadtree
+彩色图像分割
+S函数
+点对点
+模糊分类
+recursive algorithm
+database
+filtering
+位移传感器
+分布式数据库系统
+color histogram
+E-Learning
+有线网络
+API function
+图形系统
+快速原型法
+办公室自动化
+管理器
+流量预测
+网络隔离
+自动更新
+领域分析
+Digital simulation
+multivariable
+通信网络
+参数优化
+波特率
+oracle
+计费
+网络犯罪
+object-oriented technology
+多小波
+Powerbuilder
+数据库连接池
+ActiveX技术
+连续系统
+corner detection
+C/S结构
+模糊算法
+sensors
+测量系统
+图像数据库
+数据格式
+生成器
+感应电机
+站点
+Logistic映射
+Histogram
+电流传感器
+error control
+directed graph
+mobile communication
+BPR
+计算智能
+wheeled mobile robot
+Boolean operation
+Sorting
+自动备份
+家庭电脑
+伸缩因子
+感应同步器
+model reference adaptive control
+Decision support
+Stackelberg game
+hypermedia
+DataWindow
+contour extraction
+半导体产业
+字库
+RBF Neural Network
+结构化方法
+南桥
+数据库语言
+iptables
+multimedia communication
+semantic similarity
+DataSet
+图文混排
+control system design
+maglev train
+misuse detection
+显示方式
+propagation model
+电子身份证
+组织机构代码
+层流冷却
+即时信息
+二维系统
+network computing
+变形模板
+sniffer
+Particle swarm optimization algorithm
+面向服务体系结构
+动目标检测
+字处理
+银行发展
+软件蓝领
+开放源码
+开发框架
+User interface
+video watermarking
+微操作机器人
+生产计划与控制
+曲面求交
+non-repudiation
+XMPP
+IP安全
+动态链接库（DLL）
+自适应量化
+Winpcap
+在线游戏
+用户偏好
+分布式检测
+parametric surface
+edit distance
+人体建模
+地图符号
+计算机艺术
+空值
+人眼视觉特性
+RAD
+Data Communication
+range image
+网络路由
+FORM
+unmanned aerial vehicle
+Task scheduling
+数字信封
+公钥体制
+编程接口
+国有商业银行
+单片机控制
+快速傅立叶变换
+CAE
+添加
+DFT
+Optimization
+常微分方程
+证书
+智能系统
+MVC设计模式
+Ant Colony Algorithm
+connection pool
+perturbation analysis
+可视电话
+分形布朗运动
+Arnold变换
+信息化规划
+信息技术有限公司
+linear prediction
+模糊专家系统
+算法复杂性
+反病毒技术
+数字音频
+生物识别技术
+图形对象
+多类分类
+免疫原理
+数据库备份
+Complex system
+embedded systems
+频率测量
+anti-jamming
+对策论
+智能控制器
+混沌优化
+ADC
+软件包
+信息产业
+信号分析
+漏洞
+仿真分析
+用户需求
+实现技术
+叶面积指数
+软件结构
+装备保障
+故障预测
+PI控制
+参数自整定
+model base
+火灾报警
+扫描速度
+通信软件
+TPM
+图形
+有限元分析
+跟踪
+Jukebox
+BROWSE
+networked test
+Remote sensing image classification
+功能扩充
+Wireless Sensor Networks（WSN）
+Certificate Authority
+会计集中核算系统
+VIA
+modular multiplication
+离群点检测
+网际网
+政府首席信息官
+面向属性的归纳
+image transform
+何恩培
+interest management
+multidatabase system
+路由振荡
+可编程性
+有向超图
+采样数据系统
+real time scheduling
+QoS （quality of service）
+nonlinear errors
+复杂事件处理
+data locality
+光谱微分技术
+malware
+联机识别
+同城票据交换
+硬件支持
+TCP性能
+汉字形码
+基于身份的密码体制
+语义树
+HPF语言
+Automatic programming
+Video object
+Rural informatization
+semantic role labeling
+虚屏
+Texture image
+Similarity Measure
+硬盘存储
+垂直记录
+Singular Value Decomposition（SVD）
+照片处理
+internetware
+ECRH
+multi-signature
+分形图像
+电子政务市场
+可重入生产系统
+消息路由
+图形图象
+C++实现
+中西文终端
+Horn子句
+宏块
+自适应雷达
+adaptive control.
+scatternet
+Air defense
+服务器数
+有源阵列
+IMDCT
+deep Web
+一般非线性系统
+high speed network
+telerobotics
+音频播放器
+总线速度
+MSBS
+保险信息系统
+Shader
+硬盘价格
+access pattern
+内存控制块
+VGA显示器
+信息不完全确定
+报表框架
+审计记录
+硬件安装
+无损连接
+泛化误差
+bandwidth measurement
+通用菜单
+格式分析
+Gait Recognition
+Stereo Matching
+data scheduling
+Windows桌面
+距离场
+代数规格说明
+Discrete systems
+Pervasive Computing
+Fault tolerant
+国标码
+Web spider
+singular value feature
+free form deformation
+名字服务
+事件关联
+Optical Flow
+交换式集线器
+视频画面
+位图索引
+MMDB
+perceptual organization
+STIM
+IT界
+赋值语句
+continuous speech recognition
+PAR方法
+触发子
+飞行模拟转台
+shot segmentation
+Pctools
+核聚类
+interaction/prediction approach
+state explosion
+Systolic阵列
+Information Model
+金融机构
+匹配
+功率因数
+信息高速公路
+保护模式
+单片微机
+非线性规划
+inverter
+data transmission
+resource management
+马尔可夫链
+视频
+Wireless LAN
+gait
+盲水印
+混合像元分解
+传输延迟
+纯方位
+multivariable control
+数字签名技术
+无线接入点
+文件压缩
+群集智能
+parallel process
+context-aware
+IT产品
+认证考试
+电脑升级
+检测算法
+支撑矢量机
+光盘生产线
+软件生命周期
+XP
+公共网关接口
+企业解决方案
+实时动画
+map matching
+前端机
+眼睛定位
+VB应用程序
+Proxy server
+threat assessment
+焦点新闻
+虚拟路由器
+最优滤波
+plug and play
+分布式文件系统
+phase noise
+频繁集
+assembly model
+网络并行计算
+跟踪微分器
+组合优化问题
+色彩饱和度
+屏幕分辨率
+three-tier architecture
+LSI
+软件开发工具
+加解密
+LIDAR
+fault simulation
+测控网络
+对极几何
+导航
+Digital
+集成
+表格
+运动学
+发热量
+Mapping
+小波包变换
+重采样
+会计电算化
+railway
+开发方法
+感应电动机
+自由曲面
+电子出版
+intelligent design
+虚拟设备
+CAN控制器
+备份与恢复
+语音信号处理
+Lyapunov稳定性
+影像匹配
+DB
+电话网
+动态时间规整
+C Language
+信号完整性
+distributed application
+CDIO
+XML模式
+分布系统
+制造业信息化工程
+fault tolerant
+支持向量
+分水岭算法
+magnetic sensor
+navigation system
+编辑功能
+Delaunay三角化
+测控软件
+deformation monitoring
+安装过程
+Tracking
+软盘
+管控一体化
+规则推理
+submarine
+多用户检测
+图元
+m序列
+多学科设计优化
+遥感应用
+面向对象建模
+接入网
+SA
+面向对象编程
+混合算法
+Threshold
+神经
+visual simulation
+Augmented reality
+UPPAAL
+邮件客户端
+铁路客票发售和预订系统
+任务图
+二进神经网络
+ship noise
+墨粉盒
+Toeplitz
+建模与仿真技术
+range query
+输出反馈镇定
+视频带宽
+fuzzy dynamic model
+CD唱盘
+Agent组织
+dynamic obstacle avoidance
+编辑文件
+模型构件
+语音检测
+频集
+autonomic computing
+fair exchange
+RTL综合
+信息交换系统
+image engineering
+线性可分
+设计器
+SNMP++
+反碰撞
+轨迹球
+硬盘加密
+feature editing
+可串行化
+M&S
+Workflow Management System
+远程控制软件
+Airborne radar
+微分代数系统
+default logic
+电子商务协议
+planar point set
+软加密
+Target Recognition
+时间服务器
+洪泛
+memory hierarchy
+连接速度
+基于实例的设计
+Programming language
+传真服务器
+汉字输入码
+VESA标准
+硅杯
+联机维护
+工作负载
+图标按钮
+分布式散列表
+降阶控制器
+Protocol Analysis
+image based modeling
+分布式计算环境
+基因表达式程序设计
+RTL synthesis
+MBean
+RSA Algorithm
+函数重载
+中创软件
+Virtual Private Network（VPN）
+Permission
+Acrobot
+Trusted Computing
+线性八叉树
+Broker
+超协调逻辑
+专用打印机
+protocol conformance test
+多结点样条
+键帽
+电视跟踪系统
+Cryptosystem
+归结原理
+倾斜检测
+银行数据
+构造算法
+用户帐号
+Windows消息
+Discrete Cosine Transform
+新闻服务器
+Kylix
+雷达自动目标识别
+明基电通
+Packet filtering
+LonTalk
+active networks
+Chain code
+Embedded systems
+Trajectory tracking
+sequential patterns
+Software component
+信雅达
+读取速度
+彩色管理系统
+故障检测滤波器
+基地址
+适应值共享
+公钥证书
+图文框
+复合事件
+中间件软件
+sequence pair
+Monad
+Threshold selection
+菜单条
+Embedded computer
+屏幕取词
+数据段
+外地代理
+动态优先级
+Windows应用
+负载共享
+Embedded software
+belief propagation
+MS－DOS
+hierarchical control
+STL
+维纳滤波
+智能信息处理
+微弱信号检测
+thresholding
+data extraction
+Configuration software
+IE浏览器
+human visual system
+chattering
+收敛性分析
+用互联网
+configuration design
+SYBASE
+压缩算法
+超低功耗
+机器人研究
+semantic web
+显示系统
+Memory
+保密通信
+状态空间模型
+complex networks
+扩频
+远程管理
+video surveillance
+口令
+Kalman滤波器
+ArcSDE
+土地覆盖
+rule extraction
+时间约束
+DFA
+chaotic sequence
+意图
+平板显示器
+DAS
+PSD
+数据流图
+wavelet neural network
+AutoLISP
+现场总线技术
+工程制图
+小灵通
+标定
+电视节目
+PCB
+价格战
+编译原理
+direction of arrival
+回调
+以太网接口
+Genetic Algorithm（GA）
+fire control system
+远程实验
+K均值聚类
+中国用户
+Gabor wavelet
+多项式算法
+产品提供
+网管系统
+楼宇自控系统
+Client/server
+孤立点
+神经计算机
+政务网
+硬盘保护卡
+BM算法
+Oracle Spatial
+历史数据库
+robotics
+松耦合
+Heterogeneous
+即时消息
+三维交互
+通信安全
+protocol stack
+sliding mode variable structure control
+背景更新
+Table
+constrained variance design
+TCP拥塞控制
+雷达导引头
+Test case
+输出速度
+数据库管理员
+unmanned helicopter
+知识签名
+NP难度
+图像挖掘
+sensor management
+Stream cipher
+on-demand routing
+并行数据库系统
+叶结点
+Marching Cubes
+航炮
+FOXBASE~+
+polygonal approximation
+人体运动跟踪
+编程经验
+Inertial navigation
+金融网
+协议识别
+中介逻辑
+返回值
+distributed multimedia
+computer interlocking
+Combinatorial Optimization
+threshold cryptography
+矢量汉字库
+高端内存
+无线移动网络
+zerotree coding
+域名服务
+行人检测
+医学图象
+PETRI网
+依赖分析
+软插件
+Parallel robot
+模乘
+语义约束
+frequent pattern tree
+硬盘主引导区
+指代消解
+对象约束语言
+Z language
+卫星像片
+Design Patterns
+死区非线性
+named entity recognition
+分层强化学习
+机器人规划
+并行处理系统
+促销信
+JMAPI
+微机操作系统
+子查询
+文件删除
+parallel file system
+replacement policy
+capacitive transducer
+privacy preservation
+fragile watermark
+汉字录入
+Computational geometry
+子图同构
+basic automation
+中文WINDOWS
+Color Space
+包丢失
+Internet访问
+mobile Ad hoc network
+Microwave radiometer
+可证明安全性
+验证平台
+死锁检测
+周期任务
+嵌入式以太网
+攻击树
+形式描述技术

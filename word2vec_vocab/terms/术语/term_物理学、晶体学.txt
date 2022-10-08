@@ -1,0 +1,10000 @@
+laser technique
+光纤光学
+lasers
+非线性光学
+nonlinear optics
+fiber optics
+发光学
+NMR
+information optics
+信息光学
+光纤激光器
+SERS
+大气光学
+光致发光
+高能物理与核物理
+应用光学
+atmospheric optics
+optical measurement
+photoluminescence
+光子晶体
+受激布里渊散射
+光学设计
+物理学史
+fiber laser
+optical communication
+adaptive optics
+optoelectronics
+integrated optics
+中国物理学会
+光通信
+光电子学
+激光器
+自适应光学
+激光二极管抽运
+四波混频
+beam quality
+optical design
+GaN
+光谱学
+集成光学
+物理光学
+现代物理知识
+高功率微波
+High power microwave
+导波与光纤光学
+Fiber laser
+applied optics
+guided wave and fiber optics
+stimulated Raman scattering
+高压物理学
+光束质量
+被动调Q
+半导体光放大器
+MOCVD
+光学测量
+色散补偿
+量子光学
+受激喇曼散射
+physical optics
+激光物理
+振子强度
+光纤光栅
+同位旋效应
+FTIR
+激光技术
+计算物理学会
+激光损伤阈值
+内声学
+相位共轭
+GaAs
+optical fiber communication technology
+YBCO
+fiber Bragg grating
+optical communications
+准相位匹配
+Nonlinear optics
+导波光学
+衍射效率
+半导体激光器
+高温超导体
+拉曼光谱
+双包层光纤
+上转换
+波分复用
+nonlinear optical crystal
+laser physics
+受激拉曼散射
+计算物理
+自由电子激光
+飞秒激光
+semiconductor optical amplifier
+非线性光学晶体
+optical parametric oscillator
+粒子模拟
+高自旋态
+物理实验
+HgCdTe
+ICF
+quantum optics
+isospin effect
+演示实验
+激光等离子体
+惯性约束聚变
+COIL
+高斯光束
+Raman spectra
+光波导
+stimulated Brillouin scattering
+photonic crystal
+光子晶体光纤
+自相位调制
+Photonic crystal
+光折变效应
+大气湍流
+荧光寿命
+同步辐射
+光码分多址
+表面增强拉曼光谱
+photorefractive effect
+Gaussian beam
+微通道板
+超短光脉冲
+光折变晶体
+demonstration experiment
+optical bistability
+迈克耳孙干涉仪
+超导薄膜
+长周期光纤光栅
+重离子碰撞
+电致发光
+物态方程
+X-ray laser
+可调谐
+激发态
+偏振模色散
+衍射与光栅
+Raman scattering
+synchrotron radiation
+KDP晶体
+Z-pinch
+氧化物超导体
+Raman spectrum
+Michelson interferometer
+超导体
+electroluminescence
+conserved quantity
+大学物理
+Bridgman method
+crystal growth
+上转换发光
+激光晶体
+量子阱
+Photoluminescence
+自由电子激光器
+ESR
+拉曼散射
+femtosecond laser
+free electron laser
+熔融织构
+高温超导
+相对论平均场
+超连续谱
+电声技术
+photorefractive crystal
+phase conjugation
+optical devices
+玻色-爱因斯坦凝聚
+physics experiment
+光纤通信技术
+临界电流
+ECRH
+自锁模
+腔内倍频
+相干合成
+飞秒脉冲
+固体激光器
+semiconductor laser
+MAFIA
+Znse
+Thermoacoustic engine
+守恒量
+掺铒光纤
+ITER
+掺铒光纤放大器
+dispersion compensation
+电子结构
+《物理》
+超晶格
+相干态
+equation of state
+光折变
+Nd∶YAG
+几何光学
+激子
+耦合波理论
+second harmonic generation
+heavy ion collision
+群速度色散
+laser optics
+Superconducting magnet
+CCD
+光学器件
+表面增强拉曼散射
+Energy transfer
+波函数
+交叉相位调制
+物理教学
+solid-state laser
+luminescence
+物理研究所
+垂直腔面发射激光器
+光学双稳态
+夫琅禾费衍射
+激光磁共振
+时间分辨
+超短脉冲
+激光损伤
+束缚态
+X射线激光
+结构相变
+光学材料
+medical optics and biotechnology
+high spin state
+level scheme
+Z箍缩
+北京谱仪
+photonic crystals
+Raman spectroscopy
+分子束外延
+荧光光谱
+激光光学
+LD pumped
+多模叠加态光场
+Dirac equation
+应用声学
+超导电性
+能级纲图
+ultrafast optics
+倍频
+衍射光学元件
+光电阴极
+波谱学
+有机电致发光
+等离子体
+KDP crystal
+quantum well
+光计算
+提拉法
+Kerr medium
+反聚束效应
+KTP
+effective mass
+Photonic crystal fiber
+LHCD
+quark model
+Dirac方程
+物理教育
+消光比
+折射率结构常数
+fiber communication technique
+环形腔
+琼斯矩阵
+high power laser
+YBCO超导体
+飞秒激光脉冲
+铜蒸气激光器
+近红外光谱
+激光光谱
+啁啾光纤光栅
+VISAR
+photonic crystal fiber
+发光特性
+光学常数
+电光效应
+声光调Q
+衍射
+液晶盒
+diffraction and gratings
+crystal growth from solution
+衍射光学
+interferometer
+偏振
+Fiber Bragg grating
+rotational band
+叠栅条纹
+Critical current density
+单纵模
+高电荷态离子
+fiber grating
+wavelength conversion
+InGaN
+夸克模型
+钛宝石激光器
+laser diode
+在束γ谱学
+ICF target
+磁绝缘线振荡器
+激光雷达
+傅里叶变换红外光谱
+时间分辨光谱
+超热电子
+Near infrared spectroscopy
+能量传递
+optical materials
+光学薄膜
+laser crystal
+光纤传感器
+非球面
+物理系
+超快光学
+线性组合算符
+精细结构能级
+隧道谱
+atmospheric turbulence
+自聚焦
+调制传递函数
+high power microwave
+电子温度
+Fiber grating
+电光调Q
+引上法晶体生长
+低温物理学
+克尔介质
+KTP crystal
+Diffraction efficiency
+阵列波导光栅
+分数傅里叶变换
+空间光调制器
+diffraction
+相位匹配
+全息术
+色散
+多孔硅
+光孤子
+Czochralski method
+晶场参数
+high repetition rate
+relativistic mean field
+干涉仪
+双光子吸收
+光开关
+optical waveguide
+holography
+optical computing
+激光与物质相互作用
+小信号增益
+氧碘化学激光器
+压缩态
+倍频效应
+医用光学与生物技术
+Optical design
+吸收光谱
+交叉增益调制
+crystal pulling
+全固态激光器
+ZnO
+OLED
+分支比
+二能级原子
+单轴晶体
+托卡马克
+激发光谱
+physical experiment
+密集波分复用
+diffraction efficiency
+frequency doubling
+PIC simulation
+二次谐波产生
+傅里叶光学
+LD泵浦
+基态能量
+软X射线
+脉冲压缩
+量子信息
+birefringence
+Raman相互作用
+LD抽运
+二维核磁共振
+晶体生长
+Mei对称性
+Beam quality
+超形变带
+imaging systems
+转动带
+nuclear matter
+rainbow holography
+Hugoniot
+端面抽运
+copper vapor laser
+refractive index
+LB膜
+啁啾
+势能函数
+近场光学
+grating
+Tokamak
+超短脉冲激光
+铌酸锂晶体
+optical storage
+临界电流密度
+Josephson junction
+碰撞能量转移
+表面增强喇曼散射
+LBO晶体
+物理演示实验
+超重核
+amplified spontaneous emission
+聚合物分散液晶
+有效质量
+光存储
+光时分复用
+Upconversion
+Dispersion compensation
+啁啾脉冲放大
+X射线光学
+X光激光
+《大学物理》
+光学传递函数
+超导转变温度
+旋称反转
+Teleportation
+光纤放大器
+supercontinuum
+光学双稳
+shock compression
+反应截面
+纠缠态
+Fourier optics
+polarization mode dispersion
+biodistribution
+极化子
+field emission
+强激光
+spectroscopy
+波长转换
+被动锁模
+fiber amplifier
+teleportation
+压缩效应
+光线追迹
+相变
+空间孤子
+空间电荷场
+大学物理学
+单频
+高功率激光
+核磁共振（NMR）
+束匀滑
+Stimulated Brillouin scattering
+Fluorescence spectrum
+upconversion
+角分布
+等离子体物理
+lithium niobate
+高温超导滤波器
+发射度
+超辐射
+彩虹全息术
+GaAs/AlGaAs
+和频
+偏振度
+菲涅耳衍射
+分光计
+光子带隙
+energy transfer
+成像系统
+溶液晶体生长
+Information optics
+衍射光学器件
+光子学
+optical switch
+Fluorescence spectra
+exciton
+Jones matrix
+红外焦平面阵列
+速率方程
+侧面抽运
+态密度
+模式耦合
+Electron temperature
+光栅
+布里奇曼法
+核结构
+Raman interaction
+Mei symmetry
+双折射
+Raman光谱
+异质结
+光子禁带
+跃迁几率
+等离子体诊断
+衍射光栅
+色散关系
+lidar
+传输矩阵
+简并四波混频
+格点规范理论
+CIDEP
+软X射线激光
+LCoS
+Talbot effect
+时域有限差分法
+thin films
+薄膜光学
+光纤布拉格光栅
+超导磁体
+量子点
+外文缩写词
+laser diode pumped
+数字全息
+group velocity dispersion
+中微子振荡
+chemical laser
+简正波
+Fresnel diffraction
+Fraunhofer diffraction
+单模光纤
+光学参量振荡器
+气动光学
+气垫导轨
+量子效率
+HTS filter
+superdeformed band
+双电子复合
+弹簧振子
+像增强器
+液晶光阀
+Integrated optics
+femtosecond pulse
+单模激光
+法布里-珀罗腔
+数值模拟
+傅里叶变换
+二次谐波
+二元光学
+大学物理实验
+场发射
+光纤通信
+磁控溅射
+Near-infrared spectroscopy
+Zeeman effect
+梯度折射率
+coherent state
+热畸变
+Schrdinger equation
+冲击温度
+ZnO薄膜
+semiconductor lasers
+电光调制
+损伤阈值
+chemical shift
+Wavelength conversion
+Multimode superposition state light field
+组态相互作用
+slab laser
+Stimulated Raman scattering
+孤子
+Josephson结
+三阶色散
+nuclear structure
+four-wave mixing
+OPO
+superconductivity
+electronic structure
+相移
+准分子激光
+耦合模理论
+quantum key distribution
+entanglement
+多量子阱
+全息透镜
+phase conjugation.
+中国科学院物理研究所
+total reaction cross section
+MCDF
+Femtosecond laser pulse
+位置分辨
+MILO
+Second harmonic generation
+光致发光谱
+signature inversion
+软X射线光谱
+chemical shift assignment
+laser cooling
+超导相
+Lie对称性
+高功率
+超导腔
+YBaCuO
+FEL
+微结构光纤
+q变形
+diffractive optical element
+电光特性
+核磁共振
+laser technology
+Kerr介质
+饱和吸收
+微分截面
+磁通蠕动
+Q开关
+布里渊散射
+声学技术
+KTP晶体
+弱连接
+量子涨落
+能级
+four wave mixing
+低杂波电流驱动
+放大的自发辐射
+类锂离子
+differential cross section
+Laser spectroscopy
+超导隧道结
+迈克尔孙干涉仪
+BESⅢ
+IRFPA
+microchannel plate
+毫米波
+谐振腔
+光散射
+liquid crystal
+光参量振荡器
+Lie symmetry
+生物分布
+普通物理实验
+量子力学
+指向矢
+fiber ring laser
+双光束耦合
+毛细管放电
+Photocathode
+beam propagation
+intracavity frequency doubling
+可见/近红外光谱
+连续激光
+内腔倍频
+铌酸锂
+量子纠缠
+折射率
+增益系数
+铁电液晶
+核物质
+Superconductivity
+Z-scan
+光限幅
+superlattice
+X-ray optics
+ground state energy
+ring cavity
+高阶压缩
+shock temperature
+放大自发辐射
+High temperature superconductor
+self-phase modulation
+LBO crystal
+相对论重离子碰撞
+phase transition
+guided wave optics
+光致聚合物
+Atmospheric turbulence
+非线性折射率
+V型三能级原子
+quantum dot
+Nd∶YAG crystal
+Levitation force
+稀磁合金
+磁弛豫
+反应总截面
+Yb∶YAG
+自旋指定
+光谱性质
+冲击压缩
+quantum entanglement
+速率系数
+Bose-Einstein condensation
+Kerr effect
+向列相液晶
+约瑟夫森结
+tunable
+矩阵元
+有机电致发光器件
+液晶
+laser plasma
+微波电子枪
+Spectral interferences
+Superpositions of macroscopically distinct two quantum states
+Micro Raman
+Current lead
+Equal order N th power Y squeezing
+改进哈密顿量
+光度计量
+Multi-photon nonlinear Compton scattering
+超精细结构
+调制不稳定性
+深能级
+染料激光器
+大学物理教学
+spectrometer
+激光二极管
+紫外激光
+热透镜效应
+excited state
+chirp
+geometrical optics
+linear combination operator
+PIC方法
+free-electron laser
+零场分裂
+径向矩阵元
+夸克-胶子等离子体
+时间分辨谱
+薄膜物理学
+BBO crystal
+氢原子
+quantum dots
+SQUID
+板条激光器
+KrF laser
+Cryocooler
+液晶空间光调制器
+外差探测
+啁啾脉冲
+laser
+Luminescence
+储存环
+polaron
+激光陀螺
+物理学会
+全息存储
+归属
+化学位移
+谐振子
+脉冲激光沉积
+直线感应加速器
+magnetopolaron
+高激发态
+SHG
+光纤拉曼放大器
+全光开关
+particle identification
+Photonic band gap
+回旋管
+波长变换
+隐形传态
+空间光学
+平面光波导
+nematic liquid crystal
+Optical waveguide
+oscillator strength
+矩阵光学
+耦合波方程
+AlGaAs
+能级寿命
+光纤耦合
+THz
+浓度猝灭
+联合变换相关器
+有效折射率
+entangled state
+image processing
+digital holography
+phase modulation
+Nd∶YAG laser
+optical constants
+Photonic crystals
+Raman散射
+光强分布
+相位调制
+角动量
+光纤陀螺
+二波耦合
+体全息存储
+调Q
+diode laser
+光抽运
+自发辐射
+保偏光纤
+纠缠
+输运性质
+折射率分布
+Emission spectrum
+状态方程
+密度泛函理论
+quark-gluon plasma
+物理奥林匹克竞赛
+传导电子
+高功率激光装置
+近物
+Divertor
+晕核
+广义相对论
+HTS
+Absorption spectrum
+光学
+quantum information
+吸收谱
+全息光栅
+target detection
+光控取向
+表面极化子
+laser diode array
+光纤环形镜
+laser techniques
+抽运
+辐射跃迁
+High power laser
+optical properties
+long period fiber grating
+squeezed state
+Optical fiber communication
+原子束
+焦耳定律
+原子与分子物理
+spintronics
+自倍频
+electromagnetically induced transparency
+bound state
+激光输出
+antibunching effect
+噪声与振动控制
+heavy ion
+激光冷却
+Femtosecond laser
+Laser technique
+条纹相机
+磁通钉扎
+局域模
+多模干涉
+位相共轭
+近代物理实验
+激光染料
+电光系数
+磁光阱
+腔场谱
+Inertial confinement fusion
+非旋波近似
+LP-MOCVD
+matrix optics
+半导体可饱和吸收镜
+显微拉曼光谱
+optical soliton
+电磁感应透明
+optical fiber communication
+密度泛函
+理论物理
+liquid crystals
+电流引线
+脉冲激光
+Laser magnetic resonance
+Supercontinuum
+J/ψ decay
+improved Hamiltonian
+imaging system
+Raman
+物理实验教学
+电磁散射
+Mach-Zehnder interferometer
+Fluorescence
+中微子
+numerical simulation
+振动光谱
+MTF
+能量转移
+Z扫描
+单光子
+干涉条纹
+ZnSe
+激光谐振腔
+二元光学元件
+energy resolution
+storage ring
+外腔
+介观电路
+幺正变换
+Jacobi椭圆函数
+部分相干光
+holographic grating
+Electroluminescence
+理想气体
+磁极化子
+受激发射
+Bose-Einstein condensate
+反饱和吸收
+非稳腔
+注入锁定
+wavefront reconstruction
+叶企孙
+增益饱和
+Rayleigh scattering
+悬浮力
+轫致辐射
+光谱特性
+正电子湮没
+光学元件
+Critical current
+壳模型
+库仑爆炸
+gratings
+LD pump
+air track
+光栅光谱仪
+Exciton
+rate equation
+耦合效率
+inertial confinement fusion
+光学性质
+symmetry energy
+cesium atom
+Glauber模型
+coherent beam combining
+自电离
+对称能
+guiding wave optics
+Nd∶YAG晶体
+Oscillator strength
+measurement and metrology
+激光等离子体相互作用
+随机并行梯度下降算法
+parabolic quantum dot
+测量与计量
+cBN
+粒子鉴别
+光束质量因子
+Λ型三能级原子
+single longitudinal mode
+激光烧蚀
+随机共振
+放射性核束
+主动锁模
+MRPC
+cross gain modulation
+原子分子物理
+Extinction ratio
+Strehl ratio
+HMBC
+Laser physics
+铜蒸气激光
+ICF靶
+光学速调管
+glueball
+群速色散
+信噪比
+激光辐照
+X射线
+磁电阻
+闪烁晶体
+时空混沌
+宇宙线
+Judd-Ofelt理论
+Tm
+光谱性能
+Electron density
+potential energy function
+quantum cryptography
+光谱研究
+非线性吸收
+binary optics
+angular distribution
+diffraction grating
+电子光谱
+damage threshold
+声致发光
+time resolution
+image intensifier
+精细结构
+spatial light modulator
+光束整形
+分束器
+物理基础
+diamond films
+传输矩阵法
+high pressure
+light scattering
+透过率
+外延薄膜
+铯原子
+Klein-Gordon equation
+傅里叶变换轮廓术
+外腔半导体激光器
+long-period fiber grating
+Zernike polynomials
+超重元素
+Klein-Gordon方程
+Fourier transform
+能隙
+pulse compression
+斯特林制冷机
+稀土配合物
+电子密度
+Infrared spectrum
+量子亏损
+Chirp
+折叠腔
+共振荧光
+量子场论
+BBO晶体
+隐形传送
+YBCO薄膜
+holograph
+Quantum optics
+Numerical simulation
+decay scheme
+K介子
+diffraction and grating
+回旋行波放大器
+等阶N次方H压缩
+Three state superpositions
+顶部籽晶法
+transmission grating spectrograph
+丰中子核
+等阶N-H最小测不准态
+光电流光谱
+Equal order N Y minimum uncertainty state
+wave function
+Fourier transform infrared spectroscopy
+quantum efficiency
+团簇
+金刚石薄膜
+量子干涉
+白光干涉
+金属有机化学气相沉积
+相位延迟
+Brillouin scattering
+孤子解
+KrF激光
+小尺度自聚焦
+MCDF方法
+飞秒光脉冲
+外腔激光器
+assignments
+lattice gauge theory
+Yb∶YAG晶体
+relativistic mean field theory
+两态叠加
+single frequency
+Dielectric barrier discharge
+Judd-Ofelt theory
+光伏效应
+extinction ratio
+近红外漫反射光谱
+时域有限差分
+分子动力学
+传播常数
+双轴晶体
+核物理
+低温制冷机
+Jacobi elliptic function
+imaging spectrometer
+光纤布喇格光栅
+optical material
+禁带宽度
+soft X-ray
+荧光谱
+载流子浓度
+发射光谱
+电子关联
+Digital holography
+自调Q
+激光放大器
+guided-wave optics
+双波描述
+相位匹配角
+capillary discharge
+高重复率
+Solid-state laser
+EACVD
+superheavy nuclei
+cross phase modulation
+homotopic mapping
+Plasma
+水热法
+红外焦平面
+重离子束
+Nd∶YAG激光器
+Jaynes-Cummings模型
+LBO
+Fiber optics
+太赫兹波
+unitary transformation
+跃迁概率
+自混合干涉
+stochastic resonance
+Mie scattering
+hologram
+FDTD
+极化拍频
+交换势
+Vircator
+Pomeron
+椭圆流
+胶球质量
+同质异能态
+Yb掺杂
+erbium doped fiber
+spin assignment
+美国声学学会
+MOPA
+biological optics
+external cavity
+反斯托克斯荧光制冷
+相对论速调管放大器
+光腔衰荡
+Laser-produced plasma
+核温度
+electron cooling
+里德伯态
+Femtosecond pulse
+自衍射
+高温拉曼光谱
+塞曼效应
+polarized light
+cross section
+ICP-AES
+喇曼光谱
+high power
+超导态
+生物光学
+dark matter
+色散缓变光纤
+光束传输
+波前重构
+photocathode
+Yb
+零电阻温度
+热晕
+Stark effect
+光电门
+emittance
+Infrared spectra
+He-Ne laser
+energy level
+photonic band gap
+溶胶-凝胶
+simple pendulum
+重复频率
+ideal gas
+modulation transfer function
+飞秒
+双光子
+王淦昌
+成像光谱仪
+微透镜阵列
+受激辐射
+发光性质
+spatiotemporal chaos
+point spread function
+absorption spectrum
+phosphor
+自旋
+black hole
+laser damage
+光纤水听器
+非线性薛定谔方程
+phase matching
+复合腔
+propagation constant
+预倾角
+空间光孤子
+超核
+正常态
+微分散射截面
+低杂波
+三能级原子
+高温氧化物超导体
+压缩真空态
+波前畸变
+光腔
+光致双折射
+电光开关
+新核素
+相对论平均场理论
+自电离态
+modulation instability
+增益开关
+光声光谱
+thin film
+YAG
+喇曼散射
+偏振态
+cosmic ray
+交流损耗
+高重复频率
+相位恢复
+Optical fiber sensor
+生物组织
+自聚焦透镜
+声光效应
+真空紫外光谱
+thin film optics
+核磁共振(NMR)
+Noether对称性
+Adaptive optics
+机械能守恒定律
+InGaAs
+量子隐形传态
+branching ratio
+分析力学
+普朗克常量
+超流氦
+多模非经典光场
+声光可调谐滤波器
+small signal gain
+不可逆线
+chirped pulse amplification
+ultrashort pulse
+介观物理
+非简谐振子
+two-beam coupling
+phase unwrapping
+磁矩
+混沌同步
+本征态
+外延生长
+binding energy
+行波管
+solitary wave
+空间电荷效应
+空间滤波器
+电光调制器
+高能物理
+ZnO films
+Monte Carlo method
+diamond
+magnetron sputtering
+波束形成
+计算全息
+超分辨
+三维面形测量
+叠加态
+虚阴极振荡器
+Birkhoff系统
+deformable mirror
+rate equations
+马赫-曾德尔干涉仪
+脉冲整形
+KDP
+激光制冷
+耦合模
+洛伦兹变换
+第一性原理计算
+optical coherence tomography
+optical fiber sensors
+spontaneous emission
+退火
+highly charged ion
+Thomson scattering
+氧碘化学激光
+quantum chaos
+Murrell-Sorbie function
+双色场
+laser spectroscopy
+high spin states
+分析势能函数
+对称势
+cold atoms
+quasi-phase-matching
+多光子非线性Compton散射
+核天体物理
+手征对称性
+NOESY
+成像光学
+温梯法
+光参量振荡
+抛物量子点
+X ray laser
+Mach Zehnder interferometer
+Fluorescence lifetime
+同步辐射X射线
+optical system
+白光LED
+全反射
+chaos synchronization
+EPR
+doping
+isospin dependence
+Tokamak plasma
+Thermoacoustic
+中子晕核
+质子晕
+EAST tokamak
+锯齿振荡
+Λ type three level atom
+压缩真空
+光参量啁啾脉冲放大
+辐射烧蚀
+ionic excimer
+spontaneous fission
+非保守耦合
+Sr原子
+光阴极
+particle simulation
+Young modulus
+Z-扫描
+Laser damage
+流密度
+超导带材
+CP破坏
+Si衬底
+跃迁能
+同位旋
+热光效应
+quantum confinement effect
+femtosecond
+量子密钥分发
+频率啁啾
+femtosecond laser pulse
+spatial soliton
+布里渊放大器
+Fiber lasers
+对撞脉冲锁模
+多模干涉耦合器
+microring resonator
+电吸收调制器
+CuBr laser
+闭合轨道理论
+Glauber model
+high order harmonic generation
+胶子球
+显微拉曼
+Laser-induced damage threshold
+QGP
+片状放大器
+能量约束时间
+atomic and molecular physics
+laser amplifier
+钉扎势
+塔尔博特效应
+organic electroluminescence
+声学研究所
+density functional theory
+溶胶-凝胶法
+Absorption spectra
+evanescent wave
+一维光子晶体
+惯性系
+band gap
+fluorescence lifetime
+凝聚态物理
+弱耦合
+碲镉汞
+laser radar
+透射谱
+诺贝尔物理奖
+太赫兹
+像差
+离子束刻蚀
+椭偏光谱
+Bovine serum albumin
+脉冲功率技术
+掺铒光纤激光器
+激光器件
+物理学名词
+near-field optics
+取代基效应
+scintillation crystal
+quantum fluctuation
+高T_c超导体
+多光子电离
+quantum teleportation
+image fusion
+金刚石膜
+光电效应
+optical fiber
+单摆
+Mie theory
+磷酸盐玻璃
+intensity distribution
+光激励发光
+原子核
+waveguide
+MRI
+XRD
+optics
+WDM
+ICCD
+掠入射
+PSⅡ
+Jaynes-Cummings model
+微腔
+spectroscopic properties
+冷原子
+洛伦兹力
+数值计算
+杨氏模量
+ZnO thin film
+量子理论
+全息照相
+失超保护
+pretilt angle
+微分电导
+single-frequency
+heavy ion irradiation
+超短超强激光
+fiber Raman amplifier
+LD-pumped
+量子混沌
+平顶高斯光束
+Yb∶YAG crystal
+Semiconductor optical amplifier
+excitation energy
+reaction cross section
+coupled mode theory
+黑洞熵
+三态叠加
+色散位移光纤
+饱和吸收体
+chirped fiber grating
+apodization
+Polarization mode dispersion
+passively Q-switched
+GHZ态
+分子光谱学
+atomic coherence
+全息图
+光学系统
+soliton
+diamond film
+设计性实验
+精密机械
+LB films
+双光子激发
+两波耦合
+空间频谱
+综述评论
+轨道角动量
+双棱镜
+化学激光
+相位共轭镜
+liquid crystal light valve
+absorption spectra
+驻波
+红外图像
+laser cladding
+量子计算
+Synchrotron radiation
+声速测量
+interaction energy
+uniaxial crystal
+耦合阻抗
+Birefringence
+表面张力系数
+重离子
+中子星
+magnetoresistance
+锁模
+chaos
+衬底温度
+自旋电子学
+激光推进
+pulsed laser deposition
+缺陷模
+掺杂
+hydrothermal method
+共振吸收
+相位展开
+椭圆偏振光
+声子晶体
+声传播
+MBE
+He-Ne激光
+红外光谱
+牛顿环
+光程差
+电动力学
+双微分截面
+Ultrashort pulse
+光学技术与仪器
+双折射滤光片
+Applied optics
+超高斯光束
+photonic crystal fibers
+ZnS∶Cu
+TFA-MOD
+Ti∶sapphire laser
+fiber Raman amplifiers
+Wigner分布函数
+粒子数守恒方法
+Optical switch
+EAST装置
+FT Raman
+QCD
+AlGaInAs
+多原子极性晶体
+光学双稳性
+surface polaron
+squeezed vacuum
+混浊介质
+原子光学
+气轨
+医用光学
+阿秒脉冲
+beam smoothing
+Excited state
+optical device
+径向波函数
+偏滤器
+量子噪声
+L-band
+光学非线性
+two-photon absorption
+大视场
+volume holographic storage
+安培力
+Nd:YAG激光器
+电荷面密度
+光学计量
+夸克胶子等离子体
+光子晶体波导
+beam shaping
+激光二极管阵列
+organic thin film
+ultrashort laser pulse
+GaP
+microchip laser
+Pulse width
+J-O理论
+共振态
+相对转动
+反射相移
+同伦映射
+shock wave
+中国科学技术大学
+物理学家
+温度传感
+MPCVD
+Semiconductor laser
+氦原子
+Interferometer
+Chemical shift
+量子密钥分配
+傅里叶变换红外光谱法
+LED
+声速
+增透膜
+Mie散射
+能量沉积
+interferometry
+TFT-LCD
+LCD
+化学激光器
+能量分辨率
+Faraday effect
+点扩散函数
+resonator
+excimer laser
+多普勒效应
+CVD
+HFCVD
+近代物理
+bacteriorhodopsin
+Near infrared
+局域结构
+规范场
+aspheric surface
+光学谐振腔
+flux method
+degree of polarization
+像质评价
+OLEDs
+密立根油滴实验
+granular matter
+超导临界温度
+二极管泵浦
+预电离
+量子限制效应
+transition energy
+X射线双晶衍射
+法布里-珀罗干涉仪
+透明介质
+低温恒温器
+斜率效率
+chaos control
+激光二极管抽运固体激光器
+二维相关分析
+弗兰克-赫兹实验
+软X光激光
+J/ψ衰变
+显微拉曼技术
+Kyropoulos method
+dressed atom
+isospin
+quasi phase matched
+Fiber amplifier
+Joule law
+闪光灯泵浦
+Nonlinear absorption
+photorefractivity
+D NMR
+CLBO晶体
+ECR ion source
+dielectronic recombination
+chemical oxygen-iodine laser
+多重碎裂
+High temperature superconductivity
+Equal-order N-th power Y-squeezing
+Mode coupling
+GdCOB晶体
+光跃迁
+Bean模型
+透射光栅光谱仪
+ocean optics
+代数动力学
+High-power microwave
+Lanthanide complex
+Multimode squeezed state
+Phase matching
+类氟离子
+负离子配位多面体生长基元
+光子选通光谱烧孔
+光学参量振荡
+临界电
+phase transition.
+aberration
+等厚干涉
+平面波展开法
+声光调制
+photovoltaic effect
+optical limiting
+zone plate
+saturable absorber
+微波表面电阻
+COSY
+有质动力
+自泵浦相位共轭
+准三能级
+thermal lens
+增益分布
+third harmonic generation
+切趾
+self-pumped phase conjugation
+physics experiments
+spring oscillator
+钕玻璃
+相对论返波管
+窄线宽
+高阶模
+沟道辐射
+two-wave mixing
+激光预处理
+受激发射截面
+bound polaron
+Wavelength division multiplexing
+Bi系
+密耦方法
+运动介质
+电子枪
+有机发光二极管
+Cable-in-conduit conductor
+stimulated Raman scattering.
+剖面不变性
+环形单频激光器
+非挥发全息记录
+切伦科夫倍频
+偏振旋转
+relativistic heavy ion collisions
+Gires-Tournois谐振腔
+三轴形变
+hohlraum
+LiM（M=Ca
+Equal order N th power H squeezing
+原子核阻止
+attosecond pulse
+原子共振滤光器
+PFG
+Spherical tokamak
+J O theory
+isospin effects
+强子事例
+isospin fractionation
+Double-clad fiber
+量子几何相位
+proton halo
+Equal order N H minimum uncertainty state
+Linear birefringence
+原子电性距离矢量（VAED）
+同位旋分馏
+类氖锗
+理论物理学
+晶格振动
+类金刚石薄膜
+薄膜
+高次谐波
+CdSe
+Spectra
+带隙
+Refractive index
+porous silicon
+原子团簇
+J-C模型
+scintillator
+相干长度
+同位素效应
+Soft X-ray
+交流磁化率
+Laser technology
+NMR.
+高温超导磁体
+脉冲展宽
+激光诱导等离子体
+吴健雄
+相对论性
+Sagnac interferometer
+量子代数
+变形镜
+闪耀光栅
+氧化锌
+混沌控制
+annealing
+匹配滤波器
+液氦
+工科物理
+FTIR spectra
+X射线衍射
+图像融合
+居里温度
+Infrared spectroscopy
+blue laser
+哈密顿算符
+量子色动力学
+银胶
+光学实验
+束缚极化子
+焦移
+birefringent filter
+激光大气传输
+超导电子
+photopolymer
+准粒子
+条纹分析
+泽尼克多项式
+中子产额
+beam splitter
+消相干
+光学相位共轭
+两能级原子
+光脉冲压缩
+dense wavelength division multiplexing
+diffraction optics
+热声发动机
+辐射跃迁几率
+三阶非线性极化率
+非线性效应
+红移
+wavelet transform
+偏振光
+截面
+Optical communication
+振动模
+聚焦特性
+凝聚态物理学
+高功率激光器
+光致发光光谱
+负折射率
+photoelectric effect
+FTIR光谱
+真空紫外
+X-ray diffraction
+光谱分析
+analytical mechanics
+光致变色
+linear induction accelerator
+coupled-wave theory
+泵浦光
+soft X ray
+profilometry
+surface magnetopolaron
+掺镱双包层光纤
+ECR离子源
+多体项展式理论
+soft X-ray laser
+表面磁极化子
+磁通量子
+phase retardation
+atmosphere optics
+Optical fiber sensors
+拉曼相互作用
+非临界相位匹配
+Laser optics
+弛豫振荡
+氟氧化物玻璃陶瓷
+硬边光阑
+Hojman conserved quantity
+volume holography
+medical optics
+傅里叶变换光谱
+非Noether守恒量
+色散管理孤子
+TGS crystal
+optical code division multiple access
+Rydberg态
+衍射积分
+chirped pulse
+无反转激光
+高功率激光系统
+离子-原子碰撞
+掺钛蓝宝石激光器
+Diffraction
+Laser
+Fabry-Perot interferometer
+静高压
+核物理学
+Murrell-Sorbie函数
+振幅调制
+form invariance
+MEH-PPV
+菌紫质
+joint transform correlator
+束缚能
+囚禁离子
+optical filter
+混合态
+脉冲管制冷机
+FT-Raman
+tunable laser
+阴极射线发光
+平面波导
+LiF
+Noether symmetry
+光谱响应
+激光散斑
+fiber sensor
+偏振特性
+探测效率
+Doppler shift
+scattering
+focal length
+frequency stabilization
+超声光栅
+pulse laser
+electron gun
+geometric optics
+TOF
+全内反射
+molecular beam epitaxy
+阵元
+量子态
+化学气相沉积
+反射率
+稀土离子
+rotational inertia
+配分函数
+孤波
+Monte Carlo simulation
+CICC
+内耗峰
+upconversion luminescence
+冲量耦合系数
+热透镜
+surface tension coefficient
+holographic storage
+激光特性
+optical transfer function
+偶极相互作用
+激光场
+Complex
+light yield
+photorefraction
+position resolution
+Optical burst switching
+光束偏转
+Morse势
+薛定谔猫态
+PIC模拟
+fiber loop mirror
+超冷原子
+Rare earth complexes
+grating spectrometer
+激光感生荧光
+费米面
+平顶光束
+虚阴极
+光学参量
+产生截面
+非线性偏振旋转
+cavity field spectrum
+Damage threshold
+光参量放大
+原子相干
+物理学工作者
+增益特性
+远场发散角
+Hojman守恒量
+非线性传输
+回归谱
+laser induced damage threshold
+打点计时器
+全光波长转换
+理学类
+polarization maintaining fiber
+声表面波
+保真度
+色散特性
+光电子
+DWDM
+文献分类
+图像复原
+强耦合
+prism
+interference fringe
+Spectroscopy
+ellipsometry
+低温工程
+electron temperature
+第一性原理
+standing wave
+SiC
+金刚石
+超导
+发光
+激波
+干涉测量
+散射截面
+magnetic moment
+光镊
+wavelength division multiplexing
+单缝衍射
+Thermal effect
+stimulated Brillouin scattering （SBS）
+强流相对论电子束
+atom optics
+Hot electron
+跃迁波长
+托卡马克等离子体
+信号光
+relatively rotation
+自举电流
+self mixing interference
+偏振主态
+DKDP crystal
+光学超分辨
+染料激光放大器
+同步辐射白光X射线形貌术
+小信号增益系数
+PIC method
+光学相关器
+光学声子平均数
+high-spin state
+辐射输运
+Raman amplification
+高压X射线衍射
+KrF准分子激光
+再生放大
+thermal focal length
+closed-orbit theory
+optical time division multiplexing
+粗糙界面散射
+Collisional energy transfer
+Brillouin amplifier
+调制转移光谱
+Hyperfine structure
+非对称量子阱
+stochastic parallel gradient descent algorithm
+Diffractive optical element
+CLBO crystal
+电磁跃迁
+symmetry potential
+branching fraction
+Hartmann wavefront sensor
+equation of state.
+离子准分子
+Kerr like medium
+回旋行波管
+Laser propagation
+Multimode nonclassical light field
+Calibration model
+scanning tunneling microscopy
+重离子辐照
+OCDMA
+film optics
+CGH
+吴有训
+相位畸变
+photorefractive
+扫描近场光学显微镜
+polarizer
+gain
+光束传播法
+Fizeau interferometer
+fiber lasers
+光场压缩
+wiggler
+ESR谱
+heterodyne detection
+频率上转换
+superconducting cavity
+脉宽压缩
+circuit experiment
+压缩真空场
+liquid phase epitaxy
+ring laser
+向列液晶
+He Ne laser
+Vibrational spectra
+accelerator mass spectrometry
+严格耦合波理论
+YAG晶体
+space optics
+解析势能函数
+光电导开关
+高阶色散
+backlight
+up-conversion luminescence
+高温超导电性
+BCS理论
+光致异构
+激光光谱学
+场熵
+聚合物发光二极管
+负折射率材料
+LPE
+optical tomography
+分幅相机
+约瑟夫逊效应
+AOTF
+signal-to-noise ratio
+infrared image
+电子自旋共振
+转动惯量
+image reconstruction
+介质阻挡放电
+算符
+相对论效应
+法拉第效应
+群速度
+晶格常数
+点扩展函数
+target recognition
+弛豫
+金属玻璃
+辐照效应
+total internal reflection
+液芯光纤
+phase retrieval
+原子物理
+光学测试
+测不准关系
+neutrino
+coupling efficiency
+two-level atom
+L波段
+非均匀性校正
+粒子物理学
+慢波结构
+He-Ne激光器
+Kerr效应
+波长调谐
+偏振相关损耗
+F-P腔
+迈斯纳效应
+quantum interference
+物理教学改革
+hyperfine structure
+强激光场
+坩埚下降法
+微片激光器
+PDLC
+Talbot效应
+organic light-emitting diodes
+超导转变
+自旋玻璃
+双极化子
+gain saturation
+海洋光学
+Emission spectra
+玻色气体
+Raman Spectroscopy
+光电成像系统
+透射光谱
+synthetic diamond
+论文题名
+路径积分
+能带结构
+fluorescence spectra
+混沌系统
+激光熔覆
+Doppler effect
+蒙特卡罗方法
+ZnS
+空间分辨率
+XPS
+image restoration
+电势
+（Tm
+掺杂二硼化镁
+thin film physics
+fusion cross section
+optical superresolution
+移测显微镜
+事例产生器
+激光技术实验室
+Rydberg atom
+X-ray emission
+event generator
+倍频转换效率
+Detached plasma
+中能重离子碰撞
+颗粒超导体
+glueball mass
+缀饰原子
+晶界结
+等离子体位移
+Temperature sensing
+CdSe single crystal
+Phase mask
+grating.
+Double clad fiber
+自倍频激光晶体
+Boyle law
+初始磁化曲线
+快离子束激光光谱学
+nuclear temperature
+dispersion compensation.
+光谱色散平滑
+磁聚焦结构
+Zero field splitting
+量子噪音
+Quantum coherence
+频率调制光谱
+量子绝热定理
+optical bistability.
+内爆等离子体
+superstructured fiber Bragg grating
+代数迭代法
+Hartmann Shack sensor
+Phase perturbation
+Nonlinear refraction
+直流电致发光
+micro-channel plate
+Step index fiber
+soft-X-ray laser
+mean number of optical phonon
+触发效率
+p偏振光
+spatial frequency spectrum
+polycrystal synthesis
+高温超导块材
+LiF晶体
+功率沉积
+Dispersion managed soliton
+RF gun
+FPGA
+tuning fork
+femtosecond optical pulse
+水窗
+cross-phase modulation
+ZnS∶Mn
+Pellet injection
+black hole entropy
+liquid-core optical fiber
+回旋共振
+辐射衰变
+resonance fluorescence
+GaNAs
+压缩简并
+有理数谐波锁模
+多电子原子
+Wavelength selection
+光束发散角
+动态散斑
+relaxation oscillation
+光学声子
+物理学院
+HMQC
+bound states
+透射光栅谱仪
+波长可调谐
+温度不敏感
+有限核
+密度矩阵方法
+薄片激光器
+形状共存
+nonlinear refractive index
+相敏光放大器
+三重微分截面
+光克尔效应
+Pulse tube refrigerator
+Optical soliton
+Lau效应
+位相畸变
+掺镱光纤激光器
+汉语连续语音识别
+GaAs photocathode
+Defect mode
+Cr∶YAG
+平均原子模型
+非对称两态叠加
+Four-wave mixing
+Fourier transform spectroscopy
+filamentation
+原位FTIRS
+自发参量下转换
+原子偶极压缩
+缺陷态
+光交叉连接
+薄透镜
+green laser
+无线电电子学
+平行板电容器
+温度梯度法
+磁悬浮力
+量子统计
+平板波导
+引力波
+非线性介质
+激光直写
+light propagation
+High speed photography
+Quantum well
+角锥棱镜
+折射率测量
+concentration quenching
+光纤器件
+高光谱图像
+high pressure and high temperature
+squeezing effect
+luminescent properties
+介质谐振器
+牛顿第二定律
+decoherence
+white LED
+熔盐法
+量子密码
+Secondary structure
+中子辐照
+Spatial resolution
+高能激光
+简并
+正电子
+密度矩阵
+SPECT
+温度特性
+图像重建
+位错
+自组装
+光电子技术
+激光拉曼光谱
+微扰
+结合能
+hydrothermal synthesis
+光谱干扰
+孤波解
+量子力
+光学检测
+棱镜
+颗粒物质
+电子自旋
+beat frequency
+规范变换
+Hydrogen bond
+Mach-Zehnder干涉仪
+玻色子
+光电子器件
+波带片
+色散介质
+Planck constant
+Density functional theory
+剪切干涉
+形式不变性
+染料激光
+速调管
+梳状滤波器
+背光源
+高温超导薄膜
+光电导
+holographic interferometry
+Vortex tube
+liquid crystal spatial light modulator
+表面激子
+DEPT
+电子顺磁共振（EPR）
+含氟液晶
+锁模激光器
+基础物理教学
+阶梯算符
+TD-ERCS
+速度调制
+BEPCⅡ
+矢量衍射理论
+钠原子
+EPR谱
+trapped ion
+Coulomb explosion
+BES
+低能电子散射
+钒酸钇晶体
+Ring cavity
+离子温度
+纳米光学
+supersymmetry
+多层介质膜
+ABCD光学系统
+散射声场
+physical experiments
+汤姆逊散射
+focal shift
+optical parametric amplification
+超强激光
+zoom system
+Spectral interference
+波像差
+晶体结构
+诺贝尔物理学奖
+多层膜
+变分法
+左手材料
+相互作用能
+时域有限差分方法
+偏振片
+光学特性
+CCD camera
+石英光纤
+optical path difference
+total reflection
+加速器质谱
+微穿孔板
+transmission spectra
+专题栏目
+Compton scattering
+脉管制冷机
+简谐振动
+电象法
+双模光场
+冲击电流计
+二次谐波发生
+Near infrared spectrum
+应力双折射
+wavefront sensor
+临界场
+Q-switched
+pump-probe
+原子核物理
+几何相位
+热焦距
+傅里叶变换光谱仪
+冷却储存环
+双包层光纤激光器
+啁啾光栅
+NOE
+光子统计
+有限温度
+增益带宽
+atomic physics
+electro-optical effect
+equal thickness interference
+interferometric demodulation
+应变层超晶格
+光突发交换
+self-mixing interference
+Schrdinger方程
+偏振模色散补偿
+fringe analysis
+势模型
+灵敏电流计
+双折射光纤
+全光波长变换
+Bose-Einstein condensates
+功率代价
+substituent effect
+resonant tunneling
+反常色散
+光产额
+完全非弹性碰撞
+Wigner distribution function
+分子磁体
+光调制
+Langmuir-Blodgett films
+unstable resonator
+BBO
+荧光粉
+光纤传感
+狭义相对论
+干涉
+时延估计
+harmonic oscillator
+光放大器
+sapphire
+迈克尔逊干涉仪
+AFM
+reflectivity
+氢键
+quantum mechanics
+transmittance
+禁带
+磁电阻效应
+电子冷却
+solitary wave solution
+I-V特性
+phase noise
+舰船辐射噪声
+positron annihilation
+color center
+空心阴极放电
+激光聚变
+最小偏向角
+fractional Fourier transform
+Partial least squares
+散射矩阵
+落球法
+分凝系数
+斯塔克效应
+BEPC
+隧穿
+zoom lens
+ICRH
+太赫兹时域光谱
+path integral
+erbium-doped fiber laser
+Birkhoffian system
+射频放电
+LHCⅡ
+spatial filter
+光学模式识别
+波前传感器
+谐振波长
+电子陷阱
+面形误差
+胆甾相液晶
+可见-近红外光谱
+环形激光器
+温度调谐
+Hawking radiation
+辐射谱
+ZEMAX
+V-type three-level atom
+激发温度
+中国激光
+外磁场
+光谱测量
+crystal morphology
+cellular automaton
+Wavelet transform
+能谱
+ray tracing
+色心
+chaotic system
+空间滤波
+光吸收
+generalized synchronization
+分子离子
+bremsstrahlung
+excimer
+index of refraction
+neutron star
+发射截面
+optical parameter
+strong coupling
+B积分
+Stirling cryocooler
+液体折射率
+Hawking辐射
+彩虹全息图
+场致发射
+transmission spectrum
+spectral properties
+椭圆积分
+微扰法
+相位噪声
+millimeter wave
+EAST
+小波变换
+串扰
+调谐
+液气相变
+Laser-induced plasma
+分立能级
+铜氧化合物
+Laser induced plasma
+diode pumped
+三次谐波转换
+高T_c超导薄膜
+γ效应校正
+Chemical shifts
+autoionization
+single-longitudinal-mode
+solid-state lasers
+polarization mode dispersion compensation
+laser linewidth
+圆对称
+哈特曼波前传感器
+Raman microscopy
+奇奇核
+Group velocity dispersion
+简正波理论
+Concentration quenching
+超声兰姆波
+Carlo模拟
+linear cavity
+径迹重建
+atom trap
+LMR
+孤子传输
+Kerr nonlinearity
+有源驱动
+球形托卡马克
+symplectic scheme
+低温比热
+Tunable
+多程放大
+MmB
+锚定能
+总角动量
+电磁量能器
+分步傅里叶方法
+电子束源
+shell effect
+halo nuclei
+TlBaCaCuO超导体
+矢量势
+single-mode laser
+diode-pumped solid-state laser
+Chromatic dispersion
+XeCl准分子激光
+Up-conversion
+MQDT
+基质发光
+光栅对
+桶中功率
+轻带电粒子
+光抽运信号
+俘获场
+Oscillator strengths
+表面热透镜技术
+渡越时间效应
+拉曼散射谱
+magneto-optical trap
+激光辐照效应
+分子间多量子相干
+强子化
+YBCO superconductor
+d波超导
+ICRF
+迭代位移叠加法
+激光二极管端面抽运
+无透镜傅里叶变换全息图
+像传递
+相息图
+Selfoc lens
+optical phase conjugation
+玻璃波导
+coherent combination
+EL器件
+Apodization
+辐射不透明度
+superheavy element
+单模
+细菌视紫红质
+哈密顿量
+正则变换
+稳频
+单晶
+声源
+光电倍增管
+红外
+cavity QED
+自感系数
+圆孔衍射
+光激发
+能级分裂
+bistability
+光传播
+安培环路定理
+期刊全文
+Fourier transform profilometry
+中红外
+圆电流
+MCP
+量子尺寸效应
+发光光谱
+飞行时间质谱
+有机薄膜
+电子束蒸发
+振动模式
+多普勒频移
+莫尔条纹
+爆炸力学
+精确解
+消光系数
+非结构网格
+磁化强度
+辉光放电
+紫外光谱
+Calibration
+光学性能
+spatial filtering
+optical tweezers
+Laser diode
+微扰论
+克尔效应
+三倍频
+碲酸盐玻璃
+大气传输
+发射谱
+rainbow hologram
+superresolution
+振动能级
+混合工质
+氮化镓
+康普顿散射
+光学技术
+Sol-gel
+光刻
+单壁碳纳米管
+self phase modulation
+有机薄膜电致发光
+高压物理
+散射颗粒
+玻尔兹曼分布
+到达角起伏
+TSSG
+Paul阱
+quasi-phase-matched
+低阈值
+任意子
+acousto-optic Q-switch
+超子
+Noise figure
+马赫曾德尔干涉仪
+耦合模方程
+漂移室
+Rare earth ion
+高能重离子碰撞
+超声分子束
+同步泵浦
+imaging optics
+polarizing beam splitter
+Nd:GGG
+固态阴极射线发光
+Vis/NIR spectroscopy
+Spatial light modulator
+relativistic electron beam
+double differential cross section
+atomic beam
+非傍轴
+Holographic storage
+refractive indices
+非简并四波混频
+计算机辅助装调
+COLOC
+热容激光器
+Yb:YAG晶体
+熔态淬火
+束流不稳定性
+electro-optical modulation
+Laser propulsion
+衍射损耗
+Optical communications
+逃逸电子
+表面增强拉曼散射光谱
+固体NMR
+克尔透镜锁模
+drift chamber
+表面增强拉曼光谱（SERS）
+自由激子
+intense laser field
+光纤偏振器
+YBaCuO超导体
+二极管泵浦固体激光器
+散射态
+光学增益
+类铍离子
+Rotational temperature
+光电离截面
+synthetic crystal
+RF cavity
+BSO crystal
+precise design
+马大猷
+organic light emitting diodes
+量子线
+Fresnel lens
+defect mode
+光纤耦合器
+立体化学
+无线光通信
+multiple scattering
+矢量水听器
+李萨如图形
+electromagnetic scattering
+发光中心
+α粒子
+薛定谔方程
+氧化锌薄膜
+Chemiluminescence
+水听器
+semiconductor
+sol-gel
+光学势
+Stokes parameters
+缓冲气体
+核数据
+零色散波长
+neutrino oscillation
+KDP crystals
+thermal blooming
+偏光干涉
+Left-handed material
+intensity noise
+量子安全直接通信
+Z scan
+chiral symmetry
+周视
+共振电离
+optical lattice
+对关联
+寿命测量
+sum-frequency
+蓝光激光器
+Optical limiting
+光学神经网络
+电荷交换
+分光晶体
+二能级系统
+三轴超形变
+单晶Si
+时钟提取
+fiber coupling
+Raman laser
+有限维希尔伯特空间
+亚波长光栅
+弱吸收
+diatomic molecule
+slope efficiency
+扭曲角
+Diffractive efficiency
+MCDF method
+偶合常数
+optical cavity
+等离子体通道
+无损鉴别
+double-clad fiber
+波导色散
+全光通信网
+gyrotron
+rate coefficient
+相位锁定
+光瞳滤波器
+laser-produced plasma
+单光子探测
+波法线
+CPMG
+(e
+激光科学
+全光时钟提取
+设计性物理实验
+重离子反应
+检偏器
+电四极矩
+谱学性质
+奇偶相干态
+光热偏转
+laser ablation
+带电粒子
+耦合系数
+近红外
+emission spectra
+倏逝波
+球差
+DSMC
+nanocrystals
+后向散射
+外电场
+音叉
+phase-matching
+infrared focal plane array
+核效应
+亚泊松分布
+空穴浓度
+单量子阱
+偏振分束器
+Ti:sapphire laser
+极化聚合物
+超导膜
+Rydberg state
+laser display
+阈值电流
+菲涅耳
+准连续
+自发裂变
+photon statistics
+辐射寿命
+狄拉克方程
+F-P标准具
+diamond anvil cell
+预脉冲
+resonance absorption
+光荧光谱
+aspherical surface
+PL谱
+NIR spectroscopy
+RTPM
+干涉成像光谱仪
+交变流动
+多注速调管
+高反射率
+激光二极管泵浦
+MODTRAN
+biaxial crystal
+纠缠交换
+surface charge density
+磁聚焦
+Bose gas
+倍频晶体
+色度计
+光分插复用器
+调制度
+光轴
+telescope
+增益
+纳米晶
+激光诱导荧光
+全息干涉计量
+增益谱
+monochromator
+elliptically polarized light
+压缩相干态
+high-order harmonic generation
+binary optical element
+光电发射
+多光子过程
+德国物理学家
+单原子
+双模压缩真空场
+dye laser
+optical pattern recognition
+Biological tissue
+光导开关
+光谱实验室
+relativistic effect
+field emission display
+dark energy
+动生电动势
+Newton ring
+体全息
+低温学
+potential energy surface
+实验物理
+激光模式
+scattering matrix
+G-M制冷机
+三维光存储
+波导
+self-focusing
+Temperature dependence
+溅射产额
+shell model
+彩虹全息
+共振隧穿
+费米子
+耦合双原子
+激光诱导击穿光谱
+ferroelectric liquid crystal
+衍射角
+光滤波器
+光学微腔
+矢势
+外延层
+自旋极化
+Diode laser
+EIT
+magnetic field
+蓝移
+光谱诊断
+CCD相机
+光电离
+双原子分子
+振动周期
+光纤探针
+单色仪
+light emitting diode
+spectral response
+被动定位
+原子力显微镜
+optical property
+熔合截面
+原子-腔场相互作用
+three-body force
+self-defocusing
+低阶模式
+Time-resolved spectrum
+white beam synchrotron radiation topography
+共振拉曼散射
+粒子约束时间
+破裂反应
+量子分子动力学
+铁电畴反转
+quantum adiabatic theorem
+Electron excitation temperature
+energy pooling
+Optical current sensors
+self frequency doubling crystal
+腰斑半径
+Plasma turbulence
+起伏谱
+中心切片定理
+Non destructive analysis
+Relativistic klystron amplifier
+triaxial deformation
+Anti-Stokes fluorescent cooling
+Low temperature regenerator
+stochastic parallel gradient descent
+organic nonlinear optical crystal
+Thermoacoustic refrigerator
+Conduction cooling
+erraticity
+Q  switch
+hot nuclei
+EXAFs
+trigger efficiency
+bistability.
+正钒酸钙晶体
+中等质量碎片
+Laser resonator
+复解析信号
+重费米子
+碎裂反应
+光纤环形谐振腔
+Atom cavity field interaction
+NIR FT Raman
+非对称核物质状态方程
+Ultra-short pulse laser
+Nd∶KGW晶体
+非微扰QCD
+cold atom
+Yb doping
+应变重建
+相对论无规位相近似
+缠结态
+拉曼散射截面
+nuclear stopping
+swift heavy ion
+混合对称态
+紫外-真空紫外
+Profile consistency
+Particle confinement time
+preconditioned conjugate gradient.
+非单色光
+光折晶体
+optical transition
+潘宁阱
+Josephson
+Reflection-induced retardance
+D profilometry
+In Situ FTIRS
+自旋扩散
+Chemical oxygen-iodine laser(COIL)
+降算符
+Long period fiber gratings
+图样间联想
+平面波反射系数
+光声喇曼光谱
+Guided wave and fiber optics
+IDCA
+铌酸钾锂晶体
+thermal/electrical poling
+rubidium hydrogen selenate
+Density matrix approach
+固态氩
+JPCIAE模型
+Rate coefficients
+Generalized magnetic field component
+THP/PMMA
+breakup reaction
+MARFE
+effective confinement length
+Four state superimposition
+光流体模型
+photon image
+靶原子
+Yellow laser
+随机并行梯度下降
+声速计
+CUO
+relativistic random phase approximation
+quantum Hall effect
+三体核力
+Fiber loop mirror
+径向梯度折射率
+同位旋相关的量子分子动力学模型
+脱靶等离子体
+电荷转移
+electron beam evaporation
+CdZnTe
+光纤激光
+固体物理
+激光传输
+X-ray imaging
+电光晶体
+康普顿效应
+有机晶体
+光荧光
+银溶胶
+转镜
+high energy laser
+hydrogen atom
+Glow discharge
+准分子
+电离势
+Bragg diffraction
+统计物理
+离焦量
+chromatic dispersion
+Si substrate
+up-conversion
+spatial resolution
+crosstalk
+polarization
+包裹物
+波面
+半波损失
+反射谱
+光声信号
+近代物理研究所
+Nd:YAG
+矢量传感器
+heterojunction
+三重态
+传输特性
+误码率
+目标检测
+热导率
+散射
+瑞利散射
+Spectral analysis
+Nd:YAG laser
+EDFA
+超混沌
+finite-difference time-domain method
+激光诱导
+Spectrometer
+Schrdinger方程
+核磁共振波谱
+重力加速度
+Navier-Stokes equations
+散斑
+星敏感器
+detection efficiency
+光纤干涉仪
+核科学
+squeezing
+吴大猷
+结晶习性
+红外透过率
+纠缠度
+量子通信
+空间群
+物理问题
+IR spectra
+转换效率
+FTIR spectroscopy
+量子比特
+银电极
+激光材料
+光纤损耗
+neutron
+Optical properties
+interleaver
+高强度聚焦超声
+导光板
+液相外延
+辐射定标
+配合物
+电阻率
+高温高压
+微扰理论
+光纤Bragg光栅
+标准模型
+射频磁控溅射
+目标识别
+fluorescence spectrum
+spin
+杨振宁
+基态
+PECVD
+掺杂浓度
+substrate temperature
+有限时间热力学
+physics teaching
+时间分辨率
+反射特性
+普通物理
+纳米硅
+光学零件
+Laser ablation
+离子束溅射
+molecular dynamics
+partially coherent beams
+低温物性
+全实加关联
+quarter-wave plate
+光弹调制器
+大气与海洋光学
+杂散场
+变折射率光学
+water window
+断前粒子多重性
+粲偶素
+国际声学会议
+光纤链
+collective flow
+超形变
+SEM图
+stimulated radiation
+压缩光
+介电常量
+冲击绝热线
+Fused silica
+耗散反应
+惯性约束聚变驱动器
+运动学拟合
+电子模拟器
+微环谐振器
+电子碰撞电离
+多原子半无限晶体
+线形腔
+analyzer crystal
+angular momentum projection
+Raman spectrum.
+F P cavity
+放射性束流
+光学发射谱
+dye laser amplifier
+Optical film
+光折变光栅
+Coherent combining
+laser conditioning
+nonlinear phase shift
+女物理学家
+Rate equations
+Czochralski technique
+Binary optical element
+多粒子产生
+Rydberg series
+ADP晶体
+Hollow cathode discharge
+two-step excitation
+色散平坦
+中性束
+光学度规
+极化势
+光学湍流
+Cr∶LiSAF
+临界电流密度Jc
+模型势
+高温超导电流引线
+光逻辑
+条纹管
+electromagnetic transition
+Double clad
+Passively Q-switched
+赝自旋对称性
+Fiber gratings
+One-dimensional photonic crystal
+mean first-passage time
+照明光学
+冲击熔化
+laser diode-pumped
+composite crystal
+multiple quantum wells
+radioactive ion beam
+shock Hugoniot
+Photoinduced birefringence
+有限差分光束传输法
+临界态模型
+LT-GaAs
+VUV spectrum
+Penning trap
+Gain spectrum
+原子碰撞
+双光子共振三光子电离
+六波混频
+optical logic
+色散吸收介质
+hadronization
+超短强激光脉冲
+多晶合成
+重夸克偶素
+真空波函数
+pentaquark
+多光子电离解离
+high temperature Raman spectroscopy
+optical crystal
+projection lens
+Two photon
+reflectivity contrast
+Spatial coherence
+semiconductor saturable absorber mirror
+光谱整形
+共焦显微拉曼光谱
+挠曲电效应
+GdCOB crystal
+algebraic dynamics
+Surface enhanced Raman scattering
+infrared spectroscopic ellipsometry
+phase-height mapping
+single mode laser
+Laser crystal
+量子霍尔效应
+电子型超导体
+High-power laser
+白光发射
+金刚石压砧
+beam divergence
+分子动力学模拟
+水热合成
+离子注入
+脉冲宽度
+电容
+quantum computation
+塑料光纤
+光纤
+三次谐波
+光电特性
+ab initio
+angular momentum
+光电性能
+光学厚度
+发散角
+交流电桥
+衰减全反射
+负折射率介质
+光扇效应
+变分迭代
+laser array
+中学生物理竞赛
+noncollinear phase matching
+倍频系数
+深中心
+可饱和吸收体
+lead tungstate crystal
+forbidden transition
+能级间隔
+非对称量子点
+red light emission
+反应几率
+里德伯原子
+在线同位素分离器
+种子注入
+Strehl比
+束缚磁极化子
+费密子
+Electronic spectra
+高平均功率
+Decoherence
+PPLN
+Optical transfer function
+偏振无关
+Branching ratio
+modern physics experiment
+Photonic bandgap
+广义相干态
+G-M refrigerator
+单频激光器
+perfect shuffle
+光伏探测器
+GaAs光电阴极
+dipole-dipole interaction
+非线性相移
+Franck-Hertz experiment
+LMTO
+Surface-enhanced Raman scattering
+laser-induced damage threshold
+Stark broadening
+原子能技术
+TGS晶体
+Optical spectra
+Yb:YAG crystal
+Galilean transformation
+时间分辨ESR
+三级像差理论
+激光振荡
+lifetime measurement
+偏光棱镜
+Luminescence properties
+线聚焦
+斜效率
+脉冲形成线
+光双稳
+相似压缩
+ion-atom collision
+Fresnel hologram
+光声检测
+变形反射镜
+Drell-Yan过程
+晶体场和配位场
+analytical potential energy function
+超荧光
+tunneling ionization
+three-dimensional shape measurement
+NMR研究
+晶场理论
+transverse mode
+参量下转换
+dynamic aperture
+相对论平均场模型
+AC losses
+WKB方法
+跃迁矩阵元
+体光栅
+InAsSb
+power penalty
+hypernuclei
+semiconductor optical amplifier （SOA）
+部分相干光束
+原子相干性
+五夸克态
+原子集团
+Cherenkov radiation
+散射回波
+X射线光谱学
+二极管抽运
+laser Doppler effect
+自泵浦
+全息聚合物分散液晶
+晶体谱仪
+局域振动模
+掺镱光纤
+anchoring energy
+microstructure fiber
+nuclear astrophysics
+α衰变能
+严格耦合波分析
+能量分辨
+迈克耳孙
+Aero-optics
+uniform illumination
+电子回旋共振加热
+conservation of angular momentum
+elastic scattering
+离解能
+microcavity
+光学层析
+plasma diagnostics
+无辐射跃迁
+excited states
+应变量子阱
+Particle simulation
+转动温度
+多光子
+偏振光学
+光子扫描隧道显微镜
+相对论电子束
+near field optics
+线性双折射
+ZnS:Mn
+迎风紧致格式
+Fiber optic sensor
+电荷有序
+依赖强度耦合
+Photorefractive effect
+不确定关系
+衰变纲图
+电荷密度波
+约瑟夫逊结
+space camera
+solid state laser
+激光玻璃
+Laser irradiation
+Langmuir-Blodgett膜
+非线性折射
+coupled-mode theory
+weak coupling
+反质子
+里德堡态
+polymer dispersed liquid crystal
+Josephson effect
+质子交换
+Fabry-Perot cavity
+相对论修正
+腔QED
+失超
+交叉弛豫
+远场分布
+微波腔
+自由电荷
+扩展目标
+激发态吸收
+dark current
+charged particle
+stimulated emission
+端面泵浦
+超导性能
+目标强度
+optical rotation
+热电势率
+激光性能
+optical metrology
+复折射率
+gain coefficient
+标准具
+Optical system
+radiometric calibration
+时间演化
+positron
+载流线圈
+circular current
+Klystron
+低能电子衍射
+α衰变
+波前重建
+荧光衰减
+相干探测
+streak camera
+J-O theory
+伊辛模型
+laser induced damage
+all-solid-state laser
+Wiggler
+ionization potential
+光分组交换
+Bacteriorhodopsin
+热纠缠
+导模
+电光性能
+Fiber sensor
+光泵
+超对称
+超短激光脉冲
+detuning
+展宽器
+缀饰态
+四阶色散
+自散焦
+减反膜
+单模辐射场
+Terahertz
+电子组态
+精细化设计
+two level atom
+Raman Spectrum
+ferroelectric domain
+ellipsometer
+optical communication technology
+超快激光
+喇曼谱
+organic crystal
+伽利略变换
+电磁诱导透明
+热库
+吸收系数
+激光增益
+计算机制全息图
+夫兰克-赫兹实验
+Nonlinear effect
+白宝石
+相对论力学
+高功率微波源
+Self-focusing
+ABCD矩阵
+pulse broadening
+光纤环形腔
+dissociation energy
+轻子
+光生伏打效应
+外延膜
+超新星遗迹
+BSO晶体
+TFT LCD
+磁通线
+色散渐减光纤
+可调谐激光
+Emission spectroscopy
+高斯光学
+Cryogenic
+非线性声参量B/A
+准位相匹配
+稀疏孔径
+多模压缩态
+量子干涉效应
+波导激光器
+共振拉曼光谱
+标量衍射
+光电流谱
+infrared focal plane arrays
+弹丸注入
+Partially coherent light
+structural phase transition
+Fiber optic gyroscope
+cavity quantum electrodynamics
+部分相干
+谐波探测
+squeezed vacuum state
+injection locking
+Fabry-Perot etalon
+双晶结
+衍射特性
+紫外激光器
+负离子配位多面体
+beam quality factor
+破坏阈值
+Potential energy function
+Chemical laser
+external cavity semiconductor laser
+回旋速调管
+solid-state NMR
+角度调谐
+稀土发光
+effective Hamiltonian
+HIRFL
+共轭像
+metal-insulator transition
+waveguide dispersion
+快点火
+壳效应
+side-pumped
+傅里叶变换拉曼光谱
+偶极-偶极相互作用
+数字全息术
+laser propagation
+回音壁模式
+orbital angular momentum
+Dispersion characteristics
+微光学元件
+散射介质
+metamaterials
+optical gain
+受激Raman散射
+兰州重离子加速器
+氮分子激光器
+高离化态
+量子相干性
+geometric phase
+宽带激光
+交叉相位调制不稳定性
+腔场
+成像特性
+传输公式
+绝热不变量
+光谱仪器
+Rayleigh-Taylor instability
+辐射声功率
+heterostructure
+compound pendulum
+grating constant
+PMD
+laser speckle
+激光显示
+反铁磁
+活化法
+热声
+Sagnac干涉仪
+BRDF
+linewidth
+aerosol
+论文发表
+发光材料
+PLS
+红外探测器
+宇宙学
+相干性
+Nd
+超导材料
+X射线成像
+纳米测量
+声吸收
+非弹性散射
+全息光学元件
+光学加工
+应变传感
+卢瑟福
+焦斑
+共轭聚合物
+等离子体物理研究所
+VUV
+sensor technique
+AWG
+可调谐激光器
+弹性散射
+tokamak
+多重散射
+摇摆器
+界面不稳定性
+声子
+chaotic synchronization
+孤立波
+非晶合金
+电子顺磁共振
+跃迁
+perturbation
+spectra
+格林函数
+角动量守恒
+光谱参数
+synthetic aperture
+压力效应
+Raman谱
+温度依赖性
+线偏振光
+双向反射分布函数
+波片
+optical absorption
+等效电阻
+YAG激光器
+辐照损伤
+ICP AES
+Thermal stress
+砷化镓
+special relativity
+laser induced fluorescence
+Magnetron sputtering
+复摆
+单晶生长
+光学信息处理
+人工晶体
+离子电导率
+开放研究实验室
+拍频
+辐射传输
+Lidar
+布儒斯特角
+定向耦合器
+连续波
+发光粉
+菲涅耳透镜
+谱线强度
+PN结
+夸克
+透射率
+发光二极管
+热力学
+换能器
+superconductor
+黑体辐射
+极化率
+BPM
+高压
+晶体缺陷
+立方氮化硼
+高温超导材料
+侵彻
+螺线管
+coupling coefficient
+不可约表示
+谱仪
+RF magnetron sputtering
+concurrence
+磁场分布
+量子化
+积分球
+光脉冲
+温度分布
+爱因斯坦
+crystal structure
+发光效率
+不确定度
+ITO
+photon
+牛血清白蛋白
+声学
+bit error rate
+主方程
+平板显示
+衬底
+晶胞参数
+金属研究
+暗电流
+层裂
+X-ray
+infrared
+制冷机
+最小二乘法
+laser propulsion
+势能面
+MCNP
+optical testing
+超新星爆发
+微小位移
+energy deposition
+energy gap
+vector potential
+diffractive optics
+热退火
+光声效应
+计算全息图
+linear array CCD
+光学电流传感器
+Bi系超导体
+galvanometer
+粒子束
+荧光增强
+物理学研究
+Liquid nitrogen
+多次散射
+Mie理论
+钨酸铅晶体
+Gauss beam
+钙钛矿锰氧化物
+spectroscopic ellipsometry
+分布式光纤传感
+恒定束宽
+全光网
+固体核磁共振
+面电荷密度
+核磁共振氢谱
+conjugated polymer
+非水体系
+调制深度
+注入器
+干涉图样
+(n
+TFT
+p-n结
+电子云
+硅酸盐玻璃
+三阶光学非线性
+FWHM
+退相干
+局域态
+谱峰
+热核
+photonic bandgap
+组织光学
+强度噪声
+声子谱
+Zernike多项式
+电路实验
+电信技术
+广义同步
+光电子谱
+纤维光学
+hypervelocity impact
+Liquid crystal
+物质波
+消色差
+解卷积
+单分子
+biological tissue
+excitation spectrum
+Hall effect
+本征值
+光电探测器
+PL spectrum
+假彩色编码
+GRIN lens
+平均场近似
+腔量子电动力学
+laser heat treatment
+qubit
+幻数
+波前
+XAFS
+红外光学系统
+非均匀磁场
+Solvent effect
+g因子
+近代物理学
+stray light
+gradient index
+光学相干层析
+中电子
+Gaussian beams
+界面态
+环形谐振腔
+Electromagnetic pulse
+费米气体
+氟化物玻璃
+noise figure
+光谱项
+钛宝石
+泵浦
+宇称
+激发能量
+驻波管
+二级轻气炮
+红色发光
+舰船噪声
+弛豫过程
+光纤环
+非线性光学性质
+atomic dipole squeezing
+interference pattern
+ESR.
+equivalent resistance
+螺旋波
+远场
+能级结构
+OADM
+方位估计
+pulse shaping
+二极管激光器
+光子
+fluorescence
+光传输
+回热器
+CdS
+exact solution
+NIR
+双稳态
+ZnO film
+thermal entanglement
+正弦光栅
+量子限域效应
+光探针
+磁开关
+Frosting
+refraction index
+阻止本领
+双光栅
+single-mode fiber
+波节
+自学辅导
+Field emission
+太阳中微子
+玻意耳定律
+intense laser
+阶跃光纤
+photoconductivity
+电离截面
+相位调制器
+Terbium
+带电导体
+laser fusion
+解复用器
+光学均匀性
+Pulsed laser
+导体球
+低温物理
+本征矢
+荧光发射谱
+single event upset
+Lagrange系统
+相关识别
+双波函数
+黄昆
+nuclear physics
+epitaxy
+冷屏
+电子散射
+阴极射线
+Phase shift
+SESAM
+非平行板电容器
+汇款方式
+表面形貌
+动量定理
+稀磁半导体
+北京正负电子对撞机
+穆斯堡尔谱学
+ion implantation
+有限元法
+半导体激光
+热扩散率
+真空态
+electron trap
+光调制器
+宽带光源
+aero-optics
+原子光刻
+振幅平方压缩
+泡生法
+国际物理
+爆磁压缩发生器
+NO分子
+输运系数
+凝聚相
+Near infrared spectra
+迭加态
+玻尔理论
+GaSb
+Q-switch
+gauge field
+孤子相互作用
+态函数
+总截面
+高反膜
+离化
+Hubbard模型
+应变超晶格
+超流
+散斑图
+arrayed waveguide grating
+探测光
+椭圆偏振光谱
+luminescence spectrum
+有效非线性系数
+量子相变
+Modulation instability
+模式竞争
+柱面镜
+光异构化
+标量衍射理论
+光循环
+非经典效应
+entanglement swapping
+钉扎中心
+反射全息图
+quantum channel
+polarization optics
+additive noise
+双包层
+飞秒脉冲激光
+Fermi gas
+量子数亏损
+密立根
+简并度
+phase grating
+热辐射场
+optical data storage
+Mssbauer谱
+AlGaInP
+慢光
+马吕斯定律
+透过光谱
+Abel inversion
+密度算符
+相位光栅
+顶夸克
+laser damage threshold
+非共振相互作用
+phase measuring profilometry
+quasi-phase matching
+Bell不等式
+泰伯效应
+强流电子束
+tidal force
+phase property
+量子相干
+field electron emission
+色散补偿光纤
+nanometer measurement
+optical isolator
+线电荷
+全息元件
+湍流大气
+HTS magnet
+力学相对性原理
+Raman Spectra
+nonlinear optical material
+核反应
+核子
+radiation damage
+暗能量
+互感系数
+dispersion relation
+thermal conductivity
+有效受限长度
+Diode-pumped
+本征模方程
+picosecond light pulse
+Eye model
+unified symmetry
+Magnetically insulated transmission line oscillator
+原子囚禁
+听阈曲线
+Superposition of macroscopically distinct two quantum states
+azimuthal correlation
+laser lidar
+Radiative lifetime
+非对角长程序
+形变核
+BEPC Ⅱ
+二阶偏振模色散
+物理与工程
+扭曲波玻恩近似理论
+Optical Kerr effect
+孤子结构
+optic fiber interferometer
+双轻子谱
+non-coaxial optical system
+Tunable diode laser absorption spectroscopy
+coherent synchrotron radiation
+laser diode-pump
+resonant reflector
+胶球波函数
+magnetically insulated transmission line oscillator
+超短脉冲高斯光束
+ultrashort intense laser pulse
+ultrashort laser pulses
+粒子约束
+pomeron
+原子实极化
+非公度
+Variety discrimination
+退偏损耗
+beam cleanup
+费密能
+temperature gradient technique (TGT)
+半导体微晶
+对撞锁模
+laser plasma interaction
+quark propagator
+微波场驱动
+Optical fiber lasers
+单模量子场
+同位旋相关的量子分子动力学
+量子相干效应
+求迹公式
+Optical parametric chirped pulse amplification
+High power microwave(HPM)
+物理实验教学改革
+relativistic particles
+Cryogenic liquids
+光束净化
+共振拉曼效应
+布拉格偏移
+坡密子
+superheavy nucleus
+Fourth-order dispersion
+生长丘
+luminescence of rare earth
+multifragmentation
+四极核
+Optical resonator
+Divertor target plate
+modal wavefront reconstruction
+热适应系数
+statistical emission
+统一对称性
+Field Programming Gate Array（FPGA）
+Electromagnetism field
+全同带
+Spectral diagnosis
+等离子体空泡
+非均匀线宽
+fractional Fourier transform （FRT）
+核子-核子碰撞截面
+Ti∶sapphire
+BBO crystal.
+高压X光衍射
+辐射驱动
+线性相位反演
+neutron radiative capture
+汤川势
+phase aberration
+超精细结构常数
+各向同性固体
+方位角关联
+压电陶瓷堆
+intracavity-doubled
+optical technique and instrument
+MgZnO薄膜
+CH薄膜
+LHC Ⅱ
+absolute distance interferometry
+双模压缩
+Without rotating wave approximation
+helicity amplitude
+扫描变象管
+学科文献数据库
+laser oscillation
+Ce∶KNSBN crystal
+W型单模单偏振光纤
+实验方程
+Time resolved ESR
+Power deposition
+in-beam γ-ray spectroscopy
+J C model
+fusion probability
+钉扎力标度
+转动相对论
+One dimensional photonic crystals
+Scalar diffraction theory
+Curie-Weiss定律
+dissipative heavy ion collision
+time dilation effect
+分布光纤拉曼放大器
+lensless Fourier transform hologram
+光折变二波耦合
+Superconductor cable
+quasi-phase matched
+退局域化
+激光超短脉冲
+transition radiation
+泽尼克像差
+Coupled wave theory
+Coated conductor
+分数自旋
+Extended homogeneous balance method
+cooling storage ring
+Linear induction accelerator
+相干同步辐射
+相干态表示
+Quantum wells
+统计发射
+非相干光时间延迟四波混频
+Yb-doping
+复合核统计过程
+streak tube
+布拉格条件
+Amplified spontaneous emission（ASE）
+电子回旋加热
+Confinement improvement
+超导电流密度
+传播常量
+Scrape off layer
+Cavity ring-down
+激子隧穿
+pre-scission particle multiplicity
+Undamaged determination
+quantum waveguide theory
+absorption center
+Energy confinement time
+superradiance
+lithographic tool
+identical band
+双奇核
+能量积聚效应
+非线性旋光
+second harmonic generation.
+汞光谱
+Vibrational temperature
+BOXCARS
+电子顺磁共振参量
+Gires-Tournois resonator
+Cd-Sn-Zn
+负三次方规律
+EPR-ST
+巨偶极共振
+中子辐射俘获
+二值化联合变换相关器
+勒纳德
+自抽运相位共轭
+光谱和激光
+多级衍射
+mean number of phonon
+光纤定向耦合器
+原子与分子物理学报
+pairing correlation
+intermediate energy heavy ion collision
+Polarization mode dispersion （PMD）
+普适质量关系
+rotating liquid
+列阵透镜
+relief depth
+prism spectrograph
+光子反群聚效应
+switchable
+磷酸盐钕玻璃
+前胸神经节
+同位旋相关性
+anomalous scaling
+互作用效应
+soft X-ray spectra
+hot electrons
+逃逸函数
+laser plasmas
+多层绝热材料
+TGT method
+Space charge field
+Atomic hydrogen emission line
+relativistic covariance
+偶氮染料薄膜
+氢原子发射谱线
+Line spread function
+Pre-pulse
+photon scanning tunneling microscope
+Radial electric field
+opto electric imaging system
+超导母线
+Infrared microscopy
+high harmonic generation
+binary optical elements
+oblate deformation
+non-perturbative QCD
+荧光谱线
+Hohlraum target
+Q变形
+accelerating structure
+菲佐干涉仪
+CCSD(T)
+universal mass dependence
+virtual cathode
+奇特态
+superdeformed bands
+Sawtooth oscillation
+Inertial confinement fusion(ICF)
+傅里叶变换表面增强拉曼光谱
+耦合腔链
+phase matching angle
+Tunneling spectrum
+波面恢复
+electro optical modulation
+快控电源
+Ce∶KNSBN晶体
+Refractive index profile
+neutron-rich nuclei
+Faraday anomalous dispersion optical filter
+Two photon absorption
+里德伯能级
+Uranium atom
+Stark展宽
+Fine-structure
+Pulse tube cooler
+光阴极注入器
+射频四极透镜
+high pressure.
+光电负反馈
+smoothing by spectral dispersion
+单纵模运转
+two photon
+glass waveguide
+频谱混淆
+连续态
+线型腔
+光速
+脉宽
+静电场
+碳纳米管
+moment of inertia
+交通流
+递推关系
+numerical simulation.
+Fresnel number
+Photopolymer
+wavelength tunable
+laser induced plasma
+光缓存
+differential optical absorption spectroscopy
+高临界电流密度
+离轴
+radiation trapping
+对撞机
+ghost fluid method
+双波理论
+mode competition
+核力
+phase shifting interferometry
+谐振子系统
+动力学孔径
+Fresnel zone plate
+laser resonator
+CVL
+TDI-CCD
+束晕-混沌
+single-mode field
+禁戒跃迁
+倍频性能
+偏振控制器
+广义磁场分量
+general physics experiment
+固体浸没透镜
+GaAs/Ge
+photonic band gaps
+非物理专业
+变焦距系统
+electro-optical properties
+电子-声子相互作用
+短程透镜
+参量阵
+劈尖干涉
+He-Ne激光照射
+Binary optics
+数字再现
+损伤形貌
+数字毫秒计
+面发射
+锁模光纤激光器
+conjugate image
+等离子体湍流
+femtosecond pulse laser
+nuclear effect
+原子核结构
+phase contrast
+high-power laser
+表面增强拉曼散射（SERS）
+夸克物质
+分子场理论
+中学物理教学
+等离子体状态
+laser glass
+定标曲线
+Laser Raman spectra
+extended object
+vertical cavity surface emitting laser
+级联型三能级原子
+multimode fiber
+多晶硅薄膜晶体管
+InGaAlP
+end-pumped
+同位素分布
+solid immersion lens
+场熵演化
+wavelength division multiplexer
+全息干板
+高能重离子
+自陷能
+取向层
+电子回旋波
+钕玻璃激光
+parallel plate capacitor
+erbium-doped fiber amplifier
+CZ method
+microbolometer
+CO激光器
+Λ-type three-level atom
+Thermal effects
+有机量子阱
+Morse potential
+振幅N次方压缩
+束宽
+Spectroscopic properties
+红外发射光谱
+Optoelectronics
+非线性光纤环镜
+degenerate four-wave mixing
+升降算符
+projection display
+周期极化
+Glauber理论
+激光核聚变
+费尔德常数
+RFQ加速器
+single photon
+atmosphere turbulence
+光谱开关
+市声
+指向性函数
+庞加莱球
+Cryogenics
+激光质谱法
+光谱烧孔
+光信号处理
+Ⅱ类超导体
+大口径光学元件
+YBCO超导薄膜
+quantum statistics
+REMPI
+异质结构
+硼酸盐
+锰氧化物
+buffer layer
+束流
+Absorption coefficient
+Carbon nanotubes
+蒙特卡罗模拟
+激光脉冲
+PDP
+本征函数
+assignment
+Monte Carlo
+测量精度
+FAAS
+光谱仪
+laser welding
+语音信号
+大气闪烁
+XeF（C-A）激光
+Maxwell-Bloch equations
+光谱化学
+coherent population trapping
+Berry相位
+麦克斯韦速度分布律
+平均键能
+mKdV方程
+投影物镜
+偏振编码
+集成霍尔传感器
+parallel axis theorem
+多电荷离子
+Phase conjugation
+光强关联函数
+光纤环镜
+configuration interaction
+Coupling ratio
+photoalignment
+量子阱红外探测器
+传播波
+moving medium
+托里拆利实验
+国际光学委员会
+R-矩阵方法
+扩展齐次平衡法
+Terahertz time-domain spectroscopy
+non-Noether conserved quantity
+反射方程
+自适应光学系统
+Near infrared reflectance spectroscopy（NIRS）
+NaCl crystal
+long-period fiber gratings
+Laser induced damage threshold
+Ultrashort optical pulse
+测风激光雷达
+密耦近似
+辐射修正
+相位共轭反射率
+optical klystron
+液体激光器
+Glauber theory
+cold fusion
+wind lidar
+variational iteration
+拉曼光谱学
+色散控制孤子
+non-harmonic oscillator
+免疫放射分析
+spectrum shaping
+optical pumping signal
+相位板
+linear chirp
+光子回波
+High energy laser
+二维相关谱
+超连续光谱
+共振相互作用
+双光子激光
+production cross section
+the Raman interaction
+单晶样品
+量子分子动力学模型
+P-MBE
+TM mode
+Spin trapping
+透射特性
+传导冷却
+physics optics
+包层模
+Beam propagation method
+热释电晶体
+热形变场
+completely inelastic collision
+角动量投影
+relativistic mean-field theory
+chirped fiber gratings
+正弦平方势
+optical absorption coefficient
+Optical materials
+基础物理学
+Superconducting thin film
+relativistic heavy ion collision
+调制响应
+optical Kerr effect
+ICF靶丸
+optical signal processing
+beam intensity
+Plasma diagnosis
+energy spread
+分布布拉格反射
+高能碰撞
+红外发散
+DKDP晶体
+Coherent state
+倍增极
+激光导星
+polarization beam splitter
+erbium doped fiber amplifier
+快跳频光码分多址
+gain bandwidth
+弹性球壳
+Four wave mixing
+发射峰
+Polymer optical fiber
+相干光学
+旋波介质
+奇异夸克物质
+高能物理实验
+Nonlinear optical loop mirror
+He原子
+求和规则
+本征值谱
+nonlinear optical loop mirror
+Streak camera
+Oscillating flow
+polarization rotation
+超导量子比特
+S-band
+Single mode fiber
+自旋涨落
+选态测量
+计算物理学
+超分辨近场结构
+二苯乙炔
+光致各向异性
+Optical films
+击穿阈值
+CP violation
+Plasma diagnostics
+track reconstruction
+recurrence spectra
+溴化亚铜激光器
+反射光栅
+光学窗口
+all solid state laser
+周期极化铌酸锂
+CIDNP
+Ba原子
+光谱展宽
+electrooptic modulator
+quantum defect
+calibration
+巨磁电阻
+声功率
+fidelity
+暗物质
+会聚光束
+Time-resolved fluorescence
+激光参量
+引导中心
+单横模
+waist radius
+像复原
+量子非破坏性测量
+亚波长结构
+过冷态
+Clock recovery
+Pr含量
+Gd掺杂
+electro-optic Q-switch
+R矩阵
+开关窗口
+side pumped
+waveguide laser
+Optical buffer
+条波导
+Cs原子
+CuBr激光器
+纳米银膜
+low order modes
+光纤无线通信
+Thermal lens effect
+emission cross-section
+氮化锂
+X射线成象
+三火球模型
+等阶N次方Y压缩
+Optical coatings
+饱和增益
+玻色凝聚气体
+space-charge field
+attenuation length
+Zernike aberration
+above threshold ionization
+分子振动温度
+dye laser.
+Radiant cooler
+x射线激光
+平均首次穿越时间
+光子图像
+demonstration experiments
+FT-SERS
+optical fiber optics
+Spatial filter
+Er-doped fiber
+类相变
+巨共振
+硒酸氢铷
+星地激光通信
+NMR complete assignments
+octupole deformation
+Diode laser array
+双模压缩态
+LP MOCVD
+binary joint transform correlator
+nuclear science
+coherence optics
+激发传递
+Lenz law
+Fiber Bragg grating（FBG）
+N次方H压缩
+超短强激光
+shock melting
+Silver colloid
+单粒子能谱
+pseudospin symmetry
+超对称量子力学
+磁光图像
+holographic polymer dispersed liquid crystal
+比热反常
+入射粒子
+晕带
+optical design.
+whispering gallery mode
+Digital quadrature detection
+后向喇曼散射
+粒子再循环
+bottle beam
+物理教学现代化
+atmospheric and ocean optics
+光束传输法
+Cryopump
+氦-氖激光照射
+泵浦阈值
+积分亮度
+Gain saturation
+漂移波
+triaxial superdeformation
+可调谐钛宝石激光器
+Streak tube
+金刚石对顶砧
+white light emission
+照明工程学
+净增益
+均匀场电极
+体布拉格光栅
+HBT关联
+photoluminescence.
+Microcavity
+Diffractive optics
+低温蓄冷器
+bound magnetopolaron
+量子拍
+laser.
+generalized Birkhoff system
+微波分光仪
+带内串扰
+星球参考系
+group velocity matching
+激光加热基座法
+All optical wavelength conversion
+光子数分布
+掺杂铌酸锂
+广义Birkhoff系统
+lattice QCD
+Liquid nitrogen vessel
+基频曲线
+Focal spot
+空间自相位调制
+small signal gain coefficient
+腔靶
+diffraction optical element
+材料色散
+空心原子
+多量子相干
+Rydberg系列
+Radiation damping
+stimulated emission cross section
+sum frequency generation
+Tesla transformer
+激子模型
+高光束质量
+高频腔
+delay ripple
+光照特性
+晶格常量
+KNSBN晶体
+diode laser pumping
+多组态
+激光振荡器
+XeCl准分子激光器
+FT Raman spectroscopy
+dispersion decreasing fiber
+synchrotron radiation topography
+refractive index structure parameter
+Cryostat
+接头电阻
+GaAs/GaAlAs
+Lie map
+SERRS
+码型效应
+FDTD methods
+掺杂程度
+Langmuir-Blodgett（LB）多层膜
+Polyester polyurethaneurea
+Thermal contact conductance
+Slope efficiency
+因子化
+超导涨落
+XGM
+光折变介质
+Talbot cavity
+眼模型
+快重离子
+Nb∶KTP crystal
+red laser
+atomic resonance filter
+atmospheric scintillation
+虚共焦非稳腔
+转移电离
+温差电偶
+极性控制
+扭曲向列相
+Lie映射
+intensity correlation function
+符合测量
+Nb∶KTP晶体
+ultrafast
+End-pumped
+黑腔靶
+fluorescence decay
+受激布里渊散射（SBS）
+vircator
+介质反射镜
+CdSe单晶体
+All-optical wavelength conversion
+Optical packet switching
+激发能级
+液晶物理学
+慢电子
+propagation equation
+laser performance
+折射率调制
+Laser induced damage
+中子粉末衍射
+折反系统
+exotic nuclei
+周期性极化铌酸锂
+外周天线
+polarity control
+虚光场
+Gyrotron
+多气隙电阻板室
+Wavelength modulation
+波前测量
+Color center
+radiative transition
+等电子序列
+湍流边界层
+quantum theory
+离子阱
+线胀系数
+超声马达
+PL
+透镜
+各向异性
+无损检测
+受迫振动
+扫描隧道显微镜
+全息
+finite element method
+变幅杆
+高压合成
+collimator
+borate
+Cross section
+Copolymer
+水下目标
+费米能级
+激发能
+diluted magnetic semiconductor
+减反射膜
+electric dipole
+ab initio calculation
+隧道结
+平行光管
+激光医学
+OXC
+ionic conductivity
+激发函数
+电离度
+放射性药物
+技术学科
+mode coupling
+入射角
+铁电薄膜
+热力学第二定律
+混沌时间序列
+核聚变
+水声通信
+点电荷
+亥姆霍兹线圈
+阻尼振动
+合成孔径
+CdTe
+锁相放大器
+neutron activation analysis
+光栅常数
+thermoluminescence
+非线性光学材料
+Flow injection
+quantum size effect
+欧姆表
+强场
+透射光栅
+渡越时间
+变焦距镜头
+超导线圈
+液晶显示器件
+目标运动分析
+超导电缆
+椭偏仪
+PL spectra
+热丝化学气相沉积
+induced electromotive force
+投影显示
+tunable filter
+Crosstalk
+晶格失配
+晶格动力学
+critical current
+声全息
+空间目标
+Extinction coefficient
+教学现代化
+遗传算法
+high temperature and high pressure
+conversion efficiency
+高斯分布
+传输线
+亚稳态
+空间频率
+high temperature superconductor
+电路实现
+兰姆波
+Pulse compression
+热声效应
+UV laser
+晶体场理论
+Verdet constant
+fiber Bragg gratings
+深过冷
+物理科学
+nonlinear evolution equation
+透镜焦距
+调制特性
+ion beam sputtering
+角谱
+量子电动力学
+自由程
+空间相干性
+空间光通信
+光隔离器
+scanning tunneling microscope
+ground state
+Electron gun
+nonlinear absorption
+光学系统设计
+双交换作用
+微波等离子体化学气相沉积
+双折射晶体
+star sensor
+菲涅耳公式
+（e
+结构弛豫
+finite difference time domain
+粒子物理
+finite difference time domain method
+时间抖动
+波荡器
+空间相机
+Jones矩阵
+嫦娥一号
+脉冲管
+声光器件
+微结构
+中子
+发射率
+荧光
+相对论
+dispersion
+imaging
+optical fiber sensor
+电位差计
+激光超声
+Euler equations
+场分布
+卡诺循环
+刻蚀
+动态光散射
+光杠杆
+经典力学
+富勒烯
+Moire fringe
+光学晶体
+反同步
+多光子激发
+Fluorescence spectroscopy
+辐射压力
+非线性声参量
+物理学发展
+Inductively coupled plasma
+电子态密度
+ion trap
+近场声全息
+diffraction pattern
+超对称性
+像散
+Langmuir probe
+光纤延迟线
+computer generated hologram
+mesoscopic circuit
+量子隧穿
+绿光激光器
+单晶光纤
+自旋波
+铁电畴
+terahertz
+压电系数
+原子态
+strontium aluminate
+时域光谱
+polarization degree
+atomic structure
+热激发
+逐差法
+非线性声学
+选模
+nonuniformity correction
+Ultraviolet spectrum
+级联三能级原子
+anti-synchronization
+助熔剂法
+点缺陷
+辐射场
+emission spectrum
+孤立子
+数值分析
+detector
+DFT
+ionization
+tuning
+Lorentz force
+FDTD method
+回旋加速器
+glow discharge
+溶剂效应
+Monte Carlo模拟
+variational method
+third-order dispersion
+RFQ
+单极子
+ultrasonic grating
+all-solid-state
+interference fringes
+共振增强多光子电离
+波前像差
+二阶导数谱
+抗反射
+hyperbolic conservation laws
+能量上转换
+卡诺定理
+critical current density
+photoisomerization
+差拍
+同位素位移
+束流强度
+原子运动
+thin film transistor
+自感现象
+米氏理论
+量子物理
+planar waveguide
+正负电子对
+中子散射
+能量本征值
+scintillation
+平均光子数
+magnetic switch
+激光光解
+激光微束
+氦-氖激光
+激光激发
+quark
+single-mode optical fiber
+optical fabrication
+泊松括号
+two photon absorption
+Modulation transfer function
+光信噪比
+基态能
+向列相
+second-harmonic generation
+superposition state
+层间耦合
+primary mirror
+类氢离子
+high hydrostatic pressure
+acceleration of gravity
+高声强
+向列型液晶
+类氢原子
+space charge effect
+BSCCO
+原子物理学
+再结晶石墨
+子孔径拼接
+输出特性
+耦合器
+phase separation
+反射光谱
+霍尔效应
+data processing
+growth mechanism
+磁化率
+磁场
+波长
+分支学科
+爆轰
+声辐射
+solenoid
+全固态
+高斯定理
+resonance
+rare earth
+快速傅里叶变换
+physics
+透射系数
+原子
+探测器
+genetic algorithm
+polariton
+THz radiation
+光学互连
+偏振像差
+电荷补偿
+声学标准
+electronic speckle pattern interferometry
+氟锆酸盐玻璃
+内建电场
+相干激光雷达
+Interleaver
+完全弹性碰撞
+粒子数反转
+Laser plasma
+Boltzmann distribution
+segregation coefficient
+particle-in-cell simulation
+光学相关
+photonics
+全归属
+软X光
+热声制冷机
+二级光谱
+monolithic integration
+astrophysics
+原子实
+light guide plate
+准等熵压缩
+作用量
+尘埃等离子体
+ultraviolet laser
+uniform magnetic field
+谐波混频
+spin polarization
+卫星光通信
+薄膜电致发光
+Coupling efficiency
+pyroelectric detector
+波前编码
+ion beam etching
+分波
+axicon
+LiH
+衍射极限
+ABCD定律
+纠缠原子
+能带计算
+Graphene
+均匀照明
+隐失波
+强关联
+reverse saturable absorption
+角动量守恒定律
+significant figure
+自成像
+提拉法生长
+碰撞电离
+离子声波
+旋进
+turbid media
+梯度力
+粗糙界面
+体全息光栅
+electroluminescent devices
+光束漂移
+纵模
+TD-DFT
+全固化
+弯曲波导
+玻色—爱因斯坦凝聚
+红外物理
+wavelength tuning
+实验物理学家
+干涉解调
+Bridgman法
+原子纠缠态
+位相调制
+single molecule
+phase modulator
+Near infrared reflectance spectroscopy
+等离子体物理学
+偏振全息
+温度测量
+LabVIEW
+电子俘获
+magnetic dipole
+激光加热
+exact solutions
+hyperchaos
+Burgers方程
+Conversion efficiency
+离子轰击
+网络投稿
+growth habit
+声场分布
+穆斯堡尔效应
+等离子体密度
+Chemometrics
+fused silica
+杜瓦
+共焦显微镜
+Hamilton系统
+透明导电薄膜
+first-principles
+生长温度
+电子衍射
+Burgers equation
+显微成像
+磁场测量
+磁光效应
+天体物理学
+Euler方程
+晶体形态
+杂散光
+宇宙射线
+lattice Boltzmann method
+perturbation theory
+著者
+暂态过程
+阈值
+absorption coefficient
+二极管
+保角变换
+lens
+optical path
+等离子体化学气相沉积
+光互连
+optical constant
+麦克斯韦
+Equation of state
+Resonator
+全光纤
+三阶非线性
+色坐标
+optical pumping
+density of states
+flat panel display
+design experiment
+弯曲损耗
+phase shifting
+生长机理
+三维测量
+能流密度
+Relaxation
+平均场理论
+Europium
+多模光纤
+磁滞回线
+解析表达式
+压电陶瓷
+磁感应强度
+共振频率
+缓冲层
+太阳电池
+spectral resolution
+ohmic contact
+时间分辨荧光
+成丝
+自发极化
+电流元
+旋光
+vector hydrophone
+相位特性
+激光化学
+传播子
+声光调制器
+现代物理
+传播损失
+等离子体辐射
+势阱
+软模
+光谱分辨率
+数字微镜器件
+元胞自动机模型
+polarization state
+量子密码术
+Pyridine
+演示装置
+Porous silicon
+photoionization
+混响室
+phononic crystal
+热学
+long afterglow
+lattice vibration
+Wheatstone bridge
+energy levels
+辐射温度
+应用物理
+college physics
+辛算法
+sound velocity
+行波解
+发光性能
+plasma
+双模腔场
+强爆轰
+weak absorption
+相变性质
+热声振荡
+数字光计算
+径向线
+高非线性光纤
+fiber gratings
+萘酞菁
+NYAB
+Superconducting film
+声光Q开关
+光致荧光谱
+二元光学器件
+分波截面
+大气相干长度
+channeling radiation
+refractive index profile
+共生纠缠度
+GaAlAs/GaAs
+金刚石生长
+欠抽样
+Ar~+激光
+Compton effect
+ABCD matrix
+polarization mode dispersion （PMD）
+e光
+adiabatic invariant
+laser diode pumping
+Paul trap
+光学教学
+infrared system
+Dewar
+介观RLC电路
+Photodissociation
+物理教学论
+跳跃模型
+laser dye
+erbium-doped fiber
+重子
+Raman effect
+econophysics
+液体透镜
+Na原子
+光波导理论
+超导电
+屏蔽常数
+folded cavity
+甲酚紫
+γ暴
+魔角旋转
+能量计
+Q-switching
+自生磁场
+物理实验课程
+复合晶体
+Temporal resolution
+外腔反馈
+皮秒脉冲
+手性介质
+棱镜耦合法
+普物实验
+横模
+LaOBr
+光学综合孔径
+压缩态光场
+朗德g因子
+quantum noise
+自倍频晶体
+米散射
+喇曼
+交流电致发光
+差分吸收激光雷达
+原位漫反射红外光谱
+spatial solitons
+光纤环形激光器
+变焦距物镜
+up conversion
+room acoustics
+弛豫速率
+参量放大
+光束准直
+失谐量
+Pyrology
+激光线宽
+重离子治癌
+共振激发
+slow light
+DPSSL
+相对论电子
+波导理论
+半花菁
+双量子阱
+超快过程
+Field distribution
+Physical optics
+冲击磁铁
+spin current
+PLED
+F-P干涉仪
+扭秤
+能斯特定理
+夸克凝聚
+量子保密通信
+Tavis-Cummings模型
+电子偶素
+electron cloud
+optical lithography
+高双折射
+相位起伏
+光学超晶格
+resonant mode
+strong-coupling
+AlInGaN
+self-trapping
+quasi-three-level
+卢鹤绂
+噪声暴露
+单光子吸收
+velocity of light
+磁脉冲压缩器
+B integral
+single slit diffraction
+矩阵力学
+evanescent field
+放电激励
+碲钨酸盐玻璃
+库仑势
+Noether conserved quantity
+DCJTB
+电子干涉
+衰减长度
+振动温度
+随机激光器
+lithium niobate crystal
+超结构光纤布拉格光栅
+complex refractive index
+相衬显微镜
+含时密度泛函理论
+动力学起伏
+光纤非线性
+量子效应
+频移
+电动势
+相速度
+quantum communication
+波分复用器
+异质外延
+楞次定律
+等倾干涉
+电子光学
+塌缩
+势能曲线
+膜系设计
+cathodoluminescence
+phosphate glass
+耦合强度
+铀原子
+Brewster angle
+介电函数
+相移法
+物理教材
+RHEED
+elliptic integral
+Self-assembly
+变换关系
+异向介质
+symplectic algorithm
+匀速直线运动
+摄谱仪
+HPHT
+涡旋电场
+等离子体参数
+Assignment
+电磁性质
+光学工程
+optical axis
+偏振方向
+轮廓测量
+玻尔
+quantum effect
+optical glass
+plasma display panel
+variable optical attenuator
+Transfer matrix method
+colossal magnetoresistance
+相位去包裹
+rapid growth
+event space
+相位
+表面粗糙度
+均匀磁场
+干涉图
+image registration
+表面等离子体共振
+色散方程
+原子发射光谱
+从头计算
+lifetime
+thermal effect
+MEMS
+Rare earth
+热力学性质
+热电势
+激光测距
+dislocation
+恒星
+非晶态合金
+digital camera
+接触热阻
+转变温度
+超声换能器
+传输效率
+硫化锌
+偏最小二乘法
+高光谱
+二级结构
+Gain
+Temperature measurement
+光电子能谱
+位移测量
+吸声系数
+光电混合系统
+光栅成像
+coupled wave theory
+光栅周期
+弹性散射截面
+超导块材
+molecular field theory
+FAIR
+ROESY
+泵浦速率
+掺杂纳米材料
+Differential conductance
+chirp effect
+泵浦功率
+Enhancement effect
+包铜
+TRS方法
+AVLIS
+拉盖尔-高斯光束
+高温超导相
+ellipsometric spectra
+FD-BPM
+tungsten-tellurite glass
+洁净核能
+二维NMR
+多层镜
+上能级
+连续辐射
+光波导技术
+mode locking
+QCD因子化
+upconversion emission
+无粒子数反转激光
+temperature measurement by radiation
+低温多晶硅
+中子数
+elliptical integral
+neutron yield
+激光共振电离
+HTSC
+Plate-fin heat exchanger
+nonlinear adaptive prediction
+相对论粒子
+effective index
+内耗仪
+微脉塞
+超结构光纤光栅
+双模激光
+RFQ accelerator
+电磁内爆
+thermo-optic effect
+low energy electron scattering
+光电导特性
+Q switch
+solid state NMR
+相干态光场
+self-frequency-doubling
+Dynamic spectrum
+polarization-maintaining fiber
+optical pulse compression
+手性液晶
+Thermoacoustics
+双积分球系统
+偏振光分束器
+mode converter
+TM模
+氟化钡晶体
+热场动力学
+phase conjugate
+推转壳模型
+electrooptic effect
+incoherent light
+色散斜率
+离子团
+高峰值功率
+斯托克斯光
+上临界磁场
+Tissue optics
+electric image method
+Surface enhanced Raman spectroscopy
+periodic poling
+imaging spectroscopy
+Michelson
+Green laser
+卢瑟福散射公式
+end pumped
+相对论返波振荡器
+mKdV equation
+锚定强度
+薄膜滤光片
+旋转液体
+collision energy transfer
+X射线像增强器
+合著者
+Optical filter
+高密度全息存储
+tolane
+superposition states
+归零码
+femtosecond pulses
+含时谐振子
+Gaussian optics
+高掺杂
+Bell states
+飞行时间谱
+threshold voltage shift
+weak-coupling
+高Tc超导
+中子灵敏度
+双光子Jaynes-Cummings模型
+相对强度噪声
+声压谱
+lateral shift
+对称性自发破缺
+振幅压缩
+外差效率
+声光耦合
+红外指纹图谱
+多孔硅发光
+光参量放大器
+气体动理论
+激光工作物质
+氩原子
+atom laser
+单模腔场
+Two-dimensional NMR
+ultrashort optical pulse
+energy-momentum tensor
+亚波长
+飞行时间计数器
+铜锌超氧歧化酶
+皮秒光脉冲
+AlGaAs/GaAs
+角重迭模型
+铁基超导体
+局域磁矩
+线性啁啾
+菲涅耳双棱镜
+Volume holographic storage
+非均匀加宽
+Rydberg states
+分布反馈激光器
+重离子核反应
+光学微分
+photovoltaic detector
+光学模型势
+分形子
+HXMT
+radial matrix elements
+relativistic mechanics
+场模结构
+有限差分光束传播法
+Hemicyanine
+第二类超导体
+entanglement measure
+Narcotics
+双模纠缠相干光场
+Phase locking
+光子晶体光纤激光器
+Left-handed materials
+diamond.
+fabrication error
+五阶非线性
+希格斯粒子
+高阶反聚束效应
+四大力学
+粒子数密度
+微透镜列阵
+非对称双稳系统
+Intensity distribution
+吸附取向
+External cavity
+强场物理
+约束改善
+Nondestructive
+干涉光谱仪
+Background correction
+双棱镜干涉
+孤子激光器
+调谐滤光片
+radioactive nuclear beam
+lens array
+Laser fusion
+Casimir effect
+solid state physics
+放大特性
+新概念物理
+声子模
+Photorefractive crystal
+Optical storage
+掺镱光纤放大器
+运动原子
+等离子体屏蔽
+气动激光器
+光学小波变换
+阈移
+meson
+视角特性
+夸克传播子
+金刚石压腔
+光子密度波
+基态性质
+量子亏损理论
+holographic optical element
+三维谐振子
+X-ray image intensifier
+digital micromirror device
+尼耳斯·玻尔
+孤子激发
+exciton model
+wavefront sensing
+纠缠相干态
+能量子
+chirped fiber Bragg grating
+弹道输运
+谐波转换
+many-body expansion theory
+磷酸盐激光玻璃
+上转换发光材料
+Gross-Pitaevskii equation
+relativistic backward wave oscillator
+反铁电液晶
+闭合轨道
+黄光激光器
+电磁场张量
+optical modulation
+parametric amplification
+高密度激发
+量子电子学
+质子滴线
+俘精酸酐
+电输运性质
+small-signal gain
+衰变宽度
+particle-number conserving method
+Rb原子
+空气比热容比
+低温电阻
+四极矩
+Ne原子
+八极形变
+pump noise
+intraband crosstalk
+等离子体粒子模拟
+elliptic flow
+Ce:YAP
+nonlinear polarization rotation
+高功率固体激光器
+调Q激光器
+太赫兹辐射
+谱线归属
+光束传输因子
+各向异性散射
+X-ray spectrum
+磁相互作用
+水声对抗
+SIMCA
+氧缺位
+电致发光器件
+微晶硅
+统计物理学
+repetition rate
+双晶衍射
+光谱发射率
+ring resonator
+condensed matter physics
+Complexes
+自旋标记
+辛格式
+Dynamic range
+原子能级
+光磁共振
+初中物理
+Near-infrared
+耦合映象格子
+Point spread function
+混沌电路
+numerical reconstruction
+铝酸锶
+锥形光纤
+经典极限
+恒星演化
+非线性光学效应
+热释电性能
+Quantum efficiency
+excitation function
+离子回旋共振加热
+量子级联激光器
+information processing technique
+微光机电系统
+激光告警
+Dispersion relation
+double refraction
+rectangular waveguide
+零电阻
+光谱预处理
+blackbody
+摆动器
+布拉格衍射
+离子导体
+Zernike polynomial
+光纤电流传感器
+F-P cavity
+blazed grating
+optical amplifier
+光学相干层析成像
+soliton solution
+laser-induced breakdown spectroscopy
+耦合谐振子
+耦合常数
+温度补偿
+热效应
+导电性
+标定
+traffic flow
+行波
+线阵CCD
+液晶显示
+nonlinearity
+介子
+SOI
+教学仪器
+AlN
+数据处理
+负折射
+声散射
+unstructured grid
+Phase transition
+位错密度
+快速退火
+枝晶生长
+化学势
+磁光盘
+匹配滤波
+散射体
+ZnO thin films
+吸收截面
+光刻胶
+SPH
+辐射测温
+Antenna
+格子Boltzmann方法
+光损伤
+电流驱动
+chemical etching
+local structure
+激光功率
+相移技术
+饱和效应
+涡流管
+real time measurement
+单电子晶体管
+second harmonic
+引潮力
+亚毫米波
+从头算
+linear expansion coefficient
+光阑
+准晶
+光功率
+脉冲波形
+电偶极子
+Lorentz transformation
+铁电体
+YAG激光
+单片机
+开放实验室
+高速摄影
+Matlab
+PL光谱
+NaCl晶体
+医学超声
+电场线
+液晶器件
+Infrared spectrometry
+压力恢复
+电子光学系统
+高压相变
+interaction force
+生长缺陷
+自洽
+superlattices
+LIBS
+色散曲线
+Z-scan technique
+optical element
+量子信道
+原子化温度
+同步辐射装置
+临界行为
+侧面泵浦
+silicate glass
+微光像增强器
+拉脱法
+Epitaxy
+电子碰撞
+傅里叶变换红外光谱仪
+single mode
+半透明介质
+poled polymer
+高温高压合成
+激光退火
+干涉计量
+Confocal microscopy
+光谱常数
+laser-induced damage
+动力学对称性
+拉曼光纤放大器
+超声振动切削
+光声成像
+跨音速流
+laser warning
+次级声源
+wavefront aberration
+重铬酸盐明胶
+核衰变
+锂原子
+热声热机
+photoemission
+非相干光
+感生电场
+极性晶体
+dual-wavelength
+photostimulated luminescence
+远红外光谱
+重整化
+光学截面
+红外成像系统
+广延大气簇射
+自旋轨道耦合
+二维光子晶体
+直线对撞机
+非平衡电桥
+激光稳频
+相位测量
+Optical fiber
+声压
+浓度调制
+CW laser
+Wavelength routing
+氢钝化
+谱线加宽
+偏振耦合
+抗共振环
+disk laser
+掺饵光纤
+R值测量
+field entropy squeezing
+polychromatic light
+碳氢信号全归属
+Generalized electric field component
+differential absorption lidar
+Yb原子
+磁偶极矩
+双带模型
+Fractional correlation
+Mid-infrared
+Time-resolved spectra
+大模场面积
+气体电子倍增器
+差频波
+准孤子
+pyroelectric crystal
+dibaryon
+Heat capacity laser
+backscattered electron
+次级束流
+次级中子
+transient spectrum
+激光调Q
+dipole dipole interaction
+约束Hamilton系统
+电致发光效率
+掺钛宝石
+level lifetime
+探测噪声
+外尺度
+volume Bragg grating
+量子波导理论
+nonlinear optics.
+Bose-Einstein Condensate
+量子霍耳效应
+电荷剥离截面
+声速温度系数
+Diffraction optics
+small scale self focusing
+法布里珀罗腔
+粒子-转子模型
+projectile fragmentation
+density state
+hololens
+热及电场诱导
+intensity balance
+放射性束
+kinoform
+依赖强度耦合J-C模型
+强场自电离
+polyatomic polar crystals
+晶体球
+Cooper对
+relativistic klystron amplifier
+method of dropping spherule
+理想费米气体
+distributed Bragg reflectors
+激光频率稳定
+光阴极微波电子枪
+半导体泵浦
+Li原子
+DF laser
+Anomalous dispersion
+Ion temperature
+Photonic crystal fibers
+主被动锁模
+非超导相
+组态混合
+瑞利-泰勒不稳定性
+Fourier transform profilometry（FTP）
+刮削层
+Plasma radiation
+blue LED
+heavy ion collisions
+二体碰撞近似
+布居弛豫
+Fluorescence properties
+optical synthetic aperture
+Er离子
+Czochralski crystal growth
+CH HCSB TBM
+干涉成像光谱技术
+波导透镜
+angular dispersion
+超连续
+同调谐振子
+抽运-探测
+Cross-phase modulation
+等电子系
+激活体积
+LD end pumped
+撕裂模
+半导体激光器抽运
+压标
+自组织量子点
+含时波包
+转动激发
+mask layer
+optoelectronic technique
+gain-switched
+旋光晶体
+Current leads
+高速光通讯
+wavefront distortion
+量子相位
+粒子输运方程
+rough interface scattering
+q变形振子
+增益色散
+冷冻靶
+quantum efficiency.
+thermal lensing
+振动表面
+depletion region
+transparent liquid
+LP-MOVPE
+相关场
+高激发振动态
+人肺组织
+外差接收
+光学参量振荡腔
+无限深方势阱
+原子冷却
+高阶压缩效应
+asymmetric bistable system
+费米-狄拉克分布
+入射电子
+absorption coefficient.
+modulation transfer spectroscopy
+普克尔盒
+Energy spectra
+multiplicative colored noise
+光纤CATV外调制发射机
+热透镜焦距
+Net gain
+伸直链晶体
+QCD求和规则
+isoclinics
+超精细分裂
+脉宽可调
+压力动态特征
+光离化
+Ultrashort laser pulse
+QCD factorization
+strange quark matter
+互泵浦相位共轭
+铑铁电阻温度计
+长焦深
+high-pressure synthesis
+超形变核态
+NMR信号全归属
+Ice-on-coil
+铒镱共掺
+单能电子
+First wall
+高Q腔
+有质动力势
+Time-domain spectroscopy
+场序彩色
+顶点探测器
+R-matrix method
+自相似脉冲
+核秤
+涟波子
+vacuum wave function
+照相实验
+有源OLED
+溶液法晶体生长
+Strong field
+时间常量
+single photon detector
+质子交换光波导
+field sequential color
+spontaneous nucleation
+Six wave mixing
+polarization aberration
+非微扰
+radiation transport
+extinction ratio.
+邻巯基苯酚
+BES Ⅲ
+激光列阵
+optically pumped
+受激四光子混频
+玻密子
+Population inversion
+radiochemical separation
+diffraction enhanced imaging
+环路径向剪切干涉
+导模传输分析法
+average bond energy
+激光状态方程
+Two-level atom
+稀薄等离子体
+无狭缝彩虹全息术
+波前传感
+strained layer
+基本物理常量
+有效声子谱
+磁通跳跃
+梯度折射率透镜
+拉曼散射光谱
+folded resonator
+等离子体平衡
+Engineering thermophysics
+phase unwrapping.
+光压缩器
+Spectral emissivity
+fiber nonlinearity
+Stokes spectrum
+polymer waveguide
+功率流方法
+Poincaré sphere
+赝自旋
+超导体的电子结构
+Laser damage threshold
+相位循环
+switching window
+Malus law
+自由空间传输
+optical turbulence
+pump threshold
+电子碰撞激发
+density matrix approach
+变换算符
+sine-squared potential
+量子经典对应
+声基阵
+相位高度映射
+超大磁电阻
+压缩算符
+超常介质
+floating zone method
+modulation characteristics
+光脉冲产生
+抽运功率
+电磁感应光透明
+Slab waveguide
+实散射
+光学膜层
+nonlinearity error
+群速失配
+磁通运动
+物理实验仪器
+双波长输出
+Tunable laser
+哈特曼传感器
+external cavity diode laser
+声源强度
+光学参量啁啾脉冲放大
+V type three level atom
+击穿碰撞
+光谱窄化
+低压MOCVD
+真空壁条件
+相对论磁控管
+Helium atom
+深能级瞬态谱（DLTS）
+等效电子
+nonlinear Schrdinger equation
+Marx generator
+wavefront error
+光缓存器
+玻-马定律
+Confusable varieties
+自发破缺
+Tearing mode
+远场光斑
+直流Josephson电流
+放大自发辐射噪声
+两波混频
+CICC导体
+Absorption cross section
+liquid laser
+非物理类专业
+heavy quarkonium
+轻子衰变
+intrinsic time resolution
+Interaction impedance
+吸收中心
+Focusing property
+Capillary discharge
+增强电离
+self-imaging effect
+excimer laser.
+CGSE
+源噪声
+shape coexistence
+Spectral beam combining
+输出激光
+porous iron
+离子丰度
+ESR成像
+transmission grating spectrometer
+多量子阱激光器
+Z标度类氢模型
+Surface-enhanced Raman spectroscopy
+双色激光场
+重费米子系统
+self focusing
+三原子W态
+聚合物网络液晶
+PPMgLN crystal
+束流输运
+光场电离
+交叉相位调制效应
+波迹
+燃烧驱动
+Wedgelet
+暗计数
+棱镜耦合器
+消热差设计
+仪器响应函数
+接收阵
+交叉波导
+导波和光纤光学
+dispersion managed soliton
+激光二极管侧面抽运
+允许参量
+Computer-generated hologram
+相位结构函数
+Superradiance
+有效相互作用
+光束合成
+重整化质量
+微束斑X射线源
+像差平衡
+X激光
+分布布拉格反射器
+非线性耦合方程组
+照明均匀性
+Optical breakdown
+electrooptical effect
+flexoelectric effect
+光阑衍射
+光学参变振荡器
+相对论效应实验谱仪
+Auto-cascade refrigeration system
+photoexcitation
+矢量介子
+Cryogenic liquid
+正电子束
+charmonium
+third law of thermodynamics
+切伦科夫辐射
+intracavity-frequency-doubling
+自由激子发光
+脊型波导
+Heterodyne detection
+强度平衡
+oscillator strengths
+hot nucleus
+asymmetric quantum dot
+导模共振
+特征值方程
+Helical antenna
+显微光谱
+粲夸克
+Fiber communication
+Arrayed waveguide grating
+Strain sensing
+group-velocity dispersion
+NO molecule
+ripplon
+spectroscopic parameters
+比热跃变
+可调谐半导体激光吸收光谱
+波动方程
+bandwidth
+Reflectivity
+稀土掺杂
+文献题录
+斜入射
+电子辐照
+electron density
+电磁学
+薄膜晶体管
+爆轰波
+线宽
+谐振频率
+分子电子学
+Faraday rotation
+作用距离
+辐射阻尼
+Spectral characteristics
+二聚物
+Soliton
+光纤色散
+Tb
+头盔显示器
+phonon
+spontaneous polarization
+矩形波导
+Level Set method
+Luminol
+干涉法
+长余辉发光
+Mueller matrix
+铕配合物
+离子辐照
+光栅衍射
+建筑声学
+区域分裂
+表面态
+紫外可见吸收光谱
+黑洞
+反射系数
+误差分析
+带宽
+wavelength
+IR spectrum
+生长机制
+ROFDR
+fine-structure energy.
+unstable cavity
+Ephedrinum
+nonlinear optic crystal
+mode locked fiber ring laser
+光阴极RF腔注入器
+三模共振
+Ni-Pd-P
+CICC型超导体
+Outer antenna
+Sagittally focusing
+photographic testing
+two-mode squeezed state
+ZND theory
+Flow-levitation method
+V type atom
+second-harmonic wave
+dissipative reaction
+intermediate mass fragment
+optical signal amplification
+fragmentation reaction
+Optical cross connect （OXC）
+intensity threshold
+晶体产生
+Thermoacoustic driver
+非平衡微波响应
+amplitude squeezed light
+电子反轰
+multiple focus
+MEND
+Dielectronic recombination
+驻波理论
+annual modulation
+光谱分辨率增强
+孔径平均效应
+laser-material interaction
+Grating pair
+optical parameters.
+侧抽运
+phase conjugation resonator
+Chla分子
+KABO
+recombination laser
+Optical phonon
+meson cloud
+瞬态发光
+He-jet tape transport system
+主干光传送网
+稳态脉冲
+物形反演
+色散平坦渐减光纤
+Optical fiber lasers theory
+半宽比
+reflection equation
+高温超导磁悬浮
+Kirkpatrick-Baez microscope
+螺旋度振幅
+维数正规化
+位形熵
+激子能级
+能量转移速度
+顶部籽晶熔盐法
+cross section fluctuation
+Representation group
+in-beam γ-spectroscopy
+核子激发态
+two photon resonant three photon ionization
+Remote sensing FTIR
+Pulse tube cryocooler
+energy transfer speed
+升算符
+奇偶结构
+自位相调制
+vertex chamber
+Far-field measurement
+电荷弛豫
+frequency pulling.
+LCTV
+BR膜
+谐波分离
+orbit angular momentum
+电荷迁移带
+CICC type superconductor
+phase-stepping.
+Vertical field
+EMV gauge
+microwave electron gun
+非科尔莫戈罗夫湍流
+溶液法生长
+研究创新型实验
+高精度探头
+红外椭圆偏振光谱
+提拉法单晶生长
+γ-γ-t符合测量
+semiconductor optical amplifier (SOA)
+Chirped pulse
+PolyU·polyA·polyU
+physics demonstration experiment
+Mach Zehnder Interferometer
+SASE
+Langmuir Blodgett multilayers
+Nonequilibrium microwave response
+衍射相位元件
+graphite.
+HHG
+oscillator strengths.
+thermo field dynamic
+time resolved spectra
+Frequency chirp
+并行直接积分法
+原子束极化
+transparent polycrystalline spinel
+阵列滤光片
+非线性色散方程
+多原子缠结态
+Passive compulsator
+长曝光光学传递函数
+Quarter wave stack
+平衡零拍探测
+four-wave mixing.
+optical associative memory.
+Energy confinement time.
+浮动熔区法
+等离子体融断开关
+Atomization temperature
+amplification.
+闪烁频谱
+双重子态
+air embolism
+辐射热波
+PSⅡ颗粒复合物
+德国物理学
+PS/PC
+high energy hadron hadron collision
+GaAs膜
+GaN∶Si
+动量相关作用
+Multi-mode light field state of superimpositions state
+ZND理论
+space charge field.
+Ⅰ类临界相位匹配
+畸变不变模式识别
+Brillouin light scattering
+Cd-Sn-Zn.
+Transverse relaxation time
+high pressure X ray diffraction
+Resonant effect
+火花室
+H-COSY
+光伏孤子
+Ho:YLF晶体
+弹丸消融
+声驻波
+Differential group delay
+外腔式二极管激光
+Equal-order N-th power H-squeezing
+Optical fiber communication technology
+pumped.
+消像差
+原性质分析
+准裂变
+耦合束团不稳定性
+Ho:YLF crystal
+纠缠熵
+凹微透镜阵列
+摇摆场
+Auto-cascade refrigeration cycle
+Plasma facing materials
+熔焊面
+碰撞转移速率
+ring cavity fiber laser
+ZnOEP
+X-ray framing camera
+Incoherent crosstalk
+Transmitted power
+Plasma displacement
+complex optical field
+optical interconnection.
+Impurity radiation
+Continuum radiation
+横向聚焦
+infrared optical properties
+highly stripped ion
+条纹场
+势垒分布
+Interpattern association
+isospin dependent quantum molecular dynamics
+初始原子相干性
+laser damage threshold.
+中质比
+Optical time division multiplexing （OTDM）
+Lasiokaurinal
+高分辨率差分格式
+激光维持爆震波
+tunable Ti∶sapphire laser
+双向抽运
+optical field ionization （OFI）
+二氧化硅增透膜
+scalar approximation
+表面增强共振拉曼散射
+Optical fiber CATV externally modulated transmitter
+particle in cell simulation
+puncture collision
+CIDNP effect
+order matrix
+compound nucleus statistical process
+X-laser
+inertial confined fusion
+自旋体系
+信号变动
+folded perfect shuffle
+粮仓效应
+band transport model
+Chloromaloside B
+密度极限破裂
+半整块
+wavefront overall tilt
+Nanosolid superacid
+海底参数
+alpha-decay energy
+Intensity parameters
+Passively Q-switch
+Hugoniot curves
+中心峰值强度比
+类透镜效应
+光子级联发射
+Passive mode-locked
+Optical current sensor
+Logging speed
+two-photon excitation.
+形变双奇核
+音调辨别
+实验室EXAFS
+透射耦合
+视距探测方程
+transverse temperature
+Mode-locked
+重离子耗散反应
+HTS current leads
+heavy ion reaction
+中微子丢失
+Chloromaloside A
+aero optics
+任务分析技术
+spatial filter.
+Superconducting current density
+Ni替代
+余弦光栅
+soft X ray spectrum.
+YBCO颗粒膜
+波前整体倾斜
+double-edge technique
+High temperature superconductor（HTS）
+双耳声
+Yb doped double cladding fiber
+光场压缩效应
+黄昆因子
+Tetrahydro-β-carboline
+控制系列
+玻色算符的逆算符
+Helium transport
+核磁共振量子计算
+自旋宇称
+Eikonal近似
+X射线发射
+位相时间
+大气湍流外尺度
+Broadband laser
+干涉仪移相器
+WET
+受迫阻尼振动
+dark state
+ESR spectra .
+变焦距光学系统
+EPR信号
+热自散焦
+null testing
+TSGM
+ultrafast optical nonlinearity
+表面浮雕结构
+朗谬尔波
+（微）喷注
+π效应
+GSGG
+computer aided alignment
+polyatomic semi infinite crystals
+impulsive stimulated Raman scattering
+Blumlein line
+Berylliumlike ion
+氩离子束刻蚀
+Exchange factor
+spark chamber
+强化导热
+屏蔽包层
+声门气流体积速度
+位相概率分布
+Raman过程
+超元胞
+MCHF
+同位素浓缩
+Degenerate four-wave mixing
+Coherent crosstalk
+AIRE S
+Recurrence formulas
+电流分流温度
+quantum geometric phase
+抽气孔栏
+掺钕光纤
+体积全息光栅
+散裂反应
+collective band
+Optical microcavity
+时间反演对称态的破缺
+高氧压合成
+Fiber amplifiers
+局域惯性系
+Off-resonance effect
+Rouard method
+自由旋气动窗口
+regenerative amplification
+复杂光场
+F S  N  body potential
+椭偏测厚仪
+Optical phased array
+Tl系超导体
+自锁模激光器
+Transverse shift
+收集环
+photorefraotive effect
+Cu（Ⅱ） ions
+连接通路
+evolution dynamics.
+四光子相干态
+center peak intensity ratio
+极向流
+DEPT）
+约化跃迁几率
+Nonlinear transmission
+B  integral
+photon echo.
+Inductance coupling
+熔合几率
+multi colors
+最小不确定态
+Pollution cloud
+自由电子激光实验
+fiber  Bragg grating
+β-环糊精与环氧氯丙烷共聚物
+激光的吸收效率
+Spectral switch
+Multi mode superposition light field state
+氦输运
+喇曼激光
+pulse stacking
+局地强迫
+Au等离子体
+Li-like ion
+晶体界面
+VUV radiation
+guide wave optics
+真彩色彩虹全息术
+X射线激光辐射
+Dyson-Schwinger方程
+变分微扰法
+phase conjugating mirror
+Mg原子
+双饼线圈
+实用超导磁体
+能量传递上转换
+光谱消畸变
+Electro-optic switch
+ab公式和改进的ab公式
+Multimode superimposition state light field
+计算层析成像光谱仪
+master oscillator power amplifier
+ZnSe单晶
+非线性原子光学
+TeOx薄膜
+laser pumping
+Fluctuation phenomena
+龙基光栅
+Comformation
+Higher order antibunching effect
+optical parametric oscillator.
+孔径接收
+Superposition of macroscopically distinct two asymmetrical quantum states
+AgInSbTe
+叠加q相干态
+圆形空心波导
+双波长共存
+布里渊密度
+磁散射
+Particle recycling
+平面环形交叉路口
+actively mode locking
+Rare earth impurities
+光纤法布里-珀罗腔
+ionization spectrum
+Amorphous selenium （α Se）
+Franck Hertz experiment
+MECO
+DC SQUID NMR
+Ce∶YAP
+物理期刊
+prism coupling method
+静态记录
+half width ratio
+原子选择性测量
+Lasing without inversion
+Intense relativistic electron beam
+self mode locked
+control bandwidth
+LPSVD
+激光上能级
+偶数阶等阶N次方Y压缩
+collision energy-transfer
+阻尼振子
+Bourdary layer
+Volume holographic grating
+electron bunch
+夸克自由度
+Depth of field
+Harmonic frequency mixing
+tensor glueball
+MHD平衡
+Instrument response function
+FEB E
+质心定向运动速度
+high power laser amplifier
+Chemical oxygen-iodine laser
+超快光学非线性
+Ne-like Ge
+磁绝缘传输线
+scatter plate interferometry
+响应函数方法
+类氢
+Ultraviolet absorption spectroscopy
+photon-gated spectral hole burning
+modulation measurement
+全量子理论
+Secondary spectrum
+矢量模态理论
+photorefraotive crystal
+离子尺寸效应
+固体激光腔
+laser-plasma interaction
+Asymmetry superimposition state with distinguishable two quantum states
+激光拉曼散射
+hadronic event
+持久性光谱烧孔
+掠入射光栅光谱仪
+阿贝成像原理
+optical fiber.
+标量近似
+Balmer formula
+ZnCdSe-ZnSe
+diffuse characteristic
+Hamilton Jacobi equations
+电子碰撞激发机制
+广义奇偶相干态
+Brueckner-Hartree-Fock approach
+Finned-tube heat exchanger
+透明边界条件
+time of flight （TOF）
+Beam wander
+归一化强度
+slope efficiency.
+temperature tunable
+Walk-off
+reverse saturable absorption.
+leaky waveguide
+laser-induced grating
+two-quantum excitation
+Vacuum coupling
+PSKNN
+质子晕核
+振颤运动
+波段外激光
+neutron-halo nucleus
+光子图像处理
+Hologram compression
+Quenching concentration
+掺铜KNSBN晶体
+spatiotemporal instability
+Cooperative luminescence
+部分熔化法
+CdSSe玻璃
+铁基砷化物
+Multimode interference
+阈上离化
+flux pulling method
+氦喷嘴带传输系统
+简并Λ型三能级原子
+组氨酸钴（Ⅱ）
+光信号放大
+定态微扰论
+二氧化钛纳米晶
+激光化学气相热解
+two-mode squeezing
+free electron laser（FEL）
+Radial waveguide
+裂变扩散模型
+Current sharing temperature
+超声波谱
+光电压效应
+acceleration due to gravity
+high precision detector
+倍频光
+磁共振信号
+Micro-Raman
+点对点搭接
+Self-focusing optical fiber
+FT-NMR
+直接电离
+非共线作用
+全息图压缩
+self deflection
+自滤波非稳腔
+Rayleigh range
+nucleon-nucleon cross section
+洛梅耳函数
+低温强磁场
+抗偏振变动
+层状铁电体
+Spinor representation
+Near infrared（NIR） spectroscopy
+纵驻波
+邻氯苯氧乙酸
+分段表面放电
+generalized odd and even coherent states
+photo-conductive switch
+永磁轨道
+激发态非线性
+rotational energy transfer
+局部改性
+核交叉弛豫速率
+Fabry-Pérot cavity
+The broken time reversal symmetry pairing state
+杂质辐射
+optical radiation technique
+Absolute instability
+Ce∶LSO
+激光-X光转换效率
+Tunable filter
+黎开管振荡
+inertial confinement fusion driver
+matrix mechanics
+演化动力学
+E-BN
+Franz Keldysh effect
+Oxyfluoride glass ceramic
+liquid-gas phase transition
+分量算符
+超快电子衍射
+strong field physios
+达朗贝尔方程
+电-声子耦合
+q deformed
+digital holographic interferometry
+Ⅲ-Ⅴ化合物
+偏压电极
+Pulse tube
+partial wave analysis
+有序算符内的积分技术
+原子自发辐射
+三阶色散补偿
+高速调制光
+size effect.
+ESR-CT
+silo effect
+FIA-ICP
+Trigonal crystal field
+X-ray diode
+nonlinear absorption.
+涡旋态
+遥感FTIR
+plating manganin gauge
+声辐射计
+polyethylene oxide thin film
+iterative shift and add method
+选择性远程DEPT技术
+步进啁啾光纤光栅
+Gyro-TWT
+TGS 晶体
+镀膜锰铜计
+Hénon chaotic system
+相互作用时间
+OOPIC
+洛仑兹函数
+低维半导体
+absorption loss.
+laser  diode
+signal test and evaluation
+孤子脉冲产生
+q  deformed
+粲重子
+CTB盒
+Josephson junction arrays
+广义模拟退火法
+Field electron emission spectrum.
+Puffing gas
+Fe-Ni-Cr-Si-B
+激发带宽
+Sellmeier equation
+Traveling-wave thermoacoustic engine
+Tm hollow cathode discharge lamp
+mass operator
+非光学
+聚合物发光
+photon image processing
+Bootstrap current.
+负色散
+真值表查询
+溶液降温法
+AlCoMn
+two pion interferometry
+谱线位移
+强子谱
+Noncollinear phase matching
+光致折射效应
+complete assignment
+Photon number
+硅锗量子阱
+photon cascade emission
+CdSe/CdZnSe
+sonomyography
+Rb-He
+被动补偿脉冲发电机
+聚噻吩微米/纳米管
+FZSi
+XUV spectroscopy
+干涉调制器
+输运性
+最佳输入功率
+猫眼逆向器
+无啁啾调谐
+各向异性因子
+TVD scheme.
+LB膜制备
+flux dynamics
+二维硬盘系统
+ZnS∶Zn
+orthoscopic image
+Numeric simulation design
+反冲电子
+chirped optical pulse
+固体燃剂
+Radical intermediates
+可调谐染料激光器
+coupled bunch instability
+Multimode interference （MMI）
+闪光灯抽运
+Nonlinear polarization rotation
+线聚焦激光等离子体
+X射线分幅相机
+wavelength division multiplexed
+Superconducting fault current limiter
+electron optical crystal
+辐射磁流体力学
+electron density.
+slitless rainbow holography
+SMBI
+多组态Dirac-Fock方法
+一维投影相关
+端面抽运固体激光器
+白宝石晶体
+channelling radiation
+CdSSe-doped glass
+Up conversion fluorescence
+电流剖面
+incoherent correlator
+Zernike aberrations
+倍增噪声
+混合激发
+fractional spin
+双光子纠缠态
+近藤共振
+isospin-dependent QMD model
+原位跟踪
+原子与分子物理学
+聚乙烯氧化物薄膜
+等腰直角三角形波导
+Bragg角
+Gd（DTPA-BIN）
+Li-like ions
+Polythiophene micro-/nano-tubules
+pulsed UV laser
+Transition energy
+非线性镜
+Optical rectification
+真空耦合
+Rough interface scattering
+N-SIMPLEX
+掺镱/铒光纤
+三硼酸锂
+mechanical relativity principle
+Fraction frequency scattering
+Distortion invariant pattern recognition
+Nonlinear optical loop mirror （NOLM）
+W-tunneling optical fiber
+Vector diffraction theory
+Spatial self-phase modulation
+fast axial flow
+傅里叶变换红外显微光谱法
+sapphire crystals
+quantum molecular dynamics
+特征红外光谱
+LHW
+atomic resonance filter.
+FEB E divertor
+radiative ablation
+Multimode imaginary odd coherent state
+phase stepping interferometry
+噪声间关联程度
+阶矩阵
+variational perturbation scheme
+cascading second order nonlinearity
+coherent detection.
+kinematic fit
+经典增益
+粒子数涨落
+准稳态运行
+the central slice theorem
+年调制效应
+Target material
+离子俘获
+LSDA+U
+劳厄
+压电行波马达
+外腔谐振倍频
+输运模拟
+掺质
+Picosecond laser
+electrostatic focus
+Gases monitoring
+群延迟色散
+self-Q-switching
+Two photon excitation
+Ohm meter
+时间特性
+薄膜材料
+bifurcation
+γ射线
+有限元方法
+p型掺杂
+数字散斑
+超导托卡马克
+electron diffraction
+optical band gap
+氢分子
+粘滞阻力
+Riemann问题
+Ising model
+backscattering
+imaging quality
+特征谱线
+电子吸收光谱
+干涉滤光片
+量子系统
+弹簧秤
+分数阶
+光谱成像
+事件空间
+雪崩光电二极管
+背散射
+光漂白
+散射角
+有效势
+单粒子翻转
+差分吸收光谱
+狄拉克
+多组分分析
+键长
+化学发光
+复杂网络
+模拟计算
+并行计算
+resolution
+激光焊接
+capacitance
+光学仪器
+SBS
+微机电系统
+Film
+Navier-Stokes方程
+直线加速器
+第一壁
+非经典特性
+高Tc
+LB薄膜
+高散射介质
+边模抑制比
+optical fiber Bragg grating
+类孤子解
+electro-optic modulator
+基本电荷
+Thermal distortion
+光强调制
+scanning near-field optical microscope
+双稳
+Quantum computation
+Fourier transform spectrometer
+inelastic scattering
+matrix element
+focal plane array
+辐射流体力学
+离散效应
+压缩性质
+Finite-difference time-domain method
+全息记录
+Photovoltaic effect
+合成波长
+L band
+spin-orbit coupling
+菲涅耳数
+IWOP技术
+radar engineering
+optical test
+self-imaging
+旋光率
+Stark效应
+量子秘密共享
+glass microsphere
+离散纵标法
+physics education
+proton exchange
+相移干涉术
+propagation properties
+透射光强
+光学树脂
+定标律
+衰变率
+扩展光源
+碰撞截面
+physics experiment teaching
+超高速发射
+terahertz wave
+vibrational energy
+吸附分子
+quantum coherence
+热力学量
+frequency chirp
+ground-state energy
+激光二极管列阵
+弱锚定
+optical experiment
+声悬浮
+场电离
+量子力学效应
+nonlinear optical property
+自动准直
+Phase modulation
+crystal optics
+二维光栅
+分子常数
+去除函数
+modulation transfer function(MTF)
+Buffer layer
+科学生涯
+涂层导体
+厄米算符
+电子俘获材料
+化学交换
+渡越辐射
+Cryogenic system
+玻色-爱因斯坦凝聚体
+耦合映像格子
+衍射增强成像
+靶材料
+电荷转移配合物
+Terahertz wave
+pulsed laser deposition （PLD）
+university physics
+物理思想
+自吸收
+Photosystem Ⅱ
+optical waveguides
+极化激元
+折射率温度系数
+室内声场
+W态
+综合鉴别函数
+高电荷态
+optical switching
+weak anchoring
+THz-TDS
+双光子跃迁
+脉冲放大
+相移算法
+Amplitude modulation
+动态光谱
+diffractive efficiency
+plasma physics
+微喷射
+Laser heating
+偏振控制
+量子阱结构
+circuit implementation
+heavy ion beam
+IR
+detonation
+流动注射
+元胞自动机
+实验装置
+加速器
+相分离
+演示
+定标
+磁共振成像
+aliasing
+klystron
+散斑噪声
+振动谱
+双光路
+射频场
+laser pulse
+单色器
+平行轴定理
+有机发光材料
+Regenerator
+deep level
+Quantum dot
+fiber optic gyroscope
+fluorescent spectra
+NMR谱
+显像剂
+波包
+磁镜
+InSb
+非球面透镜
+散粒噪声
+法拉第旋转
+Transmission efficiency
+自能
+朗之万方程
+鞘层
+manganites
+crystal habit
+格位
+optical thin film
+频率稳定
+基础物理
+电离能
+晶体光学
+制冷与低温工程
+directional coupler
+等势面
+极紫外
+惯性约束核聚变
+线谱
+TVD格式
+静磁场
+欧姆接触
+Bandwidth
+发光机理
+直接数值模拟
+牛顿力学
+位移电流
+文献索引
+混响
+对角化
+钙钛矿结构
+X射线粉末衍射
+非汉字符号
+mechanics of explosion
+fiber optic sensor
+热沉
+三线摆
+有源控制
+光程
+立体角
+group velocity
+多波长
+X ray
+band structure
+speckle
+平衡位置
+image quality
+红外吸收光谱
+液态金属
+近场
+相位补偿
+多光谱
+纳米棒
+三棱镜
+target tracking
+弦振动
+光的干涉
+摇摆曲线
+PN junction
+磷光
+高速摄影机
+脉冲序列
+激光通信
+红外系统
+光场
+photochromism
+光电系统
+光学带隙
+非线性发展方程
+孤立波解
+磁学
+普朗克常数
+示波器
+Coupling
+glass
+temperature measurement
+光通量
+谐振器
+光网络
+热力学函数
+离散傅里叶变换
+感应电动势
+双波长
+自由能
+FFT
+numerical calculation
+carbon nanotubes
+Lyapunov exponent
+伏安特性
+伏安法
+chaotic time series
+molecular dynamics simulation
+血卟啉
+荧光性质
+光放大
+单脉冲
+Ablation
+共振散射
+negative refraction
+气体激光器
+particle sizing
+optical lever
+电子回旋共振
+Cs
+UV-B
+depolarization
+衍射图样
+Partial least square
+ITO薄膜
+微振动
+dopant
+pulsed laser
+YAG laser
+电子态
+象差
+光电对抗
+薄膜生长
+Fokker-Planck equation
+动能定理
+磁流体力学
+dynamic light scattering
+三元配合物
+奥林匹克竞赛
+有序结构
+晶体
+品质因数
+sol-gel method
+非晶碳
+激光输出功率
+腔长
+multi-wavelength
+格子气
+物理课程
+太赫兹时域光谱技术
+chiral medium
+背散射电子
+wavefront
+fiber coupler
+弱相互作用
+显示材料
+metamaterial
+象增强器
+sonoluminescence
+pressure effect
+低能电子
+位相物体
+photoluminescence spectra
+光谱表征
+半宽度
+缺陷回波
+量子测量
+喷注噪声
+约瑟夫森效应
+Heterojunction
+Coupling coefficient
+半消声室
+物理专业
+非线性演化方程
+Water vapor
+temperature sensing
+plasma diagnosis
+面形精度
+quantum algebra
+等效折射率
+Phase unwrapping
+超导量子干涉器件
+homogeneous balance method
+波腹
+恒星形成
+helium atom
+劲度系数
+luminescence properties
+串列加速器
+微晶硅薄膜
+Monte Carlo simulation.
+PbTe
+毕奥-萨伐尔定律
+NMR spectroscopy
+临界态
+光折变材料
+相位测量轮廓术
+窄带滤光片
+energy spectra
+kit
+声光偏转器
+纯音
+laser alignment
+闪光照相
+液晶显示器
+铷原子
+q-deformed
+喇曼放大
+色度色散
+密立根油滴
+variable separation approach
+引力波探测器
+空间吸声体
+实验教学仪器
+应变层
+单模光纤耦合器
+超分辨力
+力链
+undulator
+strong detonation
+自旋-轨道耦合
+Tesla变压器
+稳频激光器
+all-optical wavelength conversion
+非线性波导
+半波长
+Density matrix
+双势阱
+激光破坏
+非线性光波导
+波导模式
+偶极压缩
+collisional energy transfer
+absolute distance measurement
+smectic phase
+luminescent efficiency
+first-principles calculations
+有源层
+偏振光谱
+linac
+电光采样
+induced electric field
+电子激发温度
+电声效率
+原子球
+Traveling wave tube
+钾原子
+radiative lifetime
+electric-field intensity
+棱镜摄谱仪
+detector array
+拉曼激光器
+哈勃常数
+光学相关识别
+光泵浦
+ZnO crystal
+波纹波导
+semiconductor optical amplifier（SOA）
+超荧光光纤光源
+阈上电离
+波长路由
+拍长
+Rabi oscillation
+多涡卷混沌吸引子
+Perylene
+比热测量
+力学题
+电子密度分布
+冷阴极荧光灯
+vacuum state
+birefringence.
+对巯基苯胺
+preionization
+transmission grating
+NbN
+random laser
+Photoluminescence spectra
+nuclear decay
+近晶相
+双原子
+polarization dependent loss
+角分辨光电子能谱
+NMR全归属
+体散射
+Kondo效应
+X-ray spectroscopy
+Spontaneous emission
+质心速度
+mesomorphic properties
+optical limiter
+X射线光谱
+optical potential
+光学相控阵
+低维结构
+cosmological constant
+R方法
+复合带材
+Erbium doped fiber amplifier
+块状样品
+polarization ratio
+小型制冷机
+Third-order dispersion
+双参量
+钠分子
+far-field distribution
+韵律短语
+宽视角
+Optical interconnection
+声光可调谐滤光器
+heat capacity laser
+无限深势阱
+Bell's inequality
+相移光纤光栅
+extensive air shower
+Quantum effect
+暗态
+物理学前沿
+optical correlation
+optical wireless communication
+能流密度矢量
+NYAB晶体
+manganin gauge
+泵浦-探测
+medical physics
+pupil filter
+Hartmann-Shack wavefront sensor
+Lau effect
+啁啾效应
+electron beam lithography
+全息干涉仪
+Ice slurry
+fanning effect
+堵塞效应
+laser beam shaping
+反斯托克斯荧光
+二维相关光谱
+超代数
+超导结
+非均匀等离子体
+折射率调制度
+隔声门
+imaging agent
+相位失配
+自散焦介质
+光时域反射技术
+equal inclination interference
+activation technique
+液晶层
+mean free path
+超导单晶
+string vibration
+surface-enhanced Raman spectroscopy
+光学晶格
+Intensity modulation
+新物理
+space charge field
+倍周期
+散裂中子源
+Bose-Einstein凝聚
+磁标势
+光线追迹法
+mid-infrared
+演化算符
+火花隙开关
+有效原子实势
+外差
+核间距
+circularly polarized light
+Platinum electrode
+Soluble solids content
+Casimir效应
+离子谱
+热声驱动器
+多核子转移反应
+repetition frequency
+隧道磁电阻
+Spatial soliton
+high brightness
+Berry phase
+确定方程
+Stokes参数
+Meissner效应
+随机双折射
+YAG crystal
+选择激发
+buffer gas
+线性电光效应
+可加性规则
+引导磁场
+局域空心光束
+Linear compressor
+conserved quantities
+基态结构
+环形振子
+JC模型
+光学滤波器
+自偏转
+high-order dispersion
+棱镜组
+optical buffer
+多模真空态
+polarizing prism
+Time resolved spectrum
+扫描相机
+表面物理
+三光子吸收
+grazing incidence
+质心参考系
+magic number
+差分群时延
+refractive index measurement
+稳像
+同轴波导
+返波管
+Hugoniot曲线
+depolarization ratio
+resonant interaction
+粘弹性层
+光纤喇曼放大器
+自脉动
+调制器
+保密通信
+self-assembly
+熔体
+热释光
+fine structure
+介电常数
+电子束
+矫顽力
+亚像素
+生长习性
+色度学
+phase measurement
+magnetic properties
+driving circuit
+守恒律
+鲁米诺
+半导体
+解析解
+spectrum
+Dispersion
+Monte Carlo方法
+激光波长
+Immunoassay
+三维形貌测量
+直达声
+水声学
+微光夜视仪
+photolithography
+低温系统
+平面反射镜
+thermal annealing
+Heat load
+InP
+脉冲功率
+Principal component analysis（PCA）
+Ray tracing
+纵波速度
+Sm
+电子稳像
+薄膜干涉
+optical disk
+phase diagram
+electric field
+亮度
+parallel computing
+sensor
+传递函数
+热稳定性
+电磁场
+弛豫时间
+coupler
+X射线光电子能谱
+PZT
+solar cell
+atomic force microscope
+liquid crystal display
+electromagnetic wave
+人造金刚石
+电磁脉冲
+electron beam
+complex network
+chemical vapor deposition
+学部委员
+transmission coefficient
+wave equation
+漫反射
+nuclear magnetic resonance
+图像配准
+晶格畸变
+三维荧光光谱
+代数方法
+微带线
+目标探测
+LD
+Curie temperature
+CPLD
+Filter
+磁共振
+磁屏蔽
+晶体形貌
+动量守恒
+超新星
+BER
+magnetic flux
+磁化电流
+原子结构
+放射免疫分析
+电介质
+天文学家
+红外激光
+磁通量
+散射光
+激光干涉
+结霜
+酞菁
+国家重点实验室
+光学电流互感器
+声品质
+irradiation effect
+结温
+Bragg grating
+电子散斑干涉
+反应离子刻蚀
+VCSEL
+phosphorescence
+Schrdinger equation
+液氮温度
+scattering cross section
+非线性增益
+脉冲激光器
+亚像元
+双稳系统
+高斯脉冲
+transport equation
+spherical aberration
+液晶材料
+optical information processing
+measurement noise
+Ejector
+Ising模型
+光谱强度
+畸变校正
+正电子湮没技术
+solvent effect
+Radiography
+辐射测量
+Lissajous figure
+electro-optic effect
+超声学
+中国科学院文献情报中心
+焦平面阵列
+terminal velocity
+Holography
+multiplicative noise
+相函数
+染料分子
+基阵
+自感电动势
+磁光调制
+介观系统
+MOVPE
+optical model
+亥姆霍兹
+focal spot
+时间分辨荧光光谱
+同步辐射光
+四象限探测器
+多孤子解
+Langevin方程
+birefringent crystal
+热力学第三定律
+模场
+导体表面
+场致电子发射
+模匹配
+自由粒子
+光束变换
+固体靶
+激光诱导损伤
+久期方程
+可调谐滤波器
+光电轴角编码器
+beam propagation method
+跃迁能量
+coherent detection
+thin lens
+Rate equation
+包层泵浦
+介质波导
+衍射场
+电子荷质比
+菁染料
+rocking curve
+模型传递
+噪声指数
+对易关系
+磁矢势
+有机液
+Wigner函数
+direct detection
+超导限流器
+超导线
+ring laser gyroscope
+非球面度
+合成孔径声呐
+粒子输运
+微波特性
+laser-induced plasma
+半导体激光二极管
+大学物理课程
+laser rangefinder
+暗孤子
+radiation transfer
+digital speckle
+荧光量子产率
+菲涅耳波带片
+晶体定向
+轴向分辨率
+相移干涉
+光电集成
+Wigner function
+坐标表象
+track structure
+pyroelectric property
+傅里叶频谱
+熔融拉锥
+Superlattice
+cross sections
+牛顿环实验
+supernova
+Fresnel formula
+wave plate
+pulse shape
+铌酸锶钡
+原子激光
+InGaAsP
+表面等离子体波
+单光子计数
+距离选通
+光学图像
+硅原子
+高中物理
+Gaussian pulse
+NMR spectrum
+信号增益
+Fourier transform infrared spectroscopy（FTIR）
+Electron beam evaporation
+STN-LCD
+中微子质量
+表面反射
+ZnO nanoparticles
+Monochromator
+极性基团
+二维相关红外光谱
+Ampere force
+冷聚变
+turbulence
+Refrigerator
+玻璃微球
+conservation law
+二阶矩
+原子光谱
+增强因子
+Hydride generation
+猝灭
+transport properties
+静电感应
+Monte
+基体效应
+磁偶极子
+散射系数
+面阵CCD
+长余辉
+比热容
+Heat transfer
+potential energy
+正则化
+穿透深度
+explosive
+信号处理
+Lyapunov指数
+temperature
+image segmentation
+Free radical
+功率超声
+forced vibration
+包裹体
+振子
+Temperature distribution
+非晶硅
+共振增强
+Raman fiber laser
+基频提取
+transformation relation
+neutrinos
+二极管激光泵浦
+可闻声波
+Reflectance spectrum
+弱作用
+GaN纳米线
+准周期运动
+能带匹配
+行波放大
+Diffuse reflectance
+field entropy
+Yb:YAG
+Frequency doubling
+electron scattering
+thermo-optical effect
+transparent medium
+阿伏伽德罗常量
+close-coupling method
+N次方Y压缩
+Liquid helium
+参量放大器
+小孔衍射
+连续输出功率
+有机非线性光学晶体
+方位角分布
+uncooled infrared imaging
+硅基液晶
+氰根桥联
+自泵浦位相共轭
+衬比度
+Josephson效应
+optical microcavity
+远程态制备
+relativistic correction
+分子云
+弯结
+RIBLL
+基态波函数
+角分辨
+广义不确定关系
+超临界氦
+fine structure splitting
+光电反馈
+Excitation temperature
+激光定向
+Skyrme模型
+双棒串接
+酞菁铜衍生物
+HIRFL-CSR
+All optical network
+inelastic collision
+双光子共振
+Mandel参数
+复合激光
+国际监测系统
+振动图像
+同步辐射源
+vertical alignment
+太赫兹成像
+磁输运
+Propagation constant
+π介子
+film physics
+Fourier self-deconvolution
+dispersion slope
+物理》
+反射率对比度
+Multi-component analysis
+正交归一本征态
+potassium lithium niobate
+Micro-FTIR
+类Kerr介质
+单光子探测器
+静电聚焦
+超快光谱
+相空间轨迹
+guided-wave and fiber optics
+非线性自适应预测
+中心遮拦
+主动锁模光纤激光器
+飞秒强激光
+后脉冲
+Marx发生器
+多光子J-C模型
+pulse forming line
+诱生势
+MHD instability
+self-mode-locking
+transmittance spectrum
+光学史
+光强起伏
+wide field of view
+超导氧化物
+broadband light source
+演示仪器
+三价铈离子
+阈值光强
+constitutional supercooling
+Lattice distortion
+shearing interference
+modulation response
+hole trap
+Zeeman效应
+双流不稳定性
+laser diode arrays
+薄膜淀积
+removal function
+Stimulated emission
+阻尼谐振子
+GHZ state
+等离子体电极
+相干传递函数
+polarized light interference
+耦合摆
+分数相关
+玻姆
+驱动势
+photoreflectance
+passive Q-switching
+可压缩多介质流
+增益窄化
+Skyrme model
+平衡位形
+平面环
+electron holography
+high order harmonic
+同频串扰
+Gross-Pitaevskii方程
+optical neural network
+太阳中微子问题
+振动能谱
+fundamental physics
+蚀刻衍射光栅
+THz imaging
+electron impact ionization
+TM波
+Entangled state
+参量带宽
+double clad fiber
+stress birefringence
+光数据存储
+加速机制
+电子阻止本领
+Phase function
+过热电子
+electro optic effect
+Mei conserved quantity
+隧道电离
+Solid state laser
+压力恢复系统
+星形耦合器
+态密度分布
+油垢厚度
+distributed Bragg reflection
+Deformable mirror
+动力学和运动学转动惯量
+光谱参量
+Plane wave expansion method
+CdZnTe crystal
+非归零码
+long lasting phosphorescence
+深度非弹性散射
+高校物理实验教学
+双光子过程
+AIGaAs
+飞秒激光加工
+entangled state representation
+field entropy evolution
+金属包覆波导
+分子线
+Yb-doped fiber
+determining equation
+核磁共振量子计算机
+全混洗
+InAs
+statistic properties of photon
+laser diode bar
+红光激光器
+microstructured optical fiber
+开关电压
+反转粒子数
+概率幅
+激发相干态
+相干捕获
+碰撞转移
+radiation force
+模式变换器
+光波导放大器
+原子电性作用矢量
+Traffic grooming
+finite nuclei
+光栅耦合器
+Fermi resonance
+acousto-optic modulation
+高强度激光
+Atmospheric optics
+强非局域介质
+半高全宽
+光速减慢
+渐变折射率波导
+photoacoustic imaging
+eyepiece
+optical readout
+几何相因子
+格点QCD
+光学渡越辐射
+连续激光器
+氟磷酸盐玻璃
+distributed Bragg reflector
+high-order harmonic
+偏振化方向
+selfoc lens
+斯特列尔比
+soft mode
+Resonant wavelength
+air shower
+旋转孔径
+laser frequency stabilization
+显微成象
+光分/插复用器
+缺陷能级
+噪音抑制
+Wavelength division multiplex
+光交错复用器
+电子全息术
+QED
+phase fluctuation
+核磁共振研究
+energy level splitting
+《物理学报》
+增益调制
+激光诱导荧光激发谱
+beam coupling
+highly charged ions
+theorem of momentum
+自旋多重度
+Quantum noise
+spin-orbit interaction
+built-in electric field
+环形腔光纤激光器
+非傍轴光束
+Field entropy
+brick-wall model
+非晶硒
+光学元器件
+稀有衰变
+聚焦声场
+超声多普勒信号
+single-frequency laser
+三角晶格
+发光增强
+Excitation spectra
+dynamical fluctuation
+数学软件MATLAB
+saturated absorption
+spallation neutron source
+差分相移键控
+螺旋测微器
+全光纤激光器
+共振模
+stimulated Raman scattering （SRS）
+千电子伏
+超光谱成像
+Photorefraction
+引上法
+satellite optical communication
+半磁半导体
+Fiber-optic hydrophone
+white OLED
+光阱刚度
+optical correlator
+脉冲光束
+superfluidity
+注入势垒
+飞行时间探测器
+Organic electroluminescence
+铁电相
+撕裂模不稳定性
+frequency-doubling
+自洽场方法
+理想气体温标
+二级修正
+Quantum interference
+Vibrational frequency
+自发成核
+hot electron
+radiochemical purity
+TE模
+电输运特性
+Mei守恒量
+晶体场参数
+晶体旋转法
+弯转磁铁
+电磁打点计时器
+相干光源
+MAFIA程序
+单重合码
+gain modulation
+升降算子
+dipole squeezing
+《物理学》
+共轭高聚物
+组分过冷
+optical spectroscopy
+moving atom
+Gaussian Schell-model beams
+叠层太阳电池
+硫镓银
+顺磁质
+surface enhanced Raman spectroscopy
+beam propagation factor
+piezoelectric constants
+光学滤波
+CO laser
+Bio-tissue
+热弛豫
+耦合量子阱
+玻恩
+optical heterodyne
+Matrix elements
+阶梯光栅
+ARGO
+stellar evolution
+squeezing property
+waveguide optics
+光子统计性质
+激光诱导扩散
+应力效应
+光学二次谐波
+光热偏转技术
+类孤子
+decay width
+高能天体物理
+eigen matrix
+调制格式
+photorefractive effects
+集体带
+定域中心
+有心力场
+Non-equilibrium plasma
+星间激光通信
+laser diode （LD）
+wave normal
+linear electro-optic effect
+塞曼分裂
+乳胶室
+黑腔
+nuclear data
+micromaser
+fused taper
+集成开关型霍尔传感器
+Jaynes Cummings model
+quark condensate
+自聚焦透镜列阵
+multiparticle production
+Chern-Simons理论
+effective index method
+凝聚态理论
+neutrino mass
+掺镁铌酸锂
+damage morphology
+非经典光场
+张量ABCD定律
+dislocation density
+多晶硅薄膜
+氮化硼
+沉积温度
+激光准直
+Rb
+glass ceramics
+像质
+Transfer matrix
+Hamiltonian
+precession
+signal processing
+symmetry
+物理学
+现场可编程门阵列
+LNG
+红外成像
+resistivity
+放大器
+目标跟踪
+化学腐蚀
+尺寸效应
+压强
+成像质量
+红外吸收
+锁相
+阈值电压
+signal to noise ratio
+隧道效应
+生长基元
+optical film
+增益平坦
+振动方式
+增益介质
+cholesteric liquid crystal
+light intensity distribution
+plasmas
+色散管理
+左手介质
+磁光晶体
+非晶相
+general relativity
+熔融石英
+nuclear fusion
+库仑阻塞
+调幅波
+超高速撞击
+相干光
+infrared laser
+Insertion loss
+光正交码
+激光测距机
+交叉敏感
+加性噪声
+模场直径
+有机发光器件
+天体物理
+Penetration depth
+背景辐射
+Chla
+微观粒子
+齐次平衡法
+引力质量
+电子跃迁
+辐射声场
+epitaxial growth
+spray pyrolysis
+harmonic vibration
+optical network
+two-wave coupling
+主镜
+Squeezing
+铁电相变
+transport theory
+tellurite glass
+molecular electronics
+density matrix
+extinction coefficient
+amplifier
+传感器技术
+Adsorption
+追踪控制
+伏安特性曲线
+Emissivity
+氧化物薄膜
+分子运动
+shock loading
+beat
+同时测量
+Flame atomic absorption spectrometry
+万有引力定律
+Nanocrystalline
+red shift
+光致荧光
+Superconductor
+Nuclear magnetic resonance
+熔石英
+严格解
+物理学科
+period-doubling bifurcation
+库仑定律
+中心波长
+crystal defect
+radiative transfer
+Light scattering
+双脉冲
+spallation
+研究性实验
+光电经纬仪
+Doppler frequency shift
+thermal distortion
+tunneling effect
+电场
+滤波器
+电场强度
+电阻
+crystal
+边界条件
+microscopy
+吡啶
+向异性
+黑体
+nonlinear vibration
+荧光激发光谱
+lens design
+heterodyne interferometer
+变迹
+连续光谱
+Erbium-doped fiber amplifier
+power spectra density
+测试与诊断
+history of physics
+Time resolution
+化学溶液法
+碰撞激发
+推迟势
+米氏散射
+high-power microwave
+面导纳
+光纤光栅传感
+curvilinear motion
+圆偏振
+实验检验
+无衍射光束
+光解离
+同轴全息
+polarization interference
+Ne
+衍射效应
+split-step Fourier method
+微光管
+大功率激光
+classical limit
+块材
+双缝衍射
+涡卷
+organic light emitting diode
+Meissner effect
+polymer network
+靶面
+轨道方程
+物理竞赛
+绿激光
+F-P etalon
+B介子衰变
+集体流
+可调光衰减器
+Particle-in-cell
+简正频率
+激基复合物
+holographic recording
+fiber dispersion
+数字全息图
+squeezed vacuum field
+重叠积分
+自旋捕捉
+热激波
+FT IR
+Laser radar
+抛光模
+铌酸钾锂
+demonstrator
+Pulse current
+磁隧道结
+玻璃转变
+ICF靶材料
+single mode fiber
+SiGe/Si
+渐变折射率
+scattering medium
+赵忠尧
+宽禁带
+水下成像
+superluminescent diode
+光晶格
+分置式斯特林制冷机
+法拉第电磁感应定律
+纳米金刚石膜
+particle physics
+铽配合物
+形貌测量
+径迹结构
+稀薄气体效应
+rotating vector
+光谱检测
+退偏度
+quantum measurement
+white-light interference
+电子电荷
+Directional coupler
+photoluminescence properties
+photon counting
+奇异核
+neutron scattering
+current-voltage characteristics
+陶瓷超导体
+本征模
+放射化学分离
+Spectral properties
+三维各向同性谐振子
+GRIN
+全光缓存器
+多段翼型
+皮秒
+傅里叶变换红外光谱（FTIR）
+零检验
+倍频效率
+胆甾相
+电致发光光谱
+胶子
+库仑作用
+single mode optical fiber
+象质评价
+EPR paradox
+光生载流子
+automatic alignment
+hematoporphyrin
+谐振式光纤陀螺
+dispersion management
+attenuated total reflection
+fiber optical gyroscope
+Fiber-optic sensor
+gauge transformation
+E-beam evaporation
+DFB激光器
+固体物理学
+Spectral imaging
+phase mask
+径迹
+正规乘积
+planar optical waveguide
+squeezed coherent state
+Optical emission spectroscopy
+scattering angle
+光的偏振
+thermal imager
+KrF excimer laser
+层裂强度
+轴棱锥
+cellular automaton model
+金属-绝缘体转变
+光击穿
+移相干涉术
+平均声子数
+simple harmonic motion
+M-Z interferometer
+divergence angle
+子能带
+wavelength division multiplexing （WDM）
+光谱匹配系数
+excitable media
+阈值电压漂移
+金刚石烧结体
+非线性光纤光学
+相对论变换
+mode-locking
+散射光谱
+边值关系
+laser produced plasma
+耦合长度
+DFWM
+radiation hydrodynamics
+interface instability
+Nonuniformity
+pointing error
+Temperature fluctuation
+质心轴
+心肌灌注显像剂
+微光学
+螺线管磁场
+Nd∶YAG激光
+temperature field
+相空间
+MonteCarlo模拟
+Semiconductor
+磷光体
+倍周期分岔
+夫琅和费衍射
+相位误差
+激光干涉仪
+晶格
+高通量
+布拉格光栅
+麦克斯韦方程
+single crystal
+invariant
+无标度网络
+magnetic susceptibility
+准直
+phase space
+声强
+激光扫描
+质子
+弯曲振动
+FTIR spectrum
+spatial frequency
+CVD diamond
+纯方位
+传输线模型
+光子数
+shock waves
+谱线宽度
+力敏传感器
+红外材料
+声成像
+输运理论
+光通信技术
+双波段
+波长调制
+空心玻璃微球
+价带
+静电势
+傅里叶红外光谱
+collimation
+nonholonomic system
+杨氏弹性模量
+输运
+mutual inductance
+ferroelectric
+Molecular dynamics
+惠斯登电桥
+色度坐标
+球面波
+失谐
+周期结构
+氮化铝
+temperature dependence
+等效电路模型
+压电性能
+force sensor
+液氮
+气体放电
+光学参数
+Doping
+rigid body
+衰变
+运动方程
+Synthesis
+PLD
+有限元分析
+synchronization
+fluorescent spectrum
+thermal imaging system
+密度泛函理论(DFT)
+结构声辐射
+混合效应
+旁瓣
+超导特性
+Stokes vector
+环境声学
+相对相位
+激光介质
+半无限
+rare earth ions
+Charge transfer
+Lagrangian function
+magnetic entropy change
+实验演示
+少子寿命
+antireflection
+硼酸盐玻璃
+β-榄香烯
+空间编码
+终极速度
+optical coating
+补偿板
+RLC电路
+梯形网络
+碰撞过程
+Rare earth complex
+transonic flow
+原子核物理学
+红外目标
+短脉冲激光
+实验物理学
+PVK
+交换偏置
+钇钡铜氧
+T矩阵
+Moiré fringe
+ring laser gyro
+crystalline silicon
+磁化等离子体
+transmission line model
+原子布居
+空间分辨
+微测辐射热计
+喷注
+photoelectric properties
+synthetic aperture sonar
+quantum tunneling
+negative refractive index
+Chemical etching
+线列阵
+angular spectrum
+硅膜
+自扩散系数
+levitation force
+THz辐射
+single-slit diffraction
+NLS方程
+X射线谱
+偏振光干涉
+F心
+白光再现
+high intensity focused ultrasound
+radiometry
+fiber Bragg grating sensor
+sound speed
+雷达工程
+磷化镓
+外差干涉
+光度学
+位相光栅
+微扫描
+Langmuir-Blodgett film
+高斯近似
+Arc discharge
+激光系统
+强相互作用
+all optical network
+双曲型守恒律
+脊形波导
+ordered structure
+image charge
+Image intensifier
+液氮温区
+吸收边
+Schottky barrier
+非定域干涉
+相位分布
+物理学报
+功率谱
+成像
+低温液体
+统计力学
+激光多普勒
+酞菁铜
+辐射功率
+高频特性
+associative memory
+specific heat capacity
+物镜
+controlling chaos
+列阵
+HPM
+jitter
+标度律
+dimer
+partition function
+fullerene
+Sol-gel method
+量子
+transfer matrix method
+玻璃陶瓷
+化学键
+transmissivity
+荧光猝灭
+共振辐射
+咪唑类氮氧自由基
+光速测定
+new physics
+糖链结构测定
+optical differentiation
+improved mapping approach
+调频深度
+等效相移
+法布里-珀罗滤波器
+ZnSe/GaAs
+超导筒
+真空紫外激光
+Surface enhanced Raman scattering（SERS）
+grating resonator
+周期极化掺镁铌酸锂晶体
+圆环坐标系
+chemical oxygen iodine laser
+baroclinic effect
+近轴近似
+nm-Pt/GC
+束传播方法
+自动复叠制冷系统
+中高能
+成象光谱技术
+快纵波
+FHF
+Fiber Bragg grating （FBG）
+周期量级脉冲
+钟慢效应
+Resonant Raman scattering
+可编程温度控制器
+time-resolved spectrum
+Laser material
+五糖皂苷
+Soft segment
+self diffraction
+Boltzmann constant
+二极管激光阵列
+级联非线性相移
+Collins公式
+声光通信
+乙烯-α-烯烃共聚物
+Photoconductive switch
+optical code-division multiple access
+高能电子衍射
+自旋集团
+polarized direction
+量子非定域性
+绿光问题
+active matrix driving
+harmonics.
+离子产额
+double quantum wells
+回旋速调管放大器
+diffraction contrast
+Semiconductor optical amplifier（SOA）
+转动传能
+dispersion-shifted fiber
+高压淬火
+非阿贝尔规范场
+纯位相
+grating pair
+nonlinear physics
+binary encounter approximation
+super-thin elastic rod
+photoelastic modulator
+Thermal blooming
+光子反聚束效应
+复曲率张量
+衰减全反射法
+Cassegrain telescope
+细菌视紫红质（bR）
+高能强子-强子碰撞
+高阶Godunov格式
+光学限幅器
+强衰变
+Sol gel technique
+NaK
+脉冲双星
+光学设计与制造
+分频散射
+激光驻波场
+复合三阶差拍失真
+Penning ion trap
+optogalvanic spectroscopy
+optical testing.
+Chalcogenide glass
+single-photon source
+吸收薄膜
+热透镜球差
+迈克耳孙干涉
+Schwarzschild黑洞
+coupling wave equation
+有源护耳器
+声辐射性能
+旁通管道
+包层抽运
+SHG properties
+Ion spectrum
+偏硼酸钡晶体
+Ghost方法
+Weak absorption
+interference of white light
+直下式
+Double-cladding fiber
+Ericsson制冷循环
+FEB-E
+electromagnetic field tensor
+噪声沸腾
+热不敏感
+相干渡越辐射
+sum frequency
+超快光学技术
+光学相干层析术
+重轻子
+geometric phases
+无损储存
+Ag mirror
+random lasers
+激发光强
+类孤波解
+DV-X_α方法
+dynamic barrier
+脉冲相干激光雷达
+vertical cavity surface emitting lasers
+ponderomotive force
+MoN
+blue OLED
+控制带宽
+Surface-enhanced Raman scattering（SERS）
+平均流
+光拍
+迁移长度
+Predissociation
+SPDC
+microdisk
+团簇源
+三硼酸锂晶体
+声学工作者
+两步激发
+无反转增益
+金等离子体
+NCl
+THz光谱
+MCAM
+散射子
+原子偶极矩
+离子存储
+phonon sideband
+Solid state NMR
+optical fiber communication.
+radiative transition probability
+二维NMR谱
+半经典闭合轨道理论
+optical pumping magnetic resonance
+全光再生
+Limiting current
+Glauber相干态
+LEED谱
+GaN nanowire
+VUV excitation spectra
+Photonic band gaps
+polarization multiplexing
+high average power
+flat mirror
+数理学
+transverse intensity distribution
+光子统计分布
+spin multiplicity
+Metal Cu
+Ultraviolet spectra
+enhanced ionization
+AC Stark effect
+Y分支
+Fermi surface
+transparent glass-ceramic
+Neutral beam
+光波导阵列
+正电子寿命参数
+椭偏光谱仪
+亮度增强
+位相编码
+振幅大的相干态腔场
+丝阵负载
+慢中子辐照
+电场穿透
+成核中心
+X射线衍射研究
+electron-beam irradiation
+MOPA system
+Tunable wavelength
+功率谱仪
+uniform field electrode
+铜氧化物超导体
+顺磁盐
+递次衰变
+optical waveguide theory
+截面涨落
+hollow optical fiber
+同轴慢波结构
+Streak image tube
+光伏空间孤子
+真空起伏
+metal layer
+asymmetric nuclear matter
+内爆压缩
+vibrational level
+Solar spectrum
+降温特性
+绝缘体-金属转变
+matched filters
+偏振模
+波长滤波器
+InAs/GaAs
+半导体激光泵浦
+phosphate laser glass
+光聚物
+infrared nonlinear optical crystal
+折射微透镜
+Infrared lasers
+色散函数
+optical fiber guidance
+液氦薄膜
+Babinet principle
+自磁场
+傅里叶变换拉曼光谱法
+物理演示
+电荷存贮
+液氮低温容器
+MIP-AES
+isotopic distribution
+谐波锁模
+膜补偿
+掺杂液晶
+耦合输出
+法布里-珀罗传感器
+Franz-Keldysh effect
+双光栅衍射
+交叉复用器
+广义含时谐振子
+库珀对
+non aqueous system
+激光器泵浦
+主动调Q
+脉冲功率系统
+双积分球
+tilted incidence
+Raman intensity
+lower hybrid wave
+声肌图
+颜色光学
+彩色滤光膜
+measuring range multiplication
+zero dispersion
+光电离过程
+plasma simulation
+laser pyrolysis
+Cs atom
+camera tube
+啁啾镜
+原子特征谱
+Displacement transducer
+RF heating
+cylindrical mirror
+Focal shift
+solid phase epitaxy
+top quark
+Fiber ring laser
+EDTFA
+电声耦合
+optical design and fabrication
+水下高速航行体
+微扰分析
+饱和放大
+声呐目标
+q压缩
+折叠模型
+流场重建
+散斑统计
+O NMR
+correlation field
+passively mode-locked
+P NMR
+Lommel function
+extrinsic Fabry-Perot interferometer
+holonomic mechanical system
+自相位调制效应
+菲涅耳圆孔衍射
+laser micro-cladding
+电势差计
+直接双光子吸收
+generalized coherent state
+extended-chain crystal
+内转换电子
+Impact ionization
+非相干光相关器
+Young\'s modulus of elasticity
+熊猫光纤
+Spectral property
+电离速率
+pumping cavity
+腔内损耗
+BHP
+Repetition rate
+一维SEMDY谱
+掺镱激光玻璃
+parametric gain
+非线性谐振子
+超导谐振腔
+激光诱导损伤阈值
+相对论动力学
+electromagnetically induced absorption
+付里叶变换拉曼光谱
+BiPbSrCaCuO
+激光光束整形
+Monoclinic system
+optical digital computing
+injected signal
+HBT correlation
+lattice gauge
+三相点瓶
+Damage morphology
+近红外光致发光
+machine vision.
+hybrid physical-chemical vapor deposition
+framing camera
+一级相变类比
+像素电路
+heavy-ion cancer therapy
+莫尔偏折术
+TBPe
+linear-combination operator
+damping harmonic oscillator
+质量算符
+光分束器
+Effective refractive index
+internal excited state
+coulomb explosion
+optical force
+two wave mixing
+LD pumped laser
+entangled coherent states
+passively Q-switching
+屏蔽电荷
+元胞法
+布喇格偏移
+光学计算
+rubbed substrate
+high reflectivity
+Optical isolator
+扭曲波
+dichromated gelatin （DCG）
+预电离技术
+声源频率
+光功分器
+Molecular vibration
+cosmic microwave background radiation
+非相干合成
+generalized cell mapping
+约利弹簧秤
+Bending loss
+all optical switch
+固体缺陷
+angular momentum of electromagnetic field
+微通道板(MCP)
+成簇机理
+光致吸收
+Cyclotron resonance
+Squeezed vacuum state
+最快增长频率
+光限制效应
+High power microwave source
+离散谱折射率法
+Nd∶YAG ceramic
+靶核
+参量增益
+SIS结
+mode-locked laser
+Thermal focal length
+UV emission
+约瑟夫森结阵列
+Upconversion luminescence
+无简并
+Bubble pump
+聚酯型聚脲氨酯
+Erbium-doped fiber
+物理竞赛题
+Bohm实验
+高频电能
+薄膜物理
+远场测量
+能谱响应
+wavelength sensitivity
+doped liquid crystal
+三核铁簇
+EPR spectra
+新核素合成
+Bohm's experiment
+Annular aperture
+双通路立体声
+固体压强
+Test blanket module
+laser isotope separation
+光栅选频
+Laser-induced breakdown spectroscopy
+Cross time
+reversible pendulum
+高电离态离子
+self-phase modulation （SPM）
+读出过程
+high charge state
+X射线二极管
+全光波长转换器
+正则化变换
+demodulation.
+planar waveguides
+原子蒸气激光同位素分离
+格点规范
+two-particle cluster theory
+noise correlation time
+二阶色散
+隧穿电离
+窄带检测
+Transmission spectra
+photoelectronics
+零耦合器
+脉冲对比度
+团簇效应
+三线扭摆
+非静态
+Velocity modulation
+现代数学技术
+超连续谱产生
+电磁诱导吸收
+湮没算符的高次幂
+Density limit
+多波长激光器
+分子束注入
+量能器
+Excitation transfer
+化学效率
+FTIR Spectroscopy
+G-M cryocooler
+超高速摄影
+Refractive index modulation
+semiconductor compound
+内可逆卡诺循环
+表面声场
+干扰背景
+cavity ring-down
+borate crystal
+圆极化光
+equivalent phase shift
+绝热方程
+SrCa
+谐振能量
+惯性约束聚变(ICF)
+量子包络代数
+Q-deformation
+Ce∶YIG
+贝里相位
+最低能量结构
+软X射线能谱
+音叉共鸣
+光栅谱仪
+符号替换
+速差补偿
+环状光束
+格点规范场
+国际热核聚变实验堆
+Equal-order N-Y minimum uncertainty state
+spin-polarized electron
+optical parametric chirped pulse amplification
+Central moments
+普适规律
+氚增殖率
+High vacuum
+Sputtering yield
+backward pump
+超短脉冲光束
+d-wave superconductor
+PPMgLN
+相衬法
+量子非破坏测量
+失调光学系统
+BIBO晶体
+organic light emitting materials
+光谱宽度
+Spectroscopic property
+分布布喇格反射镜
+导波与纤维光学
+panoramic view
+声子边带
+光擦除双光束耦合
+超冷费米原子气
+硼酸铝钾
+群速匹配
+重离子束治癌
+optical fiber communication technique
+软边光阑
+时空分辨
+光学微扫描
+external cavity laser
+all solid state
+transition probability amplitude
+discrete level
+偏振干涉成像光谱仪
+转变压力
+Rabi分裂
+全固态绿光激光器
+Photoacoustic spectra
+self-diffraction
+PTDS
+fourth harmonic generation
+Schr*idinger equation
+Laser mass spectrometry
+Terbium complex
+自旋相干态
+Calibration transfer
+粒子能谱
+异质结界面
+MOPA系统
+ferroelectric domain inversion
+Bridgman technique
+喇曼频移
+PPMgLN晶体
+取代基效应方法
+传输光谱
+two-component Bose-Einstein condensates
+单泡声致发光
+Kerr非线性
+低温测试
+能散度
+高阶孤子
+Double clad fiber laser
+临界态方程
+超导磁体系统
+Gas puffing
+material dispersion
+阵列式片状放大器
+Laser wavelength
+Doppler width
+特斯拉线圈
+平面调制靶
+熔合反应
+无源驱动
+杂质效应
+odd-odd nuclei
+量程倍增
+Bose-condensed gas
+负跃层浅海
+coincidence measurement
+硫系光纤
+超精细谱
+像旋
+ultra-short optical pulse
+印刷电路板预电离
+light charged particle
+high pressure physics
+Sb doping
+声强计
+核遮蔽效应
+层状超导体
+Finned-tube evaporator
+crystal cracking
+Beam propagation factor
+Sb-Pb-Pt/GC
+阴极鞘层
+投影壳模型
+decreasing dispersion fiber
+同步扫描相机
+光折变空间孤子
+氧气传感
+hyperon
+Quench protection
+Optical devices
+反射系统
+最佳像面
+Gyroklystron amplifier
+harmonic emission
+放射性核束物理
+Ultraviolet absorption spectrum
+类锂硅离子
+位置灵敏光电倍增管
+各向异性自衍射
+electric intensity distribution
+Hard segment
+各向异性势
+实验修正
+Multimode interference coupler
+共光路
+多夸克态
+two mode squeezed vacuum field
+CdS半导体
+电荷态分布
+Boltzmann模型
+dynamic and kinematic moments of inertia
+image reconstruction.
+磁光调制器
+梳状色散光纤
+ion trapping
+弹核碎裂
+Bound state
+Polarization beat
+two-mode squeezed field
+相位共轭反馈
+电子束热蒸发
+电控双折射
+EPR问题
+Guided wave optics
+标度能谱
+全光开关器件
+Deuteration
+PCLT
+氧掺杂
+主放
+无保护流体室温磷光
+C-G系数
+G-L方程
+声光滤波器
+紫外拉曼
+UV Raman
+quantum spectra
+Intensity parameter
+Beam propagation
+Lattice dynamics
+OPCPA
+等效哈密顿量
+Thermoacoustic effect
+拉曼自频移
+自注入
+双重解理论
+fibre Bragg grating
+电子热传导
+Wavefront reconstruction
+腔场QED
+energy splitting
+玻尔兹曼常量
+folding model
+acousto optic modulation
+类氖离子
+M一阵
+self propagation high temperature synthesis
+声压波
+巴比涅原理
+固相外延
+InGaN/AlGaN
+two-mode laser
+semiclassical approximation
+Electrostatic suspension
+电磁场角动量
+third-order aberration theory
+Nd∶YAG lasers
+阿尔芬波加热
+光纤码分多址
+Vector representation
+电磁角动量
+ladder operators
+new nuclide
+laser imaging radar
+DOSY
+quasi isentropic compression
+ultrashort pulse amplification
+光学损耗
+LD端面抽运
+声纳信号处理
+H-SiC
+混合角
+重子谱
+级联二阶非线性效应
+光纤布喇格光栅（FBG）
+optic fiber grating
+横向温度
+PS/PMMA
+spectral rigidity
+纳米分辨率
+光波耦合
+纵光学声子
+photorefractive grating
+Resonant ionization
+Magnetism space group
+反转粒子数密度
+衍射衬度
+各向异性衍射
+偏振开关
+F-like ions
+多普勒宽度
+Bipolaron
+double-well
+Rate coefficient
+三维氢原子
+波导调制器
+磁通动力学
+spatially resolved spectra
+Current drive
+克劳修斯等式和不等式
+费密面
+photorefractive nonlinear optics
+Clausius inequality
+cladding pumping
+光锥QCD求和规则
+Synchronous fluorescence spectroscopy
+laser produced plasmas
+average atom model
+大气声学
+polymer light-emitting diodes
+transfer ionization
+photo-induced birefringence
+谐衍射透镜
+higher carbon sugar
+电子双缝衍射
+three-photon absorption
+散射几率
+气相输运
+纳秒放电
+放电泵浦
+rangefinder
+波加热
+自泵浦相位共轭镜
+侧边抛磨光纤
+液氮预冷
+激射波长
+polarization coupling
+相对论行波管
+free induction decay
+Impulse coupling coefficient
+Optical feedback
+硝酸钡晶体
+相位移动
+Two-dimensional correlation analysis
+材料响应
+SERS光谱
+偏振不灵敏
+Antibunching effect
+Cz method
+微扰QCD
+Landau system
+带电圆盘
+二元位相光栅
+光振荡
+光解自由基
+EPR spectroscopy
+generalized uncertainty principle
+D介子
+flux creep
+自相互作用
+Raising and lowering operators
+high beam quality
+MAFIA code
+liquid lens
+条形光波导
+BaFCl
+SVRT模型
+anti reflection
+反铁磁态
+极化电子
+掠角
+stopping voltage
+laser guide star
+湮没算符
+Drell-Yan
+fractional Fourier transforms
+近代声学
+抽运噪声
+自相关测量
+deformed nucleus
+本征时间分辨
+Fourier series.
+Runaway electron
+Zn/InP
+介子云
+high speed optical communication
+Mesoscopic circuit
+高碳糖
+PUU
+平场校正
+摩擦基板
+钐原子
+physicist
+vanadium phosphate
+毫焦耳
+plasma bubble
+红外二向色性
+self-assembled quantum dots
+直流磁化率
+激光泵浦
+激光束
+非线性振动
+image enhancement
+virtual instrument
+温度效应
+氧含量
+ANSYS
+remote sensing
+domain decomposition
+中子活化分析
+amorphous alloy
+magnetism
+纳米晶体
+火焰原子吸收法
+电荷耦合器件
+弹性常数
+滤光片
+electric potential
+电沉积
+SMES
+CVD金刚石
+溶胶-凝胶工艺
+统一混沌系统
+微波吸收
+HMX
+dispersion equation
+物理研究
+Conformation
+series solution
+oblique incidence
+聚合物薄膜
+化学计量比
+软物质
+分辨本领
+机电耦合系数
+数值孔径
+sonar
+frequency stability
+核医学
+科学与工程
+分子取向
+Fine structure
+computed tomography
+水声信道
+自仿射分形
+electron transport
+共振效应
+分子构象
+银镜
+重离子加速器
+银纳米粒子
+差频
+laser interference
+Diamond film
+refractivity
+颗粒膜
+laser beam
+双折射率
+直角棱镜
+quasicrystal
+Graphite furnace atomic absorption spectrometry
+蓝绿激光
+aluminum nitride
+乘性噪声
+抗磁性
+小目标检测
+大块非晶合金
+交叉极化
+频谱混叠
+参考光
+低温泵
+同步辐射光源
+Anders
+pulse duration
+电子性质
+Matrix effect
+有机分
+光刻机
+感生电动势
+平均场
+电子注
+眼图
+振动方向
+deposition temperature
+准晶体
+准静态过程
+电磁感应定律
+介质球
+光反馈
+luminosity
+High power
+control of chaos
+isotope effect
+超快
+Rhubarb
+时间相干性
+电磁波
+Temperature
+地磁场
+构象
+空穴
+叠加原理
+摄动
+温度场
+虚拟仪器
+自由基
+carbon nanotube
+对比度
+涨落
+焦距
+polymer
+稀土
+分辨率
+实时测量
+热应力
+温度传感器
+CCD摄像机
+phase shift
+Runge-Kutta method
+linear CCD
+threshold voltage
+里夫人
+Lorenz系统
+磁化曲线
+非线性误差
+非完整系统
+Ag
+wavefront coding
+antireflective coating
+薛定谔猫
+college physical experiment
+表面生长
+Near-field optics
+college physics experiment
+奇异星
+激光晶化
+完整力学系统
+force chain
+波分复用系统
+热致双折射
+MFCG
+infrared radiation characteristics
+牛顿运动定律
+joint transform correlation
+丝阵
+Cr:LiSAF
+激光惯性约束聚变
+全息法
+sound velocity measurement
+统计解释
+扭摆器
+photoresistance
+分子束外延生长
+宇宙学常数
+Two-fluid model
+偏光器件
+激发态质子转移
+统计涨落
+耗尽区
+双温模型
+交流约瑟夫森效应
+晶体习性
+燃烧场
+quantum correlation
+像素匹配
+RCE
+量子谐振子
+数学物理方法
+波前校正
+多模叠加态
+阈值条件
+entangled atoms
+fast ignition
+光探测
+可调谐二极管激光吸收光谱
+Lagrange system
+相干光场
+Excited states
+理想导体
+diffraction angle
+衰变过程
+四能级原子
+模间色散
+dielectric waveguide
+Squeezing effect
+FTIR谱
+Bolometer
+intensity fluctuation
+环域
+氢等离子体
+守恒重映
+哈特曼-夏克波前传感器
+Density of states
+辐射损失
+单光子源
+Propagation characteristics
+振幅矢量
+坪曲线
+振动带
+plasma.
+fast neutron
+体弹性模量
+half-wave voltage
+四维混沌系统
+晶体生长习性
+复合辐射
+超导机理
+束流诊断
+exciplex
+underwater imaging
+radial wave function
+再现象
+声光双稳系统
+亚表面缺陷
+Raman shift
+测量相位算符
+Beijing spectrometer
+时间分辨技术
+量子特性
+局域密度近似
+Optical switching
+Bi系超导材料
+非线性物理
+化学位移计算
+金属Cu
+气动窗口
+ultraviolet communication
+腔内和频
+近化学计量比
+多通道滤波
+Time evolution
+White light
+中红外发光
+LC电路
+heavy ion accelerator
+nonlinear Schrdinger equation
+relative rotation
+gain distribution
+Microlens array
+正支共焦非稳腔
+Joint transform correlator
+conformal invariance
+通电螺线管
+Cross sections
+伴随系数
+流体力学方程
+Tavis-Cummings model
+弹性细杆
+广义电场分量
+Yukawa potential
+消偏振
+two-mode squeezed vacuum field
+超声散斑
+Noether守恒量
+point defects
+MQW
+推迟效应
+斜方晶系
+相移误差
+保守内力
+Blue shift
+虚光子
+空间激光通信
+细圆环
+dispersive media
+注-波互作用
+粒子数差
+Spectral measurement
+infrared detectors
+功率容量
+I/Q demodulator
+金属靶
+infrared optical system
+调制带宽
+正负电子
+Cooling capacity
+量子体系
+钱临照
+differential group delay
+trace formula
+相互作用玻色子模型
+量子约化熵
+LCLV
+斑点成像
+三能级系统
+群速度失配
+工科物理教学
+电偶极
+样品盒
+flattened Gaussian beam
+光场的量子特性
+Aspheric surface
+光折变性能
+顺磁磁化率
+second harmonic generation（SHG）
+有效哈密顿
+带电圆环
+鬼像
+多通道量子亏损理论
+interfacial instability
+安培环路定律
+不等精度
+有机薄膜晶体管
+canonical ensemble
+运动声源
+光学制造
+德布罗意
+one-dimensional photonic crystal
+琼斯矢量
+变间距光栅
+atomic population
+夫琅禾费
+折反射系统
+focusing property
+拉曼光谱仪
+二硫纶
+NQR
+Photoisomerization
+低场
+双共振
+非谐振子
+相位解包裹
+多重全息图
+碳谱
+laser diode pump
+电子轨迹
+transition probabilities
+二元混合液
+vector diffraction theory
+Czochralski
+refractive index modulation
+Variational approach
+DRIFTS
+编码孔径
+Plasma density
+模式转换器
+time-resolved
+indefinite degree
+filtered back-projection
+Timing jitter
+aspheric mirror
+弯曲时空
+低温温度计
+薛定谔
+同科电子
+氢光谱
+原胞
+光声学
+energy calibration
+双光子J-C模型
+ion extraction
+optical correlation recognition
+instantaneous center of rotation
+反射矩阵
+激光放大
+光诱导电子转移
+光栅常量
+重构核粒子法
+WKB method
+干涉实验
+wave aberration
+排出器
+离子束溅射沉积
+引力红移
+靶丸
+stray radiation
+scalar diffraction
+LED array
+全息记录材料
+flux pinning
+锁模激光
+Image evaluation
+剪切干涉仪
+傅里叶变换透镜
+电子回旋共振等离子体
+Zernike多项式拟合
+g factor
+透明微晶玻璃
+optoelectronic technology
+偏振复用
+径向电场
+saturable absorption
+米勒矩阵
+质心系
+高分辨率光谱
+拉曼效应
+coherent combining
+快中子治癌
+多孔铁
+类氦离子
+附加光程差
+激光产生等离子体
+ultra-short pulse
+research experiment
+单分子探测
+抽运光
+电子-电子相互作用
+薄膜厚度
+光路
+电子转移
+时分复用
+超分辨率
+微弱信号检测
+MOSFET
+金纳米粒子
+超导技术
+电场分布
+混响时间
+diode
+difference scheme
+能量转换效率
+内阻
+曝光时间
+表面吸附
+直线拟合
+图像分割
+电子输运
+ferroelectric thin film
+预处理共轭梯度法
+propagator
+传导电流
+物理教师
+声源定位
+hyperspectra
+unified chaotic system
+费马原理
+粒子加速器
+超声多普勒
+函数变换
+教学基本要求
+透明陶瓷
+传感网络
+吸声体
+光学模型
+空心阴极
+ESI-MS
+零偏
+matched filter
+photoelectron
+延迟反馈
+Interferometry
+Quantum dots
+糖度
+纳米固体
+Green function
+相互作用力
+underwater explosion
+Hamiltonian system
+phosphors
+Eu
+李代数
+导波
+calorimeter
+hydrogen bond
+晶界
+energy spectrum
+electron
+mixed state
+折射率变化
+wavelength shift
+optical feedback
+强流离子束
+双模压缩真空态
+晶场
+硬X射线
+工作气体
+rarefaction wave
+微桥
+德布罗意波
+optimum doping content
+聚焦镜
+斑图
+钽酸锂晶体
+太阳辐射计
+photon migration
+压缩度
+辐射成像
+临界磁场
+graded index
+模场分布
+矩分析
+正电子寿命谱
+自由感应衰减
+条纹间距
+焦距测量
+同步光
+X射线诊断
+庞磁电阻效应
+补偿度
+相位修正
+phononic crystals
+Wave function
+Heat sink
+temporal evolution
+光损耗
+projective synchronization
+持续电流
+Entanglement
+phase object
+白矮星
+dark soliton
+液晶化合物
+保守力
+optical trap
+BEC
+eigenvalue equation

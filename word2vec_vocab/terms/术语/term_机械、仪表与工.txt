@@ -1,0 +1,10000 @@
+注射模
+CAPP
+爆炸力学
+mechanics of explosion
+PLC
+Pro/E
+反舰导弹
+数控系统
+Ultrasonic testing
+主战坦克
+fuze
+液压系统
+数控加工
+ANSYS
+故障诊断
+滚动轴承
+套圈
+Acoustic emission testing
+ADAMS
+LabVIEW
+injection mould
+摩擦磨损性能
+模具设计
+单片机
+级进模
+反水雷
+中国机械工程学会
+friction and wear behavior
+fault diagnosis
+PDM
+并联机构
+空空导弹
+数控机床
+模具结构
+die structure
+torpedo
+步兵战车
+磨削
+CNC
+有限元分析
+工程机械
+CAD/CAM
+progressive die
+rolling bearing
+表面粗糙度
+工程机械行业
+DSP
+solid mechanics
+引信
+电火花加工
+Radiographic testing
+保持架
+内弹道
+injection mold
+中国工程机械
+液压挖掘机
+UG
+国防科技工业
+FPGA
+虚拟仪器
+防空导弹
+SolidWorks
+数控车床
+武器系统
+飞航导弹
+并联机床
+装甲输送车
+数控
+现场总线
+虚拟样机
+无损检测学会
+离心式压缩机
+鱼雷
+机床工业
+NC machining
+CIMS
+ARM
+导弹
+狙击步枪
+加工中心
+装甲战车
+参数化设计
+深沟球轴承
+机床行业
+information processing technique
+virtual instrument
+missile
+网络化制造
+液压缸
+装载机
+固体力学
+战斗部
+切削力
+并行工程
+中国海军
+有限元法
+工作装置
+interior ballistics
+MEMS
+往复压缩机
+emulsion explosive
+轻武器
+离心泵
+运动仿真
+反辐射导弹
+遗传算法
+角接触球轴承
+装甲车辆
+摩擦学性能
+有限元
+STEP-NC
+explosion mechanics
+超声检验
+导引头
+圆锥滚子轴承
+EDM
+CAN总线
+CAD
+robot
+机床
+并联机器人
+产品数据管理
+电厂用泵
+系统评估与可行性分析
+仿真
+电主轴
+PMAC
+火控系统
+协同设计
+机床工具
+步进电机
+成组技术
+genetic algorithm
+Eddy current testing
+固体推进剂
+模态分析
+DNC
+离心式通风机
+热流道
+内圈
+physical chemistry
+手枪弹
+逆向工程
+USB
+机械密封
+作战效能
+制造业信息化
+侵彻
+无损检测
+CATIA
+numerical simulation
+舰空导弹
+夹具体
+发射药
+压缩机
+RDX
+WEDM
+巡航导弹
+电火花线切割加工
+自动榴弹发射器
+射线检测
+数值模拟
+圆柱滚子轴承
+Nondestructive testing
+Magnetic flux leakage testing
+Magnetic particle testing
+拉伸模
+hot runner
+金刚石
+CPLD
+工艺分析
+敏捷制造
+射击精度
+变频器
+finite element analysis
+移动机器人
+tribological behavior
+air-to-air missile
+塔式起重机
+反坦克导弹
+轴流式通风机
+parallel mechanism
+圆锥滚子
+wear mechanism
+误差补偿
+复合模
+compound die
+柔性铰链
+AMESim
+突击步枪
+金刚石砂轮
+电液伺服系统
+PID控制
+反求工程
+汽车起重机
+mobile robot
+die design
+高速切削
+equipment support
+轮式装载机
+自行火炮
+MasterCAM
+路径规划
+摩擦磨损
+滑动轴承
+水压传动
+可编程控制器
+CAE
+挖掘机
+无人机
+飞行器控制、导航技术
+数控编程
+物理化学
+制造业信息化工程
+高速铣削
+模糊控制
+金刚石工具
+效能评估
+注射模设计
+指挥控制
+组合机床
+finite element
+hydraulic system
+超声检测
+侦察车
+漏磁检测
+networked manufacturing
+虚拟装配
+弹药
+实体保持架
+涡流检测
+mass customization
+PID
+战术导弹
+drawing die
+PWM
+信息处理技术
+排样设计
+CAN bus
+模具工业
+中国模具工业协会
+TRIZ
+HMX
+仪器仪表
+centrifugal compressor
+螺杆压缩机
+声发射检验
+Stewart平台
+anti-ship missile
+ammunition
+STEP
+外弹道
+gear
+data acquisition
+微机电系统
+开放式数控系统
+轴承
+CAM
+装甲装备
+弹流润滑
+机械工人
+齿轮
+加工精度
+弧齿锥齿轮
+快速成形
+FEM
+exterior ballistics
+磨床
+陶瓷结合剂
+残余应力
+guidance law
+radar engineering
+轻型装甲
+冲压工艺
+finite element method
+模具行业
+毁伤概率
+CBN砂轮
+diamond
+平地机
+elastohydrodynamic lubrication
+抽芯机构
+动态特性
+振动
+冲压发动机
+电解加工
+压铸模
+机床市场
+模具企业
+轮式装甲车
+gun
+复杂曲面
+ObjectARX
+工业炸药
+机械制造工艺与设备
+调心滚子轴承
+桥式起重机
+高速加工
+die-casting die
+die
+tribological properties
+机械设计
+自动测试系统
+空压机
+微细电火花加工
+applied chemistry
+装备保障
+机床工具行业
+砂轮修整
+乳化炸药
+轻型坦克
+先进制造技术
+火力分配
+fuzzy control
+起重机
+状态监测
+concurrent engineering
+automatic control technology
+刀具寿命
+优化设计
+模具制造
+车夹具
+virtual prototype
+embedded system
+FMS
+虚拟制造
+collaborative design
+叉车
+模具
+friction and wear
+冲孔模
+电火花成形机
+砂轮修整器
+减速器
+线切割机
+磨料磨具
+切削加工
+CNC system
+数字信号处理器
+兜孔
+Electromagnetic testing
+卧式加工中心
+插齿刀
+product design
+运动学
+大批量定制
+阀门
+光整加工
+压力容器
+工程陶瓷
+磨削力
+NC
+弹道
+中国机床工具工业协会
+二次开发
+滚道
+平面磨床
+path planning
+斜齿轮
+弯曲模
+排样
+工艺参数
+机械工业
+护卫舰
+振动压路机
+插补
+变矩器
+reciprocating compressor
+机床展览会
+parallel machine tool
+镁合金
+NC machine tool
+带式输送机
+液压元件
+液压气动密封
+cruise missile
+电子战
+钻模板
+线切割加工
+凸轮机构
+无线电引信
+电子对抗
+Moldflow
+雷达导引头
+电火花线切割机
+气动
+reverse engineering
+超声波探伤
+MCU
+aluminium alloy
+control and navigation technology of aerocraft
+冲锋枪
+电加工
+汽车覆盖件
+涡旋压缩机
+MoldFlow
+雷达工程
+滚珠丝杠
+液压油
+浪形保持架
+弹道导弹
+武器装备
+故障分析
+美国陆军
+AutoCAD
+机械手
+地空导弹
+valve
+产品设计
+未来战斗系统
+立铣刀
+Parallel mechanism
+舰炮
+数据采集
+propellant
+瞄准镜
+分型面
+Missile
+卧式车床
+凸模
+solid propellant
+variant design
+信号处理
+自动编程
+切削液
+轧机轴承
+参数化
+导弹系统
+聚晶金刚石
+工程机械市场
+坦克
+Signal processing
+曲轴
+GPRS
+车床
+组合夹具
+铝合金
+猎雷
+金刚石圆锯片
+履带式起重机
+榴弹发射器
+制造资源
+铝箔轧机
+比例导引
+铝板带
+vibration
+旋转机械
+钨合金
+PCBN刀具
+柔性机器人
+scroll compressor
+VHDL
+失效分析
+Hydraulic system
+干气密封
+螺旋锥齿轮
+超精加工机
+工作空间
+FEA
+VB
+叶轮
+步枪弹
+气动人工肌肉
+磨损机制
+伺服系统
+Pro/Toolkit
+坐标测量机
+防空系统
+cutting force
+齿轮传动
+裂纹
+轨迹规划
+捷联惯导系统
+命中概率
+国际机床展览会
+变型设计
+多工位级进模
+兵器材料
+双列轴承
+现代舰船
+蝶阀
+水雷
+滚齿机
+子母弹
+机械学
+agile manufacturing
+复合材料
+枪机
+组合导航
+冗余度机器人
+挤压模
+optimization design
+weapon system
+虚拟轴机床
+磨损
+刀具磨损
+摩擦因数
+砂轮
+线切割
+滚子
+operational effectiveness
+卡尔曼滤波
+workspace
+motion control
+error compensation
+通风机
+parametric design
+自动控制技术
+serial communication
+摊铺机
+车削
+超声波检测
+磨损机理
+parallel robot
+射线检验
+轻机枪
+technology of instrument and meter
+地面武器
+Cimatron
+准双曲面齿轮
+压力角
+CAN
+超精密加工
+自动驾驶仪
+柔性制造系统
+半实物仿真
+误差分析
+BOM
+动力学仿真
+硬质合金
+Pro/ENGINEER
+履带车辆
+冲模
+注射成型
+PLC控制
+行星传动
+MATLAB
+圆柱凸轮
+tool wear
+运动控制器
+无级变速器
+液压传动
+humanoid robot
+内圆磨床
+单螺杆压缩机
+LabWindows/CVI
+Petri网
+疲劳寿命
+火炮
+TATB
+涡流检验
+网络制造
+ballistic missile
+坦克炮
+模块化设计
+装备制造业
+凸轮
+成形模
+变速器
+铣削
+制导律
+枪管
+浇注系统
+嵌入式系统
+气动系统
+Pro/Engineer
+parallel manipulator
+离心压缩机
+CCD
+manipulator
+概念设计
+firing accuracy
+Initiating explosive device
+工作辊
+排样图
+成形工艺
+CAXA
+自由枪机
+军械工程学院学报
+三坐标测量机
+撞击感度
+自动武器
+宏程序
+发射机构
+复合制导
+燃速
+target tracking
+深孔加工
+外圆磨床
+蓄能器
+产品配置
+火工品
+装配序列规划
+铁路轴承
+CAD/CAPP
+virtual assembly
+PID control
+冷轧机
+麻花钻
+Stewart platform
+butterfly valve
+渐开线
+金属材料学
+挡边
+超精加工
+水雷战
+混凝土泵车
+夹具设计
+表面质量
+optimal design
+axiomatic design
+试验台
+CNC System
+multi-position progressive die
+Solid Edge
+神经网络
+径向游隙
+wear
+装甲车
+装配
+Micro electro mechanical system
+机械科学
+中国液压气动密封件工业协会
+飞行试验
+Reverse engineering
+磨齿机
+自适应控制
+齿轮泵
+履带起重机
+仪器仪表技术
+并行设计
+轧制油
+TNT
+热处理工艺
+在线检测
+产品族
+美国空军
+FFT
+CORBA
+磁粉探伤
+surface roughness
+固体火箭发动机
+刀具材料
+密封
+conceptual design
+冲压
+驱逐舰
+难加工材料
+导弹武器系统
+刀具
+VERICUT
+开放式数控
+磨削加工
+后置处理
+机电一体化
+接触应力
+diesel engine
+magnesium alloy
+虚拟设计
+砂带磨削
+战斗机
+自由曲面
+五杆机构
+弹匣
+wear resistance
+脱靶量
+末制导
+轮毂轴承
+汽车轴承
+滚动功能部件
+润滑
+外圈
+organic chemistry
+立式加工中心
+刀具轨迹
+机械产品
+绿色制造
+液力变矩器
+aerodynamic missile
+Parallel manipulator
+Radiographic inspection
+生产现代化
+插装阀
+民爆器材
+modal analysis
+活塞压缩机
+变频调速
+夹具
+海军
+铸轧
+armored vehicle
+Pro/TOOLKIT
+球轴承
+直线电机
+液压泵
+DCS
+炮射导弹
+现代科学仪器
+铝基复合材料
+数据融合
+无心磨床
+underwater vehicle
+电能表
+weapon equipment
+制造执行系统
+形位公差
+《爆破器材》
+analysis on system assessment and feasibility
+aluminum alloy
+Finite element analysis
+workflow
+数值仿真
+面空导弹
+水面舰艇
+耐磨性
+主轴
+运动控制
+手枪
+KBE
+二通插装阀
+航空兵器
+military transportation
+Robot
+Matlab
+沟道
+主轴箱
+轴向柱塞泵
+联轴器
+product data management
+fire control system
+OpenGL
+捷联惯导
+data fusion
+CAD/CAPP/CAM
+气阀
+设备管理
+rapid prototyping
+复进簧
+离心式鼓风机
+微型轴承
+钛合金
+热处理
+模具技术
+锥齿轮
+连铸机
+灭雷具
+点浇口
+equipment acquisition
+目标识别
+kinematics
+转子
+切削用量
+grinding force
+导弹艇
+无人机系统
+mold design
+榴弹炮
+rocket
+grinding
+焊接接头
+显微组织
+检具
+美国海军
+虚拟企业
+轧机
+tracked vehicle
+空对空导弹
+曲面重构
+目标跟踪
+motion controller
+摩擦学特性
+硬脆材料
+μC/OS-Ⅱ
+thermology
+automatic control technique
+超声加工
+自动步枪
+特征造型
+工业以太网
+数控技术
+溢流阀
+target recognition
+QFD
+wavelet transform
+高速开关阀
+筐形保持架
+CNC Machine Tool
+cam driver
+高速钢
+APDL
+仿人机器人
+cylindrical roller bearing
+离合器
+Fault diagnosis
+SHPB
+机床主轴
+精密加工
+Watt-hour meter
+机床企业
+NC programming
+伸缩臂
+超硬磨料
+攻螺纹
+动平衡
+传动比
+国际机床
+射线照相
+冷挤压
+破片
+Kalman filter
+定位精度
+temperature field
+CFD
+智能控制
+尺寸精度
+轴流泵
+起重机械
+网络中心战
+位置正解
+Reliability
+UAV
+HLA
+压路机
+virtual prototyping
+刃磨
+垂直发射
+兵器
+钢球
+projectile
+企业标准化工作
+切削速度
+Finite element method
+智慧岛
+矢量控制
+参数化建模
+mechanical design
+摩擦学
+液压马达
+product family
+工艺规划
+SINS
+Ultrasonic inspection
+机器视觉
+疲劳强度
+数控磨床
+可重构
+起升机构
+控制系统
+尺寸链
+Petri net
+声发射检测
+Parallel machine tool
+分析仪器
+friction
+双圆弧齿轮
+工艺及模具
+injection mold design
+超声振动
+ZigBee
+材料去除率
+antiship missile
+磨削液
+电液比例控制
+电加工机床
+radio fuze
+快速成型
+应力分析
+伺服阀
+explosive mechanics
+连杆
+凹模
+高超声速
+铣削力
+药型罩
+工作流
+computer aided process planning
+拉削
+汽车模具
+干切削
+Penetrant testing
+传爆序列
+百分表
+智能仪表
+lubrication
+刚度
+数控铣床
+粉末冶金
+高精度
+Gear
+谐波齿轮传动
+装甲防护
+视觉伺服
+machining center
+轴承座
+PROFIBUS
+radar
+XML
+gun barrel
+armored equipment
+盒形件
+作战使用
+impact sensitivity
+industrial explosive
+引战配合
+美国航空母舰
+铸造起重机
+stamping process
+炮塔
+复合装甲
+斜导柱
+导弹护卫舰
+战术弹道导弹
+模具标准件
+机床制造
+可重构制造系统
+整体叶轮
+径向柱塞泵
+Finite element
+微动磨损
+integrated navigation
+渐开线齿轮
+发射装置
+动态联盟
+I-DEAS
+CNC系统
+游隙
+润滑油添加剂
+液压技术
+试验机
+温度补偿
+压力机
+机构综合
+冲裁模
+曲柄摇杆机构
+磁流变液
+温度控制
+齿轮加工
+磁粉检测
+接触疲劳
+身管
+专用机床
+温度场
+CIMT
+摩擦化学
+可转位刀片
+薄膜润滑
+事物特性表
+金属结合剂
+车加工
+self-propelled gun
+scheduling
+特征建模
+大规模定制
+NURBS
+计算机辅助工艺设计
+数控车削
+neural network
+信息集成
+武装直升机
+主轴系统
+Machining Center
+信息融合
+制动器
+cutting tool
+非圆齿轮
+微细加工
+轴向游隙
+CAFD
+高速主轴
+润滑与密封
+光栅尺
+装药
+线切割机床
+挖掘装载机
+拉深
+光纤陀螺
+电磁轴承
+串行通信
+forming die
+制药装备
+machining feature
+转盘轴承
+机械工程学报
+末制导雷达
+外球面球轴承
+deep groove ball bearing
+Magnetic testing
+变结构控制
+滚珠丝杠副
+液压
+球面滚子
+ERP
+ultrasonic vibration
+板形
+切屑
+水润滑
+可编程序控制器
+活塞杆
+作战能力
+突防
+无心磨削
+overhead traveling crane
+脱模机构
+制造网格
+高速机床
+液压伺服系统
+密封结构
+反应装甲
+轴流式压缩机
+焊缝
+engine
+dry gas seal
+抗弹性能
+小波变换
+fluid mechanics
+有限元模拟
+三维造型
+LXI
+成形车刀
+滚动直线导轨副
+mould structure
+车削加工
+mechanical properties
+键合图
+柴油机
+超燃冲压发动机
+crane
+回转支承
+迫击炮
+装配模型
+变位系数
+feature modeling
+切削性能
+injection molding
+普通车床
+在线监测
+加工误差
+VISAR
+mold structure
+液压AGC
+angular contact ball bearing
+ballistics
+pressure vessel
+CAPP系统
+复合加工
+工业机器人
+industrial robot
+machining
+刀杆
+切削刀具
+混联机床
+轮式装甲车辆
+镗刀
+流体机械
+热误差
+高速电主轴
+干式切削
+起爆药
+密封轴承
+压边力
+立方氮化硼
+High speed machining
+砂轮架
+分流组合模
+坦克火控系统
+摆动活齿传动
+通用机枪
+磨削性能
+挤压模具
+剃齿刀
+传递对准
+high-speed machining
+NC machine
+Simulink
+常规潜艇
+servo system
+仿真分析
+远程监控
+secondary development
+组态软件
+VLSI
+柱塞泵
+导弹驱逐舰
+电火花线切割
+PTFE
+热连轧机
+diamond grinding wheel
+冲击起爆
+冲压成形
+凸轮轴
+门式起重机
+标准件库
+覆盖件
+装备采购
+特种加工
+合成孔径雷达
+活塞环
+实时性
+五轴联动
+鲁棒性
+滑块
+制造系统
+六硝基六氮杂异伍兹烷
+轮式起重机
+切削参数
+内球面
+高速磨削
+柔性机构
+金刚石刀具
+crankshaft
+centrifugal fan
+铣削加工
+减速机
+陶瓷刀具
+电液伺服阀
+机动目标
+硬质合金刀片
+AUV
+hydraulic excavator
+流体传动
+金属加工机床
+机械加工
+气缸
+加速度计
+物料搬运
+特种作战
+小波分析
+公理设计
+舰载导弹
+network manufacturing
+弧面凸轮
+螺纹
+系统公司
+隐身技术
+实体造型
+GPIB
+运动分析
+冷辗扩
+两栖车辆
+强制脱模
+分度凸轮机构
+piercing
+延期药
+gun propellant
+residual stress
+numerical control
+攻击型核潜艇
+finite element simulation
+板料成形
+超越离合器
+多目标优化
+位置控制
+连杆机构
+声发射
+驱动桥
+machinery design
+high speed machining
+实例推理
+Surface Roughness
+五轴加工
+气体润滑
+近炸引信
+机心
+装甲
+脉冲电源
+虚拟样机技术
+电磁检验
+磨削夹具
+钻夹具
+轧辊轴承
+axial-flow fan
+陶瓷轴承
+起重运输机械
+加工特征
+数值计算
+热电偶
+压电陶瓷
+GPU
+封头
+high speed cutting
+飞行控制
+基于实例推理
+恒压变量泵
+战术战斧导弹
+NC Machine Tool
+piercing die
+铝板带箔
+involute
+涂层刀具
+涂附磨具
+步态规划
+高速加工中心
+子弹药
+徐工集团
+聚能装药
+进给系统
+进给量
+摩擦副
+Optimization design
+低功耗
+蚁群算法
+tapered roller bearing
+interior ballistic
+vehicle equipment
+光学瞄准镜
+冗余驱动
+Workspace
+侧抽芯
+弹道修正
+回弹
+PROFIBUS-DP
+测控系统
+碰摩
+数理统计学
+CNC machine tool
+加氢反应器
+锅炉给水泵
+FANUC
+product configuration
+Simulation
+以太网
+电能质量
+AutoLISP
+螺旋槽
+铝型材
+environmental worthiness
+流体传动与控制
+kill probability
+定位误差
+安全阀
+拓扑优化
+feature recognition
+磨粒
+堆垛机
+型腔
+无源定位
+PCBN
+制导炸弹
+tungsten alloy
+塑件
+液控单向阀
+trajectory planning
+功能部件
+插补算法
+主轴轴承
+俄罗斯海军
+Solidworks
+兵工
+金属加工
+零件
+运动控制卡
+中国制造业
+内螺纹
+运动学仿真
+精确制导武器
+磨削温度
+作战系统
+fretting wear
+门座起重机
+混凝土泵
+high-speed milling
+型芯
+定位套
+周转轮系
+反导
+随车起重机
+圆柱滚子
+气动肌肉
+加减速控制
+ELID磨削
+密封副
+轧辊磨床
+vitrified bond
+协调操作
+parting surface
+结晶器
+virtual enterprise
+Pressure vessel
+高炮
+工程机械产品
+螺旋理论
+电磁换向阀
+电刷镀
+hit probability
+火控雷达
+高射机枪
+mechanical seal
+抛光
+compressor
+变频
+punch
+减振器
+数据处理
+涡街流量计
+自动变速器
+核电站用泵
+级进模设计
+超精研
+磨具
+管道机器人
+同轴度
+模具型腔
+导向套
+四杆机构
+钻削
+submunition
+micro EDM
+内弹道性能
+single screw compressor
+主轴锥孔
+德国机床
+微细铣削
+刀具系统
+电极损耗
+抗磨性能
+火箭炮
+flexure hinge
+模糊可靠性
+弹丸
+等速万向节
+friction behavior
+复合推进剂
+加工效率
+热变形
+粗糙度
+齿轮箱
+平面机构
+电容层析成像
+气体轴承
+徐工
+火炮身管
+bending die
+民用爆破器材
+underwater explosion
+金刚石锯片
+AGV
+国防科工委
+铝业公司
+多体动力学
+驱护舰
+石油化工用泵
+Delcam
+拖曳诱饵
+摩擦系数
+mechanical property
+冲裁
+去毛刺
+坦克装甲车辆
+machine tool
+阀体
+注塑模
+圆柱齿轮
+bearing
+液压驱动
+误差建模
+插齿机
+assembly sequence planning
+flight control
+地空导弹武器系统
+FAE
+夹具结构
+激光引信
+约束网络
+串口通信
+毫米波
+滑模控制
+通信协议
+伺服控制
+磁力研磨
+电液比例
+工具行业
+球头铣刀
+STL文件
+ball valve
+滚针轴承
+spiral bevel gear
+两相流
+工具磨床
+导引律
+炮控系统
+condition monitoring
+调节阀
+轴承行业
+电火工品
+激光陀螺
+拉刀
+枪械
+shaped charge
+动臂
+NC system
+爆轰
+冲孔
+动力传动
+光学设计
+应用化学
+伺服电机
+位置精度
+塑料模具
+WinCC
+biped robot
+被测要素
+flexible hinge
+双足机器人
+机床生产
+燃料空气炸药
+Machine tool
+曲面加工
+calibration
+tribological property
+风机
+Sensor
+推力轴承
+汽轮机
+磁粉检验
+精冲
+卡宾枪
+centrifugal pump
+friction coefficient
+润滑脂
+virtual manufacturing
+VXI总线
+mathematical model
+accelerometer
+artillery
+设计结构矩阵
+切削刃
+机械压力机
+warhead
+机床设计
+刀具设计
+天线罩
+镗杆
+镗削
+中国机械工业联合会
+化学机械抛光
+车辆装备
+飞剪
+设计重用
+油气润滑
+刀具耐用度
+行程速比系数
+成形铣刀
+process planning
+Magnetic memory testing
+水雷引信
+extruding die
+陶瓷磨具
+Antiaircraft missile
+临界转速
+shock wave
+微电子机械系统
+MES
+制导武器
+超高速磨削
+基于实例的推理
+effectiveness evaluation
+斜滑块
+推力矢量控制
+仪器仪表行业
+零件库
+位置分析
+贮存寿命
+微机器人
+ARX
+Fuzzy control
+误差模型
+产品模型
+运动规划
+公理化设计
+珩磨头
+诱导轮
+超视距
+嵌入式
+explosive
+细长轴
+工程数据库
+微机械
+数据链
+titanium alloy
+润滑系统
+液压机
+空气压缩机
+内孔
+步枪
+螺纹加工
+二次调节
+水下爆炸
+缺陷定位
+红外成像制导
+国产数控系统
+修整器
+ultrasonic machining
+液压锁
+架桥车
+manufacturing processes and equipment
+Magnetic particle inspection
+反水雷武器
+Pulsed eddy current testing
+diecasting die
+排样方案
+systematic evaluation and feasibility analysis
+核电厂用泵
+串联战斗部
+砂轮磨损
+密封行业
+水轮泵站
+全路面起重机
+无人战斗机
+非圆曲线
+optical design
+target detection
+旋挖钻机
+mould design
+捕鲸叉导弹
+浮动镗刀
+combustion chemistry
+转管炮
+automatic weapon
+PowerMILL
+电传动
+PXI总线
+臂架
+automatic test system
+机械行业标准
+稳健设计
+control system
+数值分析
+冷轧
+维修性
+特种部队
+多体系统
+cam
+fieldbus
+surface reconstruction
+奥氏体不锈钢
+舰舰导弹
+电动装置
+Fuzzy reliability
+空间相机
+机械安全
+三环减速器
+初始对准
+机动目标跟踪
+超空泡
+复杂产品
+PXI
+cam mechanism
+火箭弹
+蜗杆传动
+core-pulling mechanism
+内弹道学
+manufacturing grid
+力学性能
+惯性导航
+embedded
+接口电路
+鲁棒控制
+fatigue life
+控制器
+创新设计
+analytical chemistry
+动态性能
+脉宽调制
+自行高炮
+蜗轮滚刀
+士兵系统
+动静压轴承
+相控阵
+罗克韦尔自动化
+tool path
+装甲部队
+维修保障
+制导系统
+夹紧机构
+飞行力学
+组态
+machine vision
+激光武器
+挤压铸造
+微观组织
+environmental test
+数控设备
+工业CT
+多学科设计优化
+数控改造
+专用夹具
+磨料
+美国海军陆战队
+军品科研
+鱼雷发射装置
+土方机械
+指尖密封
+高速切削技术
+转管武器
+计时码
+薄壁轴承
+拉伸件
+小径管
+成形磨削
+奇异位形
+拉伸成形
+末敏弹
+曲轴磨床
+Virtual Instrument
+快速设计
+变量泵
+microcontroller
+摩擦
+斜楔
+基金会现场总线
+注射模具
+autopilot
+modeling
+再制造
+VC++
+parameterization
+bending
+航路规划
+超音速反舰导弹
+feature extraction
+过盈配合
+摩擦片
+流量特性
+比例阀
+表面强化
+PRO/E
+CBN
+传动误差
+制导
+inverse kinematics
+Fieldbus
+热弹流润滑
+战斧导弹
+发射装药
+枪弹
+质量功能配置
+卷取机
+PBX
+塑料模
+液压集成块
+锻模
+硬质合金刀具
+液压阀
+球阀
+有限元方法
+选型
+A/D转换
+电磁兼容
+人造金刚石
+六自由度
+seeker
+电化学加工
+自动化仓库
+铲斗
+shock initiation
+切边模
+外弹道学
+齿廓修形
+爆炸与冲击
+电火花线切割机床
+电液伺服
+通用机械
+production scheduling
+火炸药
+潜艇
+换热器
+梯形图
+Ethernet
+表面形貌
+PC
+测量精度
+stress analysis
+标定
+有限元仿真
+测试系统
+防空体系
+初速
+空间凸轮
+机关炮
+发射动力学
+PCD刀具
+AMEsim
+曲柄滑块机构
+气缸套
+摩擦力矩
+参数化绘图
+锁相环
+cold rolling
+标准件
+CAD系统
+Metal magnetic memory testing
+HNIW
+气动肌腱
+灵巧弹药
+转向机构
+行星齿轮传动
+高层体系结构
+quality function deployment
+DDS
+遥操作
+power quality
+差速器
+激光制导炸弹
+design structure matrix
+架桥机
+engineering ceramics
+特征识别
+自主水下航行器
+design reuse
+水下航行体
+车床夹具
+多管火箭炮
+钻孔夹具
+automatic weather station
+模具结构设计
+几何约束
+metal cutting
+机构学
+薄壁零件
+车间调度
+定位基准
+铁谱技术
+爆速
+弹性流体动力润滑
+任务规划
+NC lathe
+Agent
+冲击韧性
+含能材料
+结合剂
+物料清单
+single chip microcomputer
+燃烧性能
+O状态
+高精度磨削
+射击方法
+bottle cap
+MoldFlow software
+《轴承》
+活动凸模
+行星齿轮
+罗茨鼓风机
+应力强度因子
+stamping die
+LAMOST
+轻金属
+雷达组网
+工控机
+扫雷
+进给速度
+concurrent design
+signal processing
+interpolation
+组合机构
+精密磨削
+履带式推土机
+HART协议
+电磁阀
+制冷压缩机
+Profibus
+parameterized design
+轴类零件
+密封圈
+旋压
+爆轰波
+流体力学
+尾翼稳定脱壳穿甲弹
+爆炸容器
+点火药
+热学
+机械行业
+Detonator
+全地面起重机
+robot controller
+冲击片雷管
+die & mold
+固体燃料冲压发动机
+航空轴承
+辗扩
+NEPE推进剂
+注塑机
+natural frequency
+corrosion
+盾构
+环境试验
+加工仿真
+快速原型制造
+RCS
+计算机仿真
+TCP/IP
+双端面磨床
+制导精度
+forklift truck
+仪表技术
+大口径机枪
+铸轧机
+radar seeker
+金属橡胶
+企业建模
+定位销
+在线测量
+装备采办
+NC代码
+发射试验
+CC-Link
+轴向力
+直线度
+直接转矩控制
+碰撞检测
+轴承套圈
+high-speed cutting
+solid rocket motor
+reconfigurable
+分度盘
+submarine
+Modal analysis
+转子系统
+expanded ammonium nitrate
+弹炮结合
+Parallel robot
+数控磨削
+装配特征
+大型轴承
+模糊性理论
+铣刀片
+自动换刀装置
+工程起重机
+反后坐装置
+延期时间
+膨化硝酸铵
+内燃机
+CAD/CAPP集成
+金刚石磨料
+防空武器系统
+柔顺机构
+space camera
+电火花成形加工
+optimum design
+超硬材料
+过程建模
+淬硬钢
+腕力传感器
+Dynaform
+磁流变抛光
+机床业
+机匣
+位姿误差
+惯性平台
+EFP
+模态
+belt conveyor
+超塑性
+爬壁机器人
+stainless steel
+机械制造业
+软测量
+Numerical simulation
+自定心
+模架
+流量脉动
+重复定位精度
+高速轴承
+information processing technology
+Virtual prototype
+预警机
+无源干扰
+轻合金
+同步控制
+轧制
+激光熔覆
+火箭发动机
+高氯酸铵
+混合炸药
+reconfigurable manufacturing system
+双基地雷达
+机械质量
+平面磨削
+抗干扰
+孔加工
+齿形误差
+机芯
+三维建模
+渐开线花键
+搅拌摩擦焊
+漏磁场
+激光制导
+grinding wheel
+brazing
+表壳
+CAD/CAE/CAM
+圆弧插补
+切削温度
+直线电动机
+SolidEdge
+质量屋
+CAD/CAE
+混流泵
+spiral groove
+tactical missile
+钟表行业
+防空导弹系统
+作战仿真
+NC code
+防空
+尺寸公差
+颤振
+变送器
+motion simulation
+蜗轮
+laser cladding
+Virtual instrument
+MDT
+中心架
+指挥控制系统
+变位齿轮
+齿轮滚刀
+blanking
+combat effectiveness
+sensor
+楔横轧
+弹道学
+优化排样
+破甲弹
+军用车辆
+工序尺寸
+断裂韧性
+工业协会
+流场
+welding
+滑靴副
+钝感剂
+套料钻
+组合机床自动线
+航空机枪
+齿轮修形
+四列圆柱滚子轴承
+刀夹
+金刚石薄膜
+爆炸焊接
+dynamic simulation
+parametric
+悬架
+explosive welding
+超精密
+rolling mill
+凸度
+设计自动化
+半主动悬架
+数字化制造
+金属切削机床
+blasting vibration
+振动钻削
+动力机械工程
+白车身
+对接焊缝
+ultrasonic motor
+球罐
+焊接
+选择性激光烧结
+脉冲压缩
+力矩限制器
+运动误差
+数字控制
+heat treatment
+磁悬浮轴承
+薄壁件
+模糊可靠度
+模具加工
+浮动凹模
+刚体导引
+aluminium profile
+导电加热切削
+tank gun
+超视距空空导弹
+硬质合金铰刀
+泵控马达
+弹性变形
+面向装配的设计
+assembly modeling
+钻削加工
+弧面分度凸轮机构
+power machinery engineering
+modular fixture
+舰载武器
+transfer alignment
+绝热剪切
+压实机械
+支承辊
+导弹发射装置
+电子战系统
+弹箭
+miss distance
+液体发射药
+电解磨削
+autonomous underwater vehicle(AUV)
+VRML
+micro machining
+水轮泵
+机床工具产品
+proportional navigation
+冲击压路机
+trajectory correction
+燃烧化学
+斗轮挖掘机
+精密成形
+导弹试验
+半径补偿
+compliant mechanism
+反潜战
+金属切削
+铝箔
+自动测试
+LCD
+激光切割
+detonation
+夹紧力
+tower crane
+万向联轴器
+electrochemical machining
+装配建模
+拉深模
+cold extrusion
+液压气动
+电液位置伺服系统
+自动送料
+增力机构
+液压锤
+摩擦学设计
+测试性
+机械工程学
+实体建模
+linear motor
+group technology
+virtual design
+material science
+温度传感器
+composite
+information fusion
+电极丝
+截止阀
+工作原理
+轮毂
+联合仿真
+计算机集成制造系统
+改造
+企业信息化
+机床夹具
+微操作
+Construction machinery
+GPS
+超声波
+扳机力
+非圆磨削
+redundant drive
+Slapper detonator
+金刚石薄膜涂层刀具
+变速磨削
+可靠性设计
+系统仿真
+预紧力
+VXI
+模糊优化设计
+多工位
+动力头
+链传动
+超声电机
+刀具路径
+离线编程
+快速制造
+PSD
+有机化学
+圆度误差
+往复式压缩机
+注塑模具
+remanufacturing
+机械零件
+输送机
+communication protocol
+模糊神经网络
+迷宫密封
+机床改造
+forming technology
+产品建模
+配流盘
+应用服务提供商
+工艺决策
+工模具
+金属基复合材料
+非接触测量
+Rotor
+静刚度
+stamping
+sliding bearing
+科学仪器
+姿态控制
+模块化
+推土机
+ATS
+多线程
+生产调度
+步行机器人
+磁力轴承
+excavator
+Loader
+线性调频
+防空作战
+手表
+采用国际标准
+传动系统
+推进剂
+RP
+Solid Works
+composite coating
+可靠度
+捕捉概率
+欠驱动
+火炮系统
+complex product
+通用夹具
+product modeling
+舵机
+motion planning
+Reverse Engineering
+渣浆泵
+brushless DC motor
+UML
+shoe last
+可转位
+导弹制导
+aerostatic bearing
+mechanical seals
+modality analysis
+redundant robot
+tribochemistry
+功能表面
+Mobile robot
+飞行控制系统
+EHL
+弧面分度凸轮
+深孔钻
+斜孔
+刀具技术
+模具钢
+扭振
+计算机集成制造
+模具寿命
+LonWorks
+模糊PID控制
+监控系统
+航空发动机
+crack
+刀具破损
+装甲钢
+虚拟机床
+箱体类零件
+对刀仪
+空气静压轴承
+啮合效率
+时栅
+球形机器人
+DRFM
+gait planning
+滑膛炮
+弯管机
+工序图
+枪钻
+润滑技术
+Propellant
+过盈联接
+assembly
+喷嘴
+刀具补偿
+射线探伤
+圆锥齿轮
+卡盘
+功能安全
+柔轮
+模具生产
+功率流
+反求设计
+工程车辆
+汽车零部件
+机械工程
+波纹管
+stepping motor
+液压控制
+milling
+直线滚动导轨
+砂轮主轴
+红外导引头
+氮氢气压缩机
+脉冲涡流检测
+泵站
+寿命预测
+加工工艺
+轴承钢
+lubricant
+工作台
+单螺杆泵
+reverse design
+光电对抗
+目标分配
+使用寿命
+dynamic response
+最小二乘法
+tapered roller
+绿色切削
+伺服液压缸
+干扰弹
+磨料微粉
+蜗杆砂轮
+镶拼结构
+孔加工刀具
+水雷探测
+剃齿机
+近距空空导弹
+Hydraulic motor
+无线传感器网络
+树脂结合剂
+螺纹插装阀
+进口机床
+型摊铺机
+挖掘机动臂
+高超声速导弹
+双列圆锥滚子轴承
+side core-pulling
+球头立铣刀
+反水雷舰艇
+啮合副
+球杆仪
+零传动
+小模数
+电热化学炮
+运梁车
+flexible robot
+主动雷达导引头
+射击密集度
+瞄准装置
+air defense missile
+显微硬度
+Internet/Intranet
+layout design
+总线
+numerical control system
+powder metallurgy
+晶粒细化
+DataSocket
+角焊缝
+激光干涉仪
+管板
+活塞式压缩机
+转向系统
+万向节
+自动化立体仓库
+动力学建模
+传动效率
+螺旋角
+ANSYS/LS-DYNA
+粒子滤波
+钢丝绳电动葫芦
+machine gun
+materiel
+Surfacer
+error modeling
+反鱼雷鱼雷
+中制导
+Error Compensation
+轮式挖掘机
+主销孔
+塑料夹具
+击发机构
+电子时间引信
+内抽芯
+CNC machining
+车刀
+油液分析
+data processing
+梯形螺纹
+DeviceNet
+polishing
+泄漏
+系统辨识
+抽芯
+精确制导
+数控铣削
+obstacle avoidance
+非球面
+轧制力
+adaptive control
+实时控制
+热分解
+temperature control
+modular design
+快速原型
+疲劳裂纹
+机床厂
+CBR
+钎焊
+配置设计
+电雷管
+静压轴承
+静压支承
+技术制图
+液态模锻
+半自动步枪
+火力控制
+Linear motor
+板坯连铸机
+重机枪
+ball screw
+专用检具
+勃朗宁
+装甲板
+水中爆炸
+膨化硝铵炸药
+人员输送车
+application service provider
+武器发展
+硬齿面齿轮
+COSMOSWorks
+软杀伤
+快速制模
+板形控制
+对地攻击
+磁记忆检测
+超精密机床
+啮合原理
+冷却液
+性能预测
+MRPⅡ
+快速凝固
+μC/OS-II
+dynamics simulation
+串行通讯
+机电产品
+CMM
+永磁同步电机
+Optimal design
+军工集团
+机床技术
+导弹控制
+milling force
+差动挂轮
+间歇机构
+collaborative simulation
+装备动员
+twist drill
+模具市场
+水声对抗
+rolling oil
+空地导弹
+thermal error
+成组夹具
+偏心轴
+creative design
+曲面重建
+修形
+齿轮轴
+尺寸驱动
+AS/RS
+high speed milling
+cooperative design
+型线
+teleoperation
+安全评定
+气缸盖
+surface quality
+修整
+sealing
+试验研究
+淬火
+锻件
+随动系统
+image processing
+校准
+坐标变换
+technological analysis
+液压件
+力反馈
+齿廓
+steel ball
+四辊轧机
+特征技术
+NC Machining
+工业雷管
+flight control system
+爆轰驱动
+高速高精度
+二次顶出
+Machine Tool
+射击效率
+slide block
+bistatic radar
+计算机辅助夹具设计
+齿面方程
+粉状乳化炸药
+油膜轴承
+装备部队
+INS
+爆炸性能
+超高强度钢
+passive location
+铲运机
+变幅机构
+越障
+威胁评估
+椭圆齿轮
+mechanical product
+弯曲成形
+运动精度
+公法线长度
+inverter
+clutch
+轨迹跟踪
+自动机
+激光焊接
+SPWM
+rotor
+焊接工艺
+robustness
+温度测量
+Hough变换
+PMSM
+龙门刨床
+刀架
+带传动
+automobile
+精密轴承
+globe valve
+missile weapon system
+单钢轮振动压路机
+die & mould
+design by analysis
+工件定位
+铁路起重机
+高能推进剂
+冷镦模
+粗轧机
+弹道仿真
+扫雷具
+stamping technology
+Genetic algorithm
+人机界面
+texture mapping
+workflow management
+RTLinux
+气动元件
+倒角
+预测控制
+成形
+miniature bearing
+现代制造工程
+流星导弹
+Gatling gun
+万能分度头
+非接触扫雷具
+磨削淬硬
+贯穿战斗部
+双列角接触球轴承
+core_pulling mechanism
+ship to ship missile
+tank fire control system
+机构尺度综合
+多轴自动车床
+冷却系统
+刀具半径补偿
+对称度
+回转工作台
+固溶处理
+三角网格
+机枪
+异步电动机
+固有频率
+机器人控制
+数控程序
+工业标准化
+弹头
+润滑性能
+残余奥氏体
+张力控制
+multi-agent system
+Labview
+汽蚀
+OPC
+稳定土
+有源干扰
+tool life
+塑料导爆管
+cutting speed
+外螺纹
+轮式车辆
+NC加工
+中心孔
+调度
+闭环控制
+COM
+非真实感绘制
+air to air missile
+摩擦感度
+proximity fuze
+标准试块
+spherical robot
+多次切割
+core-pulling
+键槽对称度
+尾流自导鱼雷
+空射
+浮环密封
+composite explosive
+毛坯尺寸
+接触扫雷具
+树脂砂轮
+夹送辊
+extrusion
+裂纹扩展
+企业资源计划
+命中精度
+polycrystalline diamond
+计算机辅助工艺规划
+直齿轮
+包覆层
+离心油泵
+车床主轴
+雷达对抗
+穿甲
+Pro/MECHANICA
+公差设计
+航迹规划
+Topology optimization
+丝锥
+渐开线圆柱齿轮
+Stress concentration
+履带式
+反坦克武器
+vector control
+参数优化
+应力集中
+重型机械
+雷管
+铣床
+中心距
+动态调度
+微弧氧化
+调速
+超精密磨削
+电火花加工机床
+剃齿
+electronic warfare
+光谱仪器
+摆线轮
+vibration and wave
+振动攻丝
+machining simulation
+陶瓷
+零件族
+差动轮系
+特征映射
+multidisciplinary design optimization
+failure analysis
+大直径
+PID控制器
+工艺设计
+Kalman filtering
+gun control system
+生长型设计
+锥度加工
+电波钟表
+特遣舰队
+PETN
+端刃
+弹丸初速
+quayside container crane
+NC System
+切断模
+ATML
+终点弹道
+侧抽芯机构
+美军
+模糊PID
+水下机器人
+thermal decomposition
+中厚板轧机
+分度机构
+线导鱼雷
+霰弹枪
+motorized spindle
+钟表业
+滚动转子式压缩机
+指控系统
+协同制造
+maneuvering target tracking
+定向战斗部
+机床制造业
+机床产业
+边界润滑
+压铸
+CAGD
+cage
+冲压模具
+公差带
+sheet metal forming
+工作液
+平衡阀
+磨料水射流
+端面
+EXPRESS
+动力传动系统
+水下航行器
+磨削裂纹
+kinematics analysis
+膨胀节
+自润滑
+Petri nets
+导弹核潜艇
+解耦
+制动系统
+AMRAAM
+装配模
+异形螺杆
+全球鹰无人机
+滚切加工
+铸轧坯料
+自动炮
+透照厚度
+树脂薄片砂轮
+广义模块化设计
+随行装药
+啮合理论
+磁力传动泵
+装弹机
+金刚石铰刀
+键槽铣刀
+综合电子系统
+平面连杆机构
+紧固件
+液位测量
+工件
+Crack
+数字滤波
+计算机控制
+动态响应
+载荷
+研磨
+tribology
+电液比例阀
+MSComm
+光纤传感器
+多色集合
+增压缸
+龙门加工中心
+material removal rate
+岸边集装箱起重机
+后刀面
+气动伺服
+塑料注射模
+专用刀具
+射击诸元
+过载控制
+干扰机
+水泵技术
+Turbine blade
+步进电动机
+曲面造型
+A/D
+阳极氧化
+弧焊机器人
+气动特性
+manufacturing execution system
+等离子喷涂
+导轨
+PCI总线
+小波包
+钢管
+penetration
+SCM
+应力腐蚀
+兵器工业
+high level architecture
+射击训练
+牛头刨床
+逆向设计
+helical gear
+弹簧夹头
+振动与波
+friction and wear properties
+箱体零件
+齿面
+绝热剪切带
+NC程序
+electromagnetics
+挤出模
+舰艇
+蜗杆
+堆焊
+精加工
+油膜厚度
+集散控制系统
+DXF
+Profibus-DP
+PLM
+相控阵雷达
+configuration design
+工艺管理
+分度头
+主传动系统
+CNC machine
+Bézier曲线
+感应同步器
+多机器人
+chemical mechanical polishing
+燃烧转爆轰
+夹头
+数字制造
+NC program
+detonation velocity
+国家经贸委节能信息传播中心
+Imageware
+渐开线齿形
+diamond tools
+磨削工艺
+车架
+振动控制
+有限元模型
+液性塑料
+渗透检验
+gas lubrication
+微装配
+熨平板
+指挥台围壳
+antiaircraft missile
+修整砂轮
+仿真加工
+定位心轴
+金刚石绳锯
+区域防空
+应力
+平顺性
+无刷直流电机
+Matlab/Simulink
+穿甲弹
+cemented carbide
+高速钢刀具
+attitude control
+电动葫芦
+隐身
+液压控制系统
+建筑机械
+轧辊
+故障
+gantry crane
+O形密封圈
+陶瓷刀片
+滚齿
+Steel pipe
+wear behavior
+液压与气动
+中央空调市场
+micromachining
+车削中心
+推力球轴承
+mould
+塑性变形
+pipeline
+速度控制
+热轧
+组态王
+换向阀
+工艺方案
+加工方法
+电能计量
+automatic programming
+行星减速器
+落料
+西门子
+自适应滤波
+绿色设计
+静态特性
+点云
+动能弹
+柳工
+最大实体要求
+ANSYS Workbench
+济南二机床集团有限公司
+混合驱动机构
+command and control
+热轧机
+载机
+温挤压
+对陆攻击
+Virtual design
+机床研究所
+动态逆
+挤压
+滤波
+自动抄表
+交流伺服系统
+热挤压
+硬质合金滚刀
+UG/OPEN API
+EBOM
+滚切剪
+工程机械企业
+扇形段
+万向接轴
+单晶金刚石
+滚动转子压缩机
+微动机器人
+板带轧机
+液压变压器
+rocket launcher
+锻造操作机
+应用统计数学
+机器人机构
+珩齿
+tabular layouts of article characteristics
+导弹研制
+警用手枪
+abrasive wear
+磨头
+垫片
+滚刀
+机械工业部
+加热炉
+工程图
+电铸
+毛坯
+动态仿真
+Web
+控制算法
+coating
+机械传动
+航母
+软PLC
+高空作业车
+作业车间调度
+配套件
+气压传动
+刚柔耦合
+三坐标测量
+工件坐标系
+有色金属加工
+numerical control machining
+空间机器人
+支持向量机
+防尘盖
+陶瓷球
+CAD模型
+磁记忆
+pressure angle
+电子干扰
+测量系统
+深孔
+陆军
+焦炭塔
+重型坦克
+微机械陀螺
+满载排水量
+涡流探伤
+信息模型
+modeling and simulation
+波音公司
+error analysis
+ABAQUS
+AMT
+逆运动学
+热喷涂
+加工程序
+dry cutting
+机器人视觉
+镗床
+冲压件
+液力传动
+气动技术
+径向力
+突防概率
+汽车前轴
+roots blower
+靠模板
+曝光曲线
+特种加工机床
+透平式压缩机
+冲压加工
+制造特征
+内燃叉车
+机器人动力学
+ship-to-air missile
+parting line
+安全仪表系统
+面齿轮
+轨迹综合
+螺距误差
+Fuze
+渗碳
+graphite
+间隙
+多传感器
+沥青混合料
+ECM
+刀体
+卸料板
+油石
+节流器
+NC machine tools
+SERCOS
+FLUENT
+information integration
+脉冲电化学
+球面并联机构
+Green manufacturing
+辅助支承
+Rotor system
+对陆攻击导弹
+轴向进给
+core pulling
+滚动直线导轨
+缺陷定量
+多轴箱
+高速冲压
+detonation driving
+反应式装甲
+浮动铰刀
+身管寿命
+硬质合金立铣刀
+攻击导弹
+自行加榴炮
+Flexure hinge
+装载机铲斗
+Kinematics
+Fatigue life
+springback
+圆弧齿轮
+Rapid prototyping
+robust design
+直接数字频率合成
+功能块
+检验中心
+时延估计
+sheet metal
+关节轴承
+particle swarm optimization
+螺栓
+cooling system
+green manufacturing
+核潜艇
+contact stress
+interior ballistic performance
+特种水雷
+Water hydraulics
+有限长线接触
+轴向柱塞马达
+插键槽
+铝板带箔轧制
+O temper
+ladle crane
+复合模设计
+供弹机构
+混合陶瓷球轴承
+球笼式等速万向节
+MoldFlow软件
+引信安全系统
+立轴圆台平面磨床
+扳机行程
+Ignition composition
+Rub-impact
+背吃刀量
+Electric igniter
+多翼离心通风机
+高速走丝线切割机
+equipment support training
+车铣中心
+浮动夹紧
+Hough transform
+足球机器人
+摩擦性能
+高速泵
+液体发射药火炮
+maneuvering target
+trajectory optimization
+装载机行业
+UCAV
+油气弹簧
+垂直发射系统
+凸凹模
+螺杆空压机
+机械工业产品
+micro-EDM
+微控制器
+多智能体
+电控系统
+PIC单片机
+国防科技
+压力控制
+UG软件
+水力设计
+particle filter
+电视制导
+挤压筒
+DDNP
+precision machining
+flight mechanics
+端面磨削
+砂带磨床
+溜板箱
+击针
+气动位置伺服系统
+爆炸反应装甲
+铝带坯
+制导控制系统
+大连机床集团
+小拖板
+轮胎压路机
+拟人机器人
+shaped charge liner
+数字信号处理
+活顶尖
+低比速泵
+切槽刀
+活动型芯
+双零铝箔
+专用铣床
+灭雷
+微声
+偏心夹具
+交变磁场测量
+河南机专
+变轴数控机床
+塑料保持架
+远程空空导弹
+仿形车削
+多线螺纹
+炸药
+电机
+数控刀具
+electric actuator
+液压电梯
+screw theory
+鱼雷发射管
+盘形凸轮
+刀位轨迹
+Web服务
+啮合
+控制阀
+加工质量
+卧螺离心机
+bevel gear
+密闭爆发器
+虚拟加工
+fixture design
+Conceptual design
+macro program
+黑索今
+行星轮
+DOA
+矫直机
+型号研制
+相位噪声
+反坦克
+定位块
+电动助力转向
+军事代表
+齿轮副
+roller
+电动机
+切削颤振
+试块
+地面防空
+HART
+UGNX
+传爆药
+STL模型
+air defense
+声自导鱼雷
+滚压工具
+磨削机理
+精密模锻
+command and control system
+紧定螺钉
+混凝土机械
+频率步进
+英文术语
+grinding temperature
+镶块
+manufacturing resource
+重磨
+挤压机
+电弧喷涂
+干摩擦
+运动学模型
+形状记忆合金
+SOPC
+静力分析
+回转窑
+微驱动器
+舰载
+尺度综合
+diamond tool
+military logistics
+潜射导弹
+筒形件
+step motor
+manufacturing system
+谐波传动
+复合镀层
+珩磨
+圆弧半径
+误差分离
+detonation wave
+柔性机械臂
+物理仿真
+磁力泵
+故障预测
+避障
+hydraulic cylinder
+编码器
+数字仿真
+锻造
+impeller
+悬臂梁
+configuration software
+压力管道
+现场可编程门阵列
+temperature compensation
+sliding mode control
+电流互感器
+齿形
+SimMechanics
+过程仿真
+中型坦克
+知识重用
+生产计划与控制
+water lubrication
+动载系数
+棒料
+胀形
+ATE
+渗透检测
+轴承内圈
+军事需求
+小型无人机
+wavelet analysis
+电容传感器
+edge detection
+信噪比
+Residual stress
+装配图
+kinematics simulation
+纹理映射
+magnetic bearing
+操纵稳定性
+自动装配
+cutting performance
+微流控芯片
+舰载直升机
+成形砂轮
+硬态切削
+高速加工机床
+并联机械手
+制造资源模型
+wake homing torpedo
+单开链
+成形磨床
+Stewart机构
+数字射线成像
+起重机主梁
+伪刚体模型
+四点接触球轴承
+引信设计
+导弹控制系统
+高速加工技术
+液压抽芯
+铸轧辊
+polychromatic sets
+Chatter
+导轨磨床
+可转位车刀
+dynamic characteristics
+泄漏检测
+行星轮系
+三维CAD
+brake
+测量仪
+非线性控制
+光电编码器
+压力脉动
+test system
+IGBT
+computer aided design
+设备维修
+滑模变结构控制
+磨粒磨损
+Modbus协议
+CIM
+Natural frequency
+小型液压挖掘机
+amphibious vehicle
+NC编程
+Green Manufacturing
+系统工程方法论
+塑性极限载荷
+变胞机构
+NC turning
+落料模
+UUV
+顶出机构
+ballistic performance
+加工过程仿真
+含铝炸药
+英格索兰
+滑片压缩机
+薄壁套筒
+LIGA
+内花键
+视觉检测
+盘式制动器
+加速寿命试验
+wind turbine
+液压冲击
+geometric modeling
+电动执行器
+系统集成
+rolling
+Data Acquisition
+通信
+流场仿真
+COSMOSMotion
+外圆磨削
+热锻模
+高效加工
+金属切削加工
+logic synthesis
+承压设备
+常规动力潜艇
+几何推理
+燃烧催化剂
+Fatigue damage
+活齿传动
+盘形凸轮机构
+多功能电能表
+双臂机器人
+combustion property
+国防部
+热应力
+常见故障
+卷筒
+信号发生器
+variable structure control
+隔膜泵
+最小传动角
+触觉传感器
+智能变送器
+testability
+海上自卫队
+膨胀机
+多传感器融合
+水力模型
+仿真系统
+硬件设计
+传动装置
+金相组织
+组合导航系统
+钻床
+装配设计
+military equipment
+屏蔽泵
+远程控制
+举升机构
+多机器人系统
+垂直度误差
+robot control
+侵彻深度
+钻模
+Error compensation
+工艺工作
+数显表
+工程机械厂
+随机振动
+运动学分析
+减振
+谐波
+PDM系统
+自动线
+复杂电磁环境
+制造单元
+交流伺服
+丝杠
+极位夹角
+层裂
+微机控制
+Vibration
+自锁
+氮化硅
+叶片泵
+collision detection
+internal combustion engine
+水轮机
+机构设计
+几何参数
+gait
+friction torque
+自动变速
+Numerical control
+小子样
+作用距离
+旋风铣削
+assembly model
+惯导系统
+Cutting force
+雷达
+gear transmission
+B样条曲线
+模具材料
+reducer
+plasma spraying
+AGC
+dynamic performance
+tank
+virtual instruments
+noise
+立体仓库
+焊接机器人
+主轴转速
+密封环
+ESD
+分布式
+additive
+四元数
+液压回路
+工业自动化
+B-spline
+英国海军
+接口
+acoustic homing torpedo
+propellant charge
+CAAPP
+form grinding
+云雾爆轰
+硝胺发射药
+aluminium strip
+猎雷艇
+多体系统理论
+装备保障训练
+齿廓方程
+铸轧区
+速度规划
+RT-Linux
+平行分度凸轮
+制导技术
+闭锁机构
+机床设备
+静压气体轴承
+气动伺服系统
+防空反导
+模具开发
+damage probability
+产品图样及设计文件
+动力滑台
+火箭助飞鱼雷
+fuel air explosive
+一体化联合作战
+柔性装配系统
+射击试验
+齿轮测量
+dexterity
+几何约束求解
+时变啮合刚度
+液压汽车起重机
+几何不清晰度
+constraint network
+Cruise missile
+贯流泵
+热弹流
+精确制导弹药
+转塔刀架
+Virtual Prototype
+导引规律
+分模
+并联机器人机构
+高超声速技术
+沥青混
+内圆磨削
+侧向抽芯
+产品模型数据交换标准
+金刚石切削
+旋流泵
+U形件
+anti-tank missile
+object-oriented
+轻量化
+Linux
+supply chain
+化学镀
+集散型控制系统
+型材
+夹紧装置
+cutting parameter
+hot rolling
+滚子轴承
+表面处理
+质量体系
+面向对象
+产品数据
+运动学逆解
+机器人控制器
+ambiguity function
+啮合刚度
+反舰巡航导弹
+战场抢修
+磨削技术
+实时绘制
+rolling force
+射弹
+iSIGHT
+无级变速传动
+共因失效
+高速分析
+雅可比矩阵
+三维测量
+解耦控制
+扭矩
+异步电机
+工业工程
+密封性能
+机架
+AFM
+油膜
+频率测量
+gearbox
+非致命武器
+rotor system
+浇口
+润滑状态
+润滑机理
+三坐标
+Manipulator
+金属带
+传动系
+设计计算
+铰刀
+防空武器
+C/C复合材料
+产品结构树
+超声速
+战列舰
+钣金
+电液伺服控制
+burning rate
+controlled blasting
+摇臂钻床
+铝锂合金
+标准化审查
+离心叶轮
+国防军
+磨削烧伤
+金属磁记忆
+动态误差
+current transformer
+半固态
+质合金
+计算机数控
+Grinding
+转台
+摩擦特性
+非线性校正
+模拟电路
+GB/T
+复合控制
+远程监测
+配合间隙
+碟形弹簧
+helicopter
+flange
+拉深成形
+反潜直升机
+液压伺服
+配气机构
+细分曲面
+连铸连轧
+环焊缝
+工具系统
+设备管理与维修
+立式车床
+initial alignment
+工程机械设备
+弯曲件
+analog circuit
+Parametric design
+摆线
+电动执行机构
+蛇形机器人
+压力中心
+鞋楦
+lathe
+性能试验
+企业信息化建设
+直流电机
+PLC control
+军事装备
+计算机辅助制造
+RFID
+射流
+泵行业
+导爆管雷管
+压电泵
+Life prediction
+协同产品开发
+液压蓄能器
+爆炸成型弹丸
+无人水下航行器
+计算机数控系统
+lunar rover
+作战需求
+冲模设计
+对称度误差
+流量测量
+触摸屏
+钻削力
+旋转精度
+压缩机技术
+主动悬挂
+安全完整性等级
+压下量
+平板闸阀
+高效磨削
+螺旋离心泵
+定位轴
+刀具管理系统
+平衡回路
+加工刀具
+容屑槽
+磨削过程
+机器人装配
+微细电解加工
+混粉电火花加工
+Machining center
+空射巡航导弹
+起升高度
+制导与控制
+cutting forces
+尺寸标注
+工艺装备
+参数整定
+性能分析
+hydraulic
+摩擦材料
+偏心距
+工装
+表面裂纹
+原子力显微镜
+研齿
+车身模具
+Cimatron E
+EON Studio
+生物制造工程
+攻丝扭矩
+applied statistical mathematics
+小径管焊缝
+内外圆
+CNC Machining
+die_casting die
+加榴炮
+thermal EHL
+引信电源
+standard for the exchange of product model data
+finger seal
+擒纵轮
+比例流量阀
+电点火具
+tool system
+中国国际模展
+TOFD法
+EMP径向滑动轴承
+Al-Ti-C
+XNAV
+gun tube
+计转数
+装备保障力量
+铣削夹具
+ribbon cage
+鱼雷防御系统
+脉冲电化学光整加工
+双零箔
+Infrared testing
+综合检具
+夹具特点
+火工品药剂
+聚晶金刚石刀具
+斜推杆
+综合传动装置
+energy-saving
+冲击载荷
+信号采集
+ball bearing
+Servo system
+固体润滑
+振动分析
+数据通信
+composite material
+微型泵
+灵巧手
+成形性能
+精轧机
+超光滑表面
+synthetic aperture radar
+模型重建
+熔接痕
+对抗措施
+石材加工
+cutting temperature
+磨齿
+自适应
+Visual C++
+机载布撒器
+Seeker
+防区外导弹
+变几何桁架机器人
+翻边模
+型腔模
+ramjet
+改性双基推进剂
+三角Bézier曲面
+毁歼概率
+军交运输
+电解铝液
+战斧巡航导弹
+工艺映射
+螺纹型芯
+pressure center
+Pro/Program
+nonel tube
+圆柱铣刀
+technology mapping
+多功能摊铺机
+铝箔轧制
+缓进给磨削
+MBOM
+廓面方程
+反渐开线函数
+die life
+NTO
+CAXA制造工程师
+特大型轴承
+预制破片
+供弹系统
+修锐
+ceramic bearing
+伺服进给系统
+BTT导弹
+钻中心孔
+等距型面
+工程机械租赁
+四列圆锥滚子轴承
+锯片铣刀
+效费比
+numerical calculation
+边缘检测
+Modeling
+maintainability
+DFA
+J积分
+金刚石膜
+载荷谱
+过盈量
+SVPWM
+表面缺陷
+碳化物
+激波
+结合强度
+多Agent系统
+位移测量
+有限状态机
+漏磁检验
+space operation
+水压阀
+C-Hooks
+一次性灭雷具
+manufacturing technology and equipment for machinery
+镀附
+mould for plastics
+威胁环境
+超声振动车削
+锁量
+火工烟火
+Motorized Spindle
+击发阻铁
+High-speed machining
+摆线针轮行星减速机
+比例压力阀
+methodology of system engineering
+Dry Cutting
+radio proximity fuze
+水压溢流阀
+progressive die design
+terminal ballistics
+Milling force
+精研机
+gun-launched missile
+aluminium foil rolling
+Function time
+EdgeCAM
+核工业用阀
+泳动微机器人
+Primary explosive
+torpedo launcher
+Ignition powder
+stiffness
+结构参数
+flow field
+焊接变形
+红外成像
+精密测量
+CAID
+机载雷达
+atmospheric corrosion
+陶瓷刀具材料
+粒状贝氏体
+协同仿真
+mesh simplification
+hydraulic press
+synthetic diamond
+运动控制系统
+阀座
+液体火箭发动机
+锅炉压力容器
+模态试验
+小直径
+IGES
+串级控制
+载荷分布
+测量机
+封闭环
+直齿圆柱齿轮
+Lubrication
+X射线检测
+VxD
+超声导波
+计算机支持的协同工作
+single chip computer
+process analysis
+流量计
+multi-agent
+润滑油
+公差
+数据采集系统
+engineering drawing
+再结晶
+屈服强度
+推进系统
+回火
+疲劳裂纹扩展
+反馈线性化
+机械制造
+国产化
+消声器
+电磁检测
+钢结硬质合金
+solution treatment
+油液监测
+time delay estimation
+triangular mesh
+bill of material
+dynamic scheduling
+工件表面
+pulse compression
+house of quality
+aluminium foil
+铝材
+parametric modeling
+技术改造
+static stiffness
+切边
+微操作机器人
+装配顺序
+maintenance support
+机床附件
+微机电系统(MEMS)
+多点成形
+冲裁间隙
+环面蜗杆
+突防能力
+底火
+Radiography
+前刀面
+物位测量
+齿根应力
+回转中心
+坦克装甲
+变型车
+螺纹量规
+微动工作台
+主通风机
+vibration drilling
+fire distribution
+发射安全性
+叶片扩压器
+熔铝炉
+punching die
+magnetic abrasive finishing
+产品族设计
+液压破碎锤
+砂轮轴
+磁性检测
+ASME规范
+利勃海尔
+Remanufacturing
+工业仪表
+Temperature Sensor
+共轭凸轮
+in-pipe robot
+深孔钻削
+斜探头
+数据交换
+data collection
+时频分析
+intelligent control
+service life
+Optimum design
+STL
+刀盘
+dynamic alliance
+电液控制
+脱模
+加工余量
+填料密封
+淬透性
+水压机
+远程故障诊断
+超声探伤
+传动精度
+自动目标识别
+PXI bus
+自顶向下设计
+HSM
+storage reliability
+CNC machine tools
+焊接工艺评定
+动态再结晶
+精益生产
+trajectory
+运动特性
+建模与仿真
+国外先进标准
+process modeling
+MATLAB仿真
+启发式算法
+军工企业
+电磁流量计
+恒流源
+舰载机
+液压支架
+PZT
+Control System
+弯曲应力
+高锰钢
+螺旋面
+modularization
+support vector machine
+CVT
+密封面
+信息化战争
+钢板弹簧
+焊缝跟踪
+齿顶圆直径
+可重构机床
+ship to air missile
+反器材步枪
+多指手
+Autopilot
+反潜武器
+回转接头
+Feature modeling
+弹性夹头
+气动夹具
+military vehicle
+薄壁套
+气浮轴承
+精密切削
+EMX
+键合剂
+材料去除机理
+蜗杆副
+ADAMS/Car
+collaborative product development
+机床消费
+PD雷达
+Kinematics analysis
+刀具制造
+汽车工业
+controller
+信号检测
+传感器
+动特性
+数学模型
+涂层
+磨损性能
+微型机械
+有效载荷
+止回阀
+safety valve
+激光淬火
+Calibration
+功率因数
+torque
+multi-objective optimization
+上位机
+DLL
+离子色谱
+金刚石滚轮
+天然气压缩机
+多普勒频率
+零件信息
+位置伺服系统
+实例检索
+轮廓误差
+脱壳穿甲弹
+ASP模式
+tribological performance
+Damage detection
+端铣刀
+ultra-precision machining
+成形模具
+Virtual assembly
+齿轮系统
+flanging
+Cam mechanism
+导向块
+气体辅助注射成型
+导套
+V带传动
+平整机
+product platform
+cutting process
+榴弹
+位置度公差
+detonator
+multibody system
+STL file
+PTCR
+熔滴过渡
+产品信息模型
+自行式
+临近空间
+车床加工
+齿向误差
+油气悬架
+油缸
+应力波
+位移传感器
+人工神经网络
+回转精度
+翻边
+网格简化
+体绘制
+virtual reality
+直接力控制
+blank layout
+crawler crane
+wire saw
+热连轧生产线
+三面刃铣刀
+isothermal extrusion
+靠模装置
+网络化作战
+熔铸技术
+单基发射药
+冷镦机
+球面机构
+水液压
+倒角刀
+dresser
+空间并联机构
+工艺模板
+履带式挖掘机
+螺纹车刀
+重庆机床厂
+DNTF
+液压压下系统
+逻辑制造单元
+主液压缸
+飞片速度
+喷油螺杆压缩机
+装药设计
+内弹道模型
+弹道优化
+端面凸轮
+double-base propellant
+CMDB propellant
+单晶金刚石刀具
+一次透照长度
+陶瓷砂轮
+框架锯
+调心球轴承
+超声波电动机
+缺陷波
+压力容器技术
+锥形件
+demoulding
+平直度
+传动角
+intelligent design
+多目标跟踪
+刀库
+kinematic simulation
+Signal analysis
+动平衡机
+功率键合图
+内齿轮
+精密工程
+远程服务
+Clearance
+制动力矩
+机械CAD
+曲柄连杆机构
+bond graph
+目标探测
+等温淬火
+多智能体系统
+Transducer
+fatigue strength
+几何建模
+曲面
+最优控制
+construction machinery
+装配工艺
+TBM
+智能节点
+应力场
+退火
+试验装置
+主轴部件
+鼓形齿
+模具CAD/CAM
+工具电极
+弹道性能
+automobile panel
+成形刀具
+引信技术
+装配约束
+力能参数
+UV-LIGA
+随行夹具
+舰炮武器系统
+凸轮测量
+炸药装药
+FANUC系统
+PLIB
+computer numerical control system
+机床制造厂
+steering mechanism
+电火花磨削
+面向制造的设计
+casting system
+microrobot
+热壁加氢反应器
+轮胎起重机
+精密工作台
+linear compressor
+纯水液压传动
+blanking die
+image based rendering
+分度圆
+爆炸逻辑网络
+油料装备
+磁痕
+聚四氟乙烯
+碳化硅
+自动气象站
+机动性
+排气量
+高应变率
+粗加工
+冲突消解
+圆弧面
+Path planning
+被动定位
+卡爪
+回火脆性
+福禄克公司
+槽轮机构
+偏心套
+agent
+缺陷识别
+survivability
+涡轮叶片
+Wear
+烧蚀
+滑阀
+ant colony algorithm
+GSM
+two-phase flow
+计算机辅助设计
+智能仪器
+wireless communication
+智能设计
+LS-DYNA
+应变率
+forging
+servo control
+heat pump
+切削
+CSCW
+改进设计
+活塞
+转速
+Neural network
+dynamic calibration
+连续挤压
+海上作战
+boundary lubrication
+电子式电能表
+潜射弹道导弹
+Agile Manufacturing
+可靠性灵敏度
+超硬刀具
+冷连轧机
+纳米定位
+椭圆封头
+干涉检验
+硼酸酯
+agile virtual enterprise
+分层实体制造
+扭力轴
+翘曲变形
+固体润滑剂
+压铸机
+loader
+开关电源
+anti-jamming
+A/D converter
+钢丝绳
+电动汽车
+stress wave
+轴瓦
+舰艇编队
+微小孔
+滚动体
+表面完整性
+减摩
+Mechanical design
+四轮转向
+塑料异型材
+Accelerometer
+extrusion die
+隐身飞机
+转矩
+激光加工
+疲劳试验
+功率
+信号分析
+添加剂
+金属间化合物
+花岗石
+field bus
+digital signal processor
+传动轴
+企业标准化
+visual servo
+geometric constraint
+激光指示器
+NC机床
+autonomous underwater vehicle（AUV）
+自润滑轴承
+末制导炮弹
+康复机器人
+刀位点
+铣刨机
+枪托
+型面
+作业车间
+micro robot
+变压边力
+implicit surface
+Nonlinear vibration
+玫瑰金
+高速走丝
+干扰观测器
+CAx
+工业车辆
+路面机械
+机器人
+泡沫铝
+Diesel engine
+红外图像
+光顺
+阀门制造
+fire accuracy
+空调箔
+工程起重机行业
+混凝土搅拌输送车
+压紧螺钉
+雷达引信
+叠加阀
+摆动从动件
+刀具扫描体
+多移动机器人
+micro-milling
+光电子学与激光技术
+尾流自导
+磁性检验
+water hydraulics
+manufacturing information
+热卷箱
+互感器校验仪
+公差标注
+硬车削
+挤塑模
+零件编码
+超高速切削
+球笼式万向节
+die casting die
+机床功能部件
+轴承企业
+化学专利
+几何公差
+钟表工业
+炸高
+圆盘剪
+反向挤压
+case-based reasoning
+故障处理
+enterprise modeling
+shock absorber
+active suspension
+partner selection
+无油润滑
+步兵
+data association
+油润滑
+波纹度
+花键
+人民海军
+镗孔
+同轴度误差
+直接数字合成
+版本管理
+搅拌设备
+蜗壳
+touch screen
+极限载荷
+magnesium alloys
+工艺文件
+digital signal processor(DSP)
+主参数
+工作流模型
+衬套
+恒功率
+error model
+强韧性
+electronic equipment
+algorithm
+工艺改进
+PCD
+容积效率
+Data fusion
+点云数据
+耐用度
+任务调度
+connecting rod
+product model
+rapid solidification
+形位误差
+finite element analysis(FEA)
+millimeter wave
+坐标测量
+姿态测量
+virtual prototype technology
+爆炸载荷
+刀具管理
+混凝土搅拌站
+振动切削
+高强度螺栓
+厚度测量
+heat exchanger
+clearance
+人机工程
+调速系统
+电磁干扰
+维修
+UG二次开发
+发明问题解决理论
+固体发动机
+ACIS
+纹理合成
+liquid propellant
+导弹装备
+精度要求
+diamond saw blade
+robot manipulator
+直齿圆锥齿轮
+矫直
+semi-active suspension
+重合度
+电涡流传感器
+不确定度
+结构改进
+分析化学
+晶闸管
+PCI
+实时操作系统
+B样条
+弹塑性
+圆度
+节流阀
+motor
+elevator
+磁流变阻尼器
+Control system
+车身
+过程自动化
+图形仿真
+journal bearing
+企业标准体系
+油封
+锌基合金
+planetary gear
+防务
+spherical tank
+force feedback
+加工变形
+测向
+VISA
+弹道导弹防御
+液压系统故障
+robot vision
+数控凸轮轴磨床
+遥控猎雷系统
+traveling charge
+electromagnetic fuze
+内侧抽芯
+手枪套
+多棱数控机床股份有限公司
+槽铣刀
+平磨
+精车刀
+敏捷夹具
+wake homing
+Integrated Navigation
+复杂形状刀具
+电磁超声换能器
+forced demoulding
+模糊稳健优化设计
+球基面
+中心浇口
+赫格隆车
+弹仓
+Ship to air missile
+枪械设计
+Magnetic leakage field
+修理车
+哈姆导弹
+Axial piston pump
+比磨削能
+airborne dispenser
+硝解
+industrial detonator
+切入磨削
+七杆机构
+铝带冷轧
+滑动型芯
+珩磨油石
+模块装药
+点火具
+AMESIM
+精密镜面磨削
+超精研机
+ladle turret
+Multiaxial fatigue
+离心式引风机
+圆锥凸轮机构
+Pyrotechnics
+超声速导弹
+平面二次包络环面蜗杆副
+空面导弹
+微调镗刀
+连续卸船机
+rolling piston compressor
+刀具国产化
+plunge milling
+Magnetorheological fluid
+多斗挖掘机
+MoDTC
+CNC milling
+Mastercam
+负重轮
+液压管路
+underwater robot
+产品数据管理(PDM)
+调整螺钉
+机床结构
+航空炸弹
+摆线齿轮
+equipment procurement
+尾座
+渗碳钢
+杀伤概率
+铰孔
+滚切
+钻夹头
+Virtual Enterprise
+Inverse kinematics
+lubricating mechanism
+Thickness measurement
+相似设计
+subdivision surface
+open CNC system
+故障树
+corrosion resistance
+动态测试
+筑养路机械
+世界工程机械
+伺服缸
+压电叠堆
+铣头
+工艺润滑
+电火花铣削
+加工率
+静电涂油机
+火力运用
+浮动油封
+电子对抗技术
+hexapod robot
+超精密切削
+coiler
+移动工作台
+多目标攻击
+electric transmission
+垂直侵彻
+实时成象
+剪切机构
+FEKO
+fine blanking
+在机测量
+成像导引头
+开放式控制系统
+crank-slider mechanism
+scheme design
+surface topography
+工作流管理
+合金化
+heuristic algorithm
+参数辨识
+参数设计
+微处理器
+mechanics
+材料科学
+接触分析
+可编程逻辑控制器
+actuator
+remote monitoring
+传动机构
+气动控制
+磨损率
+Fault Diagnosis
+混合动力
+虚拟现实
+振动时效
+火药
+通讯协议
+可扩展标记语言
+PID controller
+模糊优化
+线阵CCD
+乳化液
+统计过程控制
+过切
+雷达网
+节曲线
+拉伸工艺
+UKF
+主传动
+主动防护
+轨迹控制
+箔条
+装配仿真
+静力学分析
+硬齿面
+定位板
+芯轴
+拌和机
+锥阀
+超声波探伤仪
+往复泵
+piston ring
+流量仪表
+高压容器
+流程工业
+表面淬火
+行走机构
+花键轴
+企业集成
+系统效能
+千分表
+导弹发射
+管壳式换热器
+ultrasonic
+瞄准具
+Machining
+轴承寿命
+电子膨胀阀
+声表面波
+stress corrosion cracking
+超磁致伸缩
+ISA总线
+先导阀
+extensible markup language
+精密定位
+图像采集
+应力腐蚀开裂
+二硫化钼
+spacecraft
+flexible manipulator
+棒材
+支承
+open architecture
+technology analysis
+掘进机
+形状误差
+心轴
+电磁学
+工装设计
+kalman filter
+基础油
+锅炉
+information processing
+Robust design
+数控线切割机床
+开卷机
+machining precision
+钢制压力容器
+龙门起重机
+磨耗比
+节流调速
+机床发展
+轴向定位
+流体润滑
+负荷传感
+工程机械维修
+捷联惯性导航系统
+electron technology
+piezoelectric pump
+mobile manipulator
+侧铣
+磨削参数
+零件信息模型
+OBDD
+河南机电高等专科学校
+汽车转向器
+实例库
+naval gun
+laser fuze
+振动轮
+后坐力
+六维力传感器
+cross wedge rolling
+基于图像的绘制
+气动量仪
+高效深磨
+Shape optimization
+水陆坦克
+脉冲涡流
+膛压
+离心式冷水机组
+design automation
+NC系统
+closed bomb
+Pressure angle
+等离子体点火
+步兵武器
+美国铝业公司
+粉状炸药
+微成形
+复合刀具
+螺纹磨床
+Linear Motor
+非线性振动
+数控仿真
+CNC lathe
+定位机构
+智能制造
+wear rate
+静特性
+screw compressor
+programmable logic controller(PLC)
+海军舰艇
+quaternion
+电弧炉
+经验模式分解
+雷诺方程
+fault detection
+泄漏量
+计算机辅助测试
+图像匹配
+螺杆泵
+drawing
+Delphi
+computer vision
+有源电力滤波器
+立体车库
+顺序控制
+抽油机
+模板匹配
+电度表
+artificial neural network
+漏油
+织构
+CVD
+strain rate
+标准插齿刀
+推土机铲刀
+装备环境工程
+core-drawing mechanism
+seven-bar mechanism
+sliding core
+四列轴承
+碳化硅砂轮
+冷风切削
+数控补偿
+vehicle equipment support
+fluidal mechanics
+TEGDN
+Inventor API
+液固顶空气相色谱法
+Air defence missile
+Slipper pair
+space parking system
+欠驱动机器人手
+蜗杆砂轮磨齿机
+Delay element
+推力圆锥滚子轴承
+howitzer
+密封复合材料
+Pro/E Wildfire
+High Speed Milling
+modular charge
+floating core
+Manufacturing resource
+spherical roller bearing
+grind-hardening
+导引回路
+灭雷系统
+低噪声轴承
+ball end milling cutter
+不可逆式
+PCBN cutter
+main battle tank
+斜齿插齿刀
+磨削力比
+数控分度头
+Ultrasonic guided waves
+military representatives
+密闭爆发器试验
+aluminium alloy profiles
+technology and equipment for machine building
+废弃发射药
+Thermal Error
+MATLAB程序设计语言
+aluminium profiles
+solid cage
+Lamb wave testing
+平面砂带磨削
+Tool Path
+势平衡理论
+aluminium plate and strip
+工业设计
+驱动程序
+灵敏度
+传动链
+闸阀
+tension control
+数据关联
+特征模型
+莫尔条纹
+试验与鉴定
+电磁引信
+机床工具工业
+热态特性
+base bleed projectile
+靶弹
+powdery emulsion explosive
+High Speed Machining
+planetary gear reducer
+侧向分型
+硬切削
+可调机构
+Variant design
+交点尺寸
+双流道泵
+活动凹模
+夹具定位
+外球面轴承
+torpedo weapon system
+埃格林空军基地
+机床进给
+滑动摩擦副
+球齿轮
+点啮合
+CNG压缩机
+砂轮磨削
+超细炸药
+实时插补
+钻床主轴
+作战评估
+NEPE propellant
+自动定心夹具
+沥青搅拌设备
+submarine gate
+tobacco machinery
+可调夹具
+慢走丝
+金刚石笔
+水压元件
+integrated product development
+fire control radar
+变燃速发射药
+直升机空战
+cluster warhead
+milling insert
+加工孔
+HOQ
+带锯床
+missile test
+防暴枪
+探伤灵敏度
+胀套
+作战效能评估
+拦截弹
+制导弹药
+adiabatic shear band
+ZMP
+forging die
+未来作战系统
+分度误差
+磨削比
+导弹设计
+超声珩磨
+主轴单元
+wall climbing robot
+小型挖掘机
+精密离心机
+啮合力
+CAD/CAM集成
+红外制导
+可燃药筒
+VLISP
+flying shear
+空舰导弹
+自动方式
+比例电磁铁
+内啮合
+研磨加工
+混凝土输送泵
+Contact stress
+爆破器材
+直线插补
+hot extrusion
+螺旋曲面
+Excavator
+磁流变减振器
+坦克乘员
+支重轮
+六杆机构
+computational geometry
+point contact
+texture synthesis
+逻辑综合
+螺旋密封
+产品开发过程
+electrical capacitance tomography
+transmission error
+图形学
+high strain rate
+Hopkinson压杆
+高速切削加工
+无人驾驶飞行器
+V形块
+三自由度
+electrical engineering
+机床导轨
+凸轮轮廓
+电能计量装置
+adaptive
+阻尼
+ontology
+single-chip microcomputer
+驱动系统
+wireless sensor network
+阻尼器
+Optimization
+流量
+图像重建
+磁控溅射
+FCS
+伺服
+喘振
+fixture
+电火花
+MFC
+压力传感器
+分布式控制
+微位移
+应变率效应
+trajectory tracking
+cutting parameters
+rapid design
+加工参数
+Blade
+storage life
+导弹防御系统
+几何误差
+NURBS曲线
+Cam
+多代理
+制造资源计划
+制动性能
+高效液相色谱法
+逆变器
+nozzle
+强度分析
+transducer
+建模
+金属陶瓷
+体系结构
+制造业
+制造技术
+弹体
+现代制造技术
+快速模具
+卷板机
+床身
+游标卡尺
+image matching
+liner
+低合金钢
+气蚀
+液力偶合器
+网络控制系统
+fuzzy reliability
+A/D转换器
+hydromechanics
+stereo vision
+电磁离合器
+主动悬架
+训练舰
+装配序列
+虚拟维修
+导弹快艇
+塑性动力响应
+静压导轨
+位置反解
+micro-machining
+凿岩台车
+导爆管
+电动舵机
+制导炮弹
+铝-锂合金
+NC milling
+轮式
+静液传动
+涡喷发动机
+板材成形
+combustion catalyst
+验证机
+工业控制计算机
+能量回收
+deformation
+润滑剂
+机械性能
+耐蚀性
+piston
+robust control
+空气悬架
+齿侧间隙
+刃倾角
+旋转变压器
+同步回路
+CIPS
+三轴转台
+CANopen
+Labwindows/CVI
+逆动力学
+SCPI
+潜艇部队
+反潜
+齿轮设计
+TRIZ theory
+敏捷虚拟企业
+IMU
+车桥
+轮式车
+液气密行业
+舵系统
+可装配性评价
+成组编码
+air defense system
+biped walking robot
+auto-programming
+隐身导弹
+齿形精度
+Industrial computed tomography
+钢包回转台
+ejection mechanism
+法矢
+斜楔机构
+脂润滑
+乳化液泵
+工具工业
+HyperWorks
+静电感度
+hexanitrohexaazaisowurtzitane
+截获概率
+交换齿轮
+床头箱
+Gas Sensor
+圆筒试验
+Magnetic flux leakage
+Tower crane
+倾斜转弯
+组合制导
+轴承腔
+轮廓控制
+manufacturing resources
+弹道设计
+陶瓷装甲
+回转类零件
+立方氮化硼砂轮
+自由飞行空间机器人
+夹具CAD
+超磁致伸缩致动器
+凸轮磨削
+牵引火炮
+频谱分析
+ActiveX
+压力分布
+cutting tools
+圆柱螺旋弹簧
+球化退火
+放电间隙
+inertial navigation
+军事物流
+起重臂
+行星齿轮减速器
+兰姆波
+线性调频信号
+输出轴
+设备监理
+贮存可靠性
+现代制造业
+TiN涂层
+工艺过程
+应力分布
+焊接材料
+疲劳分析
+AVR
+流体动力
+diamond film
+Bifurcation
+动态链接库
+ceramic
+霍尔传感器
+reliability design
+变速箱
+故障检测
+控制策略
+磁性磨料
+长杆弹
+电火花机床
+形式验证
+铲磨
+grinding machine
+ISA bus
+超高压容器
+热爆炸
+淬火钢
+产品全生命周期管理
+滚动导轨
+UG/Open
+发射架
+工业金刚石
+可转位刀具
+modular machine tool
+微加速度计
+隐式曲面
+injection moulding
+高超声速飞行器
+Crankshaft
+连杆轴颈
+供应链
+structure design
+力传感器
+对刀
+干涉仪
+流场分析
+行程开关
+加速度传感器
+非线性有限元
+image segmentation
+冲击式压路机
+飞行稳定性
+rough machining
+径向圆跳动
+Electrohydraulic servo system
+PD radar
+wire electrode
+冲压方向
+small arms
+切削效率
+标准齿轮
+motion capture
+射击误差
+ground-to-air missile
+任意分布参数
+前车架
+surface grinding
+主切削刃
+网络数控
+automatic mechanism
+舰船磁场
+制导控制
+civil-military integration
+万工显
+collaborative product commerce
+数控转台
+往复活塞式压缩机
+超声波测厚
+行走液压系统
+偏心孔
+半主动悬挂
+扫雷车
+数控龙门镗铣床
+摩擦噪声
+星形套
+模具标准
+牵引传动
+Windchill
+利勃海尔公司
+轮胎式装载机
+导引方法
+铵油炸药
+连续铸轧
+组合轴承
+镶件
+红外诱饵
+并联结构
+干式加工
+双级时效
+Involute gear
+冗余
+铣刀
+循环流化床锅炉
+电磁环境
+螺母
+Fluent
+传动
+密封件
+supply chain management
+电气控制
+自动测量
+柴油发动机
+自动化系统
+特征提取
+编队
+任务分配
+热处理炉
+Weld
+solid modeling
+直升机
+拉伸
+外径
+lapping
+位姿
+液压传动系统
+综合误差
+自动车床
+机械工业企业
+铁谱分析
+迫击炮弹
+谐波齿轮
+VXI bus
+宙斯盾
+仪器仪表工业
+工装夹具
+振动值
+液压成形
+装配尺寸链
+post processing
+Explosive
+水中兵器
+Stress intensity factor
+FMECA
+machining process
+导波
+火力支援
+气动性能
+结构光
+贝氏体
+备件管理
+pneumatic
+故障排除
+计算机视觉
+受力分析
+飞行器
+leakage
+执行器
+microprocessor
+camera calibration
+SPI
+陀螺仪
+设计与制造
+故障树分析
+感应加热
+aircraft
+压电驱动
+motion control card
+X射线照相
+建设机械
+摆线针轮
+跟刀架
+靶场试验
+模锻件
+导弹武器
+working space
+压力继电器
+内齿圈
+剪切机
+space robot
+测试生成
+衍射光栅
+积屑瘤
+作战模拟
+automatic meter reading
+气动机械手
+并行测试
+焊装夹具
+瞄准系统
+combat efficiency
+composite armor
+拼焊板
+阴极设计
+Pro/E二次开发
+自动手枪
+陶瓷球轴承
+滚齿加工
+电动刀架
+slewing bearing
+inspection robot
+oil lubrication
+数控立车
+自重构
+双基推进剂
+摩擦学系统
+定位方案
+SmarTeam
+cylindrical cam
+螺纹铣刀
+军事装备学
+反挤压
+排爆机器人
+RecurDyn
+时间分割法
+液压冲击器
+terminal guidance
+运动学正解
+拦截导弹
+效能模型
+切触
+直线压缩机
+工程测量技术
+机械感度
+杂质泵
+金属磁记忆检测
+高铬铸铁
+抗磨
+柔性体
+螺纹孔
+位置度
+攻击直升机
+精确打击
+兵工厂
+海军装备
+fan
+烟幕
+转子动力学
+卡尔曼滤波器
+刀柄
+HMI
+变工况
+人机工程学
+知识工程
+surface modification
+三维设计
+seal
+ODBC
+强制性标准
+cylinder
+水泵
+ASP
+temperature
+ADO
+参数
+形状优化
+microhardness
+晶粒度
+缸体
+programmable logic controller
+BP neural network
+正交试验
+hypoid gear
+轧机机架
+对抗技术
+巡线机器人
+寻的制导
+中板轧机
+加工工件
+流体传动及控制
+current statistical model
+台阶孔
+矩形花键
+Numerical control system
+设计决策
+多余力
+西南兵工
+液压油箱
+合模机构
+工艺信息
+air defence missile
+组合刀具
+液压同步
+explosive charge
+膛口流场
+锻压机械
+STL model
+数控火焰切割机
+片上网络
+组合凹模
+IVI
+滑座
+空间作战
+acquisition probability
+三角网格模型
+reverberation chamber
+华中数控
+bounding box
+沥青摊铺机
+挖沟机
+integral impeller
+Concurrent design
+圆弧槽
+冷凝泵
+弹性流体动压润滑
+Virtual Manufacturing
+hardened steel
+complex electromagnetic environment
+volute
+关键技术
+static analysis
+曲面拟合
+垂直度
+激光雷达
+备件
+metal rubber
+淬火裂纹
+激光烧结
+剪板机
+aluminum foil
+测头
+舰船
+rough set
+叶片
+点接触
+深冷处理
+包装机械
+lubricating oil
+target identification
+tribological design
+UG/OPENAPI
+轴圈
+超高分子量聚乙烯(UHMWPE)
+周向曝光
+电解珩磨
+电液伺服马达
+坦克稳定器
+磁粒研磨
+side core-pulling mechanism
+Networked manufacturing
+双列圆柱滚子轴承
+微细电极
+三维视觉检测
+经营过程建模
+地下装载机
+冲压保持架
+装配高
+integrated guidance
+动力部件
+常规战斗部
+大型工程机械
+微光瞄准镜
+半精加工
+interior ballistic model
+closed bomb test
+拉机柄
+Product model
+电磁无心夹具
+定心夹具
+动基座对准
+圆弧车刀
+大空域机动
+超精机
+航天器结构与设计
+先复位机构
+在线电解修整
+延期体
+机械基础件
+EAK
+推进液压系统
+装机水平
+反坦克火箭筒
+并联微动机器人
+drilling force
+rocket-assisted torpedo
+无线电近炸引信
+稳态扫描
+沟位置
+无级传动
+越肩发射
+spacecraft structure and design
+双壁双影
+dynamic walking
+斜齿齿轮泵
+电磁轭
+Open CNC
+firing table
+五坐标数控加工
+机床主轴系统
+unmanned underwater vehicle(UUV)
+轴连轴承
+镜面磨削
+Cutting Force
+莫氏锥孔
+CBN wheel
+磨削温度场
+gatling gun
+side parting
+电点火头
+摆动液压缸
+兵器科学技术
+Manufacturing System
+Process and technology
+flanging die
+centerless grinding
+Helical spring
+喷火器
+塑封模
+Electric detonator
+变幅杆
+兵器行业
+仿生机器人
+阀瓣
+作战飞机
+Parametric
+公差分析
+centrifugal blower
+GDOP
+RTW
+robotics
+直纹面
+扭杆弹簧
+gate valve
+数字阀
+液压启闭机
+CAD model
+虚拟产品开发
+登陆舰
+航空母舰
+PCB
+通信技术
+发射
+水压试验
+ergonomics
+光电检测
+Pipeline
+PCI bus
+Web Service
+冷却器
+Wavelet transform
+流量系数
+ceramics
+虚拟仪器技术
+制造工艺
+等离子体
+无线通信
+超磁致伸缩驱动器
+导弹发射车
+rotary compressor
+launcher
+凸缘
+机床数控
+功率分流
+压电双晶片
+micromanipulation
+超声速燃烧
+supply chains
+knowledge reuse
+挖掘机械
+磨粒识别
+导柱
+进给运动
+刀具参数
+IETM
+高速碰撞
+机床工作台
+液压驱动系统
+攻防对抗
+磨加工
+齿廓曲线
+谐响应
+内部流动
+裂纹扩展速率
+involute gear
+齿轮减速器
+铂电阻
+田口方法
+image registration
+材料利用率
+innovation design
+功率匹配
+TRIZ理论
+先进制造
+空间机构
+petri net
+石墨
+熔铸
+锯切
+抗磨性
+平面四杆机构
+volume rendering
+topological optimization
+产品平台
+automatic test
+侧隙
+multi-body dynamics
+机械设备
+组件
+laser
+两栖
+自顶向下
+质量功能展开
+自整定
+Acoustic emission
+软件可靠性
+life prediction
+合金钢
+roughness
+position control
+recrystallization
+VxWorks
+无级变速
+扩展卡尔曼滤波
+恒压供水
+Stress analysis
+Interpolation
+FMEA
+动密封
+结构可靠性
+动态力学性能
+静电放电
+Kalman滤波
+jet
+提升机
+hybrid electric vehicle
+激光切割机
+敏度分析
+RoboCup
+微动疲劳
+滚压加工
+电液锤
+发射管
+positioning accuracy
+齿轮强度
+制造误差
+靶板
+防喘振
+执行元件
+punching
+制造模式
+electronic control
+Damper
+data link
+伺服电动机
+履带式车辆
+VXIbus
+加工机床
+试射
+进给
+单兵
+可测性设计
+集装箱起重机
+part family
+维修性设计
+几何仿真
+formal verification
+武器装备研制
+静动态特性
+导弹攻击
+中国航天科工集团
+断屑槽
+machining error
+unmanned aerial vehicle
+快换
+艾克斯
+ASME
+muzzle velocity
+网络传感器
+工艺方法
+软件测试
+磁流体
+电路设计
+genetic algorithms
+供应链管理
+混凝土
+校验
+多通道
+标准化人员
+内部流场
+操作器
+曲轴箱
+协同优化
+军舰
+ammonium nitrate
+最大射程
+路径跟踪
+UG software
+workflow model
+flexible manufacturing system
+综合保障
+寿命试验
+层次分析法
+模拟退火算法
+电极
+振动信号
+信号调理
+acoustics
+风力机
+RCM
+控制爆破
+纳米金刚石
+电子控制
+failure diagnosis
+谐波检测
+装备
+guidance and control system
+电磁扫雷具
+内啮合齿轮泵
+液压产品
+砂轮修整装置
+delay composition
+全路面汽车起重机
+浮动夹头
+electrode wear
+连续铸挤
+自主车辆
+pressing process
+firing efficiency
+延期解除保险
+专用装备
+电火花铣削加工
+涡旋型线
+Pyrotechnic composition
+trimming die
+ultra-precision
+内孔磨削
+demoulding mechanism
+automatic dimensioning
+车削装置
+侧浇口
+刀路
+加工中心主轴
+通用导弹
+hopping robot
+运动方案设计
+B炸药
+紫外告警
+辊形
+燃焰法
+综合传动
+型腔加工
+平面螺纹
+CVC轧机
+物理制造单元
+aluminium alloy profile
+直线轴承
+变量机构
+装甲钢板
+延期精度
+铝合金管材
+电加工技术
+变质心
+万能外圆磨床
+flexible forming
+固体润滑轴承
+枪榴弹
+直接切片
+遥控扫雷
+点火管
+critical initiation energy
+高速车削
+属性邻接图
+thermal elastohydrodynamic lubrication
+下偏差
+Magnetic memory
+底部排气弹
+理想材料零件
+嵌固叶片
+deep hole processing
+intelligent mine
+感应装定
+膨化硝铵
+自吸性能
+硬目标
+Solid propellant
+液压车床
+径向进给
+多机器人协作
+对旋式通风机
+高速车铣
+张拉器
+制导方式
+砂轮表面
+PCBN tool
+磨削装置
+精度分析
+wavelet
+星敏感器
+表面残余应力
+机床精度
+电磁成形
+挖掘机器人
+Position control
+摩擦补偿
+aerodynamic characteristics
+Single Chip Computer
+超塑成形
+圆度仪
+逆解
+电动叉车
+工艺孔
+啮合角
+die casting
+求交
+burr
+灵活度
+平衡盘
+金属成形
+改进计划
+工艺尺寸链
+watt-hour meter
+优化综合
+接触疲劳强度
+滑动磨损
+全液压
+射孔弹
+HyperMesh
+瞄准线
+hypervelocity impact
+off-line programming
+环形槽
+仿形加工
+自润滑材料
+微型无人机
+远场涡流
+均匀试验设计
+动力学分析
+simulation system
+自动检测
+测试仪
+探头
+工艺试验
+分布式控制系统
+去噪
+动力响应
+modular
+bellows
+轻型
+测距
+接近开关
+carbide
+G代码
+oil analysis
+多轴疲劳
+组合密封
+弹性联轴器
+可靠性优化
+NURBS curve
+压缩机组
+注射成形
+起爆
+Unigraphics
+挤压工艺
+warpage
+齿轮啮合
+超声波电机
+塔机
+parameterized modeling
+稳定平台
+不平衡量
+矿井提升机
+锻造工艺
+ceramic coating
+量具
+servo motor
+悬挂系统
+machine design
+stress corrosion
+溴化锂
+单神经元
+soccer robot
+TiN
+反求
+我国制造业
+ring
+ANSYS软件
+turning
+内孔焊
+容积式压缩机
+设备维修市场
+Hydraulic drive
+重型机床厂
+连续轨迹
+stop valve
+小深孔
+耐热炸药
+过程分析仪器
+超声研磨
+猎雷声呐
+整形模
+函数综合
+recoil mechanism
+柔性并联机器人
+寄存器传输级
+弹性机构
+中制导律
+进化设计
+基于实例的设计
+STAGE
+high level synthesis
+NC milling machine
+Antiship missile
+微创外科手术
+人在回路
+微钻头
+参数化编程
+大导程
+硬杀伤
+elasto-hydrodynamic lubrication
+Crashworthiness
+HS-WEDM
+小车架
+桥丝
+数控工具磨床
+刀尖圆弧半径
+电瓶叉车
+模具质量
+指形铣刀
+急回运动
+六辊轧机
+electric detonator
+Fatigue limit
+螺纹底孔
+深孔钻头
+Ultrasonic Vibration
+平行分度凸轮机构
+多色图
+成型装药
+车辆传动
+π网络
+零件分类编码系统
+ultrasonic grinding
+微细切削
+波像差
+等螺旋角
+detonation parameter
+聚焦探头
+profile error
+微细轴
+制耳率
+mixed lubrication
+microstructure
+现代集成制造系统
+干涉检查
+Ion chromatography
+可靠性增长
+振动主动控制
+阀杆
+过渡曲线
+high-speed
+MOSFET
+物流技术
+MRPII
+MATLAB/Simulink
+JIT
+CAD system
+集成平台
+direct torque control
+三角剖分
+合金元素
+故障模式
+大气腐蚀
+structural design
+压缩空气
+知识表示
+MATLAB simulation
+亚像素
+jamming
+机电产品出口
+陶瓷涂层
+转炉
+射流泵
+工作流管理系统
+工业控制
+平面度
+signal detection
+康明斯
+雷达信号
+模糊自适应PID
+直齿锥齿轮
+agile supply chain
+专业情报
+磁流体密封
+welding robot
+工作台面
+Surface reconstruction
+脉冲爆震发动机
+动态断裂
+透平压缩机
+自标定
+有效射程
+进给机构
+工程装备
+刀具角度
+港口机械
+自动编程系统
+silicon wafer
+armed helicopter
+四轴联动
+分度精度
+轴承工业
+硬密封
+Interceptor
+弹托
+智能制造系统
+guided bomb
+航炮
+正交车铣
+electronic countermeasures
+无叶扩压器
+雷达制导
+超硬材料行业
+重型机械行业
+micro-hole
+无陀螺捷联惯导系统
+切削条件
+bearing ring
+斜侵彻
+格斗导弹
+parallel machine tools
+坦克战
+floating crane
+十字滑块
+齿根过渡曲线
+business component
+弹道模型
+加工夹具
+Collaborative Design
+固体火箭冲压发动机
+tracked vehicles
+渐进成形
+平衡重式叉车
+die and mould
+Virtual Assembly
+炮口制退器
+TiAlN
+经济型数控
+微位移机构
+混联机构
+常压储罐
+UMAC
+sliding block
+blood pump
+轴类工件
+金刚石制品
+微量润滑
+弹道修正弹
+Weapon system
+冷镦
+tungsten heavy alloy
+徐州重型机械厂
+外球面
+制造模型
+electroforming
+无人驾驶飞机
+可靠性优化设计
+中小企业信息化
+托辊
+回转机构
+laser cutting
+人机交互
+检修
+有限单元法
+控制电路
+壳体
+光学系统
+real-time
+面向对象技术
+system integration
+neural networks
+粒子群优化
+同步采样
+Modbus
+elastic deformation
+intelligent instrument
+表面分析
+传递矩阵法
+magnetron sputtering
+低周疲劳
+结构特点
+图像分割
+knowledge management
+机床集团
+残余振动
+花键孔
+拉深件
+Contact analysis
+vibration cutting
+Temperature Compensation
+齿轮加工机床
+平面凸轮
+超声振动切削
+中联重科
+wear debris
+数控铣削加工
+大模数齿轮
+二重集团公司
+weapon and equipment
+微切削
+渐开线斜齿轮
+行走机械
+等温挤压
+电火花沉积
+惯性测量组合
+Electro-hydraulic servo system
+半导体生产线
+underground explosion
+切削技术
+CNC Machine
+threat evaluation
+磨削用量
+题目索引
+六面顶压机
+air bearing
+Flexible manipulator
+expanded ammonium nitrate explosive
+面铣刀
+轮边减速器
+车铣
+全断面岩石掘进机
+硬质合金模具
+liquid propellant gun
+lubricant additive
+数控加工仿真
+ZDDP
+五轴加工中心
+active jamming
+变质层
+多轴联动
+production planning and control
+临近空间飞行器
+刀具结构
+thin film lubrication
+军用无人机
+研磨量
+转向泵
+全液压推土机
+penetration probability
+群钻
+incremental forming
+RBI
+材料去除
+润滑特性
+high precision
+topology optimization
+嵌入式Linux
+data exchange
+无缝钢管
+triangulation
+data communication
+马氏体
+清洁度
+信息战
+热泵
+原子吸收
+仪器
+装载机工作装置
+自由度分析
+三维模型检索
+virtual maintenance
+Parametric Design
+成型磨削
+dynamic inversion
+西门子数控
+非正弦振动
+反潜导弹
+underactuated
+频率综合器
+鱼雷武器系统
+Gearbox
+冲压模
+molybdenum disulfide
+切断刀
+line contact
+滑台
+tubesheet
+啮合分析
+数控自动编程
+滚丝轮
+装配顺序规划
+液压机械传动
+EW
+圆柱销
+信号分选
+补给舰
+爆轰参数
+大锻件
+环槽
+舰载雷达
+spindle system
+car body
+HNS
+套类零件
+冷却强度
+business process modeling
+步进梁
+主承包商
+过约束
+tool material
+巡航导弹防御
+自然环境试验
+静液压传动
+旋涡泵
+雷达截面
+回差
+magnetic flux leakage testing
+mission planning
+插齿
+杀伤区
+响尾蛇导弹
+Single-chip Computer
+非线性系统
+仿真技术
+job shop scheduling
+SLS
+塑料齿轮
+微加工
+报价系统
+dSPACE
+interferometry
+Inventor
+TVD格式
+运动补偿
+大射电望远镜
+check valve
+作战任务
+rapid tooling
+快速成形技术
+engineering database
+alloying
+thermal deformation
+离心风机
+CAN Bus
+spindle
+接触压力
+微型机器人
+预防性维修
+PID调节
+stepper motor
+垂直起降
+热处理变形
+等距线
+real-time rendering
+金刚石钻头
+hydraulic oil
+rapeseed oil
+Polishing
+工程爆破
+送料机构
+Rapid Prototyping
+拆除爆破
+滚柱
+毁伤
+Rolling bearing
+手工编程
+无人飞行器
+dynamic characteristic
+expert system
+cavity
+time-frequency analysis
+化学气相沉积
+智能控制器
+三维重构
+PIV
+涡轮增压器
+射击
+pressure sensor
+温度检测
+green design
+recoil brake
+fuze power supply
+integrated joint operation
+手枪握把
+自锁轴承
+工序卡
+基本齿廓
+Linkage mechanism
+液体磁性磨具
+胶片系统
+磨加工工艺
+车削内螺纹
+Water hydraulic transmission
+金属成形机床
+复印机械行业
+小型轴承
+疲劳强度评价
+Cracked rotor
+bias-rail box girder
+珩磨轮
+CNC Machine Tools
+机械摆
+机械工程其他学科
+轮冠距
+PCD cutting tool
+超声振动钻削
+首发命中概率
+花键磨床
+Forward kinematics
+斜楔结构
+electronic time fuze
+Milling Force
+reverse seeking engineering
+闭气环
+球头刀
+满滚动体轴承
+die&mould
+低速走丝线切割加工
+instrument and meter technique
+混合轴承
+单刃铰刀
+missile attack
+diamond circular saw blade
+修整工具
+Anti-ship Missile
+电永磁
+Alternating current field measurement
+杀伤榴弹
+水雷障碍
+亚干式切削
+异形弹簧
+低速走丝电火花线切割加工
+对刀器
+气控液压换向阀
+渐开线花键拉刀
+High-speed Milling
+高速干式切削
+砂轮截形
+抛撒机构
+tool lifespan
+tandem warhead
+磨损润滑
+位置发送器
+《摩擦学学报》
+micro-pits
+Machining simulation
+车床刀架
+局部综合法
+非金属硬脆材料
+Microwave testing
+Micro electro mechanical system （MEMS）
+间隙状态
+tire mold
+Electromagnetic yoke
+special machine
+positional analysis
+主轴套筒
+两脚架
+Electromagnetic acoustic transducer
+end mill
+大口径枪弹
+Fatigue strength assessment
+瓷质玻化砖
+EDM电极
+微线段齿轮
+数控插齿机
+space force
+Spindle system
+Micro-electro-mechanical System(MEMS)
+materiel environmental engineering
+finite line contact
+磨球机
+柔性轴承
+mold development
+die & mold manufacture
+快慢机
+气体调节器
+Parallel platform
+military representative
+photoelectronics and laser
+Fuzzy safety event
+车辆电子学
+异形凸曲面
+数控磨削加工
+target missile
+Liquid Level
+冲锋枪弹
+die & mold industry
+霍尔元件
+高速数据采集
+步态
+机械合金化
+轴套
+氢脆
+granite
+LIMS
+中间退火
+转移膜
+曲柄压力机
+冲击波感度
+排队网络
+armored vehicles
+武器装备建设
+oil monitoring
+Digital radiography
+supercavitation
+精密模具
+assembly sequence
+发射技术
+Fatigue test
+生化分析仪
+药筒
+辅助角
+精确制导炸弹
+力矩马达
+机床液压系统
+典型零件
+trajectory simulation
+液动力
+动压润滑
+钻套
+网络化设计
+engineering thermophysics
+尿素合成塔
+齿轮连杆机构
+aluminum matrix composite
+alternative refrigerant
+solid lubricant
+机构
+性能测试
+computer graphics
+功能模型
+电磁铁
+测量装置
+线性度
+动态测量
+数据传输
+同步器
+电子测量
+gear pump
+直线度误差
+多目标优化设计
+自动抄表系统
+惯性导航系统
+热力耦合
+load distribution
+计量泵
+谐响应分析
+impact toughness
+计算几何
+光栅
+key technology
+cutting
+Intelligent control
+线接触
+uClinux
+测厚仪
+现场总线控制系统
+轴系
+CMAC
+企业应用集成
+无刷直流电动机
+制造企业
+dressing
+焊接裂纹
+Pipe
+交流伺服电机
+爆破振动
+伙伴选择
+泄漏率
+进气道
+检测仪
+集中润滑系统
+CNC机床
+探雷
+自动测试设备
+version management
+分类编码系统
+资源模型
+非平衡磁控溅射
+扳机
+创成式
+大规模定制生产
+开放式体系结构
+共轭曲面
+计算机辅助工业设计
+可倾瓦轴承
+烟草机械
+切削试验
+目标特性
+机械手表
+plastic mould
+高纯铝
+军用装备
+红外焦平面阵列
+干扰效果
+激光点火
+细化晶粒
+wavelet packet
+Fatigue
+system identification
+single-chip computer
+软件无线电
+image fusion
+摄像机标定
+磁悬浮
+断丝
+螺旋弹簧
+测量误差
+工程热物理
+主动隔振
+虚拟原型
+无人侦察机
+合成金刚石
+实时成像
+communication technique
+光电跟踪
+形变热处理
+设备润滑
+功率损失
+少齿差
+GT
+co-simulation
+压电驱动器
+立体匹配
+装备维修
+磁强计
+战舰
+柔性生产线
+VisualLISP
+thrust bearing
+Product design
+伺服放大器
+bluetooth
+object tracking
+磁阻传感器
+表面改性
+排放
+同步带传动
+walking robot
+deep drawing
+康明斯发动机
+阀门电动装置
+CAD/CAM系统
+雷达信号处理
+渗碳淬火
+single crystal silicon
+intelligent vehicle
+高压加热器
+threat assessment
+挤压油膜阻尼器
+wire cutting
+Collaborative design
+Al-Li合金
+先进制造系统
+energetic material
+毫米波雷达
+管材
+可靠性试验
+生物芯片
+连铸
+电路
+orthogonal experiment
+automatic control
+光学仪器
+Finite Element Analysis
+接触问题
+frequency converter
+称重传感器
+ISP
+氧化膜
+forming process
+点蚀
+virtual environment
+毫米
+X射线
+硬件
+硬度
+谐波分析
+fuzzy neural network
+remote control
+台架试验
+直接驱动
+active power filter
+腐蚀疲劳
+VI
+战车
+检测系统
+stress field
+vibration control
+驱动装置
+经验模态分解
+无功补偿
+parameter design
+自动控制系统
+离心机
+机械系统
+Hopkinson杆
+切削热
+冰箱压缩机
+砂带
+Bézier curve
+金刚石涂层
+virtual manufacture
+Hopkinson bar
+MSC.Marc
+机械制造技术
+路面不平度
+实时多任务
+十字轴
+双作用
+拉深工艺
+发动机试验
+straightening
+未焊透
+激光推进
+龙门铣床
+光电经纬仪
+机械表
+方位估计
+粗糙集
+加工技术
+导向装置
+机械市场
+阵列信号处理
+焊后热处理
+废热锅炉
+状态识别
+敏捷供应链
+设计方法学
+汽车变速器
+nitration
+油压机
+盾构机
+CAE技术
+Taguchi method
+离子镀
+低温韧性
+飞机结构
+行星齿轮机构
+电磁兼容性
+point cloud
+位置误差
+机械效率
+易损性
+Finite Element
+frequency measurement
+vibration signal
+Serial communication
+起重设备
+弹性支承
+高强度钢
+SoC
+薄壁
+偏心轮
+aero-engine
+blasting
+非线性误差
+硅片
+大齿轮
+集成框架
+轴心轨迹
+装配线
+光学薄膜
+隔振
+D-S证据理论
+quenching
+manufacturing
+knowledge base
+仿真模型
+计算机图形学
+传递函数
+生产线
+内径
+gyroscope
+动应力
+PWM控制
+ethernet
+多代理系统
+magnetic fluid
+结构优化设计
+现场总线技术
+边界元法
+液压设备
+Pro/E软件
+虚拟试验
+testing machine
+parametrization
+普通机床
+片上系统
+感度
+阀片
+压力补偿
+Matlab仿真
+动态数据交换
+结合面
+SiC
+光谱仪
+振动测量
+性能曲线
+motion analysis
+相贯线
+wheeled mobile robot
+传动技术
+空分装置
+主从式
+驱动桥壳
+高速化
+Aircraft
+维修决策
+旋塞阀
+Fixture
+ride comfort
+Mass customization
+project scheduling
+Titanium alloy
+radial clearance
+multi-body system
+plasma spray
+backlash
+工程图样
+液压系统设计
+自吸泵
+array signal processing
+国防动员
+径向轴承
+数控代码
+stereo matching
+参数曲面
+mobile robots
+频谱泄漏
+MiniGUI
+导弹防御
+RTI
+fairing
+偏载
+球墨铸铁
+分子动力学
+知识管理
+超高速加工
+自动装填
+无人驾驶作战飞行器
+railway bearing
+工程机械配套件行业
+顺序脱模
+雷尼绍公司
+坦克炮控系统
+wheel dressing
+Detonation velocity
+CNC grinding
+固冲发动机
+负变位
+分度头主轴
+类型综合
+齿轮制造业
+磨削质量
+毫秒延期电雷管
+砂轮修整工具
+锯切参数
+转子冲片
+锥孔加工
+solid-state mechanics
+金属结合剂金刚石砂轮
+定心套
+卧式压铸机
+弹道跟踪
+车床卡盘
+dinitrogen pentoxide
+组合机床设计
+dry machining
+可靠性灵敏度设计
+乏油
+外圆车刀
+机枪弹
+磨除率
+中轧机
+欠驱动机器人
+门外壳
+demolishing by blasting
+CIMS network
+high speed bearing
+弓高误差
+臂架起重机
+Gear hobbing machine
+运动步枪
+Friction sensitivity
+在线电解修整（ELID）
+箱式发射
+agile fixture
+Gun propellant
+工件轴
+拖动力
+掘起力
+空地武器
+点磨削
+套螺纹
+进给箱
+钢/铜摩擦副
+熔射成形
+刀补值
+在线铁谱仪
+倒角刀具
+粘铝
+浮动机
+中口径舰炮
+Humanoid robot
+普通滚齿机
+镗孔加工
+法向侧隙
+齿圈径向跳动
+便携式光谱仪
+固结磨具
+摆动活齿减速器
+双色注射模
+多孔端面
+舰空导弹武器系统
+近似直线
+气压传动系统
+变结构制导律
+凸度设计
+卧轴矩台平面磨床
+刀具半径
+锥度心轴
+回转刀架
+潜舰导弹
+钢-钢摩擦副
+锻造液压机
+套料加工
+tool compensation
+模糊安全事件
+高副机构
+生命科学仪器
+煤矿许用
+物料搬运系统
+铝带卷
+蜗轮齿厚
+内滚道
+射击门
+insert block
+CASTEX
+detection fusion
+硬质合金插齿刀
+Motorized spindle
+柔性冗余度机器人
+wheeled vehicle
+anti-torpedo torpedo(ATT)
+集装箱叉车
+冲击引爆
+压料板
+成形刀
+薄片零件
+fuze design
+百年发展史
+鸡心夹头
+航天轴承
+红外线检验
+PCBN tools
+防空压制
+铝箔工业
+inductive setting
+机床热变形
+坦克武器
+水浸探伤
+底部排气
+aluminium foil mill
+发射箱
+Source location
+Pneumatics
+hybrid spread spectrum
+缺陷高度
+拉弯机
+平面铣削
+离合器轴承
+Model reconstruction
+加工表面粗糙度
+产品开发
+曲线拟合
+converter
+内应力
+小波包分析
+目标检测
+中央空调
+critical speed
+casting
+Stiffness
+air compressor
+嵌入式技术
+电参数
+multi-sensor
+information model
+DDE
+Rigidity
+Dynamic characteristics
+高温合金
+设备管理工作
+焊接结构
+cutter
+adaptive filtering
+random vibration
+digital filter
+MPI
+燃烧室
+动力特性
+控制图
+蠕变
+疲劳断裂
+力矩
+驱动电路
+污染控制
+平面度误差
+参数化模型
+热量表
+PVD
+连杆曲线
+serial interface
+轮式移动机器人
+integrated navigation system
+machining accuracy
+碳氮共渗
+电子装备
+卸船机
+Concurrent Engineering
+等离子弧
+刀具几何参数
+激光表面处理
+亚温淬火
+ADAMS软件
+green manufacture
+聚氨酯橡胶
+EKF
+联轴节
+Single Chip Microcomputer
+电液控制系统
+铸钢
+新概念武器
+杂波
+失效
+RBF神经网络
+金属网栅
+膛线
+impulsive loading
+爬波
+舰艇建造
+回转马达
+commercial explosive
+高副
+spherical gear
+手机外壳
+回转顶尖
+立靶密集度
+电磁齿轮
+Job shop scheduling
+end milling cutter
+操作算子
+战斗识别
+Turbine disk
+H型钢轧机
+regrinding
+fluid lubrication
+封闭式差动轮系
+循环功率流
+建筑机械化
+超硬磨料砂轮
+战斗恢复力
+闭式油路
+power-shift steering transmission
+转管机枪
+电液比例方向阀
+膨胀波火炮
+非圆链轮
+串并联机构
+NC grinding
+铁基胎体
+精校机
+起重机吊臂
+united simulation
+氢压机
+金属管浮子流量计
+船用泵
+ceramic cutter
+on-machine measurement
+needle roller bearing
+一次装夹
+微孔加工
+动态接触
+焊接机壳
+Stealth technique
+拟实制造
+选择性激光熔化
+履带式液压挖掘机
+混联数控机床
+自导水雷
+弹道系数
+产品配置设计
+铁路救援起重机
+刀具预调
+involutes
+防区外武器
+国际模展
+推出机构
+electro-hydraulic proportional valve
+Reliability sensitivity
+spindle bearing
+Mechanism synthesis
+open architecture controller
+primary explosive
+INTERKAMA
+双模导引头
+匹兹堡会议
+三维CAD模型
+Nonel tube
+寻的导弹
+淬硬轴承钢
+装备信息
+对旋式轴流通风机
+networked manufacture
+indirect extrusion
+刀轴矢量
+薄壁工件
+卡盘扳手
+porthole die
+PRODAVE
+理论正确尺寸
+proportional guidance
+US Navy
+刃磨方法
+新型刀具
+凯恩方程
+偏轨箱形梁
+内排屑
+弯曲成形模
+吊管机
+型腔模具
+形封闭
+milling parameter
+限位块
+压铸模设计
+圆板牙
+猎雷舰
+液压缸活塞
+分布式协同设计
+铝合金厚板
+进口工程机械
+弹炮结合系统
+表面变质层
+micro-forming
+自动分度
+弹道修正引信
+Cruise Missile
+加拿大铝业公司
+压下装置
+啮合性能
+混粉工作液
+Surface to air missile
+hybrid machine tool
+串联液压缸
+低特征信号
+蝶板
+Automatic assembly
+火箭冲压发动机
+滚切式双边剪
+量仪
+ADAMS/View
+箱形主梁
+弹性套
+编队控制
+surface to air missile
+金刚石车削
+Conceptual Design
+液压工业
+药柱
+协同软件
+反鱼雷
+闭式回路
+氢气压缩机
+切削振动
+strapdown inertial navigation system(SINS)
+珩磨加工
+反应堆压力容器
+混合润滑
+Mechanical system
+布撒器
+Spiral bevel gear
+gear hob
+混凝土搅拌车
+数控滚齿机
+定量反馈理论
+异地协同设计
+被动雷达导引头
+模块化机器人
+inertial platform
+合金刀具
+straightening machine
+dry sliding
+冲压零件
+双向液压锁
+运动副间隙
+vehicle frame
+流动平衡
+主运动
+Al-Mg-Si alloy
+line clipping
+卷圆
+导弹射程
+滚压头
+气体发生剂
+三元叶轮
+被动悬架
+正交切削
+对空防御
+Reconfiguration
+piezoelectric bimorph
+combat simulation
+测量和控制
+缺陷深度
+啮合线
+multi-robot
+Phased array
+斜轧
+装备维修保障
+prosthetic hand
+gating system
+Gyroscope
+Dynamic Characteristics
+airborne radar
+physicochemistry
+Injection mold
+工艺突破口
+JDAM
+环境建模
+aluminum profile
+自动离合器
+地下爆炸
+实时以太网
+仪器驱动程序
+worm gear
+adiabatic shear
+surface-to-air missile
+数控车
+emulsion explosives
+雷达截面积
+压铸模具
+静液挤压
+numerical control programming
+直线逼近
+现场总线基金会
+Post-processing
+rocket motor
+产品数据模型
+传感器管理
+仿形车床
+拉矫机
+对齿轮
+齐次坐标变换
+装备体系
+箔条干扰
+ISAR
+水下发射
+机电液一体化
+单脉冲雷达
+design for assembly
+半固态成形
+军事交通
+plastic part
+plasma ignition
+拆卸序列
+几何角度
+大螺距
+光纤制导导弹
+摩擦学行为
+速率陀螺
+军工行业
+CAXA实体设计
+等径角挤压
+感度试验
+压装机
+Collision detection
+多基地雷达
+多色集合理论
+智能雷
+反导作战
+machine tool spindle
+微型压缩机
+IMAN
+铸造机
+micro-cutting
+现代分析仪器
+模锻锤
+供弹
+五轴数控加工
+micro hole
+金刚石磨粒
+数字化装配
+孔零件
+圆弧拟合
+尺寸约束
+柔性作业车间调度
+unbalanced magnetron sputtering
+分布式制造
+地空导弹系统
+在役检查
+产品基因
+换挡品质
+线电极
+脂鲤
+超精密加工技术
+坦克底盘
+多管火箭
+液压系统原理
+极压抗磨添加剂
+机器人仿真
+ATOS
+气量调节
+机器人手爪
+位置伺服
+目标指示
+five-bar mechanism
+locomotion mechanism
+插铣
+反向间隙
+plastic profile
+微小机器人
+grinding parameter
+可转位铣刀
+C-Bézier
+焊缝超声波探伤
+Ballistic missile
+高精度加工
+铣削用量
+蓄电池叉车
+cast-rolling
+propellants
+cathode design
+地磁匹配
+微夹钳
+全矢谱
+平旋盘
+冷轧生产线
+天幕靶
+标准椭圆封头
+低截获概率
+微调机构
+压力容器标准
+欠驱动系统
+Springback
+普及型数控机床
+舰船防护
+软爪
+functional surface
+传热
+阀门行业
+case based design
+测试数据压缩
+摆线针轮行星传动
+Large radio telescope
+切屑形成
+突防技术
+创成式CAPP
+炮尾
+机动发射
+临界起爆能
+弹道特性
+预加负荷
+升程限制器
+dimension driven
+敏捷制造单元
+球面滚子轴承
+抗磨机理
+机床控制
+产品配置管理
+板波
+柔性成形
+导重法
+terminal guidance radar
+困油
+轮式战车
+manganin gauge
+product information model
+hit accuracy
+轮胎式起重机
+underwater weapon
+定位平台
+锥面砂轮
+mould cavity
+蜗轮加工
+被动导引头
+阶梯孔
+齿轮精加工
+声引信
+Hydraulic servo system
+精镗
+金刚笔
+管内移动机器人
+炮口速度
+设备润滑管理
+警用武器
+性能图谱
+飞机结构件
+导弹测试
+复合模结构
+assembly feature
+最大起重量
+推力偏心
+圆柱分度凸轮
+快速加工
+经济型数控机床
+cutting database
+轴承滚道
+磁性磨粒
+Step Motor
+冲模结构
+Torque converter
+Stribeck曲线
+antiwear ability
+无润滑压缩机
+红外成像导引头
+大口径火炮
+阀杆螺母
+Sheet metal
+“密集阵”
+局部法
+APFSDS
+热处理硬度
+Parameterized
+液压卡盘
+剪切模
+接触精度
+卷簧机
+超精密车削
+electric spindle
+先导控制
+变速比
+热误差补偿
+助卷辊
+野战防空
+弹药技术
+无烟推进剂
+分屑槽
+震源药柱
+柔性编码
+最小偏差法
+钝感炸药
+Involute
+die forging
+flyer
+wall-climbing robot
+hitting probability
+真空发生器
+spring back
+near space
+可靠性强化试验
+机床数控系统
+红外对抗
+minimally invasive surgery
+加工策略
+项目调度
+数字样机
+换档
+覆盖件模具
+STEP标准
+刀具库
+Hydraulic cylinder
+HSK
+平行度误差
+调速型液力偶合器
+常林股份有限公司
+control architecture
+万能铣床
+高能炸药
+sliding wear
+参数化图库
+星轮
+静环
+导弹战斗部
+气流脉动
+network centric warfare
+半导体桥
+形状和位置公差
+Doppler frequency
+三爪卡盘
+螺旋压力机
+HPHT
+动态校准
+斗杆
+多用途战斗机
+机内测试
+机械工艺
+LabSQL
+hydrostatic transmission
+磨削热
+城市作战
+推力矢量
+机械制造工艺
+铝熔体
+dynamics
+焊接质量
+性能评估
+PLC控制系统
+tracking
+变频调速器
+夹杂物
+accuracy analysis
+测试仪器
+MRP
+实体模型
+几何造型
+制冷剂
+密封材料
+检测装置
+DMA
+人脸识别
+统一建模语言
+Secondary development
+模糊函数
+surface modeling
+发射系统
+finishing
+原子吸收光谱仪
+压机
+单总线
+运动估计
+雷达散射截面
+crank-rocker mechanism
+纳米测量
+资格鉴定
+柴油机油
+最小实体要求
+CAD建模
+辅具
+辊套
+rapid manufacturing
+兵器工业集团公司
+履带推土机
+岩石爆破
+磁力联轴器
+fretting fatigue
+laser propulsion
+混响室
+混合离散变量
+油底壳
+陀螺漂移
+作战环境
+大型工件
+直线导轨
+gas bearing
+摩擦磨损特性
+爆热
+非线性油膜力
+装配规划
+流体动力润滑
+计算机辅助工艺过程设计
+最小条件
+portal crane
+摩擦学研究
+壁厚差
+锥螺纹
+多级泵
+metal matrix composites
+工业自动化仪表
+电信息
+结构件
+包络
+变结构
+视景仿真
+induction motor
+特种设备
+USB接口
+制冷
+计数器
+集成化
+knowledge representation
+explosion
+Monte Carlo method
+testing system
+composites
+流固耦合
+最小二乘支持向量机
+弹塑性有限元
+薄壁管
+displacement sensor
+液压站
+焊接残余应力
+UHMWPE
+误差评定
+非完整约束
+控制技术
+Visual Basic
+密封装置
+Bayes方法
+气穴
+相关标准
+汽油机
+harmonic
+EDA
+finite element model
+damping
+BP网络
+simulation analysis
+控制软件
+on-line monitoring
+可编程逻辑器件
+innovative design
+simulator
+零件设计
+刚度分析
+行星架
+电力参数
+eddy current sensor
+fractional Fourier transform
+变形抗力
+SiCp/Al复合材料
+锥套
+高过载
+supportability
+磁路设计
+负载敏感
+电子式互感器
+血泵
+故障仿真
+fault simulation
+人机协同
+铁谱
+锻压
+passive localization
+日本海上自卫队
+液压伺服控制
+instantaneous reactive power theory
+回转机械
+disturbance observer
+situation assessment
+液压泵站
+轨迹优化
+载荷分配
+多路阀
+Optical Fiber
+自定位
+无人直升机
+摩擦热
+凝固组织
+航天产品
+台湾海军
+relief valve
+雕刻机
+定位孔
+磁粉离合器
+hardware-in-the-loop simulation
+调速阀
+非金属夹杂物
+履带板
+试验方法
+降噪
+hardness
+带钢
+OFDM
+车体
+FIFO
+毛刺
+纺织机械
+中厚板
+重大技术装备
+扭转刚度
+workflow management system
+piezoelectric actuator
+grain refinement
+austenitic stainless steel
+筑路机械
+限位开关
+CAN-bus
+凸轮曲线
+履带
+换热管
+南京理工大学
+冷冲模
+蓄电池
+design method
+频谱
+检定
+航展
+自动标注
+烟火剂
+非接触检测
+切削过程
+存储测试
+异种钢焊接
+协同产品商务
+无人作战飞机
+摩擦离合器
+爬行现象
+ESM
+现场仪表
+珩磨机
+CMOS image sensor
+hypersonic
+Welded joint
+电控单元
+双相钢
+自卸汽车
+轴承箱
+堆焊层
+从动件
+作战平台
+海杂波
+真空吸附
+structural optimization
+无损检测技术
+射频识别
+Wavelet analysis
+simulated annealing
+可靠性评估
+红外探测器
+无功功率
+ultrasonic testing
+IPC
+profile
+过载
+汽车空调
+发射机
+铸造工艺
+navigation
+acoustic emission
+疲劳损伤
+拆卸
+Data acquisition
+滚压
+光学测量
+自动化仪表
+制造业企业
+试验系统
+汽车制造业
+process model
+real-time control
+监测系统
+热分析
+退火工艺
+激光跟踪仪
+零件加工
+绿色度
+铜基复合材料
+motion compensation
+computer animation
+产品图样
+冲裁力
+微泵
+在线编程
+数控化
+增程
+产品生命周期管理
+油膜振荡
+Adams
+Verilog
+卡特彼勒公司
+挂轮
+定位夹具
+气动弹性
+产品全生命周期
+润滑添加剂
+压缩弹簧
+制备
+极点配置
+annealing
+电气控制系统
+mesh generation
+起皱
+经纬仪
+environmental engineering
+内模控制
+多Agent
+laser welding
+串行接口
+Windows CE
+COP
+铸件
+测试技术
+空调器
+脆性材料
+conflict resolution
+螺纹联接
+superplasticity
+扭矩传感器
+friction material
+selective laser sintering
+校验仪
+远程测控
+原型系统
+task scheduling
+柔性制造
+轴封
+gear box
+板料
+active vibration control
+电镀
+振型
+技术交流会
+战术
+转动惯量
+feedback linearization
+可靠性分配
+工位
+motion estimation
+软开关
+示值误差
+NDT
+双口RAM
+力控制
+微型飞行器
+振动试验
+精密机械
+武器
+扫描探针显微镜
+振动台
+多目标
+CMOS
+stress concentration
+图像融合
+半自动
+ASP.NET
+执行机构
+误差修正
+分光光度法
+共振解调
+腐蚀磨损
+Milling
+特征设计
+张紧装置
+micro-arc oxidation
+中径
+柔性石墨
+攻击机
+强韧化
+商用车
+弹性动力学
+movement simulation
+Die
+电解着色
+导爆索
+NiosⅡ
+tolerance design
+Dynamic characteristic
+Smith预估器
+灰铸铁
+Ergonomics
+规则推理
+film thickness
+数字示波器
+blast wave
+径向跳动
+阀芯
+机械制图
+燃气轮机
+singularity
+驾驶室
+working principle
+采煤机
+压力变送器
+可用度
+菜籽油
+software architecture
+template matching
+平行度
+design process
+超声波流量计
+asynchronous motor
+速度测量
+参数估计
+零部件
+烧结
+寿命
+改进型
+机械
+螺杆
+奇异性
+影响系数
+冲击试验
+face recognition
+Web service
+degree of freedom
+球磨机
+剩余寿命
+DC motor
+anti-interference
+image recognition
+mode analysis
+振动筛
+低噪声
+VisualC++
+弹簧
+pressure vessels
+胶合
+Torque
+雷达系统
+非均匀有理B样条
+绞车
+压电传感器
+建设周期
+交流采样
+数控化改造
+汽轮机叶片
+kinematic analysis
+image restoration
+点焊
+超宽带
+motorcycle
+套筒
+speed control
+气相色谱仪
+径向基函数
+电磁感应
+操纵机构
+设计定型
+离散事件系统
+MCM
+液相烧结
+频率估计
+内泄漏
+embedded technology
+ActiveX Automation
+现代制造
+凸轮廓线
+涡轮盘
+化学复合镀
+fault prediction
+arc spraying
+制药机械
+傅里叶变换
+铸造
+VBA
+变压器
+强度校核
+blade
+过程模型
+底盘
+pump
+H∞控制
+运算放大器
+technological process
+MAS
+遥测
+本体
+摩擦力
+artificial intelligence
+旋量理论
+板带
+计算机生成兵力
+轮胎模具
+ADAMS仿真
+热加工工艺
+动目标检测
+bullet
+裂纹转子
+涡旋式压缩机
+武器装备体系
+极压添加剂
+时差定位
+force control
+异常声
+齿轮制造
+无人攻击机
+原子力显微镜(AFM)
+变速泵
+定位销孔
+GPS/INS
+机械优化设计
+自动换刀
+product lifecycle management
+景象匹配
+diamond thin film
+干扰技术
+attitude measurement
+strapdown inertial navigation system
+人工时效
+装配体
+加工原理
+断屑
+坦克炮塔
+rotary machinery
+TVD
+五坐标
+缸套
+隔振器
+可靠性工程
+MATLAB/SIMULINK
+interoperability
+MCGS
+SDAI
+强力旋压
+便携式地空导弹
+self-lubricating
+硝铵炸药
+激光成形
+MIMU
+支承座
+ECCM
+烟火技术
+aspheric surface
+流体工程
+约束求解
+活齿
+锯切力
+疲劳寿命估算
+移动副
+纳米复相陶瓷
+现代制造系统
+数控装备
+加工轨迹
+专用量具
+无键联接
+双工位
+SD card
+RTX
+装配机器人
+电工仪器仪表
+弯曲工艺
+设计局
+contact fatigue
+水基切削液
+发烟剂
+滚动接触
+模流分析
+位置逆解
+混凝土靶
+Agile manufacturing
+diamond wheel
+碟式分离机
+武器控制系统
+斗齿
+变形铝合金
+表面检测
+图形编程
+微器件
+torque sensor
+切削深度
+旋压机
+planetary gear train
+空中目标
+拦截器
+生物摩擦学
+micropump
+thermal explosion
+喷射沉积
+CFAR
+回转台
+铸锭
+环境应力筛选
+细节层次
+乘员
+立体停车库
+线性尺寸
+参数化造型
+通信对抗
+假目标
+Diesel Engine
+模芯
+ECAP
+金刚石复合片
+前角
+冲击动力学
+回转误差
+铝合金铸件
+Virtual enterprise
+level of detail
+computer numerical control
+heat pump water heater
+动力舱
+调制识别
+超精
+力觉临场感
+IMM
+蜗轮副
+指挥信息系统
+断裂分析
+synchrotron radiation
+冲蚀磨损
+可编程控制器(PLC)
+厚壁圆筒
+自卸车
+nonlinear control
+仿真平台
+monitoring system
+load
+继电器
+换能器
+圆弧
+频率跟踪
+容错控制
+programmable controller
+数字化设计
+参考模型
+preventive maintenance
+激光测量
+基准要素
+转速图
+汽车轮毂轴承
+轨道炮
+tactile sensor
+纯水液压
+秒针
+气体静压轴承
+防空导弹武器系统
+stray light
+医药包装
+切削功率
+天波超视距雷达
+machining efficiency
+生产合同
+pipeline robot
+毁伤效果
+多路换向阀
+micro-robot
+爆炸抛撒
+倒角机
+热作模具钢
+搜索雷达
+轴端密封
+制导导弹
+LFMCW
+motion law
+传动设备
+微位移驱动器
+cutting mechanism
+中心钻
+装配误差
+对比试块
+窗孔
+container crane
+管螺纹
+hoisting mechanism
+环件轧制
+Storage life
+烟幕干扰
+Ultrasonic imaging
+断裂失效分析
+啮合特性
+爆轰产物
+cavity expansion theory
+配流副
+武器研制
+微光机电系统
+高速齿轮
+射表
+anti-radiation missile
+白层
+油气悬挂
+技术与工艺
+三维参数化设计
+装船机
+sculptured surface
+盾构掘进机
+electronic countermeasure
+欺骗干扰
+故障字典
+raceway
+degree reduction
+参考文献著录规则
+NC Programming
+集成
+光电直读光谱仪
+virtual test
+direction finding
+bulging
+巡逻艇
+magnetometer
+机床加工
+tolerance analysis
+隧道掘进机
+导弹技术
+金属切削刀具
+绿色维修
+驱动力矩
+virtual prototyping technology
+job-shop scheduling
+指挥自动化系统
+cutting fluid
+铁磁性材料
+assembly design
+压电陶瓷驱动器
+McBSP
+磨块
+设计知识
+斗轮堆取料机
+转子-轴承系统
+战场环境
+自动变速箱
+ferrography
+精密机床
+压力反馈
+基圆半径
+范成法
+线性矩阵不等式
+威布尔分布
+智能体
+生存能力
+光纤光栅
+Error
+黑火药
+止推轴承
+模锻
+轴向间隙
+滤油器
+断口分析
+隐身材料
+aeroengine
+case based reasoning
+双目视觉
+极限偏差
+模数转换器
+壁厚
+Engine
+Jacobian matrix
+破碎机
+optics
+印刷电路板
+工程制图
+工艺措施
+surface treatment
+有限元计算
+enterprise resource planning
+弹性元件
+司令部
+plastic deformation
+化工设备
+Fuzzy-PID
+转向架
+变质处理
+机械企业
+金属零件
+servo
+interpolation algorithm
+路面铣刨机
+中国焊接博览会
+业务构件
+electro-brush plating
+Secondary regulation
+凸轮轴磨床
+dexterous hand
+空腔膨胀理论
+plastic injection mould
+热油泵
+CE/SE method
+heavy machinery
+Al-Mg-Si合金
+近程武器系统
+装配作业
+可装配性
+微动平台
+铆接机
+coke drum
+open NC system
+高机动性
+stewart platform
+分散网络化制造
+大车运行机构
+standard parts library
+管内机器人
+柔性制造系统（FMS）
+railgun
+锻模设计
+information process technology
+小刀架
+蜗形凸轮
+偏心工件
+新合金
+CAAD
+cold rolling mill
+固定循环
+潜艇作战
+diamond bit
+UG/Open API
+磁性研磨
+图样画法
+多功能传感器
+点火延迟
+比例溢流阀
+铰削
+组合模
+矿用挖掘机
+乳化炸药生产线
+轴承零件
+色谱工作站
+小孔节流
+tool management
+monochromator
+Wheel loader
+刀具干涉
+小型装载机
+螺纹切削
+friction and wear performance
+non-photorealistic rendering
+空间力量
+拆卸工具
+弹道参数
+铣床工作台
+PUMA
+Pressure Sensor
+加工范围
+instrument and meter
+truck crane
+EMM
+陀螺稳定平台
+parting
+压力补偿器
+高深宽比
+hobbing machine
+oblique penetration
+圆锥面
+大型齿轮
+燃气流
+launch dynamics
+高能量密度材料
+简化表示法
+切削角度
+detonation pressure
+mechanical press
+目标机动
+局部共振
+运动学反解
+床身导轨
+近红外光谱
+self-locking
+蜗轮蜗杆
+改革脱困
+活动周期
+加工用
+故障模拟
+装药结构
+中间合金
+摩擦传动
+radar cross section
+量块
+工厂自动化
+夹渣
+机器人手臂
+产品数据管理（PDM）
+dual-port RAM
+训练模拟器
+成形加工
+route planning
+DSP控制器
+孔型设计
+Radar
+数据仓库
+ERP系统
+气体传感器
+建模仿真
+半主动控制
+施工机械
+predictive control
+齿条
+约束理论
+全生命周期
+strength analysis
+Data processing
+电磁屏蔽
+Concrete
+AVR单片机
+主动控制
+模糊控制器
+铸铁
+样件
+cylinder test
+geometric constraint solving
+collaborative manufacturing
+combined machining
+装甲目标
+导波检测
+编队防空
+磨料流加工
+pneumatic muscle
+硬质合金铣刀
+双曲柄
+micro-electro-mechanical system
+残留高度
+轴孔装配
+杀伤战斗部
+坐标镗床
+CAD modeling
+电磁无损检测
+刀具刃磨
+robofish
+钻尖
+worn surface
+ATBM
+反潜鱼雷
+超声磨削
+Job Shop scheduling
+超环面传动
+Reverse design
+传动油
+内燃平衡重式叉车
+动压滑动轴承
+主炮
+经营过程重构
+NX
+码位
+space optics
+斜齿轮传动
+多指灵巧手
+动态流量
+作战试验
+维修训练
+动力传动系
+铣削头
+螺纹副
+普通磨床
+差速
+振动时效技术
+open CNC
+滑移爆轰
+多工序
+环状阀
+定心精度
+磨床主轴
+反战术弹道导弹
+静液驱动
+齿升量
+hydrogenation reactor
+ADAMS/CAR
+珩磨工艺
+预载荷
+反向器
+面向信号
+电火花成形机床
+主离合器
+空对地导弹
+火工药剂
+Fatigue life prediction
+移动式起重机
+激光导引头
+battlefield damage assessment
+空心装药
+传爆药柱
+双主轴
+抢修性
+Helical gear
+舰对舰导弹
+连杆颈
+高强铝合金
+multiple mobile robots
+同轴度公差
+全闭环
+tool radius compensation
+射速
+模拟-数字转换器
+飞剪机
+金属射流
+redundant manipulator
+pressure equipment
+安全联轴器
+nitramine propellant
+回收设计
+摆线泵
+高层次综合
+离散制造企业
+攻击区
+递纸机构
+冲压力
+工艺信息管理
+mechanical sensitivity
+少齿差行星传动
+影响系数矩阵
+self-propelled artillery
+cloud data
+落点精度
+轻型鱼雷
+均载机构
+攻丝机
+齿轮行业
+engineering ceramic
+探伤机
+electronic technique
+液压机械
+双联齿轮
+enterprise integration
+dynamic balancing
+electro-hydraulic servo system
+热连轧
+动压轴承
+复合钢板
+voltage transformer
+磁通门
+钝感
+abrasive
+万能工具显微镜
+低压铸造
+信号完整性
+精确建模
+安装角
+Piston
+冲突检测
+加工速度
+界面裂纹
+多传感器数据融合
+MUSIC
+飞行模拟器
+坦克部队
+机械加工工艺
+飞行甲板
+spur gear
+海军基地
+dynamic analysis
+失效模式
+电气系统
+填料
+动态设计
+电子技术
+粒子群算法
+能耗
+插值
+双泵液压系统
+区域集群制造系统
+磁路设计方法
+passive homing
+一般化运动链
+火箭上浮水雷
+Micro-electro-mechanical system（MEMS）
+NC车床
+电动单梁悬挂起重机
+fretting wear behavior
+走丝系统
+智能材料和装置
+Crack depth
+镗刀头
+样件法
+Delay precision
+微弹流
+PDFF控制
+micro cutting
+可胀心轴
+Leakage testing
+LOVA propellant
+蚀除机理
+精密进给
+smart ammunition
+固定夹具
+吉特迈集团
+very large scale integration(VLSI)
+程控功率源
+Cimatronit
+TOFD technique
+柔性导爆索
+UG(Unigraphics)
+Digital manufacturing
+切口模
+Main transmission system
+auto body metal sheet
+Open CNC System
+guide-weight method
+纳米操作
+行星蜗杆传动
+维尔贝莱特
+引战配合效率
+curling die
+油石条
+micro-scale abrasive wear
+roughness set
+Powermill
+气液增力
+橡胶注射模
+手表业
+Lamb波检测
+architecture of computer system
+methodology for systematic engineering
+沟曲率
+舌比
+ELID Grinding
+Innovation Design
+快速分模
+铝-塑复合管
+电镀CBN砂轮
+斜顶块
+自组织设计
+磨粒突出高度
+交变漏磁检测
+硬齿面加工
+Naval warfare
+两栖装甲装备
+齿廓误差
+滚珠丝杠进给系统
+Parallel Mechanism
+粗车刀
+跳屑
+金刚石修整滚轮
+形状谱
+调平补偿
+automatic controlling technique
+NC codes
+挤压刀
+复合钻
+machinofacture technique and equipment
+超精密加工机床
+灭雷炸弹
+轮廓工作段
+approval test
+linear rolling guide
+双向推力角接触球轴承
+荧光磁粉检测
+内圆磨具
+虚拟磨削
+导正钉
+Journal Bearing
+polycrystalline diamond （PCD）
+edge gate
+forward solution of position
+试验弹
+Modular Fixture
+Indexing cam mechanism
+直径公差
+Acoustic emission inspection
+EJMA标准
+低温冷风切削
+立式自吸泵
+equipment support resources
+刚玉砂轮
+直升机反水雷
+热动力鱼雷
+组合型线
+无杆活塞
+电液速度伺服系统
+热冲击强度
+variable structure guidance law
+磨削数据库
+Electrical discharge machining
+预算总局
+systematic assessment and reliability analysis
+fuze safety system
+止动槽
+equipment contract
+Strapdown Inertial Navigation System(SINS)
+加工模拟
+CosmosWorks
+曲线刃
+船舶物理场
+微波检验
+战斗支援
+穿地龙机器人
+磁记忆材料
+发射阀
+supercavitating torpedo
+装备合同
+turning tool
+减压式先导阀
+双轴滚弯
+无人水下航行体
+步态设计
+stable scanning
+反补偿原则
+Fuzzy strength
+三维刀具半径补偿
+刮削加工
+单粗糙峰
+CimatronE
+现代产品几何技术规范（GPS）
+山高
+优质金刚石
+large caliber gun
+智能标注
+V形密封圈
+断丝故障
+冷辗机
+Lifting power
+加工过程建模
+防松方法
+butterfly valves
+High-speed Cutting
+荧光渗透检验
+S&A
+CLPA
+function synthesis
+直列式爆炸序列
+sealing composite material
+锪刀
+光球机
+movable punch
+爆炸网络
+抛射器
+high-speed electric spindle
+bulging die
+多轴头
+HSK工具系统
+粗精加工
+注射模结构
+成形参数
+高温摩擦磨损性能
+无杆液压缸
+元件清洁度
+液压操纵箱
+双基发射药
+high speed on/off valve
+全液压汽车起重机
+现代机械制造
+精度折合
+CAPP集成
+成型压机
+现代产品几何技术规范
+GTG起爆药
+piston-compressor
+超长轴
+气动手爪
+equipment training
+LUDV
+Machining precision
+two-step parting
+钝化RDX
+Remote field eddy current testing
+Heave compensation
+花键拉刀
+spherical plain bearing
+evaluation of jamming effectiveness
+缩杆邻接矩阵
+内啮合传动
+Inertial Platform
+high-rise warehouse
+反坦克枪榴弹
+Overload Control
+Guided wave testing
+Geometrical product specification and verification（GPS）
+声扫雷具
+Vibratory compactor
+mechanical autofrettage
+Method of multiple scales
+初速或然误差
+circle rolling
+aerospace system engineering
+Cruise Missile.
+并行集成
+wheel/rail friction
+JSOW
+面铣
+液压测试
+Non-probabilistic reliability
+旋压辊
+凸、凹模间隙
+水泵轴连轴承
+Initiating explosive devices
+basket cage
+Defect recognition
+离散杆战斗部
+定距拉杆
+内表面擦伤
+Parallel mechanisms
+Manufacturing cell
+Rogowski线圈
+二手设备
+集中器
+军品
+bridge crane
+Visual LISP
+精度等级
+超磁致伸缩材料
+barrel
+气动力
+compound control
+模拟器
+API
+粒子群优化算法
+decoupling
+永磁同步电动机
+工业锅炉
+小波包变换
+调速器
+位移
+portable
+焊接缺陷
+自激振动
+失效概率
+通用化
+ADC
+manufacturing process
+喷管
+特征匹配
+MSComm控件
+原子荧光
+智能CAD
+车辆工程
+流道
+流量调节
+试验模态分析
+光学
+平面运动链
+开放式控制器
+computer-aided process planning
+起始扰动
+磁传动
+cycloid gear
+金属陶瓷刀片
+从动件运动规律
+内球面加工
+难切削材料
+gear measurement
+国产数控
+thrust vector control
+工作级别
+等离子体弧
+拆卸与或图
+齿轮机床
+AlTiC
+柔性装配
+geometric reasoning
+滚子从动件
+异形孔
+microgripper
+非致命
+跨齿数
+机器人操作器
+资源建模
+直线电机驱动
+惯性测量装置
+向心关节轴承
+assemblability
+Vehicle frame
+沉底水雷
+热流道系统
+反水雷系统
+机器人操作手
+tribological characteristic
+数字射频存储器
+行星轮架
+Virtual Design
+自主车
+多工位压力机
+定向红外对抗
+radius compensation
+端面铣刀
+HTPB推进剂
+徐州工程机械制造厂
+空气静压导轨
+螺纹环规
+轮式工程机械
+铰杆
+test data compression
+advanced manufacturing system
+定位插销
+缸孔
+cubic press
+辗环机
+无壳弹
+二冲程油
+电子对抗装备
+液压夹具
+combined guidance
+snake-like robot
+常规导弹
+挂轮比
+hydraulic circuit
+支承套
+静压气体球轴承
+主轴孔
+微驱动
+成组生产单元
+焊接金属波纹管
+铣镗床
+富燃料推进剂
+CAPPFramework
+弯辊力
+电工圆铝杆
+biotribology
+material removal mechanism
+JIMTOF
+制导规律
+变速传动轴承
+分解重构
+Solid Modeling
+飞机液压系统
+棱体成形车刀
+Tool path
+膛口装置
+油性剂
+气体润滑轴承
+弯销
+VHDL-AMS
+hole filling
+工具寿命
+单斗挖掘机
+粘度指数改进剂
+核电阀门
+Motion Control
+挤压材
+稳定土拌和机
+基础领域
+机床夹具设计
+自航水雷
+firing data
+公路工程机械
+润滑机制
+快速夹紧
+混凝土搅拌运输车
+missile system
+弦齿厚
+高速干切削
+Ekonol
+overrunning clutch
+铰链机构
+exterior trajectory
+基准刀
+秦川机床集团
+弯管模
+跳跃机器人
+外圆车削
+composite propellant
+Stress intensity factors
+电子战计划
+工件轮廓
+钢质药筒
+小口径高炮
+微三维结构
+负载传感
+刀具夹头
+全柔性机构
+工业无线网络
+装配机
+新型陶瓷刀具
+炮钢
+chip formation
+产品装配模型
+粉末冶金模具
+富气压缩机
+管模
+气液联控
+钝感弹药
+die structure design
+工业电雷管
+军工制造业
+电液比例溢流阀
+三偏心
+落地镗床
+小波神经网络
+单片机控制
+单晶硅
+耐磨性能
+PDA
+成套设备
+示波器
+涡扇发动机
+油液污染
+液压试验台
+制动盘
+展成
+镍基高温合金
+装配精度
+施耐德电气
+尺寸测量
+微传感器
+数控装置
+抓斗
+CIMS工程
+active magnetic bearing
+oil film
+月球车
+无级调速
+疲劳性能
+智能诊断
+手榴弹
+增压器
+跑偏
+快速成型技术
+质量流量计
+B/S
+红外
+螺旋叶片
+状态维修
+NURBS曲面
+翘曲
+汽车车身
+药芯焊丝
+运动链
+微弱信号
+contact pressure
+链轮
+carbon fiber
+工况
+汽车制造
+火电厂
+industrial design
+image compression
+特性曲线
+展会
+联合作战
+bolt
+重型
+screw
+分析设计
+动载荷
+force analysis
+疲劳极限
+螺旋输送机
+control valve
+离散变量
+perforation
+效能分析
+磨损量
+squeal
+multiple launch rocket system
+几何偏心
+磨损自补偿
+虚拟制造单元
+装配型架
+三针测量
+WebOLTP
+平面六杆机构
+guidance accuracy
+rolling shear
+Ultra-precision
+主轴前端
+recoil force
+MQL
+rotary vane compressor
+optimal guidance law
+Reliability optimization
+parallel manipulators
+Tool Wear
+专用数控机床
+NTM
+中锰铸钢
+压形
+鱼雷管
+斜孔加工
+极压抗磨性
+ultra-high speed grinding
+高燃速推进剂
+黄工集团
+hub bearing
+简易工装
+extrusion press
+diamond abrasive
+弹道一致性
+级进模结构
+混合扩频
+road following
+纯水液压技术
+副偏角
+微细电火花线切割加工
+潜伏浇口
+冗余度机械手
+Laser weapon
+涂层刀片
+Planetary gear
+发条盒
+飞鱼导弹
+陶瓷CBN砂轮
+杆组法
+Intensity factor
+construction vehicle
+鱼雷对抗
+多功能机床
+轮胎式
+unstructured environment
+终点弹道性能
+零件特征
+铸轧板
+班用枪族
+热变形误差
+precision progressive die
+水下弹道
+船用阀
+Micro-electro-mechanical system
+离合器式螺旋压力机
+曲轴连杆颈
+剃前滚刀
+建设机械行业
+小锥度
+最优导引律
+Missile.
+垂直发射装置
+成本建模
+协同工艺设计
+Plastic Advisor
+虚拟轴
+missile weapon
+六足步行机
+Air suspension
+里程仪
+微位移放大机构
+准干切削
+高速开关电磁阀
+动态步行
+厂拌设备
+Axiomatic design
+滚刀加工
+五轴联动机床
+普通磨料
+远场涡流检测
+破片式战斗部
+硝胺火药
+大型单件小批生产
+齿轮铣刀
+渐开螺旋面
+ELID
+electrical discharge machining(EDM)
+动能穿甲弹
+立铣加工
+self-reconfigurable
+热电偶分度表
+夹具装配
+便携式智能仪器
+超声导波检测
+multi-cutting
+再生颤振
+standard device
+UG/Open GRIP
+ARX应用程序
+海水液压传动
+muzzle brake
+concrete targets
+循环氢压缩机
+微夹持器
+班用机枪
+精确打击武器
+三维特征造型
+hard turning
+agile manufacturing cell
+非结构环境
+Guidance law
+Rapid design
+非接触式机械密封
+Linear shaped charge
+供弹机
+journal bearings
+丝杠螺母副
+CMDB推进剂
+Parameterized Design
+起重机吊钩
+分度定位
+孔洞修补
+凸轮靠模
+扁锭
+V型块
+工作台旋转
+拆卸序列规划
+hybrid driven mechanism
+六工位
+强力珩磨
+Macro program
+主轴端
+履带式底盘
+detonation.
+立辊轧机
+刀具流
+非圆加工
+逻辑加工路线
+奇异位置
+电火花放电
+Mechanical product
+mould manufacturing
+CNC processing
+internal grinder
+光纤定位单元
+刀架体
+explosive initiator
+diamond cutting tool
+抽芯结构
+多机器人协调
+型号标准化
+数控轧辊磨床
+立铣头
+muzzle flow field
+切头飞剪
+智能CAD系统
+下运带式输送机
+轴定位
+需求生成
+combination die
+测头半径补偿
+Hypoid gear
+Guided waves
+高温自润滑
+门式启闭机
+特征转换
+automatic gun
+Magnetic flux leakage inspection
+slab caster
+plate mill
+切削模型
+小直径深孔
+drawing forming
+Si-Al alloy
+work roll
+坦克抢救车
+压弯模
+多翼离心风机
+车辆装备保障
+底片黑度
+三维槽型
+三环传动
+命中问题
+船舶消磁
+当量可靠度
+旋转喷射泵
+inverse engineering
+multi-blade centrifugal fan
+误差辨识
+adaptive subdivision
+双壁单影
+precision die forging
+标准导弹
+暗室处理
+combustion
+EMC
+模式识别
+Sensitivity
+DSC
+标准化技术
+电梯
+Fuzzy Control
+驱动电源
+software radio
+fuzzy PID control
+燃烧控制
+零件图
+Structural optimization
+automatic transmission
+working rate
+multi-robot cooperation
+固定挤压垫
+工业射线胶片
+金刚石串珠绳
+装载机后车架
+Mechanical transmission
+电镀金刚石砂轮
+非导电超硬材料
+磁力吸盘
+直齿
+旋叶压滤机
+disassembly AND/OR graph
+光学曲线磨床
+cutting die
+回转压缩机
+冷加工率
+万能液压机
+成品退火
+减摩抗磨性能
+动力卡盘
+forced demolding
+gun bore
+铝箔坯料
+高炮武器系统
+修光刃
+高压大流量
+蜗轮蜗杆油
+行走泵
+球面车削
+战略投送
+TEAMS
+知识化制造单元
+force amplifier
+活动顶尖
+滚转
+自动上下料
+CFD解析
+shock wave ignition
+machining strategy
+震动力矩
+存储测试系统
+Cutting parameters
+功能安全评估
+电液力控制系统
+Cam Mechanism
+推程运动角
+blank holder
+computational flight mechanics
+Humidity Sensor
+轴-轴承系统
+水液压技术
+内弧面
+侧向抽芯机构
+parking equipment
+通用可调夹具
+explosive reactive armor
+fuzes
+混合链
+boron-based fuel-rich solid propellant
+作战原则
+灭雷武器
+缺陷尺寸
+High-speed Machining
+挂轮传动比
+motion editing
+整体传递矩阵法
+观瞄系统
+金刚石车刀
+core-pulling structure
+孔端面
+design process planning
+计算机辅助装配工艺设计
+Finite Element Analysis(FEA)
+flat gate valve
+调整套
+conventional missile
+砂轮速度
+直线加减速
+Flexible Manufacturing System
+燃速调节剂
+UG/CAM
+flyer velocity
+Rotor-bearing system
+metal jet
+Machine tools
+桥箔
+末端防御
+爆炸装药
+制造联盟资源计划
+掠海飞行
+爆炸驱动
+flying saucer
+滚切刀具
+自调结构
+镗床加工
+烧蚀磨损
+carbide tool
+design decision
+爆轰波阵面
+负间隙
+液压软管总成
+空对面导弹
+大区域防空
+通用传感器
+Micro-EDM
+J-Link
+偏心起爆
+山东博泵科技股份有限公司
+demolding mechanism
+Damage tolerance
+磁头/磁盘
+薄片砂轮
+卵形齿轮
+滚边
+现代机床
+电子对抗设备
+丝锥夹头
+extrusion tooling
+轻装甲
+复铰
+rolling missile
+汽车链
+正反解
+Dry cutting
+maintenance and support
+弹性阻尼
+压力伺服阀
+铝箔毛料
+Manufacturing grid
+需求论证
+锯齿形螺纹
+弹性动力学分析
+武器制造公司
+自导作用距离
+轮轨摩擦
+传爆管
+含硼富燃料推进剂
+Intermittent mechanism
+等效靶
+反弹道导弹
+精密丝杠
+强力砂带磨削
+air defense group
+电液振动台
+射击准确度
+微进给平台
+超声振动磨削
+AA gun
+指数积公式
+展成运动
+FPGA/SOPC
+侵彻体
+NURBS插补
+旋转机组
+virtual manufacturing cell
+DELCAM
+电传动装置
+幂指数法
+自动装药机
+终点弹道学
+power sliding feed table
+新齿形
+product data
+近战武器
+negative clearance
+差动缸
+电液负载仿真台
+battlefield electromagnetic environment
+诱导主曲率
+弓锯床
+类金刚石碳薄膜
+卸荷溢流阀
+电熔爆机床
+Parallel Machine Tool
+Chip Microprocessor
+Interior ballistic
+中间罐车
+轿车轮毂轴承
+大空域变轨弹道
+磨料砂轮
+AI-ESTATE
+Ball screw
+万能磨床
+底排弹
+碗形砂轮
+combat unit
+abrasion ratio
+frame sawing
+flying vehicle
+螺旋沟槽
+PCD cutter
+成组单元
+BTT控制
+semi-infinite target
+径向柱塞变量泵
+等效杠杆法
+电解磁力研磨
+建制式反水雷
+Kinematic chain
+斜导柱抽芯机构
+单机架双卷取热轧机
+走刀步长
+防暴武器
+insulating ceramics
+圆柱插补
+Parallel kinematic machine
+推力滚子轴承
+grinding temperature field
+反坦克火箭弹
+ejecting mechanism
+伸缩臂架
+齐次变换矩阵
+基本运动链
+单质炸药
+difficult-to-cut material
+杠杆千分表
+多刀车床
+齿轴
+构型综合
+延伸渐开线
+电解加工机床
+shaft-bearing system
+reconfigurable manufacturing systems
+六氮杂异伍兹烷
+ultrasonic lapping
+企业产品标准
+AC servo system
+CCM
+行业信息
+Nozzle
+研磨机
+压力特性
+摩擦焊
+labview
+渗硼
+应力集中系数
+同步带
+linkage mechanism
+CMOS图像传感器
+伺服控制器
+O形圈
+访问控制
+空军
+软件设计
+电压互感器
+超压
+知识表达
+电荷耦合器件
+时延
+仿真研究
+转轮
+电沉积
+耐磨
+设计制造
+computer application
+自动控制
+fatigue
+专家系统
+非接触式
+可编程
+harmonic analysis
+分辨力
+磁路
+轴流风机
+承载能力
+empirical mode decomposition
+扭转振动
+电流变液
+cavitation
+设计过程
+减压阀
+传递矩阵
+网络通信
+贝叶斯网络
+光电传感器
+抗拉强度
+system simulation
+强度计算
+注射机
+登陆艇
+异型材
+CUDA
+parametric drawing
+润滑管理
+全球制造
+合金成分
+烟气轮机
+红外隐身
+拖链
+金属板材
+轧制工艺
+容栅传感器
+尾翼
+放电加工
+自动定心
+武器装备发展
+metal structure
+家用中央空调
+surface texture
+Pneumatic
+matched filter
+机器鱼
+水力性能
+轮轨
+装备工业
+水下目标
+standard parts
+continuously variable transmission
+厚壁管
+ruled surface
+distributed interactive simulation
+self-calibration
+密封机理
+防弹背心
+国军标
+giant magnetostrictive actuator
+电磁散射
+aerodynamic performance
+炮管
+adaptive optics
+B-spline curve
+SIFT
+滤芯
+线结构光
+战略轰炸机
+棕刚玉
+控制冷却
+空分
+coefficient of friction
+KQML
+冲裁件
+开孔补强
+研制计划
+自动分选
+柔性夹具
+加减速
+人字齿轮
+态势估计
+TIG
+变量化设计
+prototype system
+complex surface
+淬火变形
+脉冲多普勒
+抗磨液压油
+μC/OSⅡ
+lubrication system
+渗透探伤
+金刚石磨具
+autonomous underwater vehicle
+内高压成形
+CAPP system
+空气轴承
+hydroforming
+重大装备
+Fatigue crack
+injection machine
+薄板坯
+混合驱动
+耐撞性
+胀接
+radome
+阻抗控制
+dynamics modeling
+交互式多模型
+迟滞特性
+TDOA
+automatic assembly
+TiN coating
+加工表面
+恒虚警
+地地导弹
+公法线
+formation control
+操作机
+支承环
+柔性制造单元
+lifting mechanism
+dynamic recrystallization
+重型机床
+电感测微仪
+贴片机
+角度测量
+dynamics analysis
+汽轮发电机组
+数字温度传感器
+石墨炉
+互感器
+数字电位器
+军事应用
+喷油泵
+小孔
+encoder
+位置检测
+无损检验
+冷却速度
+定子
+miniaturization
+实时数据库
+electromagnetic environment
+抽油杆
+state monitoring
+结构陶瓷
+过程集成
+型钢
+微弱信号检测
+dry friction
+production planning
+武装部队
+弹塑性变形
+油温过高
+随机载荷
+hydraulic transmission
+object model
+telemetry
+模糊评价
+rigidity
+产品创新
+轴承盖
+疲劳裂纹扩展速率
+coordinate measuring machine
+顺序阀
+镦粗
+成型模具
+复合镀
+斜齿圆柱齿轮
+齿轮精度
+误差测量
+冷轧带钢
+尺寸误差
+外圆
+管道振动
+发射导弹
+AC servo
+binocular vision
+军事工业
+multisensor
+攻丝
+surface ship
+爆破震动
+labyrinth seal
+可编程调节器
+球头
+Modal Analysis
+Clutch
+GPIB总线
+示教
+direct drive
+sliding friction
+柴油机曲轴
+一般公差
+die steel
+反解
+旋量
+惯性参数
+嵌件
+B-spline surface
+六足机器人
+手拉葫芦
+铝加工厂
+箱形梁
+塑料模具钢
+螺纹中径
+position detection
+再生铝
+交互式电子技术手册
+滑动水口
+断续切削
+精锻
+spray deposition
+镜面加工
+纳米摩擦学
+反隐身
+橡胶轴承
+凸台
+vane pump
+electric energy measurement
+气动测量
+制造装备
+知识建模
+多学科优化
+目标运动分析
+柔性机械手
+关联设计
+LFM
+aircraft structure
+行星机构
+visual tracking
+泄漏定位
+企业设备管理
+爆炸压实
+explosive compaction
+casting process
+整周期采样
+subpixel
+结构误差
+斗轮机
+numerical analysis
+核电站
+BP神经网络
+旋转编码器
+水力旋流器
+A/D conversion
+实时仿真
+失效机理
+排量
+reconfiguration
+变刚度
+升降台
+损伤检测
+三维实体造型
+热像仪
+往复运动
+精密铸造
+双相不锈钢
+机械结构
+放大器
+DFT
+并行处理
+synchronous sampling
+混合灵敏度
+支承刚度
+metallic material
+供需链
+超音速火焰喷涂
+system effectiveness
+weapon
+冷端补偿
+密封槽
+嵌入式软件
+弱信号检测
+光干涉
+盲均衡
+塑性加工
+强化机理
+软件补偿
+Torsional vibration
+模态振型
+断轴
+数控切割
+圆柱度
+SLAM
+weld line
+空间机械臂
+冲压机
+feeding mechanism
+时间Petri网
+target motion analysis
+rock blasting
+straight bevel gear
+刀位
+机械化部队
+反辐射无人机
+转动副
+反巡航导弹
+连接套
+镗刀杆
+可制造性评价
+智能从站
+副车架
+精确设计
+stereolithography
+圆检测
+electrical discharge machining
+纸基摩擦材料
+collaborative optimization
+PMLSM
+directional blasting
+曲柄摇杆
+小模数齿轮
+dynamic buckling
+CAX
+scene matching
+Bézier curves
+鼓式制动器
+braking performance
+CAM软件
+Kane方法
+激光弯曲
+CGF
+NC manufacturing
+axial clearance
+position analysis
+resource model
+refrigeration compressor
+接触式测量
+民品发展
+高速撞击
+惯性制导
+内径百分表
+水平定向钻机
+螺旋齿轮
+design for testability
+工艺知识
+自准直仪
+case representation
+干涉术
+空间角度
+axial-flow compressor
+Jini
+冷却润滑液
+频率捷变
+桥式起重机主梁
+切削数据库
+脉冲编码器
+shaped charge jet
+四足机器人
+visual servoing
+铣削参数
+变形区
+valve train
+实时监控
+mathematical statistics
+汽车发动机
+输送带
+coordinate transformation
+包覆
+electromagnetic compatibility
+DCT
+模拟训练
+数据采集卡
+curve fitting
+software design
+parameter estimation
+选用
+contact
+测量仪器
+灵敏度分析
+电磁力
+PID算法
+智能传感器
+Composite
+access control
+状态反馈
+液位
+低通滤波器
+管接头
+remote fault diagnosis
+直流无刷电机
+混合工质
+电磁发射
+轴向载荷
+Product development
+开放式结构
+纳米加工
+混合动力电动汽车
+process integration
+带材
+异响
+welding procedure
+kinematics model
+feature matching
+碟簧
+STD
+位置测量
+包围盒
+绕线机
+气垫带式输送机
+连接板
+多机通信
+interferometer
+尺寸优化
+客运索道
+power measurement
+Motion control
+超声流量计
+摩擦焊接
+螺栓孔
+optimization
+harmonics
+设计变量
+沃尔沃
+视觉系统
+标委会
+电气工程
+金属粉末
+球形储罐
+高压水除鳞
+浇口位置
+超高强铝合金
+μClinux
+模具业
+动压气体轴承
+Multidisciplinary design optimization
+密封腔
+制药设备
+水胶炸药
+内六角螺钉
+地面控制站
+花键齿
+尾架
+公差分配
+塞杆
+柱塞缸
+线裁剪
+missile guidance
+lubricating additive
+差动机构
+激光告警
+runner system
+mechanical efficiency
+Neuron芯片
+放电通道
+液压凿岩机
+feature model
+假手
+自治水下机器人
+aerodynamic characteristic
+Advanced Manufacturing Technology
+Finite Element Method(FEM)
+锁紧机构
+机电企业
+数控软件
+阀控非对称缸
+微执行器
+applied mechanics
+拉丝模
+数控加工编程
+组合模具
+麦弗逊悬架
+自运动
+码垛机器人
+动态光弹性
+擒纵机构
+pocket
+加氢装置
+Servo System
+multi-robot system
+预加载荷
+运动学标定
+螺纹铣削
+双离合器
+活塞销孔
+威胁判断
+喷漆机器人
+Job-shop scheduling
+valve body
+target assignment
+波形弹簧
+组网雷达
+低空目标
+多轴运动控制器
+大型挖掘机
+millimeter-wave
+integration platform
+制造信息
+射击比赛
+教练机
+CAE analysis
+多头蜗杆
+Grinding wheel
+computer integrated manufacturing
+留量
+焊缝检测
+卸料装置
+几何压缩
+coated tool
+车削螺纹
+连续模
+数字控制器
+密集度
+作业调度
+误差检测
+单向阀
+feed system
+迭代学习控制
+可视化仿真
+铆接
+解析法
+parameter optimization
+板材
+图像增强
+信息化
+test
+LED
+数学形态学
+JSP
+power system
+排队论
+data model
+measurement system
+推理机
+接地
+元模型
+测厚
+摩擦轮
+硬件电路
+陆军航空兵
+油液
+导向机构
+machine tools
+结构钢
+耐热钢
+径向间隙
+多级离心泵
+photoelectric encoder
+SAR
+接触角
+半导体激光器
+风力发电机
+流量控制
+飞轮
+陀螺
+digital simulation
+shape memory alloy
+electric vehicle
+精密
+铝粉
+decoupling control
+动态补偿
+工艺系统
+Delaunay triangulation
+轮廓曲线
+几何精度
+仿真试验
+failure mechanism
+编程
+energy saving
+频谱分析仪
+石墨炉原子吸收法
+hydraulic pump
+Vehicle
+mechatronics
+碳化钨
+热疲劳
+动刚度
+rotating machinery
+纳米压痕
+跨棒距
+中国机械安全认证中心
+Creep damage
+Reconfigurable
+动压效应
+射击效能
+air source heat pump
+交叉耦合控制
+teleservice
+上料装置
+国产数据库
+空间光学
+CE/SE方法
+火控计算机
+高级综合
+挂轮计算
+轴键槽
+product data model
+数据配准
+爆炸成形弹丸
+oil equipment
+地杂波
+油膜强度
+加工尺寸
+平底从动件
+反隐身技术
+最小区域法
+Interpolation algorithm
+摩擦驱动
+摄像机定标
+cavity expansion
+定型试验
+precision forming
+Virtual Prototyping
+极压性能
+换挡规律
+爆炸加载
+Synchronous control
+水基润滑剂
+feature-based modeling
+oil film bearing
+Ammunition
+product family design
+eM-Plant
+人工缺陷
+晶粒细化剂
+虚拟战场环境
+使用可用度
+Creative design
+轧制压力
+Milling machine
+combined mechanism
+lubricating oil additive
+等离子熔射
+升沉补偿
+CBN grinding wheel
+激光毛化
+多轴加工
+cylindrical gear
+渐开线蜗杆
+全局路径规划
+通用装备
+直线伺服系统
+stamping forming
+vaned diffuser
+简化画法
+舰载无人机
+虚轴机床
+磁定位
+气动回路
+Ride comfort
+大型空分设备
+低空突防
+混流装配线
+大模数
+螺旋副
+concrete pump truck
+ELID grinding
+整机平衡
+target echo
+CNC Lathe
+主动雷达
+explosion property
+固体渗硼
+变薄拉深
+缆索起重机
+铝锭
+工装管理
+定位键
+泵产品
+task planning
+射线数字成像
+液压原理图
+位标器
+broaching
+铁基触媒
+额定载荷
+Al-Mg合金
+凿岩机器人
+手电钻
+相贯
+横向加热
+回转轴
+港口起重机
+原铝
+转向液压系统
+角闪烁
+热锻模具
+ADAMS simulation
+轴向尺寸
+cold mill
+阶次跟踪
+战斗舰
+停车设备
+continuous caster
+手术机器人
+production line
+ignition
+变频技术
+technological parameter
+热电阻
+表面硬度
+无网格法
+cantilever
+功能梯度材料
+图像配准
+复合涂层
+网格生成
+铜合金
+工业系统
+OLE
+热稳定性
+dynamic model
+质量保证
+temperature measurement
+控制装置
+协调控制
+气固两相流
+对象模型
+Design
+stress
+precision
+滤波器
+曲率
+Expert system
+设计参数
+产品标准
+环境适应性
+equipment
+动力学模型
+天然气发动机
+维修策略
+硬件结构
+主梁
+强度设计
+fire control
+微带天线
+dynamic link library
+压力开关
+拉拔
+reactive power compensation
+密封技术
+roundness
+Serial Communication
+service-oriented architecture
+transmission ratio
+冲床
+空气滤清器
+热压烧结
+整体解决方案
+模块划分
+板坯
+航速
+鉴相
+机电工业
+optical measurement
+同步精度
+自动调焦
+轰炸机
+升降机构
+铰链四杆机构
+橡胶密封圈
+登陆作战
+计算机集成
+PC机
+电容
+simulation model
+弯曲强度
+小样本
+自学习
+原子荧光光谱法
+高压水射流
+EMD
+Laser
+油箱
+computer simulation
+detection
+串口
+image enhancement
+time delay
+串口通讯
+金相分析
+stress intensity factor
+制造过程
+离子色谱法
+可靠性分析
+concrete
+vehicle
+机械振动
+蓝牙
+法兰
+control strategy
+集成电路
+红外导弹
+total solution
+大型铸锻件
+机构选型
+主动测量仪
+圆锥轴承
+空间遥感器
+xPC Target
+HTPB propellant
+无线电高度表
+机器人运动学
+漏磁探伤
+battle damage
+旋压技术
+e-制造
+时变刚度
+moving platform
