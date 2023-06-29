@@ -1,11 +1,17 @@
-# SciCN
+# SciCN: A Chinese Dataset&Benchmark for Scientific Information Extraction 
 
 
 # Introduction
 
 
-# Statistic 
+# Demo
 ![](./figure/example-Page-10-example.jpg)
+
+# Benchmark
+![](./figure/ner-benchmark.png)
+![](./figure/joint-benchmark.png)
+
+
 
 <!-- 
 <div align='left'>
@@ -14,13 +20,8 @@
 </div> -->
 
 # Dataset
-![](./figure/statistic.png)
+![](./figure/ner-statistic.png)
 
-TODO:
-- Weibo_NER
-- Resume_NER
-- OntoNotes_NER
-- MSRA_NER
 
 # Lexicon
 -  [百度网盘提取码: jmoq ](https://pan.baidu.com/s/1jw9ZVfceJEgnRkftUE0i7A?pwd=jmoq) 
